@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Monitor System Optimization and Maintenance in Windows 10 & 11"
 date: 2025-06-17
+slug: "the-complete-guide-to-monitor-system-optimization-and-maintenance-in-windows-10-11"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 If you're new to Windows 10 or 11, keeping your computer running smoothly might seem intimidating. But with a few simple habits and the right tools, you can ensure your PC stays fast, responsive, and problem-free. This beginner-friendly guide will show you step-by-step how to monitor your system’s health, optimize performance, and maintain your computer with ease.

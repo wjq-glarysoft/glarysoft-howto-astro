@@ -1,8 +1,10 @@
 ---
 title: "Advanced Techniques for Windows Task Scheduling"
 date: 2025-04-20
+slug: "advanced-techniques-for-windows-task-scheduling"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Task scheduling in Windows is a powerful feature that allows users to automate routine tasks, optimize system performance, and ensure timely execution of essential processes. By leveraging the Task Scheduler, you can create tasks that run at predefined times or in response to specific events. In this article, we will explore advanced task scheduling techniques using Windows System Tools to enhance your productivity and system management capabilities.

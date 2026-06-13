@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Disk Cleanup and Optimization Management in Windows"
 date: 2025-05-15
+slug: "advanceds-guide-to-windows-disk-cleanup-and-optimization-management-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Maintaining a clean and optimized disk is crucial for ensuring peak performance on your Windows system. Whether you are a beginner or an advanced user, this guide will provide you with practical techniques and tips to manage disk cleanup and optimization effectively. By following these steps, you can enhance your system's speed and reliability.

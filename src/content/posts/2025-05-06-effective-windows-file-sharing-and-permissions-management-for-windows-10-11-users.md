@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows File Sharing and Permissions Management for Windows 10 & 11 Users"
 date: 2025-05-06
+slug: "effective-windows-file-sharing-and-permissions-management-for-windows-10-11-users"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Windows 10 and 11 offer robust features for file sharing and permissions management, essential for those who need to manage access to files and folders efficiently. Advanced users can leverage these features to enhance security and streamline collaboration. In this article, we explore best practices for managing file sharing and permissions effectively.

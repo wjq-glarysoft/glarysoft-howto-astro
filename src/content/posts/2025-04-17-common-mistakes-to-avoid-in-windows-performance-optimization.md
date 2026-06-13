@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid in Windows Performance Optimization"
 date: 2025-04-17
+slug: "common-mistakes-to-avoid-in-windows-performance-optimization"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Optimizing your Windows PC for performance is essential to ensure that your system runs smoothly and efficiently. However, in the quest for speed, users often make mistakes that can lead to more harm than good. Let's explore common pitfalls and how you can avoid them to truly enhance your Windows experience.

@@ -1,8 +1,10 @@
 ---
 title: "Master file naming conventions and organization with Built-in Features: Windows User Guide"
 date: 2025-04-28
+slug: "master-file-naming-conventions-and-organization-with-built-in-features-windows-user-guide"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Establishing effective file naming conventions and organization strategies is crucial for maintaining a well-ordered and efficient digital workspace. Windows offers a variety of built-in features that advanced users can leverage to enhance their file management practices. This guide will provide you with practical advice and real-world examples to master these techniques.

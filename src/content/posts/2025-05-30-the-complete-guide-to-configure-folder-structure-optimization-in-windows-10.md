@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure Folder Structure Optimization in Windows 10"
 date: 2025-05-30
+slug: "the-complete-guide-to-configure-folder-structure-optimization-in-windows-10"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Why Is Folder Structure Optimization Important in Windows 10?

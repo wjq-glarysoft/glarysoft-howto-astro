@@ -1,8 +1,10 @@
 ---
 title: "5 Built-in Features for Better Windows User Account Security Management"
 date: 2025-06-30
+slug: "5-built-in-features-for-better-windows-user-account-security-management"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Managing user accounts securely is fundamental to maintaining privacy and protecting personal data on your Windows PC. Windows offers several built-in features to help users of all skill levels strengthen account security. This guide breaks down five essential features, explains how to use them, and provides real-world advice for both beginners and advanced users.

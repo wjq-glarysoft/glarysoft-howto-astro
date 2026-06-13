@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Secure Browsing Techniques for Windows Users"
 date: 2025-07-08
+slug: "essential-windows-secure-browsing-techniques-for-windows-users-7"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Why Should You Prioritize Secure Browsing on Windows?

@@ -1,8 +1,10 @@
 ---
 title: "Master Windows System Monitoring Tools with Built-in Features: Windows User Guide"
 date: 2025-08-05
+slug: "master-windows-system-monitoring-tools-with-built-in-features-windows-user-guide-2"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Are you curious about how your Windows computer is performing behind the scenes? Even if you’re new to computers, Windows provides powerful built-in system monitoring tools that can help you track performance, troubleshoot issues, and keep your PC running smoothly. This guide will walk you through essential tools and simple steps for monitoring your system, with practical examples designed for beginners.

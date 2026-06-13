@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Backup Windows File Explorer Tips and Tricks in Windows 10 & 11"
 date: 2025-05-18
+slug: "top-10-ways-to-backup-windows-file-explorer-tips-and-tricks-in-windows-10-11"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Windows File Explorer is a crucial tool for navigating and managing files and folders on your computer. For beginners, understanding its capabilities can greatly enhance your productivity. Here are the top 10 tips and tricks for using Windows File Explorer effectively in Windows 10 and 11.

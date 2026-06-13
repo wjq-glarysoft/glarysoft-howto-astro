@@ -1,8 +1,10 @@
 ---
 title: "troubleshoot Windows user account security Like a Pro: Windows Systems Guide"
 date: 2025-07-18
+slug: "troubleshoot-windows-user-account-security-like-a-pro-windows-systems-guide"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Keeping your Windows user account secure is vital in protecting your personal data, sensitive work files, and system settings from unauthorized access. Whether you are a casual user or an IT professional, understanding how to troubleshoot and strengthen user account security is a key skill. This guide provides actionable steps, real-world examples, and practical tips for users at all levels.

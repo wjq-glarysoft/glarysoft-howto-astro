@@ -1,8 +1,10 @@
 ---
 title: "12 Windows Tools Features for Better Windows Command Line Tools Management"
 date: 2025-06-14
+slug: "12-windows-tools-features-for-better-windows-command-line-tools-management"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Are you just starting to explore the Windows command line? Understanding the built-in system tools can make your experience smoother and more productive. This article guides beginners through 12 essential Windows tools and features that help manage, navigate, and optimize command line tasks. Each section includes simple, step-by-step instructions and practical examples. Let's get started!

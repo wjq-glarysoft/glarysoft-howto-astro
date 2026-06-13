@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Clean Windows Command Line Tools in Windows 11"
 date: 2025-05-01
+slug: "the-complete-guide-to-clean-windows-command-line-tools-in-windows-11"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Windows 11, with its sleek design and enhanced features, also offers a powerful suite of command line tools that can help users maintain and optimize their system. Whether you're a beginner or an advanced user, understanding and using these tools can greatly enhance your Windows experience. This guide will explore essential command line tools, providing practical examples for both novice and expert users ready to clean and optimize their Windows 11 systems.

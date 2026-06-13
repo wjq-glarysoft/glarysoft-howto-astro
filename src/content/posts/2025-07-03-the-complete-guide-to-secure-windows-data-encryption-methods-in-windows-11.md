@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Secure Windows Data Encryption Methods in Windows 11"
 date: 2025-07-03
+slug: "the-complete-guide-to-secure-windows-data-encryption-methods-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Data security is more important than ever, especially as we store more sensitive information on our devices. Windows 11 offers several built-in data encryption tools that help protect your files from unauthorized access. This guide will walk you through the most effective encryption methods available in Windows 11, offering step-by-step instructions and real-world examples tailored for intermediate Windows users.

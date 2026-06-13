@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure File Search and Indexing Techniques in Windows Systems"
 date: 2025-08-02
+slug: "the-complete-guide-to-configure-file-search-and-indexing-techniques-in-windows-systems"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Finding the right files quickly and efficiently is essential for productivity, whether you’re managing personal documents or running corporate operations. Windows offers built-in file search and indexing features that, when configured properly, can significantly speed up your workflow. This guide provides professional insights and step-by-step instructions on optimizing these features for both beginners and advanced users, with practical examples and real-world scenarios.

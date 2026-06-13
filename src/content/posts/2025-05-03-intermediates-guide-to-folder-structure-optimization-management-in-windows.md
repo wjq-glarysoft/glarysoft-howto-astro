@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Folder Structure Optimization Management in Windows"
 date: 2025-05-03
+slug: "intermediates-guide-to-folder-structure-optimization-management-in-windows"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Organizing folders efficiently on your Windows system is crucial for both productivity and system performance. As an intermediate user, you likely understand the basics of creating and naming folders, but there is more to optimizing your folder structure than mere organization. This guide will provide professional insights and practical advice to help you manage your files and folders more effectively.

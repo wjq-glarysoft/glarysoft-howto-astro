@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to File Backup Strategies Management in Windows"
 date: 2025-07-27
+slug: "alls-guide-to-file-backup-strategies-management-in-windows"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Why Is File Backup Essential?

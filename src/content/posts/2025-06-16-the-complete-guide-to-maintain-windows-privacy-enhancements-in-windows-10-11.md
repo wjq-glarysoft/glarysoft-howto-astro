@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Maintain Windows Privacy Enhancements in Windows 10 & 11"
 date: 2025-06-16
+slug: "the-complete-guide-to-maintain-windows-privacy-enhancements-in-windows-10-11"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Windows 10 and 11 have introduced significant privacy enhancements, aiming to give users more control over their personal data. However, the default settings and constant feature updates can sometimes make privacy management confusing or incomplete. This guide offers professional insights and step-by-step instructions to help both beginners and advanced users protect their privacy on Windows systems.

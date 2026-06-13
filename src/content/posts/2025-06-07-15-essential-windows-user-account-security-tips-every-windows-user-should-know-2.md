@@ -1,8 +1,10 @@
 ---
 title: "15 Essential Windows User Account Security Tips Every Windows User Should Know"
 date: 2025-06-07
+slug: "15-essential-windows-user-account-security-tips-every-windows-user-should-know-2"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Why Is User Account Security Critical in Windows?

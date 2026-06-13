@@ -1,8 +1,10 @@
 ---
 title: "monitor file naming conventions and organization Like a Pro: Windows 11 Guide"
 date: 2025-07-28
+slug: "monitor-file-naming-conventions-and-organization-like-a-pro-windows-11-guide"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Are you tired of spending precious minutes searching for that one document buried somewhere in your folders? Proper file naming and organization can save time, reduce frustration, and prevent data loss. Whether you’re a student, a working professional, or simply managing personal files, mastering these advanced techniques on Windows 11 will give you a significant productivity boost.

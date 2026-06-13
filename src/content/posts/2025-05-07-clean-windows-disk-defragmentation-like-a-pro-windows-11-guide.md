@@ -1,8 +1,10 @@
 ---
 title: "clean Windows disk defragmentation Like a Pro: Windows 11 Guide"
 date: 2025-05-07
+slug: "clean-windows-disk-defragmentation-like-a-pro-windows-11-guide"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Windows 11 has introduced a range of new features and improvements, but the need for regular maintenance, like disk defragmentation, remains crucial for keeping your PC running smoothly. For beginners, understanding disk defragmentation and how to perform it efficiently can enhance your computer's performance significantly. This guide will walk you through the process step-by-step, ensuring you can optimize your system like a pro.

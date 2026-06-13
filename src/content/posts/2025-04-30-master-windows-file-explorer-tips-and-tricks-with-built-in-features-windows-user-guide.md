@@ -1,8 +1,10 @@
 ---
 title: "Master Windows file explorer tips and tricks with Built-in Features: Windows User Guide"
 date: 2025-04-30
+slug: "master-windows-file-explorer-tips-and-tricks-with-built-in-features-windows-user-guide"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Navigating and managing files on your Windows computer can be a breeze if you know how to make the most of File Explorer. This guide will introduce you to some time-saving tips and tricks that can help you organize and access your files more efficiently. Whether you're a student, a professional, or just trying to keep your digital life organized, these beginner-friendly tips will save you time and effort.

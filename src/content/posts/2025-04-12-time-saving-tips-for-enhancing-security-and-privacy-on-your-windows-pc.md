@@ -1,8 +1,10 @@
 ---
 title: "Time-Saving Tips for Enhancing Security and Privacy on Your Windows PC"
 date: 2025-04-12
+slug: "time-saving-tips-for-enhancing-security-and-privacy-on-your-windows-pc"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 In today's digital age, maintaining your privacy and security on your Windows PC is as crucial as ever. However, managing these aspects doesn't have to be a time-consuming task. Here, we'll explore practical tips to enhance your system's security and privacy, along with time-saving strategies to implement them efficiently.

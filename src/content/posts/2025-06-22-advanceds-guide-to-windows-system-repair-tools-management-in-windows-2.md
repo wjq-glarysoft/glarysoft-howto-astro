@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows System Repair Tools Management in Windows"
 date: 2025-06-22
+slug: "advanceds-guide-to-windows-system-repair-tools-management-in-windows-2"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Windows systems, over time, can encounter a variety of issues ranging from slow performance and startup errors to corrupted system files. Effectively managing repair tools is crucial for maintaining a healthy, responsive PC. This guide walks you through best practices for using built-in and third-party repair tools, with a focus on practical, actionable steps for users at any level.

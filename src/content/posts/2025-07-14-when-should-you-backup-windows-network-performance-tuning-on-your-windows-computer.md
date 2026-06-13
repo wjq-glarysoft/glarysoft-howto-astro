@@ -1,8 +1,10 @@
 ---
 title: "When Should You Backup Windows Network Performance Tuning on Your Windows Computer?"
 date: 2025-07-14
+slug: "when-should-you-backup-windows-network-performance-tuning-on-your-windows-computer"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Optimizing network performance on a Windows computer is a common practice for IT professionals and power users aiming for faster downloads, smoother streaming, and better online gaming performance. However, tuning your network settings can be risky: a wrong tweak might degrade performance, disrupt connectivity, or even prevent access to the internet altogether. This is why backing up your network performance tuning configurations before making any changes is critical.

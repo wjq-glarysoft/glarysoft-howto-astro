@@ -1,8 +1,10 @@
 ---
 title: "How to Backup Windows Task Scheduling Techniques for Beginner Windows Users"
 date: 2025-07-13
+slug: "how-to-backup-windows-task-scheduling-techniques-for-beginner-windows-users"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Windows Task Scheduler is a powerful tool built into every Windows operating system that allows users to automate routine tasks, optimize system performance, and ensure essential backups and maintenance are performed regularly. For users of all skill levels, understanding how to leverage Task Scheduler and related system tools can streamline daily workflows and provide peace of mind with automated backups and cleanups.

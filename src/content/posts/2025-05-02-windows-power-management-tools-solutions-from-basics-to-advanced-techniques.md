@@ -1,8 +1,10 @@
 ---
 title: "Windows Power Management Tools Solutions: From Basics to Advanced Techniques"
 date: 2025-05-02
+slug: "windows-power-management-tools-solutions-from-basics-to-advanced-techniques"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Power management is a crucial aspect of maintaining your Windows system's performance and energy efficiency. Whether you're using a desktop or a laptop, understanding and utilizing power management tools can greatly enhance your computing experience. Let's explore the basics and delve into some advanced techniques designed for even beginner Windows users.

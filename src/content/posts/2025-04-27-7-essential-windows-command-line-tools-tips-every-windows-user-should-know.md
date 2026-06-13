@@ -1,8 +1,10 @@
 ---
 title: "7 Essential Windows Command Line Tools Tips Every Windows User Should Know"
 date: 2025-04-27
+slug: "7-essential-windows-command-line-tools-tips-every-windows-user-should-know"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 The command line in Windows is a powerful tool that allows you to perform a multitude of tasks efficiently. For advanced users, mastering these tools can greatly enhance productivity and system management. Here, we explore seven essential command line tips that every advanced Windows user should know.

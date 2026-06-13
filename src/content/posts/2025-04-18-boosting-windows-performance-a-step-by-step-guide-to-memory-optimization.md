@@ -1,8 +1,10 @@
 ---
 title: "Boosting Windows Performance: A Step-by-Step Guide to Memory Optimization"
 date: 2025-04-18
+slug: "boosting-windows-performance-a-step-by-step-guide-to-memory-optimization"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Optimizing the memory on your Windows PC can significantly enhance system performance and responsiveness. Memory, or RAM, plays a crucial role in how your computer handles tasks and applications. By efficiently managing memory usage, you can minimize system slowdowns and ensure a smoother experience. Here’s a practical, step-by-step guide to optimizing memory on your Windows machine.

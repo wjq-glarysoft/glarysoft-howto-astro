@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows Command Line Tools Tips Every Windows User Should Know"
 date: 2025-06-05
+slug: "5-essential-windows-command-line-tools-tips-every-windows-user-should-know"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 The Windows Command Line offers powerful tools that can streamline troubleshooting, boost productivity, and automate repetitive tasks. While many users rely on the graphical interface, command line tools unlock deeper control and efficiency, especially for intermediate users looking to get more from their Windows system. Below are five essential command line tips, complete with practical examples and advice.

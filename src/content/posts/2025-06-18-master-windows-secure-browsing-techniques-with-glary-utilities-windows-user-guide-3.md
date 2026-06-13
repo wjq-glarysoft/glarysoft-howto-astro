@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Secure Browsing Techniques with Glary Utilities: Windows User Guide"
 date: 2025-06-18
+slug: "master-windows-secure-browsing-techniques-with-glary-utilities-windows-user-guide-3"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Why Is Secure Browsing Essential on Windows?

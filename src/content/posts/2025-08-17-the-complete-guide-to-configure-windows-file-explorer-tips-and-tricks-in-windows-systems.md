@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure Windows File Explorer Tips and Tricks in Windows Systems"
 date: 2025-08-17
+slug: "the-complete-guide-to-configure-windows-file-explorer-tips-and-tricks-in-windows-systems"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Windows File Explorer is the backbone of file management in every Windows system. It allows you to create, organize, search, and move your files and folders. However, many beginners make simple mistakes when using it, which can lead to confusion, clutter, or even the accidental loss of data. Knowing what to avoid and how to configure File Explorer properly makes daily tasks smoother and more efficient.

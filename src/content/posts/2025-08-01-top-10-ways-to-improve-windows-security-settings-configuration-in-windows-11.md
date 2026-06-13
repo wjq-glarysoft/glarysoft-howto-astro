@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Improve Windows Security Settings Configuration in Windows 11"
 date: 2025-08-01
+slug: "top-10-ways-to-improve-windows-security-settings-configuration-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Maintaining robust security settings is crucial for protecting your Windows 11 PC from modern threats. Whether you’re a seasoned IT professional or a casual user, implementing proactive security measures can safeguard your personal data, prevent malware infections, and ensure your privacy. Here are the top 10 ways to optimize your Windows 11 security settings, with practical steps and professional insights.

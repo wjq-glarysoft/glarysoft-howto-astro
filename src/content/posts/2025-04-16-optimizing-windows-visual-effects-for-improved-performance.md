@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Visual Effects for Improved Performance"
 date: 2025-04-16
+slug: "optimizing-windows-visual-effects-for-improved-performance"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Windows operating systems come equipped with various visual effects that enhance the aesthetic appeal of your interface. However, these eye-catching effects can sometimes slow down your system, especially if you're running older hardware or using resource-intensive applications. Optimizing these visual settings can help improve your computer's performance without significantly compromising on appearance. Here’s how you can enhance system efficiency by tweaking Windows visual effects.

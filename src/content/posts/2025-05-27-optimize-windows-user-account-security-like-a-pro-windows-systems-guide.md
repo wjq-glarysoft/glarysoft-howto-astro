@@ -1,8 +1,10 @@
 ---
 title: "optimize Windows user account security Like a Pro: Windows Systems Guide"
 date: 2025-05-27
+slug: "optimize-windows-user-account-security-like-a-pro-windows-systems-guide"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Introduction

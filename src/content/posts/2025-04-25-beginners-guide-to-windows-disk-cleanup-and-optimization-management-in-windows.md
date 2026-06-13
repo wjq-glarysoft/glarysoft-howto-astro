@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Disk Cleanup and Optimization Management in Windows"
 date: 2025-04-25
+slug: "beginners-guide-to-windows-disk-cleanup-and-optimization-management-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 As an advanced Windows user, you might already understand the importance of regular disk cleanup and system optimization. However, even seasoned users can fall into common pitfalls that may impede the efficiency of their cleanup efforts. This guide aims to highlight these mistakes and offer practical, actionable advice to ensure your Windows system remains in peak condition.

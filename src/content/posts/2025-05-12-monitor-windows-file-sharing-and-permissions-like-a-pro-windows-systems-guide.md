@@ -1,8 +1,10 @@
 ---
 title: "monitor Windows file sharing and permissions Like a Pro: Windows Systems Guide"
 date: 2025-05-12
+slug: "monitor-windows-file-sharing-and-permissions-like-a-pro-windows-systems-guide"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 When it comes to managing files in a Windows environment, understanding file sharing and permissions is crucial. Whether you're a beginner or an experienced user, mastering these skills can help you secure your data and streamline collaboration. This guide will walk you through both basic concepts and advanced techniques to manage file sharing and permissions effectively.

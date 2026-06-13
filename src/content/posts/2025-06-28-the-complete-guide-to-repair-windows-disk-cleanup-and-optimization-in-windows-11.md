@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Repair Windows Disk Cleanup and Optimization in Windows 11"
 date: 2025-06-28
+slug: "the-complete-guide-to-repair-windows-disk-cleanup-and-optimization-in-windows-11"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Keeping your Windows 11 PC running smoothly depends largely on how well you manage disk cleanup and optimization. Over time, temporary files, system junk, and fragmented drives can slow down your computer and reduce its longevity. Whether you’re a beginner looking for simple solutions or an advanced user seeking thorough maintenance strategies, this guide will show you how to repair, clean up, and optimize your disk for peak performance.

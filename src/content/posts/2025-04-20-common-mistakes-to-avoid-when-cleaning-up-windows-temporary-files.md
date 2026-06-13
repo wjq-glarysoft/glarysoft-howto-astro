@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid When Cleaning Up Windows Temporary Files"
 date: 2025-04-20
+slug: "common-mistakes-to-avoid-when-cleaning-up-windows-temporary-files"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Cleaning up temporary files on your Windows PC is a crucial maintenance task that can enhance system performance and free up valuable disk space. However, many users make common mistakes during this process, leading to potential problems or suboptimal results. Here’s how to avoid these pitfalls and ensure your temporary file cleanup is both safe and effective.

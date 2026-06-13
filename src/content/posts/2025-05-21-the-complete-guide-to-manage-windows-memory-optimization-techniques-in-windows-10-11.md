@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Manage Windows Memory Optimization Techniques in Windows 10 & 11"
 date: 2025-05-21
+slug: "the-complete-guide-to-manage-windows-memory-optimization-techniques-in-windows-10-11"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Managing memory effectively on your Windows 10 or 11 PC can significantly improve system performance and responsiveness. Whether you're a beginner or an advanced user, optimizing memory is crucial for maintaining a fast and efficient computer. Here's a comprehensive guide on how to manage Windows memory with detailed, practical advice.

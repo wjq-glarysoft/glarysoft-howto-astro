@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Manage Windows Privacy Enhancements in Windows 10 & 11"
 date: 2025-06-09
+slug: "the-complete-guide-to-manage-windows-privacy-enhancements-in-windows-10-11"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Understanding privacy settings in Windows 10 and Windows 11 can feel overwhelming, especially for beginners. However, taking control of your privacy is important to keep your data secure and to limit what information you share with Microsoft and other apps. This guide will walk you through the essential privacy enhancements, how to manage them, and introduce you to Glary Utilities for keeping your privacy settings in check.

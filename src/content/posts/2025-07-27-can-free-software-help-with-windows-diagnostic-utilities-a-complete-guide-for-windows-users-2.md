@@ -1,8 +1,10 @@
 ---
 title: "Can Free Software Help with Windows Diagnostic Utilities? A Complete Guide for Windows Users"
 date: 2025-07-27
+slug: "can-free-software-help-with-windows-diagnostic-utilities-a-complete-guide-for-windows-users-2"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Understanding Windows Diagnostic Utilities

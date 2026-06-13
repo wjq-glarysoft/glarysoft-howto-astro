@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to File Recovery on Windows"
 date: 2025-04-20
+slug: "beginners-guide-to-file-recovery-on-windows"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Losing important files can be a distressing experience, whether due to accidental deletion, corruption, or unexpected system crashes. Fortunately, Windows offers several methods for recovering lost files. This guide will walk you through practical steps and tools to help you retrieve your lost data, with a special emphasis on using Glary Utilities for effective file recovery.

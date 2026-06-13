@@ -1,8 +1,10 @@
 ---
 title: "configure Windows performance troubleshooting Like a Pro: Windows 10 & 11 Guide"
 date: 2025-07-26
+slug: "configure-windows-performance-troubleshooting-like-a-pro-windows-10-11-guide"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Windows 10 and 11 are powerful operating systems, but over time even the best-configured PCs can slow down, become unresponsive, or develop quirky issues. Performance troubleshooting is a critical skill—whether you’re a casual user or a power user looking to squeeze every bit of speed from your system. This guide offers a deep dive into real-world methods you can use to diagnose, clean up, and repair Windows performance issues. Each section is labeled for beginners or advanced users, so you can find the solution that fits your comfort level.

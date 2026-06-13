@@ -1,8 +1,10 @@
 ---
 title: "10 Proven Methods to Maintain Windows Memory Optimization Techniques in Windows"
 date: 2025-04-24
+slug: "10-proven-methods-to-maintain-windows-memory-optimization-techniques-in-windows"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 For beginner Windows users, understanding and optimizing memory usage can significantly enhance your computer's performance. Here's a straightforward guide presenting ten proven methods to maintain memory optimization on your Windows PC.

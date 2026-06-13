@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows Backup and Restore Utilities Tips Every Windows User Should Know"
 date: 2025-10-14
+slug: "5-essential-windows-backup-and-restore-utilities-tips-every-windows-user-should-know-2"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Backing up your files and system settings is one of the most important steps to protect your Windows PC. Yet, many users only realize this after a system crash or data loss. Windows offers several built-in tools for backup and restore, and when used correctly, they can save hours of frustration. However, beginners often make a few common mistakes that reduce the effectiveness of these features. Here are five essential tips to help you avoid those pitfalls and keep your data safe.

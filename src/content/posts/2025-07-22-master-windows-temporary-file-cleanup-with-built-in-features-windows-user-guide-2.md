@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Temporary File Cleanup with Built-in Features: Windows User Guide"
 date: 2025-07-22
+slug: "master-windows-temporary-file-cleanup-with-built-in-features-windows-user-guide-2"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Why Should Advanced Users Care About Temporary Files?

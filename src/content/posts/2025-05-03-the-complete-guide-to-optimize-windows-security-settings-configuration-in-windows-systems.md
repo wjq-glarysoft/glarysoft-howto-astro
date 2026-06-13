@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Optimize Windows Security Settings Configuration in Windows Systems"
 date: 2025-05-03
+slug: "the-complete-guide-to-optimize-windows-security-settings-configuration-in-windows-systems"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 When it comes to protecting your Windows system, optimizing security settings is paramount. This guide offers expert recommendations to enhance your system's privacy and security, catering to both beginners and advanced users. Follow the steps below to secure your system effectively.

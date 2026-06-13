@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows File Explorer Tips and Tricks Management for Windows 11 Users"
 date: 2025-06-07
+slug: "effective-windows-file-explorer-tips-and-tricks-management-for-windows-11-users"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Are you an intermediate Windows 11 user looking to get more out of File Explorer? Mastering File Explorer can transform the way you manage, find, and organize your files and folders. With professional insights and tried-and-true techniques, this guide will help you work smarter and keep your files in top shape.

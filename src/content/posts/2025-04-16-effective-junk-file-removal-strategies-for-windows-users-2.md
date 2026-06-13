@@ -1,8 +1,10 @@
 ---
 title: "Effective Junk File Removal Strategies for Windows Users"
 date: 2025-04-16
+slug: "effective-junk-file-removal-strategies-for-windows-users-2"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Keeping your Windows PC running smoothly involves regular maintenance tasks, one of which is removing junk files. These files accumulate over time and can slow down your system. This article provides a step-by-step guide to removing junk files effectively, ensuring your PC stays fast and efficient.

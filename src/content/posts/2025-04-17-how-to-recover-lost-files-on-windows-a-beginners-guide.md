@@ -1,8 +1,10 @@
 ---
 title: "How to Recover Lost Files on Windows: A Beginner's Guide"
 date: 2025-04-17
+slug: "how-to-recover-lost-files-on-windows-a-beginners-guide"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Losing important files can be frustrating and stressful, especially if they contain valuable information. Fortunately, Windows offers multiple methods to recover lost files, whether they've been accidentally deleted or lost due to system issues. In this guide, we'll walk you through practical, step-by-step methods to restore your files and ensure they remain safe.

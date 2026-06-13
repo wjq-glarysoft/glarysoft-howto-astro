@@ -1,8 +1,10 @@
 ---
 title: "7 Essential Windows Disk Defragmentation Tips Every Windows User Should Know"
 date: 2025-05-03
+slug: "7-essential-windows-disk-defragmentation-tips-every-windows-user-should-know"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Disk defragmentation remains a crucial aspect of maintaining a smooth and efficient Windows PC. For intermediate users, understanding and applying certain techniques can significantly enhance system performance. Here are seven expert tips to optimize your disk defragmentation process effectively.

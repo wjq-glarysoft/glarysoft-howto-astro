@@ -1,8 +1,10 @@
 ---
 title: "How to configure Windows startup optimization methods for Beginner Windows Users?"
 date: 2025-05-04
+slug: "how-to-configure-windows-startup-optimization-methods-for-beginner-windows-users"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Optimizing your Windows startup can significantly enhance your PC's performance, allowing you to save time during boot-ups and enjoy a smoother experience. This article focuses on windows startup optimization methods suitable for beginners while offering some advanced tips for more experienced users.

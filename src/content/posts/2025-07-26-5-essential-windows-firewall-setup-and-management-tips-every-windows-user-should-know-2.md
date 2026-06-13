@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows Firewall Setup and Management Tips Every Windows User Should Know"
 date: 2025-07-26
+slug: "5-essential-windows-firewall-setup-and-management-tips-every-windows-user-should-know-2"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Windows Firewall is a core defense mechanism in Windows, protecting your system from unauthorized access and controlling the data that enters and leaves your computer. For intermediate users, mastering some advanced setup and management techniques can dramatically increase your privacy and security. Let’s explore five essential tips, complete with practical steps and examples.

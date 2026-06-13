@@ -1,8 +1,10 @@
 ---
 title: "Unlocking Efficiency: A Beginner's Guide to Keyboard Shortcuts and Productivity Tips"
 date: 2025-04-10
+slug: "unlocking-efficiency-a-beginners-guide-to-keyboard-shortcuts-and-productivity-tips"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 In today's fast-paced digital world, mastering keyboard shortcuts is akin to learning a new language that can significantly enhance your productivity. For beginners, understanding and utilizing these shortcuts can save time and effort, making daily tasks more efficient. This guide will introduce you to the essential keyboard shortcuts and productivity tips, providing practical examples and actionable advice to help you work smarter.

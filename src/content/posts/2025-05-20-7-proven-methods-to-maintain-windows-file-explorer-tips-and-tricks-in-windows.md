@@ -1,8 +1,10 @@
 ---
 title: "7 Proven Methods to Maintain Windows File Explorer Tips and Tricks in Windows"
 date: 2025-05-20
+slug: "7-proven-methods-to-maintain-windows-file-explorer-tips-and-tricks-in-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Managing files and folders efficiently is crucial for any advanced Windows user. With the right tips and tricks, you can optimize your workflow and maintain a clean, organized system. Here are seven proven methods to make the most out of Windows File Explorer.

@@ -1,8 +1,10 @@
 ---
 title: "Free Software Makes Folder Structure Optimization Management Simple in Windows"
 date: 2025-05-23
+slug: "free-software-makes-folder-structure-optimization-management-simple-in-windows-2"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Why Does Folder Structure Optimization Matter on Windows?

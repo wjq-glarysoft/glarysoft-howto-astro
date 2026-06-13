@@ -1,8 +1,10 @@
 ---
 title: "repair Windows file explorer tips and tricks Like a Pro: Windows 10 & 11 Guide"
 date: 2025-05-18
+slug: "repair-windows-file-explorer-tips-and-tricks-like-a-pro-windows-10-11-guide"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Windows File Explorer is an essential tool for managing files and folders effectively. However, it's easy to fall into some common pitfalls that can hinder your productivity or even lead to file loss. This guide will cover some practical tips and tricks to help you use File Explorer like a pro, ensuring a smoother experience whether you're using Windows 10 or Windows 11.

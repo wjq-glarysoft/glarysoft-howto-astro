@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Windows Diagnostic Utilities Toolkit for Windows Computers"
 date: 2025-05-06
+slug: "the-ultimate-windows-diagnostic-utilities-toolkit-for-windows-computers"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Introduction

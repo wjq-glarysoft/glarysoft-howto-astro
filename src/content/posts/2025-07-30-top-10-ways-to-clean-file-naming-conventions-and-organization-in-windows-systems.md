@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Clean File Naming Conventions and Organization in Windows Systems"
 date: 2025-07-30
+slug: "top-10-ways-to-clean-file-naming-conventions-and-organization-in-windows-systems"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Keeping files and folders organized is essential for productivity and system efficiency. Poorly named or disorganized files can hinder searching, cause confusion, and even lead to data loss. This guide covers the top 10 methods to clean up file naming conventions and organization on Windows systems, with practical steps for beginners and advanced users.

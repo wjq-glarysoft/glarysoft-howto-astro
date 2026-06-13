@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Disk Cleanup and Optimization Management for Windows 11 Users"
 date: 2025-06-17
+slug: "effective-windows-disk-cleanup-and-optimization-management-for-windows-11-users"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Why Is Disk Cleanup and Optimization Important for Advanced Users?

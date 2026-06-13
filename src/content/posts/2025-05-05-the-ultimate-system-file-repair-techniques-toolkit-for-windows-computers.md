@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate System File Repair Techniques Toolkit for Windows Computers"
 date: 2025-05-05
+slug: "the-ultimate-system-file-repair-techniques-toolkit-for-windows-computers"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Introduction

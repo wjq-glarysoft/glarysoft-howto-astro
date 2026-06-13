@@ -1,8 +1,10 @@
 ---
 title: "Master File Compression Techniques with Built-in Features: Windows User Guide"
 date: 2025-05-06
+slug: "master-file-compression-techniques-with-built-in-features-windows-user-guide"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 File compression is an essential skill for managing disk space efficiently and sharing large files over the internet. Windows provides several built-in features that can help you compress files and folders easily without third-party software. This guide is designed to offer practical, actionable advice for both beginners and advanced users, aiding you in mastering file compression techniques within Windows.

@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Manage Windows Security and Privacy Enhancements in Windows 10"
 date: 2025-05-01
+slug: "top-10-ways-to-manage-windows-security-and-privacy-enhancements-in-windows-10"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Managing security and privacy on your Windows 10 PC is crucial to protect your personal information and system performance. For beginners, it may seem overwhelming, but with the right steps, you can enhance your privacy and security efficiently. Here are ten time-saving tips to help you get started.

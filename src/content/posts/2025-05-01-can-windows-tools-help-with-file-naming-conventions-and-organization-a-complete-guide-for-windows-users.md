@@ -1,8 +1,10 @@
 ---
 title: "Can Windows Tools Help with File Naming Conventions and Organization? A Complete Guide for Windows Users"
 date: 2025-05-01
+slug: "can-windows-tools-help-with-file-naming-conventions-and-organization-a-complete-guide-for-windows-users"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Introduction to File Naming and Organization File naming conventions and organization are key components of an efficient workflow on any Windows system. A well-organized file system not only enhances productivity but also reduces the time spent searching for documents. This guide will explore how Windows tools can assist in creating a structured file naming and organizational system, catering to both beginners and advanced users.

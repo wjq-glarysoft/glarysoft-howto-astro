@@ -1,8 +1,10 @@
 ---
 title: "5 Built-in Features for Better Security and Privacy Protection Management"
 date: 2025-04-28
+slug: "5-built-in-features-for-better-security-and-privacy-protection-management"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 When it comes to securing a Windows system, advanced users understand the intricate balance between maximizing functionality and minimizing vulnerabilities. Windows provides several built-in features that can enhance security and privacy protection. This article explores those features and offers practical advice tailored for advanced users.

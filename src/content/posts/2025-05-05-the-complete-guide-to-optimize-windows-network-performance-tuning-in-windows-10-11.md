@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Optimize Windows Network Performance Tuning in Windows 10 & 11"
 date: 2025-05-05
+slug: "the-complete-guide-to-optimize-windows-network-performance-tuning-in-windows-10-11"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Windows network performance tuning can greatly enhance your online experience, whether it's for streaming, gaming, or simply browsing. This guide will walk you through various steps to optimize your network settings in Windows 10 and 11. We'll cater to both beginners and advanced users with clearly segmented sections.

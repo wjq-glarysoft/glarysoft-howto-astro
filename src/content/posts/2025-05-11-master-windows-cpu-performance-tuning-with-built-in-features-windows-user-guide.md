@@ -1,8 +1,10 @@
 ---
 title: "Master Windows CPU Performance Tuning with Built-in Features: Windows User Guide"
 date: 2025-05-11
+slug: "master-windows-cpu-performance-tuning-with-built-in-features-windows-user-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 For those new to optimizing their Windows system, understanding how to fine-tune CPU performance can significantly enhance your computer's speed and efficiency. Fortunately, Windows offers several built-in features that make this process accessible even to beginner users. In this guide, we will explore these options and provide step-by-step instructions to help you master CPU performance tuning.

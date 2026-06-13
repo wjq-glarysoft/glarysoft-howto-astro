@@ -1,8 +1,10 @@
 ---
 title: "Windows File Search and Indexing Solutions: From Basics to Advanced Techniques"
 date: 2025-08-02
+slug: "windows-file-search-and-indexing-solutions-from-basics-to-advanced-techniques-3"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 How Does Windows File Search Work, and Why Should You Care?

@@ -1,8 +1,10 @@
 ---
 title: "12 Essential Windows Visual Effects Optimization Tips Every Windows User Should Know"
 date: 2025-06-15
+slug: "12-essential-windows-visual-effects-optimization-tips-every-windows-user-should-know"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Why Should Advanced Users Optimize Windows Visual Effects?

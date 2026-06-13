@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows System Information Tools Techniques for Windows Users"
 date: 2025-05-02
+slug: "essential-windows-system-information-tools-techniques-for-windows-users"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Understanding your system's specifications and monitoring its performance is crucial for maintaining a healthy Windows PC. System information tools provide valuable insights into the hardware and software components of your computer. This article guides you through the essential techniques for using these tools effectively.

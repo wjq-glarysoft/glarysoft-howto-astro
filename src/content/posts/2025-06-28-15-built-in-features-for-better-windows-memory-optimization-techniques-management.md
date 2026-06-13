@@ -1,8 +1,10 @@
 ---
 title: "15 Built-in Features for Better Windows Memory Optimization Techniques Management"
 date: 2025-06-28
+slug: "15-built-in-features-for-better-windows-memory-optimization-techniques-management"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Windows users often notice their computers slowing down over time, with memory (RAM) usage rising as more programs and background processes accumulate. Efficient memory management is crucial for maintaining system performance, reducing crashes, and ensuring a smoother computing experience. This article explores 15 built-in Windows features and best practices for optimizing memory usage. Each technique is explained step-by-step, with practical examples for both beginners and advanced users.

@@ -1,8 +1,10 @@
 ---
 title: "Built-in Features Makes Windows Error Fixing Methods Management Simple in Windows"
 date: 2025-06-14
+slug: "built-in-features-makes-windows-error-fixing-methods-management-simple-in-windows-2"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Understanding Windows Errors and Why They Happen

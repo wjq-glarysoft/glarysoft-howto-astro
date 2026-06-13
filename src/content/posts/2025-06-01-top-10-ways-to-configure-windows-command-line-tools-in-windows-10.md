@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Configure Windows Command Line Tools in Windows 10"
 date: 2025-06-01
+slug: "top-10-ways-to-configure-windows-command-line-tools-in-windows-10"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Windows 10 includes a range of command line tools that can save you time and make certain computer tasks easier. For beginners, learning to configure and use these tools can speed up common actions, automate repetitive tasks, and provide more control over your system. Here are the top 10 ways you can start using and configuring command line tools on your Windows 10 PC, with step-by-step examples and practical advice.

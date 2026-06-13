@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows Disk Defragmentation Management in Windows"
 date: 2025-07-26
+slug: "alls-guide-to-windows-disk-defragmentation-management-in-windows-3"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 What is Disk Defragmentation and Why Does It Matter?

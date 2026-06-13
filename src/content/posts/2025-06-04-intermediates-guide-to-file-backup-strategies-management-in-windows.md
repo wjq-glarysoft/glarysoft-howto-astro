@@ -1,8 +1,10 @@
 ---
 title: "Intermediate’s Guide to File Backup Strategies Management in Windows"
 date: 2025-06-04
+slug: "intermediates-guide-to-file-backup-strategies-management-in-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Why Is File Backup Important for Windows Users?

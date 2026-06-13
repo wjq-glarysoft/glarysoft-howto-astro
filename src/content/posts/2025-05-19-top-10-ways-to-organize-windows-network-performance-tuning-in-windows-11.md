@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Organize Windows Network Performance Tuning in Windows 11"
 date: 2025-05-19
+slug: "top-10-ways-to-organize-windows-network-performance-tuning-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Are you experiencing slow network performance on your Windows 11 PC? Optimizing your network settings can make a significant difference. This guide will walk you through the top ten ways to enhance network performance, sectioned into beginner and advanced tips to cater to all skill levels.

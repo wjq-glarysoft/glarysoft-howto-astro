@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Secure Browsing Techniques with Built-in Features: Windows User Guide"
 date: 2025-05-12
+slug: "master-windows-secure-browsing-techniques-with-built-in-features-windows-user-guide"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 In today's digital age, ensuring secure browsing is crucial for protecting your sensitive information from online threats. Windows offers a variety of built-in features to enhance your browsing experience while keeping your data secure. This guide provides practical advice for both beginners and advanced users on mastering Windows secure browsing techniques.

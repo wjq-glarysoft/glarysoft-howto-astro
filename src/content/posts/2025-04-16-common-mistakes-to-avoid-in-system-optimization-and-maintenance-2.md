@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid in System Optimization and Maintenance"
 date: 2025-04-16
+slug: "common-mistakes-to-avoid-in-system-optimization-and-maintenance-2"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Optimizing and maintaining your Windows system is crucial for ensuring that your computer runs efficiently and lasts longer. However, many users inadvertently make mistakes that can actually hinder their computer's performance rather than improve it. Let's explore some common mistakes to avoid, along with actionable advice to ensure your system is operating at its best.

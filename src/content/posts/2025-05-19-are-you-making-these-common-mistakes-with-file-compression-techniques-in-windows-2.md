@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with File Compression Techniques in Windows?"
 date: 2025-05-19
+slug: "are-you-making-these-common-mistakes-with-file-compression-techniques-in-windows-2"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 File compression is a handy technique for managing space and organizing files in Windows. However, even intermediate users can make some common mistakes when handling file compression. Here, we'll discuss these pitfalls and how to avoid them to ensure you optimize your file management effectively.

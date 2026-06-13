@@ -1,8 +1,10 @@
 ---
 title: "Master essential Windows maintenance tasks and tools with Glary Utilities: Windows User Guide"
 date: 2025-05-25
+slug: "master-essential-windows-maintenance-tasks-and-tools-with-glary-utilities-windows-user-guide-2"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Why Are Regular Maintenance Tasks Important for Advanced Windows Users?

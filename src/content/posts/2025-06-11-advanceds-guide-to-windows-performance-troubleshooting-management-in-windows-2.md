@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Performance Troubleshooting Management in Windows"
 date: 2025-06-11
+slug: "advanceds-guide-to-windows-performance-troubleshooting-management-in-windows-2"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Is your Windows PC running slower than usual, freezing, or showing occasional errors? Even as a beginner, you can take practical steps to troubleshoot and manage your computer’s performance. This guide offers clear, actionable advice with real-world examples, focusing on clean up and repair techniques anyone can follow to keep Windows running smoothly.

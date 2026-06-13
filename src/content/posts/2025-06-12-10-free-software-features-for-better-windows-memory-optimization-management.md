@@ -1,8 +1,10 @@
 ---
 title: "10 Free Software Features for Better Windows Memory Optimization Management"
 date: 2025-06-12
+slug: "10-free-software-features-for-better-windows-memory-optimization-management"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Is your Windows PC running slowly or freezing when you open multiple programs? This often happens due to poor memory (RAM) management. Fortunately, there are free tools and features that can help you optimize and manage your system’s memory effectively. This article will guide beginner Windows users through ten time-saving memory optimization techniques, complete with practical steps and examples.

@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Organize Windows File Sharing and Permissions in Windows Systems"
 date: 2025-04-28
+slug: "top-10-ways-to-organize-windows-file-sharing-and-permissions-in-windows-systems"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Managing file sharing and permissions in Windows systems is crucial for maintaining security and ensuring efficient collaboration. However, mistakes in configuration can lead to unauthorized access, data loss, or inefficient workflow. This guide details ten common pitfalls to avoid, helping advanced Windows users optimize their file sharing setup.

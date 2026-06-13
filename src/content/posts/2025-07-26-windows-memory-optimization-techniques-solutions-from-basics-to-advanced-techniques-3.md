@@ -1,8 +1,10 @@
 ---
 title: "Windows Memory Optimization Techniques Solutions: From Basics to Advanced Techniques"
 date: 2025-07-26
+slug: "windows-memory-optimization-techniques-solutions-from-basics-to-advanced-techniques-3"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 If your Windows computer feels sluggish, slow to open programs, or freezes when multiple tabs are open, memory (RAM) usage could be the culprit. Memory optimization simply means making the best use of your computer's available RAM to keep it running smoothly. Even as a beginner, you can employ several techniques – from basic to more advanced – to improve your PC’s performance. Here’s how you can get started.

@@ -1,8 +1,10 @@
 ---
 title: "How to clean Windows performance troubleshooting for Beginner Windows Users?"
 date: 2025-04-29
+slug: "how-to-clean-windows-performance-troubleshooting-for-beginner-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 As a beginner Windows user, understanding the intricacies of system performance can be daunting. However, with the right tools and a step-by-step approach, you can effectively troubleshoot and enhance your computer’s performance. This article will guide you through the basics of cleaning up and repairing your Windows system, focusing on practical and actionable advice for beginners.

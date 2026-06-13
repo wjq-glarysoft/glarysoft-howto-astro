@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Security Settings for Enhanced Privacy and Security"
 date: 2025-04-18
+slug: "optimizing-windows-security-settings-for-enhanced-privacy-and-security"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 In today's digital age, securing your Windows PC is more critical than ever. Whether you're concerned about personal privacy or protecting sensitive data, optimizing your Windows security settings can safeguard against threats and data breaches. This guide provides expert recommendations and practical steps to enhance your PC's security.

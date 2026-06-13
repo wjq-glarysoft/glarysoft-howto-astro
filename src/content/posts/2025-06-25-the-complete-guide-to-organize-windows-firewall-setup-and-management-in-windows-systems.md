@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Organize Windows Firewall Setup and Management in Windows Systems"
 date: 2025-06-25
+slug: "the-complete-guide-to-organize-windows-firewall-setup-and-management-in-windows-systems"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows Firewall is an essential layer of defense that helps protect your PC from unauthorized access and potential threats. Whether you're a new user or an advanced enthusiast, organizing and managing your firewall settings can significantly enhance your privacy and security. This guide walks you through the essentials, advanced tactics, and best practices for effective Windows Firewall management.

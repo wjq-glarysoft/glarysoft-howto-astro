@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows System Information Tools Management in Windows"
 date: 2025-06-21
+slug: "advanceds-guide-to-windows-system-information-tools-management-in-windows-2"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Understanding the health, performance, and hardware of your PC is essential for maintaining a reliable and optimally running Windows environment. System information tools are the key to unlocking these insights, whether you’re troubleshooting issues, planning upgrades, or ensuring your system’s security. This guide explores Windows system information tools from both basic and advanced perspectives, offering actionable tips and real-world examples to help you make the most of these resources.

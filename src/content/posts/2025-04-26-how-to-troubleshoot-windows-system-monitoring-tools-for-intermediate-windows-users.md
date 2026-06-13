@@ -1,8 +1,10 @@
 ---
 title: "How to Troubleshoot Windows System Monitoring Tools for Intermediate Windows Users"
 date: 2025-04-26
+slug: "how-to-troubleshoot-windows-system-monitoring-tools-for-intermediate-windows-users"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Monitoring the performance of your Windows system is essential to ensure it runs smoothly and efficiently. However, troubleshooting system monitoring tools can sometimes be challenging. This guide provides practical advice and examples to help you navigate these tools effectively.

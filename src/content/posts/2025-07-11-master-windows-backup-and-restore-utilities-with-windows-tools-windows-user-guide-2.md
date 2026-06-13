@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Backup and Restore Utilities with Windows Tools: Windows User Guide"
 date: 2025-07-11
+slug: "master-windows-backup-and-restore-utilities-with-windows-tools-windows-user-guide-2"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Understanding why backups are essential for your Windows PC

@@ -1,8 +1,10 @@
 ---
 title: "maintain Windows user account security Like a Pro: Windows 11 Guide"
 date: 2025-07-02
+slug: "maintain-windows-user-account-security-like-a-pro-windows-11-guide"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Keeping your Windows 11 user account secure doesn't have to be overwhelming or time-consuming. With the right strategies and tools, you can safeguard your digital life without endless tweaking. This guide provides practical, actionable tips for both beginners and advanced users, focusing on time-saving approaches using built-in Windows features and trusted third-party solutions.

@@ -1,8 +1,10 @@
 ---
 title: "How to Repair System Files on Windows: A Beginner's Guide"
 date: 2025-04-16
+slug: "how-to-repair-system-files-on-windows-a-beginners-guide"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 System file corruption can significantly impact the performance and stability of your Windows PC. Luckily, Windows offers several built-in tools designed to help you repair these files and ensure your computer runs smoothly. In this guide, we'll walk you through practical techniques for diagnosing and repairing system file issues, with real-world examples that are easy to follow.

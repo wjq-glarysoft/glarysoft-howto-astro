@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows System Repair Tools Management in Windows"
 date: 2025-05-01
+slug: "intermediates-guide-to-windows-system-repair-tools-management-in-windows-2"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Managing Windows system repair tools effectively is crucial for maintaining the health and performance of your computer. Whether you're dealing with slow startup times, frequent crashes, or just looking to spruce up your system's performance, knowing how to use repair tools can make a significant difference. This guide provides practical advice and real-world examples to help you optimize and maintain your Windows system using repair tools.

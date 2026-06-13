@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows File Management and Cleanup: A Step-by-Step Guide"
 date: 2025-04-10
+slug: "effective-windows-file-management-and-cleanup-a-step-by-step-guide"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Managing files and keeping your Windows system clean can significantly enhance performance, free up valuable space, and keep everything organized. This article will walk you through practical steps to manage your files efficiently and perform a thorough cleanup.

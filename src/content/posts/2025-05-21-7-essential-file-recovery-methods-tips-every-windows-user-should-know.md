@@ -1,8 +1,10 @@
 ---
 title: "7 Essential File Recovery Methods Tips Every Windows User Should Know"
 date: 2025-05-21
+slug: "7-essential-file-recovery-methods-tips-every-windows-user-should-know"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 File recovery is an essential skill for any Windows user, and understanding efficient methods can save you a lot of time and stress. Whether you've accidentally deleted important documents or lost files due to a system crash, these tips will help you recover your files quickly and effectively.

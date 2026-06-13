@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Windows File Explorer Tips and Tricks Toolkit for Windows Computers"
 date: 2025-05-27
+slug: "the-ultimate-windows-file-explorer-tips-and-tricks-toolkit-for-windows-computers-4"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Are you new to Windows and wondering how to get the most out of File Explorer? Don’t worry—this guide will walk you through some of the best tips and tricks, using clear examples and easy, step-by-step instructions. You’ll soon be able to manage files and folders with confidence and speed.

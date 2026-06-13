@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Clean File Search and Indexing Techniques in Windows Systems"
 date: 2025-05-17
+slug: "the-complete-guide-to-clean-file-search-and-indexing-techniques-in-windows-systems"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 For many Windows users, managing files and folders effectively can significantly enhance productivity. Understanding the nuances of file search and indexing can help streamline your workflow, ensuring you spend less time searching and more time on your tasks. This guide provides intermediate users with insights and strategies for optimizing file search and indexing on Windows systems.

@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Folder Structure Optimization in Windows?"
 date: 2025-05-27
+slug: "are-you-making-these-common-mistakes-with-folder-structure-optimization-in-windows-2"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Many Windows users overlook the importance of a well-organized folder structure. A messy file system slows down your workflow, makes files hard to find, and increases the risk of losing important documents. If you’re new to optimizing your files and folders, you might be making some common mistakes without realizing it. Let’s look at practical steps and real-world examples to help you avoid these pitfalls and keep your Windows PC organized.

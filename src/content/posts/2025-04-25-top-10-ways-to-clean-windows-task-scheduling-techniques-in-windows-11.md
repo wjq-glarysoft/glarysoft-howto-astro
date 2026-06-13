@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Clean Windows Task Scheduling Techniques in Windows 11"
 date: 2025-04-25
+slug: "top-10-ways-to-clean-windows-task-scheduling-techniques-in-windows-11"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Windows Task Scheduler is a powerful utility in Windows 11 that allows users to automate tasks on their computer. However, beginners often make certain mistakes that can lead to inefficient system performance or unexpected results. Here’s how you can clean up and optimize your task scheduling techniques in Windows 11.

@@ -1,8 +1,10 @@
 ---
 title: "Can Built-in Features Help with Windows Registry Cleaning and Repair? A Complete Guide for Windows Users"
 date: 2025-06-11
+slug: "can-built-in-features-help-with-windows-registry-cleaning-and-repair-a-complete-guide-for-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 What Is the Windows Registry and Why Does It Matter?

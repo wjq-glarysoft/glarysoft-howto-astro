@@ -1,8 +1,10 @@
 ---
 title: "How to Configure Windows System Monitoring and Analysis for Beginner Windows Users?"
 date: 2025-05-18
+slug: "how-to-configure-windows-system-monitoring-and-analysis-for-beginner-windows-users"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Monitoring and analyzing your Windows system is crucial for maintaining smooth performance and optimizing the overall user experience. For beginners, understanding what to monitor and why it matters can seem overwhelming. However, with the right tools and guidance, you can easily gain insights into your system's health and performance. Let's explore how you can set up system monitoring and analysis on your Windows PC.

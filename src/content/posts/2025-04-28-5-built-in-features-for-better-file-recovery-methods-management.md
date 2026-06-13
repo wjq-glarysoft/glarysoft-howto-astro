@@ -1,8 +1,10 @@
 ---
 title: "5 Built-in Features for Better File Recovery Methods Management"
 date: 2025-04-28
+slug: "5-built-in-features-for-better-file-recovery-methods-management"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 File recovery can seem like a daunting task, especially when dealing with the panic of accidentally losing important files. Fortunately, Windows offers several built-in features that can help you recover your files efficiently. This guide will walk you through these features, providing practical tips for intermediate users looking to enhance their file recovery methods management.

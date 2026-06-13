@@ -1,8 +1,10 @@
 ---
 title: "12 Built-in Features for Better System Optimization and Maintenance Management"
 date: 2025-06-09
+slug: "12-built-in-features-for-better-system-optimization-and-maintenance-management"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Getting the best performance and reliability from your Windows PC doesn’t always require expensive upgrades or complicated tweaks. Windows comes packed with a variety of built-in features designed to help you optimize performance, maintain system health, and keep your computer running smoothly. Here, we’ll explore twelve native tools and methods that every user—from beginner to advanced—should know for effective system optimization and maintenance.

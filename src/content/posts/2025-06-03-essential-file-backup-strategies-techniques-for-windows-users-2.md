@@ -1,8 +1,10 @@
 ---
 title: "Essential file backup strategies: Techniques for Windows Users"
 date: 2025-06-03
+slug: "essential-file-backup-strategies-techniques-for-windows-users-2"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Why Is a Robust Backup Strategy Essential for Advanced Users?

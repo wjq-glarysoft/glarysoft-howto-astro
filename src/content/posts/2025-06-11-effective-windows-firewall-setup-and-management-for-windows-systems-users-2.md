@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Firewall Setup and Management for Windows Systems Users"
 date: 2025-06-11
+slug: "effective-windows-firewall-setup-and-management-for-windows-systems-users-2"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Introduction

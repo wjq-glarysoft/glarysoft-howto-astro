@@ -1,8 +1,10 @@
 ---
 title: "7 Essential File Naming Conventions and Organization Tips Every Windows User Should Know"
 date: 2025-06-21
+slug: "7-essential-file-naming-conventions-and-organization-tips-every-windows-user-should-know"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Proper file naming and organization can save you hours of frustration and dramatically improve your workflow on Windows. Whether you’re managing personal documents, work projects, or a growing library of photos and videos, these practical tips will help you keep your files structured, accessible, and easy to manage.

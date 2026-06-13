@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Startup Optimization Methods with Built-in Features: Windows User Guide"
 date: 2025-08-01
+slug: "master-windows-startup-optimization-methods-with-built-in-features-windows-user-guide-3"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Why Should You Optimize Windows Startup?

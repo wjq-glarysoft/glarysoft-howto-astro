@@ -1,8 +1,10 @@
 ---
 title: "Boost Your PC: Best Practices for System Optimization and Maintenance"
 date: 2025-04-16
+slug: "boost-your-pc-best-practices-for-system-optimization-and-maintenance"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Keeping your Windows PC running smoothly requires regular maintenance and optimization. By implementing best practices, you ensure not only the longevity of your system but also enhance its performance. Here, we’ll delve into some actionable tips and real-world examples to help you optimize and maintain your system effectively.

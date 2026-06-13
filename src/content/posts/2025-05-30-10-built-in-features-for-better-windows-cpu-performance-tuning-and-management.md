@@ -1,8 +1,10 @@
 ---
 title: "10 Built-in Features for Better Windows CPU Performance Tuning and Management"
 date: 2025-05-30
+slug: "10-built-in-features-for-better-windows-cpu-performance-tuning-and-management"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Windows PCs are packed with built-in tools designed to manage and optimize CPU performance. While new users may feel overwhelmed by the number of settings available, understanding and using these features can make a noticeable difference in how smoothly your computer runs. This beginner-friendly guide explores ten key Windows features for CPU performance tuning and provides practical steps for both novices and advanced users.

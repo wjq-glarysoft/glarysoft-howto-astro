@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 Security and Privacy Protection Optimization Made Easy"
 date: 2025-06-04
+slug: "windows-10-11-security-and-privacy-protection-optimization-made-easy"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Protecting your privacy and keeping your Windows 10 or 11 computer secure has never been more critical. With each update, Microsoft introduces new security features, but users must take a proactive role to maximize protection. Whether you’re a beginner or an experienced user, this guide offers professional yet practical steps to enhance both security and privacy on your Windows PC.

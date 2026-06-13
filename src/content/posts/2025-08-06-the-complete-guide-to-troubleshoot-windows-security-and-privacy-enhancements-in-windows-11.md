@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Troubleshoot Windows Security and Privacy Enhancements in Windows 11"
 date: 2025-08-06
+slug: "the-complete-guide-to-troubleshoot-windows-security-and-privacy-enhancements-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Introduction

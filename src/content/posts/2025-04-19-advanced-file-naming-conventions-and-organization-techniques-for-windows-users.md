@@ -1,8 +1,10 @@
 ---
 title: "Advanced File Naming Conventions and Organization Techniques for Windows Users"
 date: 2025-04-19
+slug: "advanced-file-naming-conventions-and-organization-techniques-for-windows-users"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Organizing files and folders effectively is crucial for maintaining a well-organized and efficient workspace on your Windows computer. Advanced file naming conventions and organization techniques can significantly enhance your productivity and make it easier to locate important files quickly. Here are some practical, actionable tips and examples to help you master file organization on Windows.

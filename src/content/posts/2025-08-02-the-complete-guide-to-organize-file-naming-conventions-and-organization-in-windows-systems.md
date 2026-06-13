@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Organize File Naming Conventions and Organization in Windows Systems"
 date: 2025-08-02
+slug: "the-complete-guide-to-organize-file-naming-conventions-and-organization-in-windows-systems"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Effectively managing files and folders in Windows is essential for finding your documents quickly, collaborating with others, and keeping your computer clutter-free. Whether you’re a home user, a student, or working in a professional environment, learning good file naming conventions and organization techniques will save you time and frustration. This complete guide covers the basics for beginners and provides advanced tips for seasoned users.

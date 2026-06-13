@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems File Synchronization Across Devices Optimization Made Easy"
 date: 2025-04-26
+slug: "windows-systems-file-synchronization-across-devices-optimization-made-easy"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 In today's digital age, keeping files synchronized across multiple devices is crucial for seamless workflow and accessibility. Whether you’re a beginner just starting with file synchronization or an advanced user looking to optimize your setup, this guide offers practical advice for Windows systems.

@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Clean Windows File Sharing and Permissions in Windows 10"
 date: 2025-07-14
+slug: "the-complete-guide-to-clean-windows-file-sharing-and-permissions-in-windows-10"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 File sharing is a core feature of Windows 10, allowing users to collaborate, back up data, and access files across devices. However, improper sharing and cluttered permissions can lead to confusion, security risks, and wasted time. This guide covers the essentials of Windows file sharing and permissions, with practical, time-saving tips for users at all levels.

@@ -1,8 +1,10 @@
 ---
 title: "organize Windows disk defragmentation Like a Pro: Windows 10 & 11 Guide"
 date: 2025-05-18
+slug: "organize-windows-disk-defragmentation-like-a-pro-windows-10-11-guide"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Disk defragmentation is a crucial part of maintaining your Windows computer's performance, especially if you are still using traditional HDD storage. As files are created, deleted, and modified, they can become fragmented, meaning parts of the files are scattered across the disk. This can slow down access times and affect overall system performance. Let's explore how you can organize Windows disk defragmentation like a pro, whether you are using Windows 10 or Windows 11.

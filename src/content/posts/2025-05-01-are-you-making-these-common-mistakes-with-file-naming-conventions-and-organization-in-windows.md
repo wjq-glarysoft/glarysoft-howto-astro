@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with File Naming Conventions and Organization in Windows?"
 date: 2025-05-01
+slug: "are-you-making-these-common-mistakes-with-file-naming-conventions-and-organization-in-windows"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Advanced Windows users often find themselves managing a substantial amount of data, requiring efficient file naming conventions and organization strategies. Even the most experienced users can fall into common traps that hinder productivity and create chaos. This article explores advanced techniques to refine your approach, ensuring you’re leveraging Windows to its full potential.

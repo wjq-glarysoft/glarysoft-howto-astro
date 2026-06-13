@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Clean Windows Network Performance Tuning in Windows?"
 date: 2025-07-27
+slug: "whats-the-best-way-to-clean-windows-network-performance-tuning-in-windows"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 If your Windows PC seems slow when browsing the web, downloading files, or streaming video, you might benefit from network performance tuning. Optimizing your network settings can make a noticeable difference in speed and reliability, especially if you share your connection with other devices or use demanding applications. This guide will walk you through practical steps—ranging from beginner-friendly tweaks to advanced configurations—to help you clean up and optimize your Windows network performance.

@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Privacy Enhancements with Built-in Features: Windows User Guide"
 date: 2025-07-08
+slug: "master-windows-privacy-enhancements-with-built-in-features-windows-user-guide"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Are you concerned about your digital privacy while using Windows? Whether you’re a casual user or a seasoned PC enthusiast, Windows offers a powerful suite of built-in privacy features that can help guard your personal information and data. This guide explores these features in detail, offering concrete, actionable steps and real-world scenarios to help you regain control over your privacy.

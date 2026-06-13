@@ -1,8 +1,10 @@
 ---
 title: "10 Essential Windows System Tool Customization Tips Every Windows User Should Know"
 date: 2025-05-08
+slug: "10-essential-windows-system-tool-customization-tips-every-windows-user-should-know"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Windows system tools offer a plethora of customization options that can significantly enhance your productivity and streamline your everyday computing tasks. Whether you're a novice or an experienced user, mastering these customization tips can save you precious time. Let's dive into these tips, providing actionable advice and examples for both beginners and advanced users.

@@ -1,8 +1,10 @@
 ---
 title: "Windows 11 Windows Performance Troubleshooting Optimization Made Easy"
 date: 2025-07-31
+slug: "windows-11-windows-performance-troubleshooting-optimization-made-easy-2"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Are you finding your Windows 11 PC slower than usual or seeing programs take longer to start? Don’t worry—many Windows users face performance issues over time. The good news is, you can quickly troubleshoot and optimize your system with a few easy steps, even if you’re a beginner. This guide will walk you through simple, effective solutions to clean up, repair, and boost your Windows 11 PC’s performance, with practical instructions and real-world examples.

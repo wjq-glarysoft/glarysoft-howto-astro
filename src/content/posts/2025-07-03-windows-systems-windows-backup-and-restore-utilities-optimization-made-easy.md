@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems Windows Backup and Restore Utilities Optimization Made Easy"
 date: 2025-07-03
+slug: "windows-systems-windows-backup-and-restore-utilities-optimization-made-easy"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Why is Backing Up and Restoring Essential for Windows Users?

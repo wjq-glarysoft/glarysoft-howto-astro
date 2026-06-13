@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Clean Windows Startup Optimization Methods in Windows 10"
 date: 2025-05-18
+slug: "the-complete-guide-to-clean-windows-startup-optimization-methods-in-windows-10"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Starting up your Windows 10 PC can sometimes feel like watching paint dry, especially if numerous programs are vying for a spot to load immediately as your system comes to life. This guide is designed for beginners looking to streamline their startup process. We'll explore practical methods for optimizing Windows 10 startup times, with real-world examples and easy-to-follow steps.

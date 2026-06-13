@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Manage Windows Visual Effects Optimization in Windows 10"
 date: 2025-06-10
+slug: "the-complete-guide-to-manage-windows-visual-effects-optimization-in-windows-10"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Are you noticing slow performance on your Windows 10 PC, especially when opening windows, switching between apps, or running multiple programs? Visual effects, while making Windows look attractive, can sometimes impact system speed—especially on older or less powerful PCs. This guide walks beginner users through optimizing these effects for better speed and smoother operation, using easy-to-follow steps and practical examples.

@@ -1,8 +1,10 @@
 ---
 title: "When Should You Maintain Windows File Sharing and Permissions on Your Windows Computer?"
 date: 2025-07-04
+slug: "when-should-you-maintain-windows-file-sharing-and-permissions-on-your-windows-computer"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Why Is Regular Maintenance of File Sharing and Permissions Crucial?

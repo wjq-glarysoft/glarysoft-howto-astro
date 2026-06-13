@@ -1,8 +1,10 @@
 ---
 title: "monitor file management and organization Like a Pro: Windows 11 Guide"
 date: 2025-06-04
+slug: "monitor-file-management-and-organization-like-a-pro-windows-11-guide"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Keeping your files and folders organized in Windows 11 is essential for productivity, security, and system performance. As an intermediate user, you likely know the basics—naming files, creating folders, and maybe even using Quick Access. But pro-level organization means going further, using built-in Windows 11 tools, taking advantage of powerful utilities, and adopting advanced strategies for file management.

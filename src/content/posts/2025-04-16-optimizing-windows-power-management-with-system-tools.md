@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Power Management with System Tools"
 date: 2025-04-16
+slug: "optimizing-windows-power-management-with-system-tools"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Power management is an essential aspect of maintaining and optimizing your Windows system, especially for users who rely on laptops or seek to reduce energy consumption. Windows offers built-in tools to manage power settings effectively, but third-party solutions like Glary Utilities can enrich the experience with additional features and automation.

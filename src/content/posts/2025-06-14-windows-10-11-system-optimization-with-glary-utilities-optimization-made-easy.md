@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 System Optimization with Glary Utilities: Optimization Made Easy"
 date: 2025-06-14
+slug: "windows-10-11-system-optimization-with-glary-utilities-optimization-made-easy"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Is Your Windows System Slowing Down?

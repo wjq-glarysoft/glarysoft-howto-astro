@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 Windows Security Settings Configuration Optimization Made Easy"
 date: 2025-06-28
+slug: "windows-10-11-windows-security-settings-configuration-optimization-made-easy"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 When it comes to protecting your Windows 10 or Windows 11 PC, configuring your security settings properly is key. Microsoft includes a robust set of built-in tools, but many users don’t realize that a few tweaks can make your system much safer—without sacrificing usability or performance. In this guide, you'll find clear, step-by-step advice suitable for every experience level, along with practical examples and expert recommendations.

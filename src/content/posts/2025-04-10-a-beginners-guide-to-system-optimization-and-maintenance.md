@@ -1,8 +1,10 @@
 ---
 title: "A Beginner's Guide to System Optimization and Maintenance"
 date: 2025-04-10
+slug: "a-beginners-guide-to-system-optimization-and-maintenance"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 For many, the computer or laptop is an essential part of daily life, whether for work, study, or entertainment. Like any tool that sees frequent use, it requires regular maintenance and optimization to perform at its best. System optimization and maintenance might sound daunting, especially for beginners, but it’s quite manageable with the right guidance. This guide aims to provide actionable steps to help you maintain your system efficiently.

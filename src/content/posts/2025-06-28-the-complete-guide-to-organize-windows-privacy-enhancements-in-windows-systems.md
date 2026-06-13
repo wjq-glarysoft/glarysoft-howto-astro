@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Organize Windows Privacy Enhancements in Windows Systems"
 date: 2025-06-28
+slug: "the-complete-guide-to-organize-windows-privacy-enhancements-in-windows-systems"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Protecting your privacy on Windows is more important than ever. Whether you’re a casual home user or a business professional, Windows collects data and interacts with online services in many ways by default. Luckily, you can enhance and organize your privacy settings step by step. This guide covers practical privacy improvements you can apply right now, suitable for every level of Windows user.

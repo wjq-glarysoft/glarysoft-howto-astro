@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to File Management and Organization in Windows"
 date: 2025-07-09
+slug: "alls-guide-to-file-management-and-organization-in-windows"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 File management and organization are essential skills for every Windows user, from those just starting out to seasoned professionals. Keeping your files and folders in order not only makes it easier to find what you need but also helps your PC run smoothly and efficiently. This guide covers the basics for beginners and offers advanced tips for experienced users, with practical, step-by-step instructions and real-world examples.

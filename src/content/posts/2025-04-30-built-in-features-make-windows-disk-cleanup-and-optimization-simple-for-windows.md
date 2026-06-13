@@ -1,8 +1,10 @@
 ---
 title: "Built-in Features Make Windows Disk Cleanup and Optimization Simple for Windows"
 date: 2025-04-30
+slug: "built-in-features-make-windows-disk-cleanup-and-optimization-simple-for-windows"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Keeping your Windows system running smoothly is essential for productivity and overall performance. One of the key areas where you can make a significant impact is through disk cleanup and optimization. For intermediate Windows users, understanding and utilizing built-in features for these tasks can save precious time and enhance system efficiency.

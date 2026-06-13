@@ -1,8 +1,10 @@
 ---
 title: "Mastering Windows Disk Management and Cleanup"
 date: 2025-04-11
+slug: "mastering-windows-disk-management-and-cleanup"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Maintaining a clean and well-organized disk is essential for ensuring your Windows PC runs smoothly and efficiently. Disk management and cleanup are critical components of system maintenance that can help improve performance and extend the lifespan of your hardware. Let's explore some expert recommendations and practical steps you can take to ensure your disk is in top condition.

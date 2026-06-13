@@ -1,8 +1,10 @@
 ---
 title: "Windows User Account Security Solutions: From Basics to Advanced Techniques"
 date: 2025-04-23
+slug: "windows-user-account-security-solutions-from-basics-to-advanced-techniques-2"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Securing your user account in Windows is crucial for maintaining privacy and protecting your data. Whether you're a beginner or an advanced user, there are multiple techniques you can employ to enhance your account security. This guide provides detailed, step-by-step instructions to help you secure your Windows user account effectively.

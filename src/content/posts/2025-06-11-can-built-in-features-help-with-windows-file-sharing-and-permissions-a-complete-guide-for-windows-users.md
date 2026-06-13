@@ -1,8 +1,10 @@
 ---
 title: "Can Built-in Features Help with Windows file sharing and permissions? A Complete Guide for Windows Users"
 date: 2025-06-11
+slug: "can-built-in-features-help-with-windows-file-sharing-and-permissions-a-complete-guide-for-windows-users"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Sharing files and folders in Windows can make collaboration easy—whether you’re working at home, in an office, or just want to send pictures to another computer in your household. But how do you safely and efficiently share files using the built-in tools Windows provides? This guide will walk you through the steps, explain permissions in simple terms, and offer practical advice suitable for anyone new to the process.

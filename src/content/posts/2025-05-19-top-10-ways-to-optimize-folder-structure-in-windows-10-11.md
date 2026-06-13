@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Optimize Folder Structure in Windows 10 & 11"
 date: 2025-05-19
+slug: "top-10-ways-to-optimize-folder-structure-in-windows-10-11"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 A well-organized folder structure can dramatically improve your workflow and keep your system running smoothly. Here, we delve into the top ten ways to optimize your folder structure in Windows 10 and 11, aimed at intermediate users who are familiar with basic file management.

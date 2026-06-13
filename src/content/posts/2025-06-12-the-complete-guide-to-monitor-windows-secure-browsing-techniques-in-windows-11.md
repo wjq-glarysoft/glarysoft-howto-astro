@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Monitor Windows Secure Browsing Techniques in Windows 11"
 date: 2025-06-12
+slug: "the-complete-guide-to-monitor-windows-secure-browsing-techniques-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Maintaining privacy and security while browsing the web is more important than ever. With Windows 11 introducing new security features and a changing threat landscape, it’s essential to understand how to monitor and ensure secure browsing on your PC. This guide covers advanced secure browsing techniques, real-world examples, and actionable steps for users of all skill levels.

@@ -1,8 +1,10 @@
 ---
 title: "Advanced Techniques for Troubleshooting Common Windows Issues"
 date: 2025-04-11
+slug: "advanced-techniques-for-troubleshooting-common-windows-issues"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Troubleshooting issues on a Windows PC can vary from simple fixes to more complex solutions that require a good understanding of the system's internals. For advanced users, solving common problems involves diving deeper into system settings and utilizing various tools to uncover hidden issues. Here’s a guide to some advanced techniques for troubleshooting common Windows problems.

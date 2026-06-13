@@ -1,8 +1,10 @@
 ---
 title: "maintain file management and organization Like a Pro: Windows 10 Guide"
 date: 2025-05-14
+slug: "maintain-file-management-and-organization-like-a-pro-windows-10-guide"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Organizing files and folders on your Windows 10 PC is crucial for maintaining productivity and ensuring easy access to important documents. This guide is designed to help both beginners and advanced users optimize their file management processes, offering practical advice and step-by-step instructions.

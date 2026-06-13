@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Manage Windows Command Line Tools in Windows?"
 date: 2025-05-08
+slug: "whats-the-best-way-to-manage-windows-command-line-tools-in-windows"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 The Windows command line, often referred to as Command Prompt or CMD, and its more advanced counterpart, PowerShell, are invaluable tools for any Windows user. They allow direct interaction with the operating system, providing powerful ways to manage files, automate tasks, and troubleshoot system issues. Whether you're a tech enthusiast or someone just diving into the world of command-line interfaces, this guide will offer insights into managing these tools efficiently.

@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 Junk File Removal Strategies Optimization Made Easy"
 date: 2025-04-30
+slug: "windows-10-11-junk-file-removal-strategies-optimization-made-easy"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Removing junk files from your Windows 10 and 11 systems is crucial to ensure smooth performance and free up valuable disk space. This article provides strategies for both beginners and advanced users to tackle junk files efficiently.

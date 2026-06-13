@@ -1,8 +1,10 @@
 ---
 title: "monitor file naming conventions and organization Like a Pro: Windows 10 & 11 Guide"
 date: 2025-07-30
+slug: "monitor-file-naming-conventions-and-organization-like-a-pro-windows-10-11-guide"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Organizing your files and folders may seem like a simple task, but a solid naming convention and structure can save you countless hours and reduce stress. Whether you’re a beginner building your first digital filing cabinet or an advanced user managing hundreds of projects, this guide will help you maintain order on your Windows 10 or 11 PC. Let’s dive into practical steps, from the basics to advanced tools and automation.

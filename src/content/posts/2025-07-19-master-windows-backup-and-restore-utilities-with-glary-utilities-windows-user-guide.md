@@ -1,8 +1,10 @@
 ---
 title: "Master Windows backup and restore utilities with Glary Utilities: Windows User Guide"
 date: 2025-07-19
+slug: "master-windows-backup-and-restore-utilities-with-glary-utilities-windows-user-guide"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Introduction

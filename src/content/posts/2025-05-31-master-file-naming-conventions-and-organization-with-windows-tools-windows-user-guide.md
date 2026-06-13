@@ -1,8 +1,10 @@
 ---
 title: "Master file naming conventions and organization with Windows Tools: Windows User Guide"
 date: 2025-05-31
+slug: "master-file-naming-conventions-and-organization-with-windows-tools-windows-user-guide"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Introduction

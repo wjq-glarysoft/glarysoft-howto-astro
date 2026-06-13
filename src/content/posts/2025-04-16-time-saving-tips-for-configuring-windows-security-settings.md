@@ -1,8 +1,10 @@
 ---
 title: "Time-Saving Tips for Configuring Windows Security Settings"
 date: 2025-04-16
+slug: "time-saving-tips-for-configuring-windows-security-settings"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 In today’s digital landscape, safeguarding your personal information and system integrity is crucial. Windows provides a suite of security settings that can be configured to enhance your privacy and security. This article will guide you through time-saving tips for efficiently configuring these settings to protect your PC without spending too much time.

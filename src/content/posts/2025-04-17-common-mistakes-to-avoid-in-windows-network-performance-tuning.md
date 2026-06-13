@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid in Windows Network Performance Tuning"
 date: 2025-04-17
+slug: "common-mistakes-to-avoid-in-windows-network-performance-tuning"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Optimizing network performance on a Windows system can be a daunting task, especially if you're not aware of the common pitfalls that could hinder your efforts. In this article, we will explore several mistakes often made by users when trying to optimize their network performance and provide practical tips to avoid them.

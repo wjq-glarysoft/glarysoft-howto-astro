@@ -1,8 +1,10 @@
 ---
 title: "Boost Your Productivity with Keyboard Shortcuts: A Beginner's Guide"
 date: 2025-04-10
+slug: "boost-your-productivity-with-keyboard-shortcuts-a-beginners-guide"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 In today's fast-paced digital world, efficiency is key. One simple way to enhance your productivity on a Windows PC is by mastering keyboard shortcuts. These handy combinations can save you time and make your workflow smoother. Whether you're a student, professional, or casual user, learning these shortcuts is a worthwhile investment. Here's a beginner's guide to get you started.

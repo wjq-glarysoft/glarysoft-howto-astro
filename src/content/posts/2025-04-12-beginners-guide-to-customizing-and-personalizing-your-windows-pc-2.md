@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Customizing and Personalizing Your Windows PC"
 date: 2025-04-12
+slug: "beginners-guide-to-customizing-and-personalizing-your-windows-pc-2"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Customizing and personalizing your Windows PC can greatly enhance your user experience by making it feel uniquely yours and more efficient for your everyday tasks. This guide will walk you through simple steps to get started with personalization, covering everything from aesthetics to functionality.

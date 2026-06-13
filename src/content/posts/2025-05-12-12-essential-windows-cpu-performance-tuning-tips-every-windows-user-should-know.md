@@ -1,8 +1,10 @@
 ---
 title: "12 Essential Windows CPU Performance Tuning Tips Every Windows User Should Know"
 date: 2025-05-12
+slug: "12-essential-windows-cpu-performance-tuning-tips-every-windows-user-should-know"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Maximizing your Windows PC's performance can greatly enhance your computing experience, particularly if your daily tasks require intensive processing power. Here are 12 essential tips for tuning your CPU performance that every Windows user should be aware of:

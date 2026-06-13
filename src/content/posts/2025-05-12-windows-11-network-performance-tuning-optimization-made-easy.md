@@ -1,8 +1,10 @@
 ---
 title: "Windows 11 Network Performance Tuning: Optimization Made Easy"
 date: 2025-05-12
+slug: "windows-11-network-performance-tuning-optimization-made-easy"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Optimizing network performance in Windows 11 can significantly enhance your overall experience, whether you're streaming, gaming, or working from home. However, there are common mistakes that many users make, leading to suboptimal performance. This guide will provide practical advice and real-world examples to help you avoid these pitfalls and improve your network performance efficiently. We will outline sections for both beginners and advanced users to ensure everyone can benefit.

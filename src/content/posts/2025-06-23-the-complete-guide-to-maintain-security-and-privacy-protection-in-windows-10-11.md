@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Maintain Security and Privacy Protection in Windows 10 & 11"
 date: 2025-06-23
+slug: "the-complete-guide-to-maintain-security-and-privacy-protection-in-windows-10-11"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Keeping your Windows 10 or 11 PC secure and private is essential in today’s digital world. With increasing threats from hackers, malware, and unwanted data collection, it’s vital to stay proactive. This guide provides practical steps and tips for every user, from those just starting out to advanced Windows enthusiasts. Let’s dive into the best practices for maximizing security and privacy on your Windows system.

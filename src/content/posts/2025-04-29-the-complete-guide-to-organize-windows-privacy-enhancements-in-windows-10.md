@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Organize Windows Privacy Enhancements in Windows 10"
 date: 2025-04-29
+slug: "the-complete-guide-to-organize-windows-privacy-enhancements-in-windows-10"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows 10 offers a robust set of privacy features, but navigating these can be overwhelming without guidance. This guide provides practical advice to help you enhance your privacy settings, ensuring your data remains secure. Whether you're a beginner or an advanced user, you'll find actionable steps tailored to your skill level.

@@ -1,8 +1,10 @@
 ---
 title: "5 Built-in Features for Better Windows File Explorer Management"
 date: 2025-06-06
+slug: "5-built-in-features-for-better-windows-file-explorer-management"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Are you a beginner looking to make the most out of Windows File Explorer? Managing files and folders efficiently can save you time and keep your PC organized. Windows File Explorer isn’t just a basic tool—it comes packed with handy features that can make file management much easier, even if you’re just starting out. Here are five built-in features you should know about, along with step-by-step advice to help you use them with confidence.

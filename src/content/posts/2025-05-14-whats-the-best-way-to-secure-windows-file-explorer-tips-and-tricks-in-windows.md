@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Secure Windows File Explorer Tips and Tricks in Windows?"
 date: 2025-05-14
+slug: "whats-the-best-way-to-secure-windows-file-explorer-tips-and-tricks-in-windows"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 For beginner Windows users, mastering File Explorer is essential for efficient file management and security. File Explorer is the gateway to accessing and organizing your files and folders on a Windows PC. Here are some practical tips and tricks to help you secure and optimize your use of File Explorer effectively.

@@ -1,8 +1,10 @@
 ---
 title: "Mastering Keyboard Shortcuts and Productivity Tips for Enhanced Workflow"
 date: 2025-04-10
+slug: "mastering-keyboard-shortcuts-and-productivity-tips-for-enhanced-workflow"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 In the fast-paced digital world, efficiency is key, and mastering keyboard shortcuts can significantly enhance your productivity. As a Windows system expert, I’ve seen firsthand how these shortcuts transform the workflows of both novice users and seasoned professionals. Here’s a comprehensive guide to some invaluable keyboard shortcuts and productivity tips that will help you navigate your tasks with ease.

@@ -1,8 +1,10 @@
 ---
 title: "Why is Windows File Sharing and Permissions Important for Your Windows PC and How to Manage It?"
 date: 2025-07-01
+slug: "why-is-windows-file-sharing-and-permissions-important-for-your-windows-pc-and-how-to-manage-it-4"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Why Should You Care About Windows File Sharing and Permissions?

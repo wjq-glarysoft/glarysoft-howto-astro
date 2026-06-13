@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Backup Windows Performance Troubleshooting in Windows 10 & 11"
 date: 2025-05-10
+slug: "the-complete-guide-to-backup-windows-performance-troubleshooting-in-windows-10-11"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 For many Windows 10 and 11 users, maintaining optimal system performance can seem daunting. However, with some basic knowledge and the right tools, this task becomes manageable. This guide will walk you through simple yet effective strategies to troubleshoot and enhance your Windows system's performance, with a particular focus on cleaning up and repairing your PC.

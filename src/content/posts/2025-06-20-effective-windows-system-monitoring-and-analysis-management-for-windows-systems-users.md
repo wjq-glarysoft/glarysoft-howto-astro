@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows System Monitoring and Analysis Management for Windows Systems Users"
 date: 2025-06-20
+slug: "effective-windows-system-monitoring-and-analysis-management-for-windows-systems-users"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Understanding why system monitoring matters

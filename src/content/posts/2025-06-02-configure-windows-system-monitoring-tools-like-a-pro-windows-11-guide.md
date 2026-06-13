@@ -1,8 +1,10 @@
 ---
 title: "configure Windows system monitoring tools Like a Pro: Windows 11 Guide"
 date: 2025-06-02
+slug: "configure-windows-system-monitoring-tools-like-a-pro-windows-11-guide"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Windows 11 brings a fresh, modern interface but still relies on tried-and-true system tools for keeping your PC running smoothly. Whether you’re a beginner or a seasoned PC enthusiast, understanding and configuring these monitoring tools can help you spot issues early, optimize performance, and keep your system healthy. This guide walks you through the most effective ways to use built-in and third-party system monitoring tools, complete with practical examples and expert tips.

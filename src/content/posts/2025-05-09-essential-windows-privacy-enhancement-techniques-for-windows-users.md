@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Privacy Enhancement Techniques for Windows Users"
 date: 2025-05-09
+slug: "essential-windows-privacy-enhancement-techniques-for-windows-users"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 As an advanced Windows user, you are likely aware of the numerous threats to privacy that come with using a personal computer. Enhancing privacy on a Windows system requires a blend of built-in tools, third-party software, and consistent practices. This guide will walk you through advanced techniques to bolster your privacy.

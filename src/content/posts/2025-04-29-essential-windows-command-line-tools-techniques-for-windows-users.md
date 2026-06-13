@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Command Line Tools Techniques for Windows Users"
 date: 2025-04-29
+slug: "essential-windows-command-line-tools-techniques-for-windows-users"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 The Windows Command Line, often referred to as Command Prompt or CMD, is a powerful tool that can significantly enhance your productivity and efficiency when performing various tasks on your PC. From beginners learning the basics to advanced users looking to streamline complex processes, this article explores essential techniques to save time using Windows command line tools.

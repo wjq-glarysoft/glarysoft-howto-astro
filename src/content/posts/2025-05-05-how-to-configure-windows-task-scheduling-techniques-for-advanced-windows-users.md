@@ -1,8 +1,10 @@
 ---
 title: "How to Configure Windows Task Scheduling Techniques for Advanced Windows Users"
 date: 2025-05-05
+slug: "how-to-configure-windows-task-scheduling-techniques-for-advanced-windows-users"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Windows Task Scheduler is a powerful tool that allows users to automate routine tasks, saving time and improving efficiency. Whether you are a beginner or an advanced user, task scheduling can streamline your workflow. This article provides practical, actionable advice for configuring task scheduling techniques, with real-world examples to enhance your Windows experience.

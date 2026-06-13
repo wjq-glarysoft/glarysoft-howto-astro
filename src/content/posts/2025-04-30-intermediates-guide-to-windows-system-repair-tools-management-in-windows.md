@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows System Repair Tools Management in Windows"
 date: 2025-04-30
+slug: "intermediates-guide-to-windows-system-repair-tools-management-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 For advanced Windows users, understanding how to manage system repair tools effectively is crucial for maintaining optimal system performance and stability. This guide delves into advanced techniques for leveraging Windows system repair tools, including using Glary Utilities for comprehensive system cleanup and repair. We'll explore actionable advice and real-world examples to enhance your system maintenance routine.

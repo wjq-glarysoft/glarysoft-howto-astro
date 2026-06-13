@@ -1,8 +1,10 @@
 ---
 title: "How to Secure Windows File Explorer: Tips and Tricks for Advanced Windows Users"
 date: 2025-04-23
+slug: "how-to-secure-windows-file-explorer-tips-and-tricks-for-advanced-windows-users"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Windows File Explorer is an essential component of the Windows operating system, providing users with a graphical interface to manage files and folders. For advanced users, mastering File Explorer can significantly enhance productivity and security. This article offers practical advice and professional insights to help you secure and optimize your use of Windows File Explorer.

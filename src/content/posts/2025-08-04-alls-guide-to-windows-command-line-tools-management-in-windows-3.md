@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows Command Line Tools Management in Windows"
 date: 2025-08-04
+slug: "alls-guide-to-windows-command-line-tools-management-in-windows-3"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Why Learn Windows Command Line Tools?

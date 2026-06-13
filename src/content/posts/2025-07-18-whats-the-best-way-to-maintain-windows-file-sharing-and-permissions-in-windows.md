@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Maintain Windows File Sharing and Permissions in Windows?"
 date: 2025-07-18
+slug: "whats-the-best-way-to-maintain-windows-file-sharing-and-permissions-in-windows"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 How Can You Streamline Windows File Sharing Management?

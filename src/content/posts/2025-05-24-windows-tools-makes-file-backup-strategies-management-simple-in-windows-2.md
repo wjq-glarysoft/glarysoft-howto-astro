@@ -1,8 +1,10 @@
 ---
 title: "Windows Tools Makes File Backup Strategies Management Simple in Windows"
 date: 2025-05-24
+slug: "windows-tools-makes-file-backup-strategies-management-simple-in-windows-2"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Why Should You Back Up Your Files and Folders?

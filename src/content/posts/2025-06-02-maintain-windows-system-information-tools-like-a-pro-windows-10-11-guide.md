@@ -1,8 +1,10 @@
 ---
 title: "maintain Windows system information tools Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-02
+slug: "maintain-windows-system-information-tools-like-a-pro-windows-10-11-guide"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Keeping your Windows PC running smoothly means knowing what’s happening under the hood. Windows 10 and 11 both come packed with powerful system information tools, but many users don’t realize how insightful or helpful they can be for diagnosing issues, planning upgrades, or optimizing performance. This guide will walk you through the built-in tools and introduce you to advanced methods and third-party utilities like [Glary Utilities](https://www.glarysoft.com) for a more comprehensive approach.

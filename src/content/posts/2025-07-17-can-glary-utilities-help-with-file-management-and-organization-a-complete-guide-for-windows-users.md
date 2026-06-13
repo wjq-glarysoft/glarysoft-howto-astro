@@ -1,8 +1,10 @@
 ---
 title: "Can Glary Utilities Help with File Management and Organization? A Complete Guide for Windows Users"
 date: 2025-07-17
+slug: "can-glary-utilities-help-with-file-management-and-organization-a-complete-guide-for-windows-users"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Why Is File Management Important for Windows Users?

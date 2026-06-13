@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Data Encryption Methods Management in Windows"
 date: 2025-07-16
+slug: "advanceds-guide-to-windows-data-encryption-methods-management-in-windows-2"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Understanding data encryption is crucial for anyone who wants to protect their privacy and secure sensitive files on a Windows PC. If you’re a beginner, you might wonder what encryption is, how it works, and what options are available in Windows. This guide will walk you through the basics, explain practical methods for encrypting your data, and offer easy steps to help you get started.

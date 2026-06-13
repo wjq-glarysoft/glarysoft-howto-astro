@@ -1,8 +1,10 @@
 ---
 title: "Windows Command Line Tools Solutions: From Basics to Advanced Techniques"
 date: 2025-04-23
+slug: "windows-command-line-tools-solutions-from-basics-to-advanced-techniques"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Windows command line tools, often overlooked by everyday users, are powerful utilities that can streamline system tasks, automate processes, and troubleshoot issues efficiently. This article delves into these tools, providing practical advice and real-world examples for both beginners and advanced users.

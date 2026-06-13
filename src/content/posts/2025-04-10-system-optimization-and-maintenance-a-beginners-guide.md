@@ -1,8 +1,10 @@
 ---
 title: "System Optimization and Maintenance: A Beginner’s Guide"
 date: 2025-04-10
+slug: "system-optimization-and-maintenance-a-beginners-guide"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 In today’s digital age, maintaining a smoothly running computer system is crucial for productivity and efficiency. For beginners, understanding system optimization and maintenance might seem daunting, but it can be quite manageable with the right approach. This guide will walk you through practical steps and examples to keep your system in top shape.

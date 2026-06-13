@@ -1,8 +1,10 @@
 ---
 title: "How to Monitor and Analyze Your Windows System: A Step-by-Step Guide"
 date: 2025-04-10
+slug: "how-to-monitor-and-analyze-your-windows-system-a-step-by-step-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Keeping a close eye on your Windows system's performance can help you identify potential issues and optimize your computer's overall efficiency. This guide will walk you through the process of monitoring and analyzing your Windows system using built-in tools and third-party software like Glary Utilities, which provides a comprehensive suite for system maintenance.

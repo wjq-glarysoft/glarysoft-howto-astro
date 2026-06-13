@@ -1,8 +1,10 @@
 ---
 title: "Master Windows disk cleanup and optimization with Free Software: Windows User Guide"
 date: 2025-08-07
+slug: "master-windows-disk-cleanup-and-optimization-with-free-software-windows-user-guide-2"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Why Should You Care About Disk Cleanup and Optimization?

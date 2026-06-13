@@ -1,8 +1,10 @@
 ---
 title: "How to Manage Windows Visual Effects Optimization for Beginner Windows Users?"
 date: 2025-08-13
+slug: "how-to-manage-windows-visual-effects-optimization-for-beginner-windows-users"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Understanding Windows Visual Effects

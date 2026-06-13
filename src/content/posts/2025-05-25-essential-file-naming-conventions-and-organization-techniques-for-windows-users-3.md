@@ -1,8 +1,10 @@
 ---
 title: "Essential file naming conventions and organization Techniques for Windows Users"
 date: 2025-05-25
+slug: "essential-file-naming-conventions-and-organization-techniques-for-windows-users-3"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Introduction: Why Do File Naming and Organization Matter?

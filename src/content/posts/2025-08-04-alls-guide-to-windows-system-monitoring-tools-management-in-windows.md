@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows System Monitoring Tools Management in Windows"
 date: 2025-08-04
+slug: "alls-guide-to-windows-system-monitoring-tools-management-in-windows"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Why Is System Monitoring Important in Windows?

@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows System Repair Tools: Clean Up & Repair"
 date: 2025-04-15
+slug: "beginners-guide-to-windows-system-repair-tools-clean-up-repair"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 For many Windows users, keeping a computer running smoothly can seem like a daunting task, especially when faced with mysterious slowdowns or error messages that disrupt daily activities. Fortunately, there are tools and techniques specifically designed to clean up and repair your Windows system, maintaining its performance and reliability. This guide aims to provide beginners with practical and actionable advice on using Windows system repair tools effectively.

@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows Memory Optimization Techniques Management in Windows"
 date: 2025-04-22
+slug: "alls-guide-to-windows-memory-optimization-techniques-management-in-windows"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Introduction to Windows Memory Optimization

@@ -1,8 +1,10 @@
 ---
 title: "When Should You Monitor Windows Security and Privacy Enhancements on Your Windows Computer?"
 date: 2025-06-14
+slug: "when-should-you-monitor-windows-security-and-privacy-enhancements-on-your-windows-computer"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Staying safe online and protecting your personal information is more important than ever. Windows computers come with many security and privacy enhancements, but as a beginner, it’s easy to overlook key steps or fall into common traps. So, when and how should you monitor these settings—and what mistakes should you avoid?

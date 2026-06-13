@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems Windows File Sharing and Permissions Optimization Made Easy"
 date: 2025-08-01
+slug: "windows-systems-windows-file-sharing-and-permissions-optimization-made-easy"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Are you looking for simple ways to share files and folders on your Windows computer while keeping your data safe? Understanding file sharing and permissions can seem confusing for beginners, but with a few easy steps, you can manage your files efficiently and securely. This guide will explain how to quickly set up sharing, adjust permissions, and keep your Windows folders organized.

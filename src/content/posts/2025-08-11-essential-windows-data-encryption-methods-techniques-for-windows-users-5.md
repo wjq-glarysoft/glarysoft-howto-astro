@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows data encryption methods Techniques for Windows Users"
 date: 2025-08-11
+slug: "essential-windows-data-encryption-methods-techniques-for-windows-users-5"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Understanding why data encryption is important

@@ -1,8 +1,10 @@
 ---
 title: "Free Software Makes Windows Network Performance Tuning Management Simple in Windows"
 date: 2025-07-02
+slug: "free-software-makes-windows-network-performance-tuning-management-simple-in-windows-2"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Are you experiencing slow downloads, lag during video calls, or sluggish web browsing on your Windows PC? Network performance issues can be frustrating, but the good news is that you don’t have to be an IT expert to improve your Windows network speed. With the right free software and a few simple steps, anyone—even beginners—can make real improvements to their network performance.

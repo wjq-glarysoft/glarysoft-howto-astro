@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Secure Windows File Explorer Tips and Tricks in Windows Systems"
 date: 2025-08-18
+slug: "the-complete-guide-to-secure-windows-file-explorer-tips-and-tricks-in-windows-systems"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Windows File Explorer is the central hub for managing files and folders on any Windows system. For intermediate users, the challenge is not just navigating through Explorer efficiently but also managing files securely while keeping workflows smooth. This guide walks step by step through practical tips, tricks, and built-in features that help you safeguard data, streamline file management, and keep your system organized.

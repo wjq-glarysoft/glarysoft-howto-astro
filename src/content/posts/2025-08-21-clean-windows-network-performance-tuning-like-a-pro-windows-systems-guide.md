@@ -1,8 +1,10 @@
 ---
 title: "clean Windows network performance tuning Like a Pro: Windows Systems Guide"
 date: 2025-08-21
+slug: "clean-windows-network-performance-tuning-like-a-pro-windows-systems-guide"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 When your Windows PC feels sluggish online, it’s tempting to blame your internet provider. But often, the culprit lies within the system itself—misconfigured settings, unnecessary background processes, or overlooked maintenance habits. Network performance tuning is not just about boosting speed; it’s about making sure your Windows system uses bandwidth efficiently and reliably. This guide explores common mistakes to avoid while offering practical steps to keep network performance clean and optimized.

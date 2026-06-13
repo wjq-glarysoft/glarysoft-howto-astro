@@ -1,8 +1,10 @@
 ---
 title: "Master Windows File Explorer Tips and Tricks with Windows Tools: Windows User Guide"
 date: 2025-07-02
+slug: "master-windows-file-explorer-tips-and-tricks-with-windows-tools-windows-user-guide"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Are you comfortable using Windows but want to get more out of File Explorer? File Explorer is a powerful tool, but many users only scratch the surface of its abilities. This guide will help you unlock practical tips and tricks to manage your files and folders more efficiently, making day-to-day tasks faster and easier.

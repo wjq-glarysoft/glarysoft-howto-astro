@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Repair File Management and Organization in Windows 10 & 11"
 date: 2025-07-13
+slug: "the-complete-guide-to-repair-file-management-and-organization-in-windows-10-11"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Efficient file management and organization are essential for keeping Windows 10 & 11 systems running smoothly and making your daily tasks easier. Whether you're a beginner just starting to organize your computer or an advanced user looking to streamline your workflow, this guide provides step-by-step instructions, practical tips, and real-world examples to help you take control of your files and folders.

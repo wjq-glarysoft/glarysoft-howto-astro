@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Organize File Recovery Methods in Windows 11"
 date: 2025-05-04
+slug: "the-complete-guide-to-organize-file-recovery-methods-in-windows-11"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Losing important files can be a distressing experience, but with Windows 11, there are several methods to recover your files. This guide will walk you through the process of organizing and executing file recovery methods efficiently, ensuring you have the best chance of retrieving your lost data.

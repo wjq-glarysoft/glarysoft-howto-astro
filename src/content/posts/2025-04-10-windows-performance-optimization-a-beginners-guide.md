@@ -1,8 +1,10 @@
 ---
 title: "Windows Performance Optimization: A Beginner's Guide"
 date: 2025-04-10
+slug: "windows-performance-optimization-a-beginners-guide"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 If you're new to optimizing your Windows PC, you might feel overwhelmed by the technical jargon and myriad of options available. Don't worry—this guide will walk you through practical, actionable steps to enhance your computer's performance without requiring advanced technical skills. Whether you're dealing with slow boot times or general lag, these tips can help improve your system's speed and responsiveness.

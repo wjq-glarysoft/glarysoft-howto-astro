@@ -1,8 +1,10 @@
 ---
 title: "Master Windows File Sharing and Permissions with Windows Tools: Windows User Guide"
 date: 2025-05-17
+slug: "master-windows-file-sharing-and-permissions-with-windows-tools-windows-user-guide"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Navigating Windows file sharing and permissions is crucial for both home and professional users who need to manage access to their data effectively. This guide will walk you through the essentials of file sharing and permissions, providing practical, actionable advice for Windows users.

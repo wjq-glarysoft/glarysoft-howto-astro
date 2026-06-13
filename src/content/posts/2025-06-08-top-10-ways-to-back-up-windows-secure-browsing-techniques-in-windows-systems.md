@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Back Up Windows Secure Browsing Techniques in Windows Systems"
 date: 2025-06-08
+slug: "top-10-ways-to-back-up-windows-secure-browsing-techniques-in-windows-systems"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 When it comes to privacy and security, safe browsing habits are your first line of defense against online threats. Making mistakes in your browsing routine can lead to malware infections, identity theft, or unwanted surveillance. To help you avoid common pitfalls, this article highlights the top 10 secure browsing techniques for Windows users, with practical examples and clear instructions for both beginners and advanced users.

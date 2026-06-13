@@ -1,8 +1,10 @@
 ---
 title: "When Should You Optimize Windows Memory? Memory Optimization Techniques on Your Windows Computer"
 date: 2025-05-25
+slug: "when-should-you-optimize-windows-memory-memory-optimization-techniques-on-your-windows-computer"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Is Your Computer Slowing Down? Signs You Need to Optimize Memory

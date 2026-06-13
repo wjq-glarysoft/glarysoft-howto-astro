@@ -1,8 +1,10 @@
 ---
 title: "Free Software Makes Security and Privacy Protection Management Simple in Windows"
 date: 2025-06-09
+slug: "free-software-makes-security-and-privacy-protection-management-simple-in-windows"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Securing your Windows PC and protecting your privacy can feel confusing, especially if you’re a beginner. Fortunately, there are free tools that make these important tasks simple and straightforward. In this guide, we’ll walk you through practical steps you can take to improve your security and privacy on Windows using easy, free solutions. Let’s get started.

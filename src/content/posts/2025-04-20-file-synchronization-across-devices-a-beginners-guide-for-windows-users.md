@@ -1,8 +1,10 @@
 ---
 title: "File Synchronization Across Devices: A Beginner's Guide for Windows Users"
 date: 2025-04-20
+slug: "file-synchronization-across-devices-a-beginners-guide-for-windows-users"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 In today's digital age, having access to your files and folders on multiple devices is not just a convenience but a necessity. Whether you're working from a desktop at home, a laptop on the go, or a mobile device in a meeting, file synchronization ensures that you always have the latest version of your documents, photos, and other files. This guide will walk you through the basics of file synchronization across devices for Windows users, with practical tips and examples to get you started.

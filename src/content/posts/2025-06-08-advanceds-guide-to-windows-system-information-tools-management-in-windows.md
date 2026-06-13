@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows System Information Tools Management in Windows"
 date: 2025-06-08
+slug: "advanceds-guide-to-windows-system-information-tools-management-in-windows"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Introduction

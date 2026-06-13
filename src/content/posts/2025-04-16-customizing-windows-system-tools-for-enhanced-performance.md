@@ -1,8 +1,10 @@
 ---
 title: "Customizing Windows System Tools for Enhanced Performance"
 date: 2025-04-16
+slug: "customizing-windows-system-tools-for-enhanced-performance"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 When it comes to optimizing a Windows PC for peak performance, understanding and customizing system tools is essential. These tools help streamline processes, manage resources, and ultimately ensure that your computer runs smoothly. This article provides professional insights into customizing these tools, offering practical, actionable advice for both novice and advanced users.

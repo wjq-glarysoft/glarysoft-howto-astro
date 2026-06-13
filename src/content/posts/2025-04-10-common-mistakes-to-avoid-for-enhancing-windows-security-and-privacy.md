@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid for Enhancing Windows Security and Privacy"
 date: 2025-04-10
+slug: "common-mistakes-to-avoid-for-enhancing-windows-security-and-privacy"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 When it comes to Windows security and privacy, even small oversights can leave your system vulnerable to threats. Many users make common mistakes that can easily be avoided with a bit of knowledge and proactive measures. This article will delve into these pitfalls and provide actionable advice to enhance your Windows security and privacy.

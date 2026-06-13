@@ -1,8 +1,10 @@
 ---
 title: "Advanced Techniques for Cleaning Up Temporary Files in Windows"
 date: 2025-04-16
+slug: "advanced-techniques-for-cleaning-up-temporary-files-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Temporary files can quickly accumulate on your Windows PC, taking up valuable disk space and sometimes affecting system performance. While basic cleanup methods can be effective, advanced techniques can ensure a more thorough cleanup, optimizing your system for better performance. This article explores advanced strategies for cleaning up temporary files, providing actionable advice for Windows users.

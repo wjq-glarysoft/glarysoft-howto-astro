@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Troubleshoot Windows System Repair Tools in Windows 11"
 date: 2025-06-15
+slug: "the-complete-guide-to-troubleshoot-windows-system-repair-tools-in-windows-11"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Keeping your Windows 11 computer running smoothly often means knowing how to identify and fix problems when they arise. Windows provides a variety of system repair tools designed to detect and resolve issues automatically or with some guidance. However, these tools can sometimes be confusing to use, and knowing which tool to choose—and how to use it effectively—can make all the difference. This guide walks you through the most important Windows system repair tools, offering practical, step-by-step instructions. We also introduce [Glary Utilities](https://www.glarysoft.com) as a comprehensive third-party solution for deeper clean up and repair tasks.

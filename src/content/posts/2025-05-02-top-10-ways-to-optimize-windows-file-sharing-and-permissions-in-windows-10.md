@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Optimize Windows File Sharing and Permissions in Windows 10"
 date: 2025-05-02
+slug: "top-10-ways-to-optimize-windows-file-sharing-and-permissions-in-windows-10"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 File sharing and managing permissions in Windows 10 can significantly boost productivity, especially in home or office networks. Here are ten ways to optimize file sharing and set permissions effectively.

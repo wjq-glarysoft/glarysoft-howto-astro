@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows Security Settings Configuration Management in Windows"
 date: 2025-05-22
+slug: "alls-guide-to-windows-security-settings-configuration-management-in-windows"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Why Is Security Settings Configuration Management Essential for Advanced Windows Users?

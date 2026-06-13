@@ -1,8 +1,10 @@
 ---
 title: "secure file management and organization Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-05
+slug: "secure-file-management-and-organization-like-a-pro-windows-10-11-guide"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Why Does Secure File Management Matter?

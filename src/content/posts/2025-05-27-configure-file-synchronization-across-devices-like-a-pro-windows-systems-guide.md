@@ -1,8 +1,10 @@
 ---
 title: "configure file synchronization across devices Like a Pro: Windows Systems Guide"
 date: 2025-05-27
+slug: "configure-file-synchronization-across-devices-like-a-pro-windows-systems-guide"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Keeping your files up-to-date and accessible across multiple Windows devices is essential in today’s mobile world. Whether you’re working across a desktop, laptop, or even a tablet, effective file synchronization ensures you always have the latest documents, photos, and project files at your fingertips. This guide provides expert insights into configuring file synchronization on Windows systems, packed with actionable steps and real-world examples tailored for intermediate users.

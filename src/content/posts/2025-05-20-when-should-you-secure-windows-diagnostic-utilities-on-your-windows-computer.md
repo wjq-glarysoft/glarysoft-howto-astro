@@ -1,8 +1,10 @@
 ---
 title: "When Should You Secure Windows Diagnostic Utilities on Your Windows Computer?"
 date: 2025-05-20
+slug: "when-should-you-secure-windows-diagnostic-utilities-on-your-windows-computer"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Windows diagnostic utilities are essential for maintaining and troubleshooting your computer. These tools help identify issues with hardware and software, ensuring your system runs smoothly. Knowing when and how to secure these utilities is crucial for both beginners and advanced users. This article will guide you through the best practices for securing these vital tools on your Windows computer.

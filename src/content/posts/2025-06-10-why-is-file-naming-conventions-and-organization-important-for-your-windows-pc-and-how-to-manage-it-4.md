@@ -1,8 +1,10 @@
 ---
 title: "Why is file naming conventions and organization Important for Your Windows PC and How to Manage It?"
 date: 2025-06-10
+slug: "why-is-file-naming-conventions-and-organization-important-for-your-windows-pc-and-how-to-manage-it-4"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Have you ever spent too long searching for a document you know is on your PC, or struggled to know which version of a file is most up-to-date? You’re not alone. Whether you use your Windows computer for work, study, or personal tasks, organizing your files and folders—and naming them consistently—saves you time and frustration. Here’s why it matters and how you can manage it efficiently.

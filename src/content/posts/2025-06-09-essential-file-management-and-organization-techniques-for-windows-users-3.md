@@ -1,8 +1,10 @@
 ---
 title: "Essential File Management and Organization Techniques for Windows Users"
 date: 2025-06-09
+slug: "essential-file-management-and-organization-techniques-for-windows-users-3"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Introduction: Why Is File Management Important?

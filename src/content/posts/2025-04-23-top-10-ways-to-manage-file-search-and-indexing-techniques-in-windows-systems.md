@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Manage File Search and Indexing Techniques in Windows Systems"
 date: 2025-04-23
+slug: "top-10-ways-to-manage-file-search-and-indexing-techniques-in-windows-systems"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Finding files quickly on your Windows system can often be a challenge, especially if you have numerous documents, images, and other files scattered across folders. Efficient file search and indexing can save you time and improve productivity. This guide provides practical advice for both beginners and advanced users on managing file search and indexing techniques in Windows.

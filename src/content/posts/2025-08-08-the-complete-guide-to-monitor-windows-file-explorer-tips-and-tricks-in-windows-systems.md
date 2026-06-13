@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Monitor Windows File Explorer Tips and Tricks in Windows Systems"
 date: 2025-08-08
+slug: "the-complete-guide-to-monitor-windows-file-explorer-tips-and-tricks-in-windows-systems"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Windows File Explorer is the heart of file and folder management in any Windows system. While basic tasks like copying, moving, and deleting are familiar to most users, there’s a wealth of advanced techniques and capabilities designed to boost your productivity and maintain a well-organized system. This guide covers practical, actionable tips and tricks, catering to both beginners and advanced users, so you can get the most out of File Explorer.

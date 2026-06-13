@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid in Windows CPU Performance Tuning"
 date: 2025-04-15
+slug: "common-mistakes-to-avoid-in-windows-cpu-performance-tuning"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Optimizing CPU performance on a Windows PC is often a critical task for users looking to enhance system speed and efficiency. However, in the process of tuning CPU performance, there are common pitfalls that users should be aware of to prevent degrading their system's functionality. In this article, we will discuss some of these common mistakes and provide practical advice on how to avoid them, using real-world examples.

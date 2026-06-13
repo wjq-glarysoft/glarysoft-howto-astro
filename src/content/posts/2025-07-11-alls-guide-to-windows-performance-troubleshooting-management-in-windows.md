@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows Performance Troubleshooting Management in Windows"
 date: 2025-07-11
+slug: "alls-guide-to-windows-performance-troubleshooting-management-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Windows computers, regardless of age or hardware power, can sometimes slow down, become unresponsive, or behave unpredictably. Effective performance troubleshooting is not just about identifying the cause; it’s about knowing which advanced tools and techniques can restore speed and stability. This guide will walk you through both basic and advanced methods to clean up and repair your Windows system, improving its performance and reliability.

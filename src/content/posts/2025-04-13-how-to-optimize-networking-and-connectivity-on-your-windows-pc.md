@@ -1,8 +1,10 @@
 ---
 title: "How to Optimize Networking and Connectivity on Your Windows PC"
 date: 2025-04-13
+slug: "how-to-optimize-networking-and-connectivity-on-your-windows-pc"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 In today's digital age, having a reliable and fast network connection is crucial for both work and leisure. Whether you're streaming videos, playing online games, or attending virtual meetings, optimizing your networking and connectivity can greatly enhance your experience. This tutorial will guide you through practical steps to improve your network performance on a Windows PC.

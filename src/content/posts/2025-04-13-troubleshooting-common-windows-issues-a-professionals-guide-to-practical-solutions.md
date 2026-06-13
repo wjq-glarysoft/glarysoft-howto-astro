@@ -1,8 +1,10 @@
 ---
 title: "Troubleshooting Common Windows Issues: A Professional's Guide to Practical Solutions"
 date: 2025-04-13
+slug: "troubleshooting-common-windows-issues-a-professionals-guide-to-practical-solutions"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 When faced with Windows issues, it’s essential to approach troubleshooting systematically to ensure a solution that is both effective and efficient. Below are some common Windows problems accompanied by actionable advice and real-world examples to guide you through resolving them.

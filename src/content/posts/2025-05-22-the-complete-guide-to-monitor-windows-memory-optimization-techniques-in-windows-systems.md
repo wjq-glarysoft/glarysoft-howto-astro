@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Monitor Windows Memory Optimization Techniques in Windows Systems"
 date: 2025-05-22
+slug: "the-complete-guide-to-monitor-windows-memory-optimization-techniques-in-windows-systems"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Understanding how to optimize and monitor memory in Windows systems is crucial for maintaining a smooth, efficient computing experience. This guide offers comprehensive techniques for both beginners and advanced users to enhance their system's performance.

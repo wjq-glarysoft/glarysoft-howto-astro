@@ -1,8 +1,10 @@
 ---
 title: "10 Built-in Features for Better Windows User Account Security Management"
 date: 2025-05-02
+slug: "10-built-in-features-for-better-windows-user-account-security-management"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Managing user account security on Windows can seem daunting, especially if you're new to the system. However, using built-in features effectively can significantly enhance your account security. This guide will introduce you to ten essential Windows features that can help you ensure your user account remains safe and secure.

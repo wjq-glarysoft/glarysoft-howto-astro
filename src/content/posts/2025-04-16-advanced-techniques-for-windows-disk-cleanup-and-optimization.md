@@ -1,8 +1,10 @@
 ---
 title: "Advanced Techniques for Windows Disk Cleanup and Optimization"
 date: 2025-04-16
+slug: "advanced-techniques-for-windows-disk-cleanup-and-optimization"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 As Windows users, many of us are familiar with basic disk cleanup tasks like removing temporary files or clearing the Recycle Bin. However, for those looking to achieve even greater performance and efficiency, it's worth exploring advanced disk cleanup and optimization techniques. These methods can significantly enhance system speed, free up space, and maintain overall system health.

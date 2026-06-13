@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows CPU Performance Tuning Management in Windows"
 date: 2025-05-28
+slug: "advanceds-guide-to-windows-cpu-performance-tuning-management-in-windows-2"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Introduction

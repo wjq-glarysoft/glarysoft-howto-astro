@@ -1,8 +1,10 @@
 ---
 title: "Master Windows secure browsing techniques with Windows Tools: Windows User Guide"
 date: 2025-05-04
+slug: "master-windows-secure-browsing-techniques-with-windows-tools-windows-user-guide"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 In today's digital age, ensuring your online activities remain private and secure is more crucial than ever. Whether you're a beginner or an advanced user, implementing secure browsing techniques on your Windows computer can significantly protect your personal information from cyber threats. This guide will walk you through practical, actionable steps to enhance your online privacy and security using Windows tools and settings.

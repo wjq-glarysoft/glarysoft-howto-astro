@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Optimize Windows Disk Cleanup and Optimization in Windows 11"
 date: 2025-05-25
+slug: "the-complete-guide-to-optimize-windows-disk-cleanup-and-optimization-in-windows-11"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Keeping your Windows 11 PC running smoothly is essential, especially as everyday use can clutter your hard drive and slow down performance. Fortunately, even if you’re a beginner, you can take several simple steps to clean up and optimize your disk effectively. This guide will walk you through the basics of Windows disk cleanup and introduce you to a powerful tool—Glary Utilities—that can make advanced cleanup and optimization easy for anyone.

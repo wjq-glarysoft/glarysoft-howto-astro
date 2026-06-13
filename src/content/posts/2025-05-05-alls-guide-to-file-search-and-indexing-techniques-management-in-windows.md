@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to File Search and Indexing Techniques Management in Windows"
 date: 2025-05-05
+slug: "alls-guide-to-file-search-and-indexing-techniques-management-in-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Managing files efficiently in Windows can significantly enhance your productivity and save time. Whether you’re a novice or an experienced user, understanding file search and indexing techniques can streamline your workflow. This guide provides practical advice and real-world examples on how to manage these processes effectively.

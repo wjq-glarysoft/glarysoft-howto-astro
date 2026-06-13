@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to System Optimization and Maintenance Management in Windows"
 date: 2025-05-16
+slug: "beginners-guide-to-system-optimization-and-maintenance-management-in-windows"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 In today's fast-paced digital world, keeping your Windows PC running smoothly and efficiently is more important than ever. System optimization and maintenance can seem daunting, especially for beginners, but with the right tips and tools, you can save time and effort while ensuring your computer operates at its best. Here’s a practical guide to help you optimize and maintain your Windows system.

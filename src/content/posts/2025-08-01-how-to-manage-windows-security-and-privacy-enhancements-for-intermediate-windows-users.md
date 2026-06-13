@@ -1,8 +1,10 @@
 ---
 title: "How to manage Windows security and privacy enhancements for Intermediate Windows Users?"
 date: 2025-08-01
+slug: "how-to-manage-windows-security-and-privacy-enhancements-for-intermediate-windows-users"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows PCs come with a wide range of security and privacy features, but even intermediate users can make mistakes that leave their systems vulnerable. Managing these settings effectively is crucial to safeguarding your data and privacy. This article highlights common pitfalls and offers practical, actionable steps to enhance your Windows security and privacy.

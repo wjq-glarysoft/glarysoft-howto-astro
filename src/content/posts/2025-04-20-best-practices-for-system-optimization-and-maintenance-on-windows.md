@@ -1,8 +1,10 @@
 ---
 title: "Best Practices for System Optimization and Maintenance on Windows"
 date: 2025-04-20
+slug: "best-practices-for-system-optimization-and-maintenance-on-windows"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 In the fast-paced world of technology, keeping your Windows system running at peak performance can seem like a daunting task. However, with a few best practices, you can easily optimize and maintain your PC to ensure it stays in top shape. Here, we'll explore practical advice and real-world examples of how to achieve this, focusing on optimization and improved system performance.

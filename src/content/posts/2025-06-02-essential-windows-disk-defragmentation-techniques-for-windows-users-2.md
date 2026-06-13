@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows disk defragmentation Techniques for Windows Users"
 date: 2025-06-02
+slug: "essential-windows-disk-defragmentation-techniques-for-windows-users-2"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Is Disk Defragmentation Still Important?

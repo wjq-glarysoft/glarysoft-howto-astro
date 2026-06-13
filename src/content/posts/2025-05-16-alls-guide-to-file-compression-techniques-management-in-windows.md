@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to File Compression Techniques Management in Windows"
 date: 2025-05-16
+slug: "alls-guide-to-file-compression-techniques-management-in-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 File compression is an essential skill for anyone looking to efficiently manage files and folders on a Windows system. Whether you're looking to save disk space, streamline file transfers, or secure sensitive information, understanding how to effectively use compression tools can be a game-changer. This guide provides intermediate Windows users with practical advice on managing file compression techniques.

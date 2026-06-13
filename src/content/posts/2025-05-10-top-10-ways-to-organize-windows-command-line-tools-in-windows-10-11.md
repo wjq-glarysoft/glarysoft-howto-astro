@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Organize Windows Command Line Tools in Windows 10 & 11"
 date: 2025-05-10
+slug: "top-10-ways-to-organize-windows-command-line-tools-in-windows-10-11"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 The command line interface (CLI) in Windows 10 and 11 offers users powerful ways to manage and optimize their systems, especially through system tools. Whether you're a novice or an advanced user, organizing these tools efficiently can significantly enhance productivity. Here are ten ways to effectively organize command line tools within Windows 10 and 11 for all user levels.

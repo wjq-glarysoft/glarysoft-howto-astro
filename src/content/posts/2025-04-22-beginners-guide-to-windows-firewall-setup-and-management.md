@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Firewall Setup and Management"
 date: 2025-04-22
+slug: "beginners-guide-to-windows-firewall-setup-and-management"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Understanding how to properly configure and manage the Windows Firewall is essential for maintaining the privacy and security of your computer. Windows Firewall acts as a barrier between your computer and the internet, blocking potentially harmful connections while allowing safe traffic. This guide will walk you through the basics of setting up and managing the Windows Firewall, offering tips for both beginners and advanced users.

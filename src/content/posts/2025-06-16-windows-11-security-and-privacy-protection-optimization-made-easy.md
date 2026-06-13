@@ -1,8 +1,10 @@
 ---
 title: "Windows 11 security and privacy protection Optimization Made Easy"
 date: 2025-06-16
+slug: "windows-11-security-and-privacy-protection-optimization-made-easy"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Are you looking to protect your personal data and keep your Windows 11 system secure, but don’t want to spend hours managing settings? For intermediate users, maintaining strong privacy and security doesn’t have to be time-consuming. With a few smart tweaks and the right tools, you can save time while ensuring robust protection for your data. This guide will show you practical, effective ways to optimize your Windows 11 security and privacy.

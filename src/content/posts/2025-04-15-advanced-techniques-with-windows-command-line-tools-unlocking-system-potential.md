@@ -1,8 +1,10 @@
 ---
 title: "Advanced Techniques with Windows Command Line Tools: Unlocking System Potential"
 date: 2025-04-15
+slug: "advanced-techniques-with-windows-command-line-tools-unlocking-system-potential"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 For many users, the Windows command line remains a mysterious tool, yet it offers considerable power for those who dare to explore. In this article, we'll delve into advanced techniques using command line tools that can optimize and maintain your Windows system effectively. These tools not only allow you to perform tasks more efficiently but also to automate routine system maintenance.

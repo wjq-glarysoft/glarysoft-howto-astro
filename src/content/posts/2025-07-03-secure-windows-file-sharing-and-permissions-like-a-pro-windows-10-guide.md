@@ -1,8 +1,10 @@
 ---
 title: "secure Windows file sharing and permissions Like a Pro: Windows 10 Guide"
 date: 2025-07-03
+slug: "secure-windows-file-sharing-and-permissions-like-a-pro-windows-10-guide"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Sharing files and folders in Windows 10 is powerful and convenient, but improper configuration can expose your data to risks. Whether at home or in a small office, securely sharing files requires understanding permissions and best practices. This guide walks you through professional-level steps to ensure your shared data remains accessible only to the right people.

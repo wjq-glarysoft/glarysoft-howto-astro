@@ -1,8 +1,10 @@
 ---
 title: "Master Windows system repair tools with Free Software: Windows User Guide"
 date: 2025-06-29
+slug: "master-windows-system-repair-tools-with-free-software-windows-user-guide-3"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Why Should Advanced Users Prioritize System Repair and Cleanup?

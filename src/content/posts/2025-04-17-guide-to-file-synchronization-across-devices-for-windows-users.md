@@ -1,8 +1,10 @@
 ---
 title: "Guide to File Synchronization Across Devices for Windows Users"
 date: 2025-04-17
+slug: "guide-to-file-synchronization-across-devices-for-windows-users"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 In today's digital age, keeping your files synchronized across multiple devices is essential for productivity and data management. Whether you're working from a desktop, a laptop, or even a tablet, having access to the most recent versions of your files is crucial. This guide will walk you through the basics of file synchronization for Windows users, offering practical examples and actionable advice.

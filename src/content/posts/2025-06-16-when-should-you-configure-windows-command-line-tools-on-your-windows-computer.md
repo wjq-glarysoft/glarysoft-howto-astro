@@ -1,8 +1,10 @@
 ---
 title: "When Should You Configure Windows Command Line Tools on Your Windows Computer?"
 date: 2025-06-16
+slug: "when-should-you-configure-windows-command-line-tools-on-your-windows-computer"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 For many Windows users, system tasks are usually done through the graphical interface. However, Windows command line tools can be a big time-saver, especially when dealing with repetitive, complex, or hidden system maintenance tasks. Even for beginners, knowing when and how to use these tools can save time and make your PC maintenance more efficient.

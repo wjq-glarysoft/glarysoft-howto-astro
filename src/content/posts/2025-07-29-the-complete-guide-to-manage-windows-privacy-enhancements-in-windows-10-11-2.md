@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Manage Windows Privacy Enhancements in Windows 10 & 11"
 date: 2025-07-29
+slug: "the-complete-guide-to-manage-windows-privacy-enhancements-in-windows-10-11-2"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Windows 10 and Windows 11 offer many features designed to improve your experience, but they also collect a significant amount of personal data. Whether you are concerned about targeted ads, location tracking, or diagnostic data sent to Microsoft, understanding how to manage these privacy settings is essential. This guide covers everything from basic settings to advanced privacy controls, with step-by-step instructions for users of all levels.

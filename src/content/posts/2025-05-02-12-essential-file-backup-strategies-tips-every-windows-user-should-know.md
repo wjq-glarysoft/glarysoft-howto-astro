@@ -1,8 +1,10 @@
 ---
 title: "12 Essential File Backup Strategies Tips Every Windows User Should Know"
 date: 2025-05-02
+slug: "12-essential-file-backup-strategies-tips-every-windows-user-should-know"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 For advanced Windows users, backing up files is not just a routine task—it's a critical component of data management and security. Here are 12 essential file backup strategies that every advanced user should consider:

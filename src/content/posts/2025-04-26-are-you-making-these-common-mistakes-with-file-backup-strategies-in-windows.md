@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with File Backup Strategies in Windows?"
 date: 2025-04-26
+slug: "are-you-making-these-common-mistakes-with-file-backup-strategies-in-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 In today's digital age, safeguarding your files and folders is crucial. However, many Windows users make common mistakes when implementing their file backup strategies. Whether you are a beginner or an advanced user, this guide will help you avoid these pitfalls with practical, step-by-step advice.

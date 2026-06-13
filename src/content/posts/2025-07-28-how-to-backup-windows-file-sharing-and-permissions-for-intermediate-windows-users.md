@@ -1,8 +1,10 @@
 ---
 title: "How to Backup Windows File Sharing and Permissions for Intermediate Windows Users"
 date: 2025-07-28
+slug: "how-to-backup-windows-file-sharing-and-permissions-for-intermediate-windows-users"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Windows file sharing is a powerful feature, allowing you to collaborate and share resources across your network. However, when planning for backups or migrations, the challenge isn’t just copying files—it’s preserving their sharing settings and NTFS permissions. These permissions dictate who can access what, and how. For anyone managing shared folders on a home or small office network, understanding how to back up and restore these settings is crucial.

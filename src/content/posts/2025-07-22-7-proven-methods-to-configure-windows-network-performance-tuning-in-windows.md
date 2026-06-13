@@ -1,8 +1,10 @@
 ---
 title: "7 Proven Methods to Configure Windows Network Performance Tuning in Windows"
 date: 2025-07-22
+slug: "7-proven-methods-to-configure-windows-network-performance-tuning-in-windows"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Optimizing network performance is crucial for a smooth Windows experience, especially when you rely on fast downloads, streaming, or network-intensive applications. Intermediate Windows users can benefit a lot by tuning certain settings to maximize throughput, reduce latency, and achieve stable connections. Below are seven proven methods to improve network performance on your Windows PC, each explained with step-by-step instructions and practical examples.

@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems Windows Temporary File Cleanup Optimization Made Easy"
 date: 2025-06-13
+slug: "windows-systems-windows-temporary-file-cleanup-optimization-made-easy"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Temporary files are a common cause of sluggish computers and wasted disk space on Windows systems. Over time, these files—created by your operating system and applications—can pile up, leading to unnecessary clutter and slower performance. Cleaning them regularly is a simple but powerful step towards optimizing your PC. This guide walks you through the most effective ways to clean up temporary files, with clear instructions for both beginners and advanced users.

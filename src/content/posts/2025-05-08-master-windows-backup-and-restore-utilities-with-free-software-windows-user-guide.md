@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Backup and Restore Utilities with Free Software: Windows User Guide"
 date: 2025-05-08
+slug: "master-windows-backup-and-restore-utilities-with-free-software-windows-user-guide"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 As an intermediate Windows user, you likely understand the importance of safeguarding your data to prevent loss due to hardware failures, accidents, or malware attacks. Learning to master Windows backup and restore utilities can ensure your system remains resilient against such threats. This guide will walk you through practical steps, using free software where necessary, to optimize your backup and restore processes.

@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Optimize Windows Data Encryption Methods in Windows 11"
 date: 2025-07-27
+slug: "the-complete-guide-to-optimize-windows-data-encryption-methods-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Keeping your personal or business data safe is more important than ever. Windows 11 offers several built-in data encryption methods to help secure your sensitive information, whether you're protecting files on your PC, external drives, or across your network. This guide will walk you through practical steps to optimize encryption on your system, ensuring maximum privacy and security for users of all levels.

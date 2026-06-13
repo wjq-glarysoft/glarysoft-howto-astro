@@ -1,8 +1,10 @@
 ---
 title: "7 Essential Windows Firewall Setup and Management Tips Every Windows User Should Know"
 date: 2025-05-17
+slug: "7-essential-windows-firewall-setup-and-management-tips-every-windows-user-should-know"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 The Windows Firewall is a critical component of your PC's security infrastructure, designed to prevent unauthorized access while allowing legitimate communication to pass through. Whether you're a beginner or an advanced user, understanding how to configure and manage your firewall effectively can help safeguard your privacy and security. Here are seven essential tips to enhance your Windows Firewall settings.

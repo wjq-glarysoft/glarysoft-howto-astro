@@ -1,8 +1,10 @@
 ---
 title: "Master Windows user account security with Glary Utilities: Windows User Guide"
 date: 2025-04-28
+slug: "master-windows-user-account-security-with-glary-utilities-windows-user-guide"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 When navigating the world of Windows user accounts, maintaining robust security is essential for protecting your personal data and system integrity. For beginner Windows users, understanding common mistakes and knowing how to avoid them can enhance your privacy and security. Here’s how you can master user account security with some practical advice and the help of Glary Utilities.

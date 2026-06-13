@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Repair Windows Task Scheduling Techniques in Windows 10 & 11"
 date: 2025-05-10
+slug: "the-complete-guide-to-repair-windows-task-scheduling-techniques-in-windows-10-11"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Introduction to Task Scheduling in Windows

@@ -1,8 +1,10 @@
 ---
 title: "Can Built-in Features Help with File Synchronization Across Devices? A Complete Guide for Windows Users"
 date: 2025-07-07
+slug: "can-built-in-features-help-with-file-synchronization-across-devices-a-complete-guide-for-windows-users"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Why is File Synchronization Important for Advanced Windows Users?

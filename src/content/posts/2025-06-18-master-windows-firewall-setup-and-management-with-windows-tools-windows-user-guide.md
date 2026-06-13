@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Firewall Setup and Management with Windows Tools: Windows User Guide"
 date: 2025-06-18
+slug: "master-windows-firewall-setup-and-management-with-windows-tools-windows-user-guide"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Introduction

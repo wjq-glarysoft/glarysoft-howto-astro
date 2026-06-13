@@ -1,8 +1,10 @@
 ---
 title: "10 Essential Windows Maintenance Tasks and Tools Tips Every Windows User Should Know"
 date: 2025-05-22
+slug: "10-essential-windows-maintenance-tasks-and-tools-tips-every-windows-user-should-know"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Maintaining a Windows PC doesn't have to be a daunting task, even if you're new to it. With the right knowledge and tools, you can easily keep your system running smoothly. Here are ten essential maintenance tasks and tips every Windows user should know to ensure a well-optimized and efficiently running computer.

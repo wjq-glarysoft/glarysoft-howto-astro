@@ -1,8 +1,10 @@
 ---
 title: "How to Clean File Search and Indexing Techniques for Intermediate Windows Users"
 date: 2025-07-19
+slug: "how-to-clean-file-search-and-indexing-techniques-for-intermediate-windows-users"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Searching for files in Windows can be a make-or-break experience for productivity. With large hard drives, cloud synchronization, and thousands of files scattered across various locations, the built-in Windows Search may not always provide the speed or accuracy you need. Understanding and cleaning up your file search and indexing techniques can dramatically improve your overall file management experience.

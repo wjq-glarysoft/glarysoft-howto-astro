@@ -1,8 +1,10 @@
 ---
 title: "When Should You Improve Windows Memory Optimization Techniques on Your Windows Computer?"
 date: 2025-08-03
+slug: "when-should-you-improve-windows-memory-optimization-techniques-on-your-windows-computer"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Is Your Computer Slowing Down During Multitasking?

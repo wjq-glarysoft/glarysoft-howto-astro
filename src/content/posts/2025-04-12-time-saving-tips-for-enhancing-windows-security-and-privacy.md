@@ -1,8 +1,10 @@
 ---
 title: "Time-Saving Tips for Enhancing Windows Security and Privacy"
 date: 2025-04-12
+slug: "time-saving-tips-for-enhancing-windows-security-and-privacy"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 In today's digital world, ensuring your Windows PC is secure and your privacy is protected is essential. However, many users find themselves overwhelmed by the complexity and time commitment associated with maintaining these aspects. Here are some practical, time-saving tips to enhance your Windows security and privacy, enabling you to protect your data without unnecessary hassle.

@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Command Line Tools with Windows Tools: Windows User Guide"
 date: 2025-05-01
+slug: "master-windows-command-line-tools-with-windows-tools-windows-user-guide-2"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 The Windows command line, also known as the Command Prompt or CMD, is a powerful tool that can boost your productivity and streamline tasks that might otherwise take much longer with a graphical interface. For system administrators and power users, mastering these command line tools can greatly enhance your Windows computing experience. This guide offers best practices and practical examples for using these tools effectively.

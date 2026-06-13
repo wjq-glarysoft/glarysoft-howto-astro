@@ -1,8 +1,10 @@
 ---
 title: "When Should You Clean Windows Disk Defragmentation on Your Windows Computer?"
 date: 2025-05-02
+slug: "when-should-you-clean-windows-disk-defragmentation-on-your-windows-computer"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Understanding when to perform disk defragmentation on your Windows computer can significantly enhance your system’s performance. This article will guide you through the basics and provide actionable advice suitable for both beginners and advanced users.

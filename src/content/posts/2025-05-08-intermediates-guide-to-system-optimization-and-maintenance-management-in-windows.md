@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to System Optimization and Maintenance Management in Windows"
 date: 2025-05-08
+slug: "intermediates-guide-to-system-optimization-and-maintenance-management-in-windows"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 For those who have been using Windows for a while, you may notice that over time, your PC can become slower and more cluttered. This guide will help you understand how to optimize and maintain your Windows system to keep it running smoothly. We will explore practical, actionable steps and use real-world examples to ensure your computer stays in top shape.

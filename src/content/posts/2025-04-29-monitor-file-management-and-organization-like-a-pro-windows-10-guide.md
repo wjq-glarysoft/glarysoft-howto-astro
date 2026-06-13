@@ -1,8 +1,10 @@
 ---
 title: "monitor file management and organization Like a Pro: Windows 10 Guide"
 date: 2025-04-29
+slug: "monitor-file-management-and-organization-like-a-pro-windows-10-guide"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 For intermediate Windows users looking to harness the full power of file management and organization, Windows 10 offers a robust set of tools and features to keep your digital life streamlined and efficient. This guide will delve into advanced techniques, providing practical advice and examples to help you manage your files and folders like a pro.

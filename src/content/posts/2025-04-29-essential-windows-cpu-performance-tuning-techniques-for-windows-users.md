@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows CPU Performance Tuning Techniques for Windows Users"
 date: 2025-04-29
+slug: "essential-windows-cpu-performance-tuning-techniques-for-windows-users"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 When it comes to ensuring your Windows PC is running at its optimal speed, tuning the CPU performance is a crucial task. Whether you're a beginner or an advanced user, this guide will walk you through practical techniques to enhance your CPU's performance effectively.

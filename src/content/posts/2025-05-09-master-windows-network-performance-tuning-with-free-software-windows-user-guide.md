@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Network Performance Tuning with Free Software: Windows User Guide"
 date: 2025-05-09
+slug: "master-windows-network-performance-tuning-with-free-software-windows-user-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Optimizing network performance is crucial for Windows users who want to enhance their online experience, whether it's for work, gaming, or streaming. This guide provides intermediate users with practical steps to tune their Windows network performance using free tools and software.

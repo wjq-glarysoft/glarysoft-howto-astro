@@ -1,8 +1,10 @@
 ---
 title: "12 Essential System File Repair Techniques Every Windows User Should Know"
 date: 2025-05-13
+slug: "12-essential-system-file-repair-techniques-every-windows-user-should-know-2"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 As an advanced Windows user, maintaining the integrity of your system files is crucial to ensuring optimal performance and avoiding system crashes. Here’s a comprehensive look at 12 essential techniques to repair Windows system files effectively.

@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Windows Privacy Enhancements Toolkit for Windows Computers"
 date: 2025-07-18
+slug: "the-ultimate-windows-privacy-enhancements-toolkit-for-windows-computers-13"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Introduction

@@ -1,8 +1,10 @@
 ---
 title: "When Should You Troubleshoot Windows Performance on Your Windows Computer?"
 date: 2025-08-11
+slug: "when-should-you-troubleshoot-windows-performance-on-your-windows-computer"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Windows computers are designed to run smoothly, but over time, you may notice that your system isn't performing as well as it once did. Performance issues can come in many forms: slower startups, unresponsive applications, frequent crashes, or increased fan noise. Understanding when and how to troubleshoot these problems is essential to keep your PC healthy and productive.

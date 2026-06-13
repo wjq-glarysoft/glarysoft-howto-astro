@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Backup Windows Disk Defragmentation in Windows 10"
 date: 2025-05-10
+slug: "the-complete-guide-to-backup-windows-disk-defragmentation-in-windows-10"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 For intermediate Windows users looking to optimize their system performance, understanding and managing disk defragmentation is essential. This guide will walk you through the steps to improve your Windows 10 system by managing disk fragmentation effectively.

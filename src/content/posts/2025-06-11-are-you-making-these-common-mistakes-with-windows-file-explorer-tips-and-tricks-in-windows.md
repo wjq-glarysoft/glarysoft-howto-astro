@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows File Explorer Tips and Tricks in Windows?"
 date: 2025-06-11
+slug: "are-you-making-these-common-mistakes-with-windows-file-explorer-tips-and-tricks-in-windows"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Windows File Explorer is the backbone of file management for PC users, yet many people miss out on its advanced capabilities, or worse, fall into common pitfalls that slow them down. If you’re an intermediate Windows user, you may already know the basics, but are you using File Explorer to its full potential? Let’s look at some of the most overlooked mistakes and share practical, advanced tips to supercharge your file and folder management.

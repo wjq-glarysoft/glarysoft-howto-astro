@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 Folder Structure Optimization Made Easy"
 date: 2025-07-07
+slug: "windows-10-folder-structure-optimization-made-easy"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Why Is Folder Structure Optimization Important for Advanced Users?

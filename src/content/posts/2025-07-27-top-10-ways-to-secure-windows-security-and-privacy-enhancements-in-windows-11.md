@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Secure Windows: Security and Privacy Enhancements in Windows 11"
 date: 2025-07-27
+slug: "top-10-ways-to-secure-windows-security-and-privacy-enhancements-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows 11 brings a range of robust privacy and security features, but even with these improvements, many users unknowingly make mistakes that can leave their data vulnerable. Securing your Windows device requires more than just built-in protections; it demands active, informed management of settings and habits. Below are the top 10 ways to enhance security and privacy in Windows 11, along with common pitfalls to avoid. This guide offers tailored advice for both beginners and advanced users to help you maximize your PC’s defenses.

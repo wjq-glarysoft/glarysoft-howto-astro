@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Secure Browsing Techniques Management in Windows"
 date: 2025-06-15
+slug: "advanceds-guide-to-windows-secure-browsing-techniques-management-in-windows-3"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Browsing the internet on a Windows PC can expose you to various privacy and security threats, from malicious websites to unwanted tracking. As a beginner, it's important to understand how to browse securely and protect your information. This guide provides step-by-step instructions and real-world examples to help you manage secure browsing on Windows, keeping your data safe and your experience worry-free.

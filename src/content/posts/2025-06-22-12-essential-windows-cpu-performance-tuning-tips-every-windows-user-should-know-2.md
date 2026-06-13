@@ -1,8 +1,10 @@
 ---
 title: "12 Essential Windows CPU Performance Tuning Tips Every Windows User Should Know"
 date: 2025-06-22
+slug: "12-essential-windows-cpu-performance-tuning-tips-every-windows-user-should-know-2"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Do you notice your Windows PC running slower than usual, especially when using several programs at once? Your CPU (Central Processing Unit) is the “brain” of your computer, and keeping it running efficiently can make a big difference in everyday performance. As a beginner Windows user, you don’t need to be a tech wizard to optimize your CPU. Here are 12 essential tips, explained step-by-step, to help you get the most out of your system.

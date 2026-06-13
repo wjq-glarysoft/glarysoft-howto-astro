@@ -1,8 +1,10 @@
 ---
 title: "clean Windows system information tools Like a Pro: Windows 10 & 11 Guide"
 date: 2025-08-20
+slug: "clean-windows-system-information-tools-like-a-pro-windows-10-11-guide"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Understanding what’s happening under the hood of your Windows system is essential for performance, troubleshooting, and long-term stability. Windows 10 and 11 include several built-in tools that reveal detailed system information, and when combined with reliable third-party utilities, you gain full visibility and control. Whether you’re a casual user curious about what runs on your system or an advanced user fine-tuning performance, mastering these tools ensures you always know your PC’s condition.

@@ -1,8 +1,10 @@
 ---
 title: "organize Windows performance optimization tips Like a Pro: Windows 10 Guide"
 date: 2025-05-10
+slug: "organize-windows-performance-optimization-tips-like-a-pro-windows-10-guide"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Are you looking to squeeze every bit of performance out of your Windows 10 machine? Whether you're a novice or an experienced user, optimizing your computer can seem daunting. This guide will provide you with practical tips that are easy to implement and will help you enhance your PC's performance like a pro.

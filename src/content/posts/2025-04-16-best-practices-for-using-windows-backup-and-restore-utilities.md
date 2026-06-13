@@ -1,8 +1,10 @@
 ---
 title: "Best Practices for Using Windows Backup and Restore Utilities"
 date: 2025-04-16
+slug: "best-practices-for-using-windows-backup-and-restore-utilities"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Backing up your data is one of the most critical tasks for ensuring the safety and recoverability of your important files. Windows provides built-in tools that allow you to back up and restore your files efficiently. This article explores best practices for using these utilities to protect your data and keep your system secure.

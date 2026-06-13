@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Windows Security Settings Configuration Toolkit for Windows Computers"
 date: 2025-06-03
+slug: "the-ultimate-windows-security-settings-configuration-toolkit-for-windows-computers-3"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Windows security can seem overwhelming, but setting up your PC to be safe and private doesn’t have to be complicated. This guide, built for beginner Windows users, will walk you through essential Privacy & Security settings. You’ll also learn how a tool like Glary Utilities can make managing your security much easier.

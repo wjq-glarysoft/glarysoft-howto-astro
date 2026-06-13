@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Secure Windows Task Scheduling Techniques in Windows 11"
 date: 2025-06-16
+slug: "the-complete-guide-to-secure-windows-task-scheduling-techniques-in-windows-11"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Task scheduling in Windows 11 is a powerful way to automate maintenance, optimization, and other system tasks. However, it’s important to use secure practices to keep your computer safe and running smoothly. This guide offers beginner-friendly explanations and step-by-step advice on how to securely schedule tasks using Windows built-in tools and trusted system utilities.

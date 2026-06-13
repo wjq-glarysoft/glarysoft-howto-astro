@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows Performance Troubleshooting Management in Windows"
 date: 2025-07-06
+slug: "intermediates-guide-to-windows-performance-troubleshooting-management-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Windows PCs are robust and flexible, but over time, even the most powerful systems can start to slow down or develop performance issues. Tackling these problems requires a mix of regular maintenance, smart troubleshooting, and the right tools. This guide is designed for intermediate users who want to take a hands-on approach to performance troubleshooting and management, focusing especially on best practices for Clean Up & Repair.

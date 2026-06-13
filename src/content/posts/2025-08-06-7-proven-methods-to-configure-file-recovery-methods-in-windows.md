@@ -1,8 +1,10 @@
 ---
 title: "7 Proven Methods to Configure File Recovery Methods in Windows"
 date: 2025-08-06
+slug: "7-proven-methods-to-configure-file-recovery-methods-in-windows"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Accidentally losing important files or folders can be a nightmare for both casual and professional Windows users. Whether caused by accidental deletion, system crashes, or malware, file loss is a common challenge. Fortunately, Windows offers several built-in and third-party solutions to help you recover lost files. This article will guide you through seven proven methods to configure file recovery on your Windows PC, tailored for both beginners and advanced users.

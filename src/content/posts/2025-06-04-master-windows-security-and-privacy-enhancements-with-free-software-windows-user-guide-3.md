@@ -1,8 +1,10 @@
 ---
 title: "Master Windows security and privacy enhancements with Free Software: Windows User Guide"
 date: 2025-06-04
+slug: "master-windows-security-and-privacy-enhancements-with-free-software-windows-user-guide-3"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Why Should You Care About Windows Security and Privacy?

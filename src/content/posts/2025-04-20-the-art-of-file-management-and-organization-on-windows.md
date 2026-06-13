@@ -1,8 +1,10 @@
 ---
 title: "The Art of File Management and Organization on Windows"
 date: 2025-04-20
+slug: "the-art-of-file-management-and-organization-on-windows"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Efficient file management and organization are key to maintaining a smooth and productive workflow on your Windows PC. As a system expert, I have seen how messy desktops and poorly organized folders can lead to stress and inefficiency. Here’s how you can take control of your files and folders to enhance your productivity.

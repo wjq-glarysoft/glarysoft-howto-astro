@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Task Scheduling Techniques with Built-in Features: Windows User Guide"
 date: 2025-06-09
+slug: "master-windows-task-scheduling-techniques-with-built-in-features-windows-user-guide-3"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 What is Task Scheduling in Windows?

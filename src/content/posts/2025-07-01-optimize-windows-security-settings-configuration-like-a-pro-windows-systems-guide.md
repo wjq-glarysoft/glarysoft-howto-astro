@@ -1,8 +1,10 @@
 ---
 title: "optimize Windows security settings configuration Like a Pro: Windows Systems Guide"
 date: 2025-07-01
+slug: "optimize-windows-security-settings-configuration-like-a-pro-windows-systems-guide"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Staying safe on your Windows computer isn’t just for experts. With the right steps, anyone—even beginners—can protect personal information and keep their PC secure. This guide breaks down the essential privacy and security settings you should check, tweak, and maintain in Windows, all explained in plain English.

@@ -1,8 +1,10 @@
 ---
 title: "Advanced Techniques for Windows System Repair: Clean Up & Repair"
 date: 2025-04-20
+slug: "advanced-techniques-for-windows-system-repair-clean-up-repair"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Windows systems are complex, and over time, they can suffer from various issues that impact performance and stability. Advanced tools and techniques are essential for users looking to maintain their systems in optimal condition. In this article, we'll explore practical advice and examples focused on the clean-up and repair of Windows systems, emphasizing the use of Glary Utilities as a comprehensive solution.

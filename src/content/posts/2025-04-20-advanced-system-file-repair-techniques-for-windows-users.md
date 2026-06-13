@@ -1,8 +1,10 @@
 ---
 title: "Advanced System File Repair Techniques for Windows Users"
 date: 2025-04-20
+slug: "advanced-system-file-repair-techniques-for-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 As a Windows user, encountering system file issues can be both daunting and disruptive. However, advanced system file repair techniques can help resolve these issues, ensuring your system operates smoothly. In this article, we will explore practical and actionable techniques to repair system files, focusing on clean-up and repair strategies.

@@ -1,8 +1,10 @@
 ---
 title: "Best Practices for Security and Privacy Protection on Windows"
 date: 2025-04-13
+slug: "best-practices-for-security-and-privacy-protection-on-windows"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 In today's digital age, safeguarding your computer's security and maintaining your privacy is more crucial than ever. Windows users, in particular, face a variety of threats ranging from malware to data breaches. Here are some practical steps you can take to enhance your security and privacy on a Windows system.

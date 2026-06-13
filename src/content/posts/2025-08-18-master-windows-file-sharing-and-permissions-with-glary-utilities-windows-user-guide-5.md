@@ -1,8 +1,10 @@
 ---
 title: "Master Windows file sharing and permissions with Glary Utilities: Windows User Guide"
 date: 2025-08-18
+slug: "master-windows-file-sharing-and-permissions-with-glary-utilities-windows-user-guide-5"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 File sharing in Windows is one of the most useful features for both home and business users, but it is also an area where mistakes are easily made. Whether it’s unintentionally exposing sensitive documents or struggling with permission errors, understanding how to manage shared files and folders properly is essential. Alongside Windows’ built-in tools, Glary Utilities provides an excellent set of features to help keep shared data organized, clean, and secure.

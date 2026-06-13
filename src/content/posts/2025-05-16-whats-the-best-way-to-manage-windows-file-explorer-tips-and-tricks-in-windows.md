@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Manage Windows File Explorer Tips and Tricks in Windows?"
 date: 2025-05-16
+slug: "whats-the-best-way-to-manage-windows-file-explorer-tips-and-tricks-in-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Navigating Windows File Explorer can be daunting for beginners, but it's an essential skill to manage your files and folders effectively. Here, we’ll explore practical tips and tricks while highlighting common mistakes to avoid, so you can use File Explorer like a pro!

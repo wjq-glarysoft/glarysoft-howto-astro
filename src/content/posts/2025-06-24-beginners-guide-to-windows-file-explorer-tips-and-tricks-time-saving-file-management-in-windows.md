@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows File Explorer Tips and Tricks: Time-Saving File Management in Windows"
 date: 2025-06-24
+slug: "beginners-guide-to-windows-file-explorer-tips-and-tricks-time-saving-file-management-in-windows"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Are you new to Windows and wondering how to manage your files and folders more efficiently? Windows File Explorer is the heart of file management in Windows, but many users don’t realize just how much time they can save with a few simple tricks. This guide will walk you through practical, beginner-friendly tips to help you organize, find, and manage your files and folders with ease.

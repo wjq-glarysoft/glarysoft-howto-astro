@@ -1,8 +1,10 @@
 ---
 title: "Understanding and Managing Windows Firewall for Better Privacy and Security"
 date: 2025-04-16
+slug: "understanding-and-managing-windows-firewall-for-better-privacy-and-security"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Windows Firewall is a crucial component of your PC’s defense system, acting as a barrier between your computer and potential threats from the internet. For beginners, understanding how to set up and manage this firewall is essential for maintaining privacy and security. Here’s a practical guide to help you navigate Windows Firewall settings effectively.

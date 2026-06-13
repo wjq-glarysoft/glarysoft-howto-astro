@@ -1,8 +1,10 @@
 ---
 title: "Effective file naming conventions and organization Management for Windows 11 Users"
 date: 2025-07-03
+slug: "effective-file-naming-conventions-and-organization-management-for-windows-11-users-3"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Why Does File Naming Matter for Windows 11 Users?

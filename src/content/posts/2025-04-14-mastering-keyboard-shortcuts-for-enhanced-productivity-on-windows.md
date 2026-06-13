@@ -1,8 +1,10 @@
 ---
 title: "Mastering Keyboard Shortcuts for Enhanced Productivity on Windows"
 date: 2025-04-14
+slug: "mastering-keyboard-shortcuts-for-enhanced-productivity-on-windows"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Becoming proficient with keyboard shortcuts is like unlocking a hidden superpower for Windows users. While many are familiar with basic shortcuts, advanced techniques can dramatically increase productivity and streamline workflows. This article delves into practical, actionable advice and real-world examples to help you harness the full potential of your keyboard.

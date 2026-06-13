@@ -1,8 +1,10 @@
 ---
 title: "Master Windows File Sharing and Permissions with Built-in Features: Windows User Guide"
 date: 2025-08-05
+slug: "master-windows-file-sharing-and-permissions-with-built-in-features-windows-user-guide-3"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Sharing files and folders efficiently can save you hours each week, whether you're collaborating at home or sharing with family. Windows includes built-in tools that make file sharing simple and secure, even for beginners. This guide will walk you through the key features, provide real-life examples, and offer time-saving tips to get the most out of Windows file sharing and permissions.

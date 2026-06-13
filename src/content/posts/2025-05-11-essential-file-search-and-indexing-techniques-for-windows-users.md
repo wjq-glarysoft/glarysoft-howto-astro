@@ -1,8 +1,10 @@
 ---
 title: "Essential File Search and Indexing Techniques for Windows Users"
 date: 2025-05-11
+slug: "essential-file-search-and-indexing-techniques-for-windows-users"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Finding files efficiently on a Windows computer can drastically improve productivity, especially for beginners who might not be familiar with all the tools at their disposal. This article will guide you through essential file search and indexing techniques, providing practical, actionable advice to help you locate your files swiftly and effectively.

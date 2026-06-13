@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Diagnostic Utilities with Glary Utilities: Windows User Guide"
 date: 2025-05-19
+slug: "master-windows-diagnostic-utilities-with-glary-utilities-windows-user-guide"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Windows users often find themselves facing the daunting task of diagnosing and fixing system issues. Fortunately, diagnostic utilities are designed to simplify this process and help maintain a healthy PC. This guide will walk you through mastering Windows diagnostic utilities with an emphasis on using Glary Utilities to save time and effort.

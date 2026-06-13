@@ -1,8 +1,10 @@
 ---
 title: "Master Windows command line tools with Free Software: Windows User Guide"
 date: 2025-05-23
+slug: "master-windows-command-line-tools-with-free-software-windows-user-guide"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Why Should Advanced Users Master Command Line Tools?

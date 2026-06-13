@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows Diagnostic Utilities Tips Every Windows User Should Know"
 date: 2025-04-22
+slug: "5-essential-windows-diagnostic-utilities-tips-every-windows-user-should-know"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Windows diagnostic utilities are essential tools that help you understand and troubleshoot system performance issues. Whether you're a novice user or a seasoned professional, knowing how to leverage these tools can significantly enhance your computer's performance and longevity. Here are five critical tips to get you started.

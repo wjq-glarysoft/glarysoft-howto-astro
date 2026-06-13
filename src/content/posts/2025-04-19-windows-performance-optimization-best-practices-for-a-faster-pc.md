@@ -1,8 +1,10 @@
 ---
 title: "Windows Performance Optimization: Best Practices for a Faster PC"
 date: 2025-04-19
+slug: "windows-performance-optimization-best-practices-for-a-faster-pc"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Optimizing your Windows PC for peak performance involves a combination of regular maintenance, strategic settings adjustments, and using the right tools. Whether you're a casual user or a power user, here are some practical, actionable tips to help optimize and improve your Windows system.

@@ -1,8 +1,10 @@
 ---
 title: "manage Windows system information tools Like a Pro: Windows 10 Guide"
 date: 2025-05-18
+slug: "manage-windows-system-information-tools-like-a-pro-windows-10-guide"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Understanding the tools available in Windows 10 to manage system information can significantly enhance your ability to troubleshoot and optimize your PC. In this guide, we’ll walk through several native Windows tools that help you access and manage system information, and provide tips on how to make the most of them. Whether you're a beginner or an advanced user, there’s something here for everyone.

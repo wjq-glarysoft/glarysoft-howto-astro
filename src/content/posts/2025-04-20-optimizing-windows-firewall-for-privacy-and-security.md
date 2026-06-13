@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Firewall for Privacy and Security"
 date: 2025-04-20
+slug: "optimizing-windows-firewall-for-privacy-and-security"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 The Windows Firewall is an integral part of the Windows operating system and serves as a critical line of defense against unauthorized access and security threats. Understanding how to effectively set up and manage this feature is essential for maintaining a secure environment on your computer. This article guides you through best practices for optimizing your Windows Firewall for enhanced privacy and security.

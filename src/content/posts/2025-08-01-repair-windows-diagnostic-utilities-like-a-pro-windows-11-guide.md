@@ -1,8 +1,10 @@
 ---
 title: "repair Windows diagnostic utilities Like a Pro: Windows 11 Guide"
 date: 2025-08-01
+slug: "repair-windows-diagnostic-utilities-like-a-pro-windows-11-guide"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Windows 11 comes with built-in diagnostic utilities designed to help users troubleshoot, fix, and maintain their systems. As a beginner, these tools might seem overwhelming at first, but learning how to use them can save you time, improve your PC’s performance, and even prevent costly repairs. This guide breaks down the most important Windows diagnostic tools and shows how to use them like a pro, even if you’re just getting started.

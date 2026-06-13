@@ -1,8 +1,10 @@
 ---
 title: "Maximizing Efficiency: A Guide to Windows Power Management Tools"
 date: 2025-04-15
+slug: "maximizing-efficiency-a-guide-to-windows-power-management-tools"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Windows power management tools are essential for optimizing your PC's energy usage, extending battery life, and maintaining performance. Understanding how to leverage these tools effectively can lead to a more efficient and responsive system. In this article, we will explore various Windows power management options and provide actionable advice for enhancing your PC's power efficiency.

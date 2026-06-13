@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Diagnostic Utilities Management in Windows"
 date: 2025-04-26
+slug: "advanceds-guide-to-windows-diagnostic-utilities-management-in-windows"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Windows diagnostic utilities are an essential part of a well-running system. They help identify, troubleshoot, and resolve issues that can hinder performance. This guide will walk you through best practices for managing these utilities, providing actionable advice for both beginners and advanced users.

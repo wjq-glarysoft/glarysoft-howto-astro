@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Performance Optimization Tips Management in Windows"
 date: 2025-07-20
+slug: "beginners-guide-to-windows-performance-optimization-tips-management-in-windows-2"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Optimizing your Windows PC can make it faster, more stable, and enjoyable to use. However, beginners often make common mistakes when trying to improve their system’s performance. This guide will help you avoid those traps and give you practical, easy-to-follow steps for keeping your computer running smoothly.

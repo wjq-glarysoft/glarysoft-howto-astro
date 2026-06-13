@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Networking and Connectivity in Windows: Expert Recommendations"
 date: 2025-04-13
+slug: "optimizing-networking-and-connectivity-in-windows-expert-recommendations"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Networking and connectivity are crucial for any Windows PC user, whether for work, entertainment, or communication. Poor networking can lead to slow internet speeds, interrupted connections, and general frustration. Here are some expert recommendations to optimize your Windows networking and connectivity settings effectively.

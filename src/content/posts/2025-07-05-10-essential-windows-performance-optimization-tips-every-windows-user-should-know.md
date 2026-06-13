@@ -1,8 +1,10 @@
 ---
 title: "10 Essential Windows Performance Optimization Tips Every Windows User Should Know"
 date: 2025-07-05
+slug: "10-essential-windows-performance-optimization-tips-every-windows-user-should-know"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Keeping your Windows PC running smoothly is not just about having the latest hardware. Often, a few well-chosen optimization steps can significantly boost system performance, reduce crashes, and ensure a better overall experience. Whether you’re a casual user or a power user, the following ten tips will guide you through boosting your PC’s speed and reliability. Each tip contains step-by-step instructions suitable for both beginners and advanced users.

@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems Secure Browsing Techniques Optimization Made Easy"
 date: 2025-04-28
+slug: "windows-systems-secure-browsing-techniques-optimization-made-easy"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 In today's digital world, ensuring your browsing activities are secure and private is crucial. Whether you're a beginner or an advanced Windows user, this guide will provide you with the techniques you need to optimize your secure browsing experience.

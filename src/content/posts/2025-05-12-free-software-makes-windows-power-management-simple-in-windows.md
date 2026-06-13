@@ -1,8 +1,10 @@
 ---
 title: "Free Software Makes Windows Power Management Simple in Windows"
 date: 2025-05-12
+slug: "free-software-makes-windows-power-management-simple-in-windows"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Understanding and efficiently utilizing Windows power management tools can dramatically improve the performance and longevity of your computer. With the right tools and techniques, you can optimize your system's power usage to suit your specific needs. This article explores how free software can simplify power management in Windows, providing both beginners and advanced users with practical advice and real-world examples.

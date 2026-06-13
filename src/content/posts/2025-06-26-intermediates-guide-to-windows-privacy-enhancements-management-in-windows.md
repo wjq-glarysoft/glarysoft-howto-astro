@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows Privacy Enhancements Management in Windows"
 date: 2025-06-26
+slug: "intermediates-guide-to-windows-privacy-enhancements-management-in-windows"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Windows operating systems have become increasingly robust in providing privacy controls, but many users are unaware of just how much personal data is shared or accessible by default. Managing privacy settings goes beyond basic configuration, especially for those who want more control over their digital footprint. This guide walks you through practical steps to manage and enhance privacy on your Windows PC—from simple options for beginners to more advanced tweaks for experienced users.

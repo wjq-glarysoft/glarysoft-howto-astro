@@ -1,8 +1,10 @@
 ---
 title: "Mastering Windows Task Scheduling: A Beginner's Guide"
 date: 2025-04-17
+slug: "mastering-windows-task-scheduling-a-beginners-guide"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Windows Task Scheduler is an incredibly powerful tool that allows you to automate routine tasks on your PC. This feature is built into the Windows operating system and can save you time by scheduling tasks to run at specific times or in response to particular events. Whether you're a home user looking to streamline your workflow or a small business owner aiming to automate repetitive tasks, this guide will help you get started with task scheduling on Windows.

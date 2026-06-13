@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows Security Settings Configuration Management in Windows"
 date: 2025-05-18
+slug: "intermediates-guide-to-windows-security-settings-configuration-management-in-windows-2"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Navigating the complex world of Windows security settings can seem daunting, but understanding these configurations is essential for safeguarding your system from threats. Here, we'll explore practical steps and real-world examples to help you manage your Windows security settings effectively.

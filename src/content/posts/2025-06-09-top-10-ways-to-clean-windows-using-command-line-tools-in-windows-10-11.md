@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Clean Windows Using Command Line Tools in Windows 10 & 11"
 date: 2025-06-09
+slug: "top-10-ways-to-clean-windows-using-command-line-tools-in-windows-10-11"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Many Windows users are familiar with cleaning up their system using built-in graphical tools, but few realize how powerful and efficient the Windows command line can be for these tasks. For beginners, mastering a few simple commands can help keep your PC running smoothly. This guide explores the top 10 ways to clean and maintain your Windows 10 or 11 system using command line tools, complete with real-world examples and practical advice.

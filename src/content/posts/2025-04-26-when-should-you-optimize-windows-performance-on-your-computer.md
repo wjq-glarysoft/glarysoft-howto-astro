@@ -1,8 +1,10 @@
 ---
 title: "When Should You Optimize Windows Performance on Your Computer?"
 date: 2025-04-26
+slug: "when-should-you-optimize-windows-performance-on-your-computer"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Optimizing the performance of your Windows computer is crucial to ensure it runs smoothly and efficiently. Here, we'll explore when and how to optimize your system, providing practical, actionable advice for both beginners and advanced users. Whether you're looking to save time or enhance your PC's performance, these tips will guide you through the process.

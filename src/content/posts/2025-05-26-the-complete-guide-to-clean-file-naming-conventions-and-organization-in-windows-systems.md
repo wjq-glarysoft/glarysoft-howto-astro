@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Clean File Naming Conventions and Organization in Windows Systems"
 date: 2025-05-26
+slug: "the-complete-guide-to-clean-file-naming-conventions-and-organization-in-windows-systems"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Introduction: Why Does Clean File Naming and Organization Matter?

@@ -1,8 +1,10 @@
 ---
 title: "Advanced Windows File Management and Cleanup Techniques"
 date: 2025-04-10
+slug: "advanced-windows-file-management-and-cleanup-techniques"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Effective file management and cleanup are crucial for maintaining a well-organized and efficient Windows system. As you navigate the growing complexity of files and applications, advanced techniques can help you streamline your system, improve performance, and free up valuable storage space. Here are some advanced strategies for managing and cleaning up your Windows files.

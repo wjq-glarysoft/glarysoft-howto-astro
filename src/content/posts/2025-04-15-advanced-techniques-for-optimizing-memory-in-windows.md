@@ -1,8 +1,10 @@
 ---
 title: "Advanced Techniques for Optimizing Memory in Windows"
 date: 2025-04-15
+slug: "advanced-techniques-for-optimizing-memory-in-windows"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Optimizing memory in Windows systems is essential for maintaining smooth performance, especially for power users who expect their PCs to handle demanding applications seamlessly. Advanced users can leverage several techniques to ensure their systems are running efficiently. Here are some practical, actionable steps to help you optimize memory usage on your Windows PC.

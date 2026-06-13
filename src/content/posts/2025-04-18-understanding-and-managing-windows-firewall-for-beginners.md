@@ -1,8 +1,10 @@
 ---
 title: "Understanding and Managing Windows Firewall for Beginners"
 date: 2025-04-18
+slug: "understanding-and-managing-windows-firewall-for-beginners"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Windows Firewall is a critical component of your computer's defense system, designed to block unauthorized access while permitting legitimate communications. For beginners, managing and setting up the Windows Firewall can seem daunting, but it is essential for maintaining privacy and security. This guide will help you navigate this vital feature with ease.

@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Firewall Setup and Management in Windows?"
 date: 2025-04-30
+slug: "are-you-making-these-common-mistakes-with-windows-firewall-setup-and-management-in-windows"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Configuring the Windows Firewall correctly is crucial for safeguarding your computer from unauthorized access and potential threats. Many users, however, make common mistakes that leave their systems vulnerable. Below, we identify these mistakes and provide actionable advice to enhance your firewall setup and management.

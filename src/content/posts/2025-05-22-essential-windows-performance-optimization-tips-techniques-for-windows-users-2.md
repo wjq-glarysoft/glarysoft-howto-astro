@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Performance Optimization Tips: Techniques for Windows Users"
 date: 2025-05-22
+slug: "essential-windows-performance-optimization-tips-techniques-for-windows-users-2"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Are you a Windows user looking to optimize your computer's performance but unsure where to start? Many beginners face this challenge, but optimizing your Windows PC doesn’t have to be daunting. This article will guide you through essential techniques to enhance your system's performance, ensuring a smoother and faster computing experience.

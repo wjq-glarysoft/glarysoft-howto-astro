@@ -1,8 +1,10 @@
 ---
 title: "How to Backup Windows Diagnostic Utilities for Beginner Windows Users"
 date: 2025-07-20
+slug: "how-to-backup-windows-diagnostic-utilities-for-beginner-windows-users"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Windows diagnostic utilities are essential tools that help identify, troubleshoot, and resolve common system problems. Backing up these tools ensures you always have access to them, even if something goes wrong with your operating system. As a beginner Windows user, here’s how you can easily backup these utilities and keep your PC healthy and efficient.

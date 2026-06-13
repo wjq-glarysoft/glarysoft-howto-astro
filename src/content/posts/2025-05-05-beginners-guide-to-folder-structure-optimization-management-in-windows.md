@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Folder Structure Optimization Management in Windows"
 date: 2025-05-05
+slug: "beginners-guide-to-folder-structure-optimization-management-in-windows"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Effective folder structure optimization is crucial for a smooth Windows experience, enhancing both productivity and system performance. This guide aims to simplify the process, providing intermediate Windows users with actionable steps to organize their files and folders efficiently.

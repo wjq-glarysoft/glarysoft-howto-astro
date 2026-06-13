@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Firewall Setup and Management for Windows 11 Users"
 date: 2025-05-01
+slug: "effective-windows-firewall-setup-and-management-for-windows-11-users"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Setting up and managing your Windows Firewall effectively is paramount for ensuring the privacy and security of your system. With Windows 11, Microsoft has continued to improve its firewall capabilities. This guide will provide both beginners and advanced users with actionable advice on managing the Windows Firewall to safeguard their systems.

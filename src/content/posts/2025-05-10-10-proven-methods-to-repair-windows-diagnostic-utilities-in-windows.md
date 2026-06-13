@@ -1,8 +1,10 @@
 ---
 title: "10 Proven Methods to Repair Windows Diagnostic Utilities in Windows"
 date: 2025-05-10
+slug: "10-proven-methods-to-repair-windows-diagnostic-utilities-in-windows"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Windows diagnostic utilities are essential tools for maintaining the health and performance of your PC. However, these utilities can encounter issues themselves, requiring troubleshooting and repair. This article provides ten methods to repair and optimize Windows diagnostic utilities, ensuring they operate effectively for both beginners and advanced users.

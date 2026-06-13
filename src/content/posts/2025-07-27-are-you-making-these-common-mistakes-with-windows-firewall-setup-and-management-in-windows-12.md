@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Firewall Setup and Management in Windows?"
 date: 2025-07-27
+slug: "are-you-making-these-common-mistakes-with-windows-firewall-setup-and-management-in-windows-12"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Managing your Windows firewall may sound straightforward, but even experienced users can fall into common traps that compromise privacy and security. The Windows Firewall is your system’s first line of defense against unauthorized network access. Yet, many users leave themselves vulnerable by neglecting setup, using poor management practices, or misunderstanding how firewall rules actually work.

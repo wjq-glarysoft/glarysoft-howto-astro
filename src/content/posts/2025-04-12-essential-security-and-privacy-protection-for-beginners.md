@@ -1,8 +1,10 @@
 ---
 title: "Essential Security and Privacy Protection for Beginners"
 date: 2025-04-12
+slug: "essential-security-and-privacy-protection-for-beginners"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 In today's digital age, securing your Windows PC and protecting your privacy online is more critical than ever. For beginners, navigating the complex landscape of security can be daunting. This guide will provide you with practical, actionable advice to safeguard your device and personal information.

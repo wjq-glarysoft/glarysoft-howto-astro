@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows User Account Security Management in Windows"
 date: 2025-04-25
+slug: "beginners-guide-to-windows-user-account-security-management-in-windows"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Understanding and managing user account security on a Windows system is crucial, not only for protecting personal data but also for maintaining the overall security of your device. Whether you're a beginner or a seasoned Windows user, ensuring your accounts are secure is essential. This guide provides practical advice and examples to enhance your understanding of Windows user account security.

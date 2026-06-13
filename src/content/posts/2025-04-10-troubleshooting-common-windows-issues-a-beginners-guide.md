@@ -1,8 +1,10 @@
 ---
 title: "Troubleshooting Common Windows Issues: A Beginner's Guide"
 date: 2025-04-10
+slug: "troubleshooting-common-windows-issues-a-beginners-guide"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Troubleshooting issues on a Windows PC can seem daunting, especially for beginners. However, armed with the right tools and knowledge, you can efficiently resolve many common problems without needing expert help. This guide will walk you through some common Windows issues and provide practical solutions.

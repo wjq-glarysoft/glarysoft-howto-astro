@@ -1,8 +1,10 @@
 ---
 title: "12 Built-in Features for Better File Search and Indexing Techniques Management"
 date: 2025-05-16
+slug: "12-built-in-features-for-better-file-search-and-indexing-techniques-management"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Efficient file search and indexing are essential for effective file management in Windows. However, many users encounter common pitfalls that can hinder their ability to quickly locate files. This article explores 12 built-in features in Windows that can enhance your file search and indexing techniques, providing actionable advice and real-world examples for both beginners and advanced users.

@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Secure Windows Network Performance Tuning in Windows 10"
 date: 2025-06-03
+slug: "the-complete-guide-to-secure-windows-network-performance-tuning-in-windows-10"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Maximizing your Windows 10 network performance is essential for everything from smooth web browsing to fast file transfers and seamless video streaming. However, network optimization should always go hand-in-hand with security. This guide will walk you through practical, safe, and effective ways to tune your Windows 10 network for the best performance, keeping your system secure at every step.

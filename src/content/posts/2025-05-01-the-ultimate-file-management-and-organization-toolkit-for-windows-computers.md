@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate File Management and Organization Toolkit for Windows Computers"
 date: 2025-05-01
+slug: "the-ultimate-file-management-and-organization-toolkit-for-windows-computers"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Managing files and folders efficiently is essential for maintaining productivity and keeping your Windows computer running smoothly. For beginners, understanding how to organize files can seem daunting, but with this step-by-step guide, you’ll learn how to streamline your file management with ease.

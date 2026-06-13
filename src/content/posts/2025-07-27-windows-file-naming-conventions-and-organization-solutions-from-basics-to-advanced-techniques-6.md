@@ -1,8 +1,10 @@
 ---
 title: "Windows file naming conventions and organization Solutions: From Basics to Advanced Techniques"
 date: 2025-07-27
+slug: "windows-file-naming-conventions-and-organization-solutions-from-basics-to-advanced-techniques-6"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Introduction

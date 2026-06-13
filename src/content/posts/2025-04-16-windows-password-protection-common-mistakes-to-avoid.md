@@ -1,8 +1,10 @@
 ---
 title: "Windows Password Protection: Common Mistakes to Avoid"
 date: 2025-04-16
+slug: "windows-password-protection-common-mistakes-to-avoid"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 When it comes to securing your Windows computer, password protection is one of the first lines of defense against unauthorized access. However, many users unknowingly make mistakes that could compromise their privacy and security. This article will explore some common password protection pitfalls and provide practical strategies to avoid them.

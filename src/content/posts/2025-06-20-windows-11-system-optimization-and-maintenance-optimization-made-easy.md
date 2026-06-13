@@ -1,8 +1,10 @@
 ---
 title: "Windows 11 System Optimization and Maintenance: Optimization Made Easy"
 date: 2025-06-20
+slug: "windows-11-system-optimization-and-maintenance-optimization-made-easy"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Are you a Windows 11 user looking to make your computer faster and keep it running smoothly? Proper system optimization and regular maintenance are key to a reliable, efficient PC. Even if you’re new to computers, you can easily boost your system’s performance and avoid common problems with a few simple steps. Here’s how beginners can optimize and maintain their Windows 11 PC, with clear recommendations and examples.

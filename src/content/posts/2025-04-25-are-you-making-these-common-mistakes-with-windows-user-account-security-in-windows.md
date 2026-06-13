@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows User Account Security in Windows?"
 date: 2025-04-25
+slug: "are-you-making-these-common-mistakes-with-windows-user-account-security-in-windows"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Ensuring robust user account security on your Windows machine is crucial for protecting personal data and maintaining privacy. Despite its importance, users often overlook or mishandle key security measures. This article explores common mistakes in Windows user account security and provides practical advice for both beginners and advanced users.

@@ -1,8 +1,10 @@
 ---
 title: "improve Windows CPU performance tuning Like a Pro: Windows Systems Guide"
 date: 2025-05-05
+slug: "improve-windows-cpu-performance-tuning-like-a-pro-windows-systems-guide"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 In today's fast-paced digital world, ensuring your Windows system runs efficiently and swiftly is crucial for both work and leisure. Optimizing CPU performance is a key aspect of maintaining a smooth-running computer. This guide will walk you through practical steps to enhance your Windows CPU performance, catering to both beginners and advanced users.

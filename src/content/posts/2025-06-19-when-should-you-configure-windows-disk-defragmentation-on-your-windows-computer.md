@@ -1,8 +1,10 @@
 ---
 title: "When Should You Configure Windows Disk Defragmentation on Your Windows Computer?"
 date: 2025-06-19
+slug: "when-should-you-configure-windows-disk-defragmentation-on-your-windows-computer"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Understanding disk defragmentation is key to maintaining the speed and efficiency of your Windows computer, especially if you’re using a traditional hard disk drive (HDD). While Windows tries to handle defragmentation automatically, there are times when manual configuration can significantly optimize your system’s performance. This beginner-friendly guide walks you through the essentials of disk defragmentation—when, why, and how to configure it—along with practical examples and advanced tips for power users.

@@ -1,8 +1,10 @@
 ---
 title: "Can Built-in Features Help with Windows Privacy Enhancements? A Complete Guide for Windows Users"
 date: 2025-07-03
+slug: "can-built-in-features-help-with-windows-privacy-enhancements-a-complete-guide-for-windows-users"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 If you’re new to Windows or just starting to think about your digital privacy, you might wonder: “Can I improve my privacy using only what’s already on my PC?” The answer is yes! Windows provides several built-in features that make it easier for you to protect your information without needing to be a technical expert or download extra software. This guide will walk you through simple steps to take control of your privacy and security on Windows.

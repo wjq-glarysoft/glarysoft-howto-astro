@@ -1,8 +1,10 @@
 ---
 title: "Master Windows System Repair Tools with Free Software: Windows User Guide"
 date: 2025-06-25
+slug: "master-windows-system-repair-tools-with-free-software-windows-user-guide-2"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Why Should You Use System Repair Tools?

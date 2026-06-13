@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 Windows Performance Troubleshooting: Optimization Made Easy"
 date: 2025-05-02
+slug: "windows-10-11-windows-performance-troubleshooting-optimization-made-easy"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Windows 10 and 11 are robust operating systems, but like any other, they can experience performance issues over time. From cluttered files to outdated software, several factors can slow down your PC. This article offers expert recommendations for troubleshooting and optimizing your Windows performance through effective clean-up and repair strategies. Whether you're a beginner or an advanced user, you'll find practical advice suited to your skill level.

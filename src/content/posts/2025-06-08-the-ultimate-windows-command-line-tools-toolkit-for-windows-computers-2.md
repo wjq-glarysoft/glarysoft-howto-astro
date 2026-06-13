@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Windows Command Line Tools Toolkit for Windows Computers"
 date: 2025-06-08
+slug: "the-ultimate-windows-command-line-tools-toolkit-for-windows-computers-2"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Introduction

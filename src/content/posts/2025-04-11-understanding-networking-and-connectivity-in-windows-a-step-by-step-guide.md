@@ -1,8 +1,10 @@
 ---
 title: "Understanding Networking and Connectivity in Windows: A Step-by-Step Guide"
 date: 2025-04-11
+slug: "understanding-networking-and-connectivity-in-windows-a-step-by-step-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Networking and connectivity are vital components of any Windows-based system, allowing you to access the internet, share files, and connect to various network devices. This guide will provide you with practical steps to set up and troubleshoot networking and connectivity issues on a Windows PC.

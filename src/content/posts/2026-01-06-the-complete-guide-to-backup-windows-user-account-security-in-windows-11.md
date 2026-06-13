@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Backup Windows User Account Security in Windows 11"
 date: 2026-01-06
+slug: "the-complete-guide-to-backup-windows-user-account-security-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Protecting your Windows 11 user account security is essential to maintaining privacy, data integrity, and system reliability. Many users make the mistake of assuming that Windows automatically handles all aspects of account safety and backup. However, proper security management involves a combination of good practices, correct backup configuration, and regular maintenance. This guide explains common mistakes to avoid when backing up your Windows user account security settings and data, offering practical steps for both beginners and advanced users.

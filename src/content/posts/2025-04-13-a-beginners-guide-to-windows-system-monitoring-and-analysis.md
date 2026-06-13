@@ -1,8 +1,10 @@
 ---
 title: "A Beginner's Guide to Windows System Monitoring and Analysis"
 date: 2025-04-13
+slug: "a-beginners-guide-to-windows-system-monitoring-and-analysis"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Monitoring and analyzing your Windows system is crucial for ensuring optimal performance, identifying potential issues, and maintaining overall system health. This guide will walk you through practical steps for keeping an eye on your system and highlight tools that can simplify the process.

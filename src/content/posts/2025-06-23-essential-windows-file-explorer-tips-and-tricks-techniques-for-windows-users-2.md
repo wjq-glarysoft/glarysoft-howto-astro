@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows File Explorer Tips and Tricks: Techniques for Windows Users"
 date: 2025-06-23
+slug: "essential-windows-file-explorer-tips-and-tricks-techniques-for-windows-users-2"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Are you ready to move beyond the basics and truly master Windows File Explorer? As an intermediate Windows user, you already know how to navigate folders and open files. But File Explorer hides many powerful features that can make managing your files faster, safer, and more efficient. This guide covers practical tips and real-world techniques to help you get the most out of File Explorer, with a special focus on files and folders.

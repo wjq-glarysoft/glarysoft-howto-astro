@@ -1,8 +1,10 @@
 ---
 title: "Windows Performance Optimization: A Step-by-Step Guide"
 date: 2025-04-15
+slug: "windows-performance-optimization-a-step-by-step-guide"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Improving the performance of your Windows PC can lead to a more efficient computing experience. Here’s a step-by-step guide that outlines practical methods to optimize your system.

@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Firewall Setup and Management in Windows?"
 date: 2025-07-24
+slug: "are-you-making-these-common-mistakes-with-windows-firewall-setup-and-management-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows Firewall is a vital component in securing your PC from unauthorized access and online threats. Yet, even experienced users often overlook key aspects of its setup and management, inadvertently exposing their systems to security risks. Let’s explore the most common mistakes with Windows Firewall, and how you can avoid them to maximize your privacy and security.

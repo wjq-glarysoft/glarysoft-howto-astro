@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure File Naming Conventions and Organization in Windows 10"
 date: 2025-05-30
+slug: "the-complete-guide-to-configure-file-naming-conventions-and-organization-in-windows-10"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Are you struggling to keep your Windows 10 files neat and easy to find? A well-structured file naming convention and folder organization system is essential for maintaining productivity and reducing digital clutter. This guide offers intermediate-level users expert advice on creating, implementing, and maintaining effective file naming and organizational strategies in Windows 10, with practical real-world examples.

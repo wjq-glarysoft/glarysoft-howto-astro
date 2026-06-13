@@ -1,0 +1,463 @@
+/* ========== CSS 变量定义 ========== */
+:root {
+  /* 颜色变量 */
+  --color-white: #ffffff;
+  --color-text: #233060;
+  --color-navbar: #40434a;
+  --color-navbar-light: #51545b;
+  --color-link: #3272e3;
+  --color-link-hover: #588eee;
+  --color-subnav-border: #e6e6e6;
+  --color-subnav-text: #4d4d4d;
+  --color--contrast: #111111;
+  /* 字体变量 */
+  --font-family: "Open Sans", system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue",
+    sans-serif;
+  --font-size-text-base: clamp(0.875rem, 0.875rem + ((1vw - 0.2rem) * 0.227), 1rem);
+  --font-size-text-medium: clamp(0.875rem, 0.875rem + ((1vw - 0.2rem) * 0.227), 1rem);
+  --font-size-small: 0.9rem;
+  --font-size-medium: 1.05rem;
+  --font-size-large: clamp(1.39rem, 1.39rem + ((1vw - 0.2rem) * 0.836), 1.85rem);
+  --font-size-x-large: clamp(1.85rem, 1.85rem + ((1vw - 0.2rem) * 1.182), 2.5rem);
+  --font-size-xx-large: clamp(2.5rem, 2.5rem + ((1vw - 0.2rem) * 1.4), 3.27rem);
+  
+
+  /* 间距变量 */
+  --line-height-base: 24px;
+  --font-size-base: 14px;
+  --font-size-nav: 16px;
+  --font-size-small: 13px;
+  --preset-spacing-50: min(6.5rem, 8vw);
+  --preset-spacing-40: min(4rem, 5vw);
+  --preset-spacing-30:min(2.5rem, 3vw);
+  --preset-spacing-20: min(1.5rem, 2vw);
+  --preset-spacing-10: 1rem;
+  /* 布局变量 */
+  --con-max-width: 1200px;
+  --con-width: 1000px;
+  --header-padding-y: 17px;
+  --logo-width: 185px;
+  --translate-width: 93px;
+  
+  /* 过渡变量 */
+  --transition-speed: 0.3s;
+}
+
+/* ========== Reset ========== */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+/* ========== 基础元素样式 ========== */
+ul,
+li {
+  list-style: none;
+}
+
+img {
+  border: none;
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: var(--color-link);
+  text-decoration: none;
+  background: none;
+  transition: color var(--transition-speed) ease;
+}
+
+a:hover {
+  color: var(--color-link-hover);
+}
+
+strong {
+  font-size: var(--font-size-small);
+}
+
+input {
+  font-family: inherit !important;
+}
+h1, h2, h3, h4, h5, h6{
+    color: var(--color--contrast);
+    font-weight: 400;
+    line-height: 1.2;
+}
+h1{
+    font-size: var(--font-size-xx-large);
+    line-height: 1.15; 
+}
+h2{
+    font-size: var(--font-size-text-medium);
+}
+/* h3{font-size: var(--size--large);}
+h4{font-size: clamp(1.1rem, 1.1rem + ((1vw - 0.2rem) * 0.767), 1.5rem);}
+h5{font-size: var(--font-size--medium);}
+h6{font-size: var(--font-size--small);} */
+
+/* ========== 辅助类 ========== */
+.clearfix::after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+/* ========== Body 布局 ========== */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  line-height: var(--line-height-base);
+  font-size: var(--font-size-base);
+  font-family: var(--font-family);
+  color: var(--color-text);
+  background-color: var(--color-white);
+  text-align: left;
+  
+  /* 优化字体渲染 */
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ========== 头部布局 ========== */
+.header-wrap {
+  width: 100%;
+  background: var(--color-navbar);
+}
+.header-wrap .header {
+  width: var(--con-width);
+  margin: 0 auto;
+  padding: var(--header-padding-y) 0;
+}
+.logo {
+  float: left;
+  margin-right: 10px;
+  width: var(--logo-width);
+}
+.header-r {
+  float: right;
+}
+.translate-nor {
+  float: right;
+  width: 105px;
+}
+
+/* ========== 导航菜单 ========== */
+.nav {
+  float: right;
+}
+
+.nav > li {
+  float: left;
+  margin-right: 15px;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+}
+
+.nav > li.cur > a {
+  color: var(--color-link-hover);
+}
+
+.nav > li > a,
+.nav > li > button {
+  color: var(--color-white);
+  font-size: var(--font-size-nav);
+  padding: 10px 0;
+  margin: 0 10px;
+  display: block;
+  font-weight: 500;
+  line-height: 26px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: color var(--transition-speed) ease;
+}
+
+.nav > li > a:hover,
+.nav > li > button:hover {
+  color: var(--color-link-hover);
+}
+
+/* SVG 图标 hover 效果 */
+.nav > li > a:hover #store path {
+  stroke: var(--color-link-hover);
+}
+
+/* ========== 子菜单 ========== */
+.subnavpart {
+  position: absolute;
+  display: none;
+  left: 0;
+  z-index: 1001;
+  padding-top: 3px;
+}
+
+.subnav {
+  border: 1px solid var(--color-subnav-border);
+  border-radius: 10px;
+  position: relative;
+  z-index: 1002;
+  margin-top: -1px;
+  padding: 15px 10px 0;
+  background: var(--color-white);
+  opacity: 0.98;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.subnavpart .subnav a {
+  display: block;
+  font-size: 14px;
+  line-height: 30px;
+  text-align: left;
+  color: #4d4d4d;
+  white-space: nowrap;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  padding: 0 15px;
+}
+.subnavpart .subnav a:hover {
+  text-decoration: none;
+  background: #e9ebf0;
+}
+#store-wrap {
+  display: inline-block;
+  position: relative;
+  width: 24px;
+  height: 28px;
+  vertical-align: top;
+  margin: -3px 3px 0 0;
+  background:  url("/img/store-icon.png") center 1px no-repeat;
+}
+#store-wrap.store-page {
+  background: url('/img/store-icon-dark.png') center 1px no-repeat;
+}
+#store {
+  width: 24px;
+  height: 28px;
+  position: absolute;
+  left: 0;
+  top: 2px;
+  visibility: hidden;
+}
+#store path {
+  stroke: white;
+}
+
+/* ========== Main 区域 ========== */
+main {
+  flex: 1;
+}
+.container{
+    width:var(--con-max-width);
+    margin:0 auto;
+}
+.block-spacer-50{
+    height:var(--preset-spacing-50);
+}
+.block-spacer-30{
+    height:var(--preset-spacing-30);
+}
+.is-layout-grid{
+    display:grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1.25rem;
+}
+.is-layout-grid.is-layout-grid-3{
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 3rem;
+}
+.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){
+    max-width: var(--con-max-width);
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+.post-excerpt{
+    margin-top: 1.2rem;
+}
+.post-card{
+    margin-bottom: var(--preset-spacing-20);
+}
+.post-header{
+    margin-bottom: var(--preset-spacing-40);
+    padding-top: var(--preset-spacing-50);
+    display: flex;
+    gap: var(--preset-spacing-10);
+    flex-direction: column;
+    align-items: stretch;
+}
+.x-large-font-size{
+    font-size: var(--font-size-x-large) !important;                   
+}
+.post-meta{
+    margin-top: 1.2rem;
+}
+
+
+/* 响应式 */
+@media (min-width: 1680px) {
+  .header-wrap .header{
+    width:var(--con-max-width);
+  }
+}
+@media (min-width: 1041px) {
+  .header-wrap .nav {
+    float: left;
+  }
+  
+}
+@media (max-width: 1024px) {
+  .header-wrap .header {
+    max-width: 90%;
+  }
+}
+
+@media (max-width: 768px) {
+  .header-wrap .header {
+    padding: 12px 16px;
+  }
+  .header-wrap .header-r {
+    margin-top: 0;
+  }
+}
+
+
+/* ========== Google 翻译 ========== */
+#google_translate_element {
+  height: 30px;
+  width: var(--translate-width);
+  float: left;
+  overflow: hidden;
+  margin: 8px 0 0 10px;
+  visibility: hidden;
+  border: 1px solid var(--color-navbar-light);
+  border-radius: 5px;
+}
+
+#google_translate_element .goog-te-gadget {
+  font-family: var(--font-family);
+}
+
+/* ========== Google Translate 样式覆盖 ========== */
+/* 主体样式 */
+div#google_translate_element div.goog-te-gadget-simple {
+  border: none;
+  border-radius: 0;
+  background-color: var(--color-navbar);
+  line-height: 28px;
+  height: 28px;
+}
+
+div#google_translate_element div.goog-te-gadget-simple span > a {
+  padding-left: 5px;
+}
+
+div#google_translate_element div.goog-te-gadget-simple span a span {
+  color: var(--color-white);
+  transition: color var(--transition-speed) ease;
+}
+
+div#google_translate_element div.goog-te-gadget-simple span a:hover span {
+  color: var(--color-link-hover);
+}
+
+/* 隐藏翻译图标 */
+.goog-te-gadget-icon {
+  display: none !important;
+}
+
+/* 移除下拉箭头并替换为自定义图标 */
+div#google_translate_element div.goog-te-gadget-simple > span {
+  display: block;
+}
+
+/* 隐藏不同状态的箭头 */
+div#google_translate_element div.goog-te-gadget-simple span a span[style*="color: rgb(213, 213, 213)"],
+div#google_translate_element div.goog-te-gadget-simple span a span[style*="color: rgb(118, 118, 118)"],
+div#google_translate_element div.goog-te-gadget-simple span a span[style*="color: rgb(155, 155, 155)"] {
+  display: none;
+}
+
+/* 移除左边框分隔线 */
+div#google_translate_element div.goog-te-gadget-simple span a span[style*="border-left"],
+div#google_translate_element div.goog-te-gadget-simple span a span[style*="border-left-color"] {
+  display: none;
+}
+
+/* 隐藏翻译工具栏 */
+.goog-te-banner-frame.skiptranslate {
+  display: none !important;
+}
+
+.google-auto-placed {
+  display: none;
+}
+
+/* 防止页面抖动 */
+body {
+  top: 0 !important;
+}
+
+/* ========== 响应式设计 ========== */
+@media (max-width: 768px) {
+  :root {
+    --font-size-nav: 14px;
+    --logo-width: 150px;
+  }
+  
+  .nav > li {
+    margin-right: 5px;
+  }
+  
+  .nav > li > a,
+  .nav > li > button {
+    margin: 0 5px;
+    padding: 8px 0;
+    font-size: 13px;
+  }
+  
+  .header-r {
+    float: none;
+    clear: both;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .translate-nor {
+    float: none;
+  }
+  
+  .subnav li a {
+    white-space: normal;
+  }
+}
+
+/* ========== 暗色主题支持（可选） ========== */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-white: #1a1a2e;
+    --color-text: #e0e0e0;
+    --color-navbar: #2a2a3e;
+    --color-subnav-border: #3a3a4e;
+    --color-subnav-text: #c0c0c0;
+  }
+}

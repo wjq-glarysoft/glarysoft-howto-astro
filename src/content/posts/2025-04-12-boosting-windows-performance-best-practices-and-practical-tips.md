@@ -1,8 +1,10 @@
 ---
 title: "Boosting Windows Performance: Best Practices and Practical Tips"
 date: 2025-04-12
+slug: "boosting-windows-performance-best-practices-and-practical-tips"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Optimizing the performance of your Windows PC is crucial for ensuring smooth operation, particularly if you use your computer for intensive tasks or if it's been a while since its last tune-up. Here are some best practices and tips to enhance your Windows experience, complete with practical examples.

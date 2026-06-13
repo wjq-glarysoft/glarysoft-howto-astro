@@ -1,8 +1,10 @@
 ---
 title: "optimize Windows file sharing and permissions Like a Pro: Windows 10 & 11 Guide"
 date: 2025-07-06
+slug: "optimize-windows-file-sharing-and-permissions-like-a-pro-windows-10-11-guide"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 File sharing is an essential feature in both home and business environments, enabling collaboration and easy access to important documents. However, improper configuration can expose your files to security risks or make sharing needlessly difficult. Whether you're new to file sharing or a seasoned Windows power user, optimizing your sharing settings and permissions will streamline your workflow and safeguard your data. This guide covers everything you need to know about optimizing file sharing and permissions in Windows 10 and 11, with real-world examples, step-by-step instructions, and tips for every skill level.

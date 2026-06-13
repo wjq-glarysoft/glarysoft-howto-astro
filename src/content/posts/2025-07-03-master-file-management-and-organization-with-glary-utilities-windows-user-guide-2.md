@@ -1,8 +1,10 @@
 ---
 title: "Master file management and organization with Glary Utilities: Windows User Guide"
 date: 2025-07-03
+slug: "master-file-management-and-organization-with-glary-utilities-windows-user-guide-2"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Why is Advanced File Management Essential for Windows Users?

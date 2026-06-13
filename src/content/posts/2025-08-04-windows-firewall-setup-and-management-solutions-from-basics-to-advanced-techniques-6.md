@@ -1,8 +1,10 @@
 ---
 title: "Windows Firewall Setup and Management Solutions: From Basics to Advanced Techniques"
 date: 2025-08-04
+slug: "windows-firewall-setup-and-management-solutions-from-basics-to-advanced-techniques-6"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Understanding the Importance of Windows Firewall for Advanced Users

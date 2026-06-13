@@ -1,8 +1,10 @@
 ---
 title: "Master Windows system information tools with Glary Utilities: Windows User Guide"
 date: 2025-05-11
+slug: "master-windows-system-information-tools-with-glary-utilities-windows-user-guide"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Understanding the system information of your Windows PC is crucial for maintaining optimal performance and troubleshooting potential issues. This guide will explore how to use various Windows system information tools, with a focus on [Glary Utilities](https://www.glarysoft.com), a powerful suite that simplifies these tasks for users of all levels.

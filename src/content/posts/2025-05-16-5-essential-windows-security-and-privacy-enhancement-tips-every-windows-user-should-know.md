@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows Security and Privacy Enhancement Tips Every Windows User Should Know"
 date: 2025-05-16
+slug: "5-essential-windows-security-and-privacy-enhancement-tips-every-windows-user-should-know"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 For many Windows users, safeguarding personal information and maintaining system security might seem daunting, especially with the ever-growing number of cybersecurity threats. However, by focusing on a few key strategies, even beginners can significantly enhance their computer's security and privacy. Here are five essential tips to help you protect your Windows system effectively.

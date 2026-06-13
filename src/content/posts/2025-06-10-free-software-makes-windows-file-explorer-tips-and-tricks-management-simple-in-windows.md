@@ -1,8 +1,10 @@
 ---
 title: "Free Software Makes Windows File Explorer Tips and Tricks Management Simple in Windows"
 date: 2025-06-10
+slug: "free-software-makes-windows-file-explorer-tips-and-tricks-management-simple-in-windows"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Windows File Explorer is one of the most-used tools on any Windows PC. Mastering its tips and tricks can save you hours each month, whether you’re working with documents, photos, or project folders. Many time-saving features are built-in, and you can extend its capabilities further with free software like Glary Utilities. This article shares practical File Explorer tips for both beginners and advanced users and explains how free tools can make file management even simpler.

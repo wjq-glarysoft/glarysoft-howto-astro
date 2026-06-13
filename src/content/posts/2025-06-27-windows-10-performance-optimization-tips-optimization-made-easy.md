@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 Performance Optimization Tips: Optimization Made Easy"
 date: 2025-06-27
+slug: "windows-10-performance-optimization-tips-optimization-made-easy"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Are you looking to boost your Windows 10 PC’s speed and responsiveness? Whether your computer is a few months or a few years old, optimizing Windows 10 can deliver a smoother, faster experience. From simple tweaks to powerful utilities, here are actionable, professional insights to help all users get the best out of their systems.

@@ -1,8 +1,10 @@
 ---
 title: "secure file synchronization across devices Like a Pro: Windows 11 Guide"
 date: 2025-06-18
+slug: "secure-file-synchronization-across-devices-like-a-pro-windows-11-guide"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Why Synchronize Files Across Devices?

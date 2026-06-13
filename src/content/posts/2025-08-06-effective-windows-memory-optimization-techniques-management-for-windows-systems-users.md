@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Memory Optimization Techniques Management for Windows Systems Users"
 date: 2025-08-06
+slug: "effective-windows-memory-optimization-techniques-management-for-windows-systems-users"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Why Is Memory Optimization Critical for Advanced Windows Users?

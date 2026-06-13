@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Backup File Backup Strategies in Windows 10 & 11"
 date: 2025-06-23
+slug: "the-complete-guide-to-backup-file-backup-strategies-in-windows-10-11"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Why Are Advanced File Backup Strategies Essential?

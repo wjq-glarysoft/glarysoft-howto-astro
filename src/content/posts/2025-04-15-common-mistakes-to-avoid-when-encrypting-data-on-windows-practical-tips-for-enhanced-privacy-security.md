@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid When Encrypting Data on Windows: Practical Tips for Enhanced Privacy & Security"
 date: 2025-04-15
+slug: "common-mistakes-to-avoid-when-encrypting-data-on-windows-practical-tips-for-enhanced-privacy-security"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 In the digital age, protecting sensitive data is paramount for anyone using a Windows system. Encryption is a powerful tool in safeguarding personal and professional information from unauthorized access. However, implementing encryption correctly requires careful attention to detail. This article highlights common mistakes to avoid when encrypting data on Windows, offering practical advice to enhance your privacy and security.

@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Backup and Restore Utilities"
 date: 2025-04-17
+slug: "beginners-guide-to-windows-backup-and-restore-utilities"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Backing up your data and creating restore points are critical tasks for any Windows user. These practices ensure that you can recover your files and system settings in the event of data loss, hardware failure, or software issues. Windows offers built-in tools to help you perform these tasks effectively, and this guide will walk you through the process.

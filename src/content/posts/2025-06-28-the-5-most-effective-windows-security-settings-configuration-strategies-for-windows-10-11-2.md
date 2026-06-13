@@ -1,8 +1,10 @@
 ---
 title: "The 5 Most Effective Windows Security Settings Configuration Strategies for Windows 10 & 11"
 date: 2025-06-28
+slug: "the-5-most-effective-windows-security-settings-configuration-strategies-for-windows-10-11-2"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Securing your Windows 10 or 11 PC is an essential step in safeguarding your personal data, privacy, and overall system health. Whether you’re a beginner looking for a simple guide or a more advanced user seeking deeper control, this article will walk you through the five most effective security settings strategies, with step-by-step instructions and helpful examples.

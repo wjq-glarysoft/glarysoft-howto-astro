@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Repair Windows CPU Performance Tuning in Windows 10 & 11"
 date: 2025-05-06
+slug: "the-complete-guide-to-repair-windows-cpu-performance-tuning-in-windows-10-11"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Are you experiencing slow performance on your Windows 10 or 11 computer? Optimizing CPU performance can significantly enhance your PC's speed and responsiveness. This guide will walk you through simple steps to tune your CPU performance, making your computer faster and more efficient. Even if you're a beginner, you'll find these adjustments easy to implement.

@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Configure Windows Security Settings in Windows 10 & 11 (Advanced Techniques)"
 date: 2025-06-02
+slug: "top-10-ways-to-configure-windows-security-settings-in-windows-10-11-advanced-techniques"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 For advanced Windows users, securing your system goes well beyond the basics. Windows 10 and 11 offer a range of powerful security features that, when configured properly, can drastically reduce your vulnerability to cyber threats. This guide explores advanced methods for configuring your Windows security settings, prioritizing privacy and protection without sacrificing system functionality.

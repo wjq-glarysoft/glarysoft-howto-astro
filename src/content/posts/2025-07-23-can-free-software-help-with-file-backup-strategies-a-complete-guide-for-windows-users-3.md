@@ -1,8 +1,10 @@
 ---
 title: "Can Free Software Help with file backup strategies? A Complete Guide for Windows Users"
 date: 2025-07-23
+slug: "can-free-software-help-with-file-backup-strategies-a-complete-guide-for-windows-users-3"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Why Is File Backup Important for Windows Users?

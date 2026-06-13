@@ -1,8 +1,10 @@
 ---
 title: "How to troubleshoot Windows firewall setup and management for All Windows Users?"
 date: 2025-05-31
+slug: "how-to-troubleshoot-windows-firewall-setup-and-management-for-all-windows-users"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Why is the Windows Firewall Important for Privacy and Security?

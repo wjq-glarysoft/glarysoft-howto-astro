@@ -1,8 +1,10 @@
 ---
 title: "Master Windows firewall setup and management with Glary Utilities: Windows User Guide"
 date: 2025-08-08
+slug: "master-windows-firewall-setup-and-management-with-glary-utilities-windows-user-guide"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Why Is Advanced Firewall Management Important for Privacy and Security?

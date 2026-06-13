@@ -1,8 +1,10 @@
 ---
 title: "Mastering Windows File Explorer: A Beginner's Guide to Managing Files and Folders"
 date: 2025-04-20
+slug: "mastering-windows-file-explorer-a-beginners-guide-to-managing-files-and-folders"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Windows File Explorer is a vital tool for navigating and managing files and folders on your computer. While it may seem straightforward, there are numerous tips and tricks that can enhance your productivity and make file management more efficient. This guide will walk you through some essential features and techniques that beginners can use to get the most out of File Explorer.

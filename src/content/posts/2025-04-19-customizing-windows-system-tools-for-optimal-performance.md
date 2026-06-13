@@ -1,8 +1,10 @@
 ---
 title: "Customizing Windows System Tools for Optimal Performance"
 date: 2025-04-19
+slug: "customizing-windows-system-tools-for-optimal-performance"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Windows operating systems come equipped with a variety of built-in tools designed to help users maintain, secure, and optimize their PCs. However, customizing these tools can greatly enhance their effectiveness and tailor them to meet your specific needs. Here's how you can make the most out of Windows system tools.

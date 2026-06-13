@@ -1,8 +1,10 @@
 ---
 title: "Why is folder structure optimization Important for Your Windows PC and How to Manage It?"
 date: 2025-06-03
+slug: "why-is-folder-structure-optimization-important-for-your-windows-pc-and-how-to-manage-it"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Why Should Advanced Users Care About Folder Structure Optimization?

@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Troubleshoot Fixing Windows Startup Issues in Windows 10 & 11"
 date: 2025-05-20
+slug: "the-complete-guide-to-troubleshoot-fixing-windows-startup-issues-in-windows-10-11"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Experiencing startup issues in Windows 10 and 11 can be frustrating, but with the right approach, you can resolve these problems effectively. This guide provides actionable steps for both beginners and advanced users to diagnose and fix startup issues. We'll also discuss how Glary Utilities can assist in cleaning and repairing system files to prevent future problems.

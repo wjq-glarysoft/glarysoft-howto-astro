@@ -1,8 +1,10 @@
 ---
 title: "Master file naming conventions and organization with Glary Utilities: Windows User Guide"
 date: 2025-06-26
+slug: "master-file-naming-conventions-and-organization-with-glary-utilities-windows-user-guide"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Keeping your files and folders organized is a fundamental skill for any Windows user. Whether you are saving family photos, managing work documents, or storing downloaded content, a good file naming convention and an organized folder structure can save you hours of frustration. This guide will walk you through the basics and advanced techniques for mastering file naming and organization. We’ll also show how Glary Utilities can make managing your files and folders even easier and more efficient.

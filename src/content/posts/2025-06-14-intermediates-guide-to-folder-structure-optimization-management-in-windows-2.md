@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Folder Structure Optimization Management in Windows"
 date: 2025-06-14
+slug: "intermediates-guide-to-folder-structure-optimization-management-in-windows-2"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Organizing your files and folders may seem like a simple task, but an optimized folder structure can save you countless hours over time. Whether you're a student, a professional, or someone managing a home PC, a well-thought-out folder system reduces clutter, speeds up searches, and improves overall productivity. In this guide, we’ll explore practical, time-saving strategies for folder structure optimization on Windows, with actionable examples for both beginners and advanced users.

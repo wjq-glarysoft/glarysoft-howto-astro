@@ -1,8 +1,10 @@
 ---
 title: "Glary Utilities Makes Windows Power Management Tools Management Simple in Windows"
 date: 2025-06-26
+slug: "glary-utilities-makes-windows-power-management-tools-management-simple-in-windows-3"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Why Is Power Management Important for Windows Users?

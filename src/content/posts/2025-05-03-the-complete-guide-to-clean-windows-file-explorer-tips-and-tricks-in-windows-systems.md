@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Clean Windows File Explorer Tips and Tricks in Windows Systems"
 date: 2025-05-03
+slug: "the-complete-guide-to-clean-windows-file-explorer-tips-and-tricks-in-windows-systems"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Windows File Explorer is an essential tool for managing files and folders on your computer. For intermediate users looking to enhance their efficiency and maintain a clean and organized system, understanding the tips and tricks of File Explorer can be a game-changer. Here’s a comprehensive guide to help you navigate and optimize your File Explorer experience.

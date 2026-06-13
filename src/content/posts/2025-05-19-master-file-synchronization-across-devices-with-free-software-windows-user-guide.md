@@ -1,8 +1,10 @@
 ---
 title: "Master file synchronization across devices with Free Software: Windows User Guide"
 date: 2025-05-19
+slug: "master-file-synchronization-across-devices-with-free-software-windows-user-guide"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 File synchronization is an essential process for maintaining up-to-date information across multiple devices. It ensures that you have access to the latest versions of your files, regardless of whether you're on your desktop, laptop, or smartphone. However, beginners often encounter common pitfalls that can disrupt this process. This guide will help you avoid these mistakes and smoothly synchronize your files on Windows using free software tools.

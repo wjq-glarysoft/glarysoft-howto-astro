@@ -1,8 +1,10 @@
 ---
 title: "Master file synchronization across devices with Built-in Features: Windows User Guide"
 date: 2025-06-20
+slug: "master-file-synchronization-across-devices-with-built-in-features-windows-user-guide"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 How does file synchronization benefit Windows users?

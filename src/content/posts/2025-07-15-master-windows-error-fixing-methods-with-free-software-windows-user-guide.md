@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Error Fixing Methods with Free Software: Windows User Guide"
 date: 2025-07-15
+slug: "master-windows-error-fixing-methods-with-free-software-windows-user-guide"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Introduction

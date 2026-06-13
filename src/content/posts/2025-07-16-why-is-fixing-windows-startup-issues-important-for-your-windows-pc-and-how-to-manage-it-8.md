@@ -1,8 +1,10 @@
 ---
 title: "Why is fixing Windows startup issues Important for Your Windows PC and How to Manage It?"
 date: 2025-07-16
+slug: "why-is-fixing-windows-startup-issues-important-for-your-windows-pc-and-how-to-manage-it-8"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Why Should You Care About Windows Startup Issues?

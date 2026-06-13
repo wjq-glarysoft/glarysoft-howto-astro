@@ -1,8 +1,10 @@
 ---
 title: "How to organize Windows network performance tuning for All Windows Users?"
 date: 2025-07-29
+slug: "how-to-organize-windows-network-performance-tuning-for-all-windows-users"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 When your Windows computer struggles with slow downloads, laggy online games, or buffering videos, network performance can be the culprit. Many beginners think network tuning is only for experts, but with the right steps, anyone can boost their PC’s connectivity. Let’s explore how to organize and improve Windows network performance, using simple tools and practical examples.

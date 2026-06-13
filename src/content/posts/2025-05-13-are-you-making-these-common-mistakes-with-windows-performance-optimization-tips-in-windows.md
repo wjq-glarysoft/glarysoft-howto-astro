@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Performance Optimization Tips in Windows?"
 date: 2025-05-13
+slug: "are-you-making-these-common-mistakes-with-windows-performance-optimization-tips-in-windows"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 For many Windows users, keeping their computer running smoothly can feel like a daunting task. However, optimizing your PC’s performance doesn’t have to be complicated. Let's dive into some common mistakes beginners make and provide you with practical, actionable tips to improve your Windows system's performance.

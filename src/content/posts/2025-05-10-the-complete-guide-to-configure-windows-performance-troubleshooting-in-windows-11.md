@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure Windows Performance Troubleshooting in Windows 11"
 date: 2025-05-10
+slug: "the-complete-guide-to-configure-windows-performance-troubleshooting-in-windows-11"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Windows 11 is a sleek and modern operating system, but like any other OS, it can experience performance hiccups. Let's delve into ways to troubleshoot and optimize your system's performance using practical, actionable advice. Here's a guide tailored for intermediate users that will help you maintain and improve your Windows 11 experience.

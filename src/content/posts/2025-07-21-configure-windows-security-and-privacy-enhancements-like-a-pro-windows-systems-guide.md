@@ -1,8 +1,10 @@
 ---
 title: "configure Windows security and privacy enhancements Like a Pro: Windows Systems Guide"
 date: 2025-07-21
+slug: "configure-windows-security-and-privacy-enhancements-like-a-pro-windows-systems-guide"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Windows operating systems have evolved to offer robust security and privacy tools—but getting the most from these features often requires more than just default settings. If you want to elevate your system's defenses without spending hours on technical tweaks, this guide will show you practical, time-saving strategies for configuring key security and privacy enhancements. Whether you're new to Windows or a seasoned power user, follow these steps to keep your data safe and your system running smoothly.

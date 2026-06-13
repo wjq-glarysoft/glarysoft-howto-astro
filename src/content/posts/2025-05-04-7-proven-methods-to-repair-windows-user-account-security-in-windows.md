@@ -1,8 +1,10 @@
 ---
 title: "7 Proven Methods to Repair Windows User Account Security in Windows"
 date: 2025-05-04
+slug: "7-proven-methods-to-repair-windows-user-account-security-in-windows"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 In today's digital age, ensuring your Windows user account is secure is more crucial than ever. This article outlines seven proven methods to repair and enhance user account security on Windows, catering to both beginners and advanced users.

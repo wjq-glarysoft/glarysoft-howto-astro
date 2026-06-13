@@ -1,8 +1,10 @@
 ---
 title: "15 Built-in Features for Better Windows Performance Troubleshooting Management"
 date: 2025-05-12
+slug: "15-built-in-features-for-better-windows-performance-troubleshooting-management"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Windows operating systems come equipped with a variety of built-in features designed to aid users in troubleshooting performance issues. Whether you're a beginner looking to maintain your PC or an advanced user seeking deeper insights into system performance, understanding these tools will help you keep your system running smoothly. This guide will walk you through these features with practical advice and examples.

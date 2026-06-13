@@ -1,8 +1,10 @@
 ---
 title: "Built-in Features Makes Windows Memory Optimization Techniques Management Simple in Windows"
 date: 2025-07-02
+slug: "built-in-features-makes-windows-memory-optimization-techniques-management-simple-in-windows-2"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Are you tired of your Windows computer slowing down or freezing when you have too many programs open? This is usually because your computer’s memory (RAM) is running low. Good news: Windows offers built-in features and easy techniques to optimize memory and keep your PC running smoothly. Here’s how even beginners can manage memory effectively with time-saving steps to boost performance.

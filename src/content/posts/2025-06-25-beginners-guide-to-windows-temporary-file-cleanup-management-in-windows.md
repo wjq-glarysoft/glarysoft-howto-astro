@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Temporary File Cleanup Management in Windows"
 date: 2025-06-25
+slug: "beginners-guide-to-windows-temporary-file-cleanup-management-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Temporary files accumulate on your Windows PC during daily use, often leading to wasted space, slower performance, and unnecessary clutter. Managing these files efficiently is a crucial part of PC maintenance and can help ensure your system remains responsive and reliable. This guide covers the best practices for cleaning up temporary files in Windows, offering both basic and advanced techniques, with practical advice and real-world examples.

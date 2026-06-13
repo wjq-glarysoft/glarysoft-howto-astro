@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to backup Windows software management best practices in Windows 10 & 11"
 date: 2025-05-04
+slug: "the-complete-guide-to-backup-windows-software-management-best-practices-in-windows-10-11"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Managing software on your Windows 10 or 11 PC can seem daunting, especially for beginners. However, with the right practices and tools, you can ensure your system remains organized, efficient, and protected. This guide will walk you through the best practices for managing software on your Windows machine, including backing up your system, installing updates, and using built-in System Tools effectively.

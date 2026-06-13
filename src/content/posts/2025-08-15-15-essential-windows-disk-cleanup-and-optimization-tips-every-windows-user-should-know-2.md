@@ -1,8 +1,10 @@
 ---
 title: "15 Essential Windows Disk Cleanup and Optimization Tips Every Windows User Should Know"
 date: 2025-08-15
+slug: "15-essential-windows-disk-cleanup-and-optimization-tips-every-windows-user-should-know-2"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Keeping your Windows system clean and optimized is not just about saving space; it’s about saving time and keeping your computer performing at its best. Intermediate Windows users often juggle multiple applications, large files, and demanding workloads, so efficiency matters. Here are 15 practical, time-saving tips to keep your Windows system’s storage and performance in top shape.

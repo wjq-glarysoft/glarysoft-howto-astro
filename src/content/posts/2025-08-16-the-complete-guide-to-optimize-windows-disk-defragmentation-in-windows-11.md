@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Optimize Windows Disk Defragmentation in Windows 11"
 date: 2025-08-16
+slug: "the-complete-guide-to-optimize-windows-disk-defragmentation-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Disk defragmentation has long been one of the most reliable methods for improving performance on Windows systems running traditional hard drives (HDDs). While modern Windows 11 manages defragmentation automatically, intermediate users can achieve better results by understanding how to fine-tune this process. This guide outlines practical and actionable steps to optimize disk defragmentation in Windows 11 using built-in tools and advanced utilities like Glary Utilities.

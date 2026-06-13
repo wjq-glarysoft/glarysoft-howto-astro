@@ -1,8 +1,10 @@
 ---
 title: "Best Practices for Windows Software Management: A Beginner's Guide"
 date: 2025-04-13
+slug: "best-practices-for-windows-software-management-a-beginners-guide"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Effectively managing software on your Windows PC can significantly enhance your system's performance and ensure smooth operation. For beginners, understanding how to manage software efficiently can seem daunting, but with a few best practices, you can maintain a well-organized and optimally performing system.

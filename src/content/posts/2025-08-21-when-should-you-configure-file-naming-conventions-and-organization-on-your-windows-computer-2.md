@@ -1,8 +1,10 @@
 ---
 title: "When Should You Configure File Naming Conventions and Organization on Your Windows Computer?"
 date: 2025-08-21
+slug: "when-should-you-configure-file-naming-conventions-and-organization-on-your-windows-computer-2"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 File naming conventions and folder organization are often overlooked aspects of computer use, but they make a significant difference in productivity, accuracy, and long-term system maintenance. Knowing when to establish and refine these practices on your Windows computer can prevent confusion, wasted time, and even data loss.

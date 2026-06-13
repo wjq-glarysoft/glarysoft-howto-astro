@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 Windows Task Scheduling Techniques: Optimization Made Easy"
 date: 2025-05-27
+slug: "windows-10-11-windows-task-scheduling-techniques-optimization-made-easy"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Task scheduling is one of the most powerful features built into Windows 10 and 11, allowing users to automate routine maintenance, run system tools, or even launch custom scripts at specific times. Whether you're a beginner looking to automate disk cleanup or an advanced user managing complex system maintenance routines, mastering Windows Task Scheduler can save time and keep your system running smoothly. In this article, you'll learn practical, actionable techniques for optimizing your Windows environment using task scheduling, with clear steps for every skill level.

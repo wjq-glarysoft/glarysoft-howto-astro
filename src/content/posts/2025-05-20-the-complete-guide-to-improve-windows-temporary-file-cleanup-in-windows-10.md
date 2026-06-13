@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Improve Windows Temporary File Cleanup in Windows 10"
 date: 2025-05-20
+slug: "the-complete-guide-to-improve-windows-temporary-file-cleanup-in-windows-10"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Introduction to Temporary Files Temporary files in Windows 10 are created by the operating system and software applications to store temporary data. These files are intended to be deleted once the system no longer needs them, but they often get left behind, consuming valuable disk space and potentially impacting system performance.

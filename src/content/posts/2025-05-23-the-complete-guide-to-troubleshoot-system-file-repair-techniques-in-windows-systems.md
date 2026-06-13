@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Troubleshoot System File Repair Techniques in Windows Systems"
 date: 2025-05-23
+slug: "the-complete-guide-to-troubleshoot-system-file-repair-techniques-in-windows-systems"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Are you noticing strange errors, slow performance, or programs crashing unexpectedly on your Windows PC? Damaged or missing system files are a common cause of these issues. Thankfully, you don’t need to be a computer expert to fix them. This guide explains simple, time-saving methods for troubleshooting and repairing system files, with practical steps and real-world examples designed for beginners.

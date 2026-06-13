@@ -1,8 +1,10 @@
 ---
 title: "Monitoring and Analyzing Your Windows System for Optimal Performance"
 date: 2025-04-17
+slug: "monitoring-and-analyzing-your-windows-system-for-optimal-performance"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 For anyone looking to maintain a healthy and efficient Windows system, regular monitoring and analysis are crucial. Not only does it help in identifying performance bottlenecks, but it also aids in preemptively addressing potential issues before they escalate. Here’s a comprehensive guide to monitoring and optimizing your Windows system effectively.

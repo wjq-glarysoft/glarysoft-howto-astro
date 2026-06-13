@@ -1,8 +1,10 @@
 ---
 title: "Master Windows memory optimization techniques with Free Software: Windows User Guide"
 date: 2025-05-13
+slug: "master-windows-memory-optimization-techniques-with-free-software-windows-user-guide"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Memory optimization is crucial for ensuring your Windows PC runs efficiently and smoothly, particularly when multitasking or handling resource-intensive applications. This guide will explore various techniques for optimizing memory using free software and practical strategies suitable for both beginners and advanced users.

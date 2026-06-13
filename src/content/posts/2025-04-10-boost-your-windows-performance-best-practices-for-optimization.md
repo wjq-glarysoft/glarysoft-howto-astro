@@ -1,8 +1,10 @@
 ---
 title: "Boost Your Windows Performance: Best Practices for Optimization"
 date: 2025-04-10
+slug: "boost-your-windows-performance-best-practices-for-optimization"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 In today's fast-paced digital world, maintaining optimal performance on your Windows PC is crucial for both productivity and enjoyment. Whether you're a gamer, a professional, or simply using your computer for everyday tasks, a sluggish system can be frustrating. Below are some practical, actionable tips to optimize your Windows performance effectively.

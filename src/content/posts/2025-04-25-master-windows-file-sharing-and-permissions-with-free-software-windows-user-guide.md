@@ -1,8 +1,10 @@
 ---
 title: "Master Windows file sharing and permissions with Free Software: Windows User Guide"
 date: 2025-04-25
+slug: "master-windows-file-sharing-and-permissions-with-free-software-windows-user-guide"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 How Can You Share Files and Folders in Windows?

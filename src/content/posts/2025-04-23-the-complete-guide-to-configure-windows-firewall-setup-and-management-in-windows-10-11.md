@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to configure Windows firewall setup and management in Windows 10 & 11"
 date: 2025-04-23
+slug: "the-complete-guide-to-configure-windows-firewall-setup-and-management-in-windows-10-11"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 In today's digital age, ensuring your computer's security is paramount. One of the most vital tools available in Windows 10 and 11 is the built-in firewall. This guide offers insights and steps to effectively configure and manage your Windows firewall, catering to both beginners and advanced users. By the end of this article, you'll have a solid understanding of how to optimize your firewall for enhanced privacy and security.

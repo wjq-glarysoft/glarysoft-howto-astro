@@ -1,8 +1,10 @@
 ---
 title: "monitor Windows diagnostic utilities Like a Pro: Windows 11 Guide"
 date: 2025-06-13
+slug: "monitor-windows-diagnostic-utilities-like-a-pro-windows-11-guide"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Windows 11 comes equipped with a variety of diagnostic utilities that allow users to identify, troubleshoot, and resolve system issues efficiently. Whether you’re a casual user looking to keep your PC in good health, or a seasoned pro hunting elusive errors, understanding and using these diagnostic tools is key to a smooth computing experience. This guide breaks down essential Windows system diagnostic tools, provides real-world scenarios, and introduces additional utilities like [Glary Utilities](https://www.glarysoft.com) that can streamline the process.

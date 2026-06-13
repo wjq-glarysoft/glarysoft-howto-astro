@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Startup: A Step-by-Step Guide"
 date: 2025-04-13
+slug: "optimizing-windows-startup-a-step-by-step-guide"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 A slow startup can be frustrating and is often a sign that your Windows system needs some optimization. This guide will walk you through various methods to enhance the startup time of your Windows PC. By following these steps, you'll notice a significant improvement in your system's boot time.

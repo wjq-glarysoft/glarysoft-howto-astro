@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Network Performance Tuning Management in Windows"
 date: 2025-06-23
+slug: "advanceds-guide-to-windows-network-performance-tuning-management-in-windows-2"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Introduction

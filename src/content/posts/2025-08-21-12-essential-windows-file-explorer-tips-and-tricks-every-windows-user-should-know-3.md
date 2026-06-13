@@ -1,8 +1,10 @@
 ---
 title: "12 Essential Windows File Explorer Tips and Tricks Every Windows User Should Know"
 date: 2025-08-21
+slug: "12-essential-windows-file-explorer-tips-and-tricks-every-windows-user-should-know-3"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Windows File Explorer is at the heart of everyday computer use. Whether you’re locating documents, organizing photos, or managing large project folders, efficiency in File Explorer directly translates into time saved. Hidden within this tool are a variety of powerful features that both beginners and advanced users can take advantage of. Below are 12 essential tips and tricks designed to help you navigate files and folders more quickly and effectively.

@@ -1,8 +1,10 @@
 ---
 title: "optimize Windows security settings configuration Like a Pro: Windows 10 Guide"
 date: 2025-05-25
+slug: "optimize-windows-security-settings-configuration-like-a-pro-windows-10-guide"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Keeping your Windows 10 PC secure is essential in today's digital world. Whether you're a casual user or an IT professional, understanding and configuring your system's security settings can make a significant difference in protecting your personal information and keeping your device running smoothly. This guide offers practical, step-by-step advice on optimizing your Windows 10 security settings from a professional perspective, suitable for all experience levels.

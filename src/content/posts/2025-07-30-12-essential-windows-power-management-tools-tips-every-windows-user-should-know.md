@@ -1,8 +1,10 @@
 ---
 title: "12 Essential Windows Power Management Tools Tips Every Windows User Should Know"
 date: 2025-07-30
+slug: "12-essential-windows-power-management-tools-tips-every-windows-user-should-know"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Is Your Windows Power Plan Optimized for Performance or Efficiency?

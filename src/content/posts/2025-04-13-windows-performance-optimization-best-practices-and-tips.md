@@ -1,8 +1,10 @@
 ---
 title: "Windows Performance Optimization: Best Practices and Tips"
 date: 2025-04-13
+slug: "windows-performance-optimization-best-practices-and-tips"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Optimizing the performance of your Windows PC is essential for ensuring smooth operation and prolonging the lifespan of your hardware. Whether you're a casual user or a power user, these best practices will help you get the most out of your system.

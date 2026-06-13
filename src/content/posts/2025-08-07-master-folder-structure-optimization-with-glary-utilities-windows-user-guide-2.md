@@ -1,8 +1,10 @@
 ---
 title: "Master folder structure optimization with Glary Utilities: Windows User Guide"
 date: 2025-08-07
+slug: "master-folder-structure-optimization-with-glary-utilities-windows-user-guide-2"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Why is an Organized Folder Structure Important?

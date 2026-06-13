@@ -1,8 +1,10 @@
 ---
 title: "10 Built-in Features for Better Windows Firewall Setup and Management"
 date: 2025-07-09
+slug: "10-built-in-features-for-better-windows-firewall-setup-and-management"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 If you’re a beginner looking to improve your Windows security, understanding and managing the built-in Windows Firewall is a must. Windows Firewall helps protect your computer by blocking unauthorized access and allowing safe communication. But did you know there are several built-in features that can make your firewall setup more secure and easier to manage? Below, you’ll find expert tips and real-world examples to help you get the most out of Windows Firewall—no advanced technical knowledge required.

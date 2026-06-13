@@ -1,8 +1,10 @@
 ---
 title: "manage Windows performance troubleshooting Like a Pro: Windows 11 Guide"
 date: 2025-05-26
+slug: "manage-windows-performance-troubleshooting-like-a-pro-windows-11-guide"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Troubleshooting slow performance on a Windows 11 PC can feel overwhelming, especially when you need your computer running smoothly for work, gaming, or everyday tasks. The good news is that you don’t have to be a tech expert to solve most issues quickly. This guide offers time-saving tips and practical steps to help you diagnose and fix performance problems. Whether you’re a beginner or an advanced user, you’ll find targeted advice to keep your system running at its best—with special focus on clean up and repair techniques that deliver real results.

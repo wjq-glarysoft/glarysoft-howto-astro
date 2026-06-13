@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Firewall Setup and Management for Windows 10 Users"
 date: 2025-06-30
+slug: "effective-windows-firewall-setup-and-management-for-windows-10-users"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Why Is the Windows Firewall Important for Privacy and Security?

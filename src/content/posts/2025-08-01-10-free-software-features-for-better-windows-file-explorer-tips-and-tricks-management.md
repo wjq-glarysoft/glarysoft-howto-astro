@@ -1,8 +1,10 @@
 ---
 title: "10 Free Software Features for Better Windows File Explorer Tips and Tricks Management"
 date: 2025-08-01
+slug: "10-free-software-features-for-better-windows-file-explorer-tips-and-tricks-management"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Are you looking to take control over your files and folders in Windows far beyond the basics? Advanced users know that mastering File Explorer can significantly streamline workflows and improve productivity. This article dives into ten free software features, utilities, and built-in tricks that elevate file and folder management to the next level.

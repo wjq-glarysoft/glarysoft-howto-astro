@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid When Removing Junk Files on Windows"
 date: 2025-04-19
+slug: "common-mistakes-to-avoid-when-removing-junk-files-on-windows"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Junk files accumulate on a Windows PC over time, taking up valuable space and potentially slowing down the system. While removing these files seems like a straightforward task, many users make common mistakes that can lead to unintended consequences. Here, we’ll discuss these pitfalls and provide actionable advice to ensure a smooth and effective cleanup process.

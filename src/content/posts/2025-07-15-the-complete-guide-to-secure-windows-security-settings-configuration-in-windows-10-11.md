@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Secure Windows Security Settings Configuration in Windows 10 & 11"
 date: 2025-07-15
+slug: "the-complete-guide-to-secure-windows-security-settings-configuration-in-windows-10-11"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Securing your Windows PC is essential for safeguarding your personal data, privacy, and digital life. Whether you use Windows 10 or Windows 11, Microsoft provides a robust set of security settings—but they require proper configuration to offer optimal protection. This comprehensive guide walks you through best practices to secure your Windows security settings, with practical steps for both beginners and advanced users.

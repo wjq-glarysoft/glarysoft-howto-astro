@@ -1,8 +1,10 @@
 ---
 title: "15 Built-in Features for Better Windows Power Management"
 date: 2025-04-30
+slug: "15-built-in-features-for-better-windows-power-management"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Effective power management is crucial for optimizing the performance and longevity of your Windows PC, especially in professional environments where efficiency and sustainability are prioritized. Windows offers several built-in tools and features that can help advanced users manage power consumption strategically. Let's explore these features and how you can utilize them for optimal power efficiency.

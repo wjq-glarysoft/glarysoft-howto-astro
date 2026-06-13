@@ -1,8 +1,10 @@
 ---
 title: "Protecting Your Security and Privacy on Windows: Expert Recommendations"
 date: 2025-04-10
+slug: "protecting-your-security-and-privacy-on-windows-expert-recommendations"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 In today's digital age, safeguarding your privacy and ensuring your system's security are paramount. As a Windows user, there are several actionable steps you can take to enhance your system's defenses against threats. Here are expert recommendations to bolster both your security and privacy.

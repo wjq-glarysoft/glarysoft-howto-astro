@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Temporary File Cleanup Techniques for Windows Users"
 date: 2025-08-10
+slug: "essential-windows-temporary-file-cleanup-techniques-for-windows-users-4"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Why Should You Remove Temporary Files?

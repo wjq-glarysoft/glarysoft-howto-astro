@@ -1,8 +1,10 @@
 ---
 title: "The 5 Most Effective File Search and Indexing Techniques Strategies for Windows Systems"
 date: 2025-06-01
+slug: "the-5-most-effective-file-search-and-indexing-techniques-strategies-for-windows-systems"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Introduction

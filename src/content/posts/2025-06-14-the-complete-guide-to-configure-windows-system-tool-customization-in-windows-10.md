@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure Windows System Tool Customization in Windows 10"
 date: 2025-06-14
+slug: "the-complete-guide-to-configure-windows-system-tool-customization-in-windows-10"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Customizing the built-in system tools in Windows 10 can greatly enhance both efficiency and user experience. However, many users—both new and experienced—often make mistakes that can lead to instability, security issues, or simply a less productive workflow. This guide offers practical advice and actionable steps to configure and personalize Windows system tools, highlighting common pitfalls and how to avoid them.

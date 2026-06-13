@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Security Settings Configuration Techniques for Windows Users"
 date: 2025-06-17
+slug: "essential-windows-security-settings-configuration-techniques-for-windows-users-2"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Windows operating systems offer a wealth of built-in security settings designed to protect your data, privacy, and system integrity. However, many default configurations are not optimized for maximum security. By understanding and customizing these settings, you can significantly reduce risks from malware, hackers, and unwanted data exposure.

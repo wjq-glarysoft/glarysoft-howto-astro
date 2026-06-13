@@ -1,8 +1,10 @@
 ---
 title: "Troubleshooting Common Windows Issues: A Step-by-Step Guide"
 date: 2025-04-13
+slug: "troubleshooting-common-windows-issues-a-step-by-step-guide-2"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Windows operating systems are powerful and versatile, but like any complex platform, they can sometimes experience issues that disrupt productivity. Whether it’s a slow system, software crashes, or internet connectivity problems, this step-by-step guide will help you troubleshoot common Windows issues effectively.

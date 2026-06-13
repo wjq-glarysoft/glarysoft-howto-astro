@@ -1,8 +1,10 @@
 ---
 title: "monitor Windows firewall setup and management Like a Pro: Windows 11 Guide"
 date: 2025-05-24
+slug: "monitor-windows-firewall-setup-and-management-like-a-pro-windows-11-guide"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Why is the Windows Firewall Important for Privacy & Security?

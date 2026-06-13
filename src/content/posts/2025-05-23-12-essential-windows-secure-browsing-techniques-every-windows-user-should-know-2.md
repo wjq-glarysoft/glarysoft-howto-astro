@@ -1,8 +1,10 @@
 ---
 title: "12 Essential Windows Secure Browsing Techniques Every Windows User Should Know"
 date: 2025-05-23
+slug: "12-essential-windows-secure-browsing-techniques-every-windows-user-should-know-2"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Browsing the internet on a Windows PC opens up a world of information—but also exposes you to privacy and security risks. From malware-infected ads to phishing websites, the dangers are real and constantly evolving. Many Windows users make common mistakes that compromise their privacy and security online, often without even realizing it. This guide covers essential secure browsing techniques and highlights the pitfalls to avoid, ensuring your web experience remains safe and private.

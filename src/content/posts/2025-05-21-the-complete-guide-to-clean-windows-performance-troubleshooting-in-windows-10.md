@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Clean Windows Performance Troubleshooting in Windows 10"
 date: 2025-05-21
+slug: "the-complete-guide-to-clean-windows-performance-troubleshooting-in-windows-10"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Windows 10 is a powerful operating system, but like any system, it can become sluggish over time. Performance issues can arise from various factors such as unnecessary programs, cluttered hard drives, or even malware. Troubleshooting Windows performance can seem daunting, but avoiding common mistakes can significantly enhance the process. This guide aims to help both beginners and advanced users clean up and repair their Windows 10 for optimal performance.

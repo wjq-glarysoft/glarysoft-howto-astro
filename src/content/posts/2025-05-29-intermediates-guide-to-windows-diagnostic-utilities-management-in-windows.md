@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows Diagnostic Utilities Management in Windows"
 date: 2025-05-29
+slug: "intermediates-guide-to-windows-diagnostic-utilities-management-in-windows"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Windows diagnostic utilities are essential tools for identifying, troubleshooting, and resolving issues that affect a computer’s performance and stability. Whether you're experiencing slowdowns, crashes, or connectivity problems, knowing how to use these system tools can save time and prevent bigger problems. This guide provides practical advice and real-world examples for managing Windows diagnostic utilities, with an emphasis on best practices for users at all levels.

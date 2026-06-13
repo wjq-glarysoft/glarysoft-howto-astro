@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows File Sharing and Permissions Management in Windows"
 date: 2025-07-17
+slug: "alls-guide-to-windows-file-sharing-and-permissions-management-in-windows-3"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Windows file sharing is a powerful feature that allows users to share files and folders with others across a network or within the same device. However, misconfigurations and misunderstandings about permissions are common and can lead to security risks, unwanted data exposure, or simple frustration when things don’t work as expected. This guide highlights the most frequent mistakes to avoid and provides actionable steps to ensure your files and folders are shared securely and efficiently.

@@ -1,12 +1,10 @@
 ---
 title: "How to Fix Computer Slow on Startup"
 date: 2024-04-25
+slug: "fix-computer-slow-on-startup"
 categories: 
   - "optimize-improve"
-tags: 
-  - "computer-slow-on-startup"
-  - "startup-manager"
-  - "windows-startup-programs"
+author: "antonia"
 ---
 
 Computer slow on startup can be frustrating, causing unnecessary delays and hindering productivity. When your computer takes long to boot up, it not only tests your patience but also affects your efficiency. Fortunately, there is a solution: you can resolve this issue and enhance your startup time using the [Startup Manager](https://www.glarysoft.com/kb/startup-manager/) tool in [Glary Utilities](https://www.glarysoft.com/). This user-friendly tool is specifically designed to streamline Windows startup, enabling you to efficiently manage Windows startup programs.

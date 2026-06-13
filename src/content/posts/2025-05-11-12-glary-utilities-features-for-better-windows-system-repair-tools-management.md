@@ -1,8 +1,10 @@
 ---
 title: "12 Glary Utilities Features for Better Windows System Repair Tools Management"
 date: 2025-05-11
+slug: "12-glary-utilities-features-for-better-windows-system-repair-tools-management"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 As an intermediate Windows user, you understand the importance of maintaining your computer's health for optimal performance. Glary Utilities is a robust software suite that offers a variety of tools to help manage and repair your Windows system efficiently. In this article, we explore 12 Glary Utilities features that can save you time and enhance your system's reliability.

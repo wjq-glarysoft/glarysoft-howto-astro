@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Backup Security and Privacy Protection in Windows Systems"
 date: 2025-05-13
+slug: "top-10-ways-to-backup-security-and-privacy-protection-in-windows-systems"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 For Windows users, securing your system and protecting your privacy are vital tasks that ensure a safe computing environment. Here's a beginner-friendly guide to the top ten ways to safeguard your Windows system effectively.

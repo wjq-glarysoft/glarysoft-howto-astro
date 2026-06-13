@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems File Backup Strategies Optimization Made Easy"
 date: 2025-04-22
+slug: "windows-systems-file-backup-strategies-optimization-made-easy"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Backing up files and folders on a Windows system is a critical task that ensures data safety and minimizes the risk of data loss. This guide will walk you through various file backup strategies, providing practical advice for both beginners and advanced users. By the end of this article, you'll have a comprehensive understanding of how to optimize your file backup process.

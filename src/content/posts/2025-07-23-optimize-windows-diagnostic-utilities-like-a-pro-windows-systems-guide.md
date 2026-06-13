@@ -1,8 +1,10 @@
 ---
 title: "optimize Windows diagnostic utilities Like a Pro: Windows Systems Guide"
 date: 2025-07-23
+slug: "optimize-windows-diagnostic-utilities-like-a-pro-windows-systems-guide"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Why Are Windows Diagnostic Utilities Important?

@@ -1,8 +1,10 @@
 ---
 title: "7 Essential Windows Command Line Tools Tips Every Windows User Should Know"
 date: 2025-07-14
+slug: "7-essential-windows-command-line-tools-tips-every-windows-user-should-know-3"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 The Windows command line, commonly known as Command Prompt or CMD, is a powerful interface that can help you manage, diagnose, and optimize your PC more efficiently. For many users, this tool remains underutilized due to its text-based interface. However, mastering a handful of essential commands can streamline everyday maintenance, troubleshoot issues, and even automate repetitive tasks.

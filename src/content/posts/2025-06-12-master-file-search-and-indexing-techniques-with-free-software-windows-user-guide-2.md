@@ -1,8 +1,10 @@
 ---
 title: "Master file search and indexing techniques with Free Software: Windows User Guide"
 date: 2025-06-12
+slug: "master-file-search-and-indexing-techniques-with-free-software-windows-user-guide-2"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Why is Efficient File Search Essential in Windows?

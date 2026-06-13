@@ -1,8 +1,10 @@
 ---
 title: "Built-in Features Make Windows Performance Troubleshooting and Management Simple in Windows"
 date: 2025-06-01
+slug: "built-in-features-make-windows-performance-troubleshooting-and-management-simple-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Every Windows PC user eventually faces slowdowns, unresponsive programs, or mysterious system hiccups. Luckily, Windows includes a wealth of built-in features that make troubleshooting performance issues easier than ever. Whether you’re a beginner seeking straightforward solutions or an advanced user eager to dig deeper, these tools help you manage, clean up, and repair your system efficiently.

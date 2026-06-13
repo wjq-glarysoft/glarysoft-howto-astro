@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Guide to Windows Registry Cleaning and Repair"
 date: 2025-04-14
+slug: "the-ultimate-guide-to-windows-registry-cleaning-and-repair"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 The Windows registry is a vital component of your operating system, acting as a database that stores configuration settings and options. Over time, the registry can become cluttered with obsolete or incorrect entries, leading to system slowdowns, errors, and other performance issues. This guide will walk you through expert recommendations for cleaning and repairing your Windows registry.

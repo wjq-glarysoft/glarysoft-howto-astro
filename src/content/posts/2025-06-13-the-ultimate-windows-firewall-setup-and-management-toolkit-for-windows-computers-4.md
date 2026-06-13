@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Windows Firewall Setup and Management Toolkit for Windows Computers"
 date: 2025-06-13
+slug: "the-ultimate-windows-firewall-setup-and-management-toolkit-for-windows-computers-4"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Introduction: Why is Windows Firewall Important for Privacy & Security?

@@ -1,8 +1,10 @@
 ---
 title: "How to Improve File Compression Techniques for Beginner Windows Users"
 date: 2025-04-27
+slug: "how-to-improve-file-compression-techniques-for-beginner-windows-users"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 File compression is an essential skill for managing storage space and efficiently transferring files. While Windows provides basic tools for file compression, there are several techniques and tools that can enhance your compression results. This article will guide you through basic and advanced file compression methods, focusing on practical applications for Windows users.

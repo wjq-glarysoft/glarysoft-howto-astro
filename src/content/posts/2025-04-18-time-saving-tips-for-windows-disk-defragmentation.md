@@ -1,8 +1,10 @@
 ---
 title: "Time-Saving Tips for Windows Disk Defragmentation"
 date: 2025-04-18
+slug: "time-saving-tips-for-windows-disk-defragmentation"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Disk defragmentation is a critical maintenance task that can significantly improve the performance of your Windows PC. While modern versions of Windows automatically manage disk defragmentation, there are still ways to ensure this process is optimized to save you time and enhance your computer's speed. Here’s how you can make the most of disk defragmentation with a focus on efficiency.

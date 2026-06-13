@@ -1,8 +1,10 @@
 ---
 title: "How to Clean Windows Temporary Files: Advanced Cleanup Techniques for All Users"
 date: 2025-06-06
+slug: "how-to-clean-windows-temporary-files-advanced-cleanup-techniques-for-all-users"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Why Are Temporary Files a Problem?

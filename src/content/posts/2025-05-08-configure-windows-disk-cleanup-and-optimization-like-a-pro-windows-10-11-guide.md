@@ -1,8 +1,10 @@
 ---
 title: "configure Windows disk cleanup and optimization Like a Pro: Windows 10 & 11 Guide"
 date: 2025-05-08
+slug: "configure-windows-disk-cleanup-and-optimization-like-a-pro-windows-10-11-guide"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Keeping your Windows operating system running smoothly requires regular maintenance and optimization. This guide will walk you through advanced techniques for disk cleanup and optimization on Windows 10 and 11. Whether you're a beginner looking to improve your computer's performance or an advanced user seeking to delve deep into system maintenance, this article will cover practical steps tailored to both ends of the spectrum. We'll also explore how Glary Utilities can enhance your system cleanup and optimization efforts.

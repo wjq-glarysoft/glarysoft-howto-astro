@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Junk File Removal Strategies Toolkit for Windows Computers"
 date: 2025-05-30
+slug: "the-ultimate-junk-file-removal-strategies-toolkit-for-windows-computers-5"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Is Your Windows PC Slower Than Before? Here’s Why

@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Repair File Recovery Methods in Windows 11"
 date: 2025-08-13
+slug: "the-complete-guide-to-repair-file-recovery-methods-in-windows-11-2"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Recovering lost or corrupted files in Windows 11 can be challenging, especially when standard methods fall short. Whether you’ve accidentally deleted a document, experienced a system crash, or are dealing with file system corruption, Windows 11 offers multiple avenues for file recovery. This guide explores advanced repair file recovery methods, equipping both beginners and advanced users with practical tools and step-by-step instructions to rescue important files and folders.

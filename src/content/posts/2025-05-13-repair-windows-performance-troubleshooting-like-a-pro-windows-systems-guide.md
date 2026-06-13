@@ -1,8 +1,10 @@
 ---
 title: "repair Windows performance troubleshooting Like a Pro: Windows Systems Guide"
 date: 2025-05-13
+slug: "repair-windows-performance-troubleshooting-like-a-pro-windows-systems-guide"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Is your Windows PC not performing as well as it used to? Slow startups, unresponsive programs, and frequent crashes can all signal performance issues that need addressing. This guide aims to help you troubleshoot and repair Windows performance issues like a pro, whether you're a beginner or an advanced user.

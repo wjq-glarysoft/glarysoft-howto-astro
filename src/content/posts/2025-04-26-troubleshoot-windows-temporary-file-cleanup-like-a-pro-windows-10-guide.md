@@ -1,8 +1,10 @@
 ---
 title: "troubleshoot Windows temporary file cleanup Like a Pro: Windows 10 Guide"
 date: 2025-04-26
+slug: "troubleshoot-windows-temporary-file-cleanup-like-a-pro-windows-10-guide"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 One of the significant aspects of maintaining a healthy and efficient Windows 10 system is regular cleanup of temporary files. Temporary files can accumulate over time, consuming valuable disk space and potentially slowing down your system. This guide walks you through best practices for cleaning up temporary files, catering to both beginners and advanced users.

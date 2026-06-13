@@ -1,8 +1,10 @@
 ---
 title: "15 Essential Windows Visual Effects Optimization Tips Every Windows User Should Know"
 date: 2025-05-26
+slug: "15-essential-windows-visual-effects-optimization-tips-every-windows-user-should-know"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Are you noticing your Windows PC feeling sluggish or less responsive? Visual effects, while enhancing appearance, can drain system resources and slow down your computer. Optimizing these effects can significantly improve speed, especially on older hardware. This step-by-step guide equips users of all levels with actionable tips to fine-tune Windows visual effects for the best balance between aesthetics and performance.

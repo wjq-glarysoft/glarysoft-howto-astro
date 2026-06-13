@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Monitor Windows CPU Performance Tuning in Windows 11"
 date: 2025-05-01
+slug: "top-10-ways-to-monitor-windows-cpu-performance-tuning-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Windows 11, with its sleek design and enhanced features, also demands efficient CPU performance monitoring to ensure that your system runs smoothly. For users looking to optimize and improve their PC's performance, understanding and tuning CPU performance is essential. Here is a guide to help you effectively monitor and enhance CPU performance on Windows 11.

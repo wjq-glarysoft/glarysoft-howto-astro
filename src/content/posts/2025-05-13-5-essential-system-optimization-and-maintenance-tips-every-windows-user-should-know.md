@@ -1,8 +1,10 @@
 ---
 title: "5 Essential System Optimization and Maintenance Tips Every Windows User Should Know"
 date: 2025-05-13
+slug: "5-essential-system-optimization-and-maintenance-tips-every-windows-user-should-know"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Optimizing and maintaining a Windows PC is crucial to ensure that it runs smoothly and efficiently. Whether you're a novice or a seasoned user, these essential tips will help you keep your system in top shape. Here’s a guide with step-by-step instructions tailored for both beginners and advanced users.

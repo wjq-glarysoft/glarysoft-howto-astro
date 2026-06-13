@@ -1,8 +1,10 @@
 ---
 title: "Time-Saving Tips for Customizing and Personalizing Your Windows PC"
 date: 2025-04-13
+slug: "time-saving-tips-for-customizing-and-personalizing-your-windows-pc-2"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Customizing and personalizing your Windows PC is more than just making your desktop look pretty; it’s about creating a more efficient and user-friendly environment that saves you time and boosts productivity. Here are some practical tips to help you get started on optimizing your Windows experience with customization and personalization.

@@ -1,8 +1,10 @@
 ---
 title: "Windows file search and indexing techniques Solutions: From Basics to Advanced Techniques"
 date: 2025-05-10
+slug: "windows-file-search-and-indexing-techniques-solutions-from-basics-to-advanced-techniques-3"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Finding files quickly and efficiently on a Windows system can significantly improve productivity and ease of use. Windows offers built-in search and indexing features that can be harnessed to locate files on your computer instantly. This article will guide you through basic and advanced file search and indexing techniques, providing you with practical, actionable advice and examples.

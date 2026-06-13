@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure Windows Performance Troubleshooting in Windows 10"
 date: 2025-07-17
+slug: "the-complete-guide-to-configure-windows-performance-troubleshooting-in-windows-10"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Windows 10 offers a variety of tools and settings for diagnosing and improving system performance. However, many users—both beginners and advanced—make common mistakes that can hinder effective troubleshooting. This guide will help you avoid these pitfalls and provide practical, actionable steps to optimize your computer’s speed and reliability, focusing especially on Clean Up & Repair tasks.

@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Optimize Windows Security and Privacy Enhancements in Windows 10 & 11"
 date: 2025-07-20
+slug: "top-10-ways-to-optimize-windows-security-and-privacy-enhancements-in-windows-10-11"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 If you use a Windows 10 or Windows 11 computer, making sure your device is secure and your personal information remains private is essential. Even if you’re not a tech expert, there are straightforward actions you can take to boost your PC’s security and privacy. This guide will walk you through ten practical steps, with easy-to-follow instructions and real-world examples, designed specifically for beginners.

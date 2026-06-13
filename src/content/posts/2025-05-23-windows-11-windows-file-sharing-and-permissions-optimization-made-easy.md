@@ -1,8 +1,10 @@
 ---
 title: "Windows 11 Windows File Sharing and Permissions Optimization Made Easy"
 date: 2025-05-23
+slug: "windows-11-windows-file-sharing-and-permissions-optimization-made-easy"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Are you looking to share files and folders on your Windows 11 PC with others in your home or office? Understanding how to set up file sharing and configure permissions is essential for keeping your information accessible yet secure. In this guide, we’ll break down Windows 11 file sharing and permissions into simple, practical steps, using everyday examples, and show you how to optimize the process for safety and convenience.

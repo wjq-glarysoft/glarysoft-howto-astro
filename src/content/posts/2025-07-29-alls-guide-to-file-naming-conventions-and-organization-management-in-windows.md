@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to File Naming Conventions and Organization Management in Windows"
 date: 2025-07-29
+slug: "alls-guide-to-file-naming-conventions-and-organization-management-in-windows"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Are you tired of not being able to find your files or struggling to understand your own folder structure? For Windows users, especially beginners, setting up strong file naming conventions and a smart folder organization system can make a world of difference. With the right approach, you’ll save time, avoid frustration, and keep your computer running smoothly. Let’s explore how you can create an efficient, beginner-friendly system for managing your files and folders.

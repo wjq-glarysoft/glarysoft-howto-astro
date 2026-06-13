@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows System Tool Customization Management in Windows"
 date: 2025-05-13
+slug: "alls-guide-to-windows-system-tool-customization-management-in-windows"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Windows comes with a variety of built-in system tools that can be customized to enhance performance and streamline your workflow. Proper management of these tools can lead to a more efficient and enjoyable computing experience. This guide will walk you through the best practices for customizing Windows system tools, offering practical advice and examples for both beginners and advanced users.

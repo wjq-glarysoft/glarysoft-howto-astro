@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure File Synchronization Across Devices in Windows Systems"
 date: 2025-07-19
+slug: "the-complete-guide-to-configure-file-synchronization-across-devices-in-windows-systems"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 File synchronization is an essential practice for anyone who works across multiple devices or wants to ensure their files are always up-to-date and accessible. For Windows users, configuring file synchronization not only improves productivity but also acts as a safeguard against data loss. This guide explores practical, professional insights into setting up and managing file synchronization across devices in Windows systems—covering options for both beginners and advanced users.

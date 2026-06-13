@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Security and Privacy Protection Management in Windows"
 date: 2025-07-18
+slug: "alls-guide-to-security-and-privacy-protection-management-in-windows-3"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Time is valuable, and managing security and privacy on Windows doesn’t have to be a long, tedious process. Whether you’re a casual user or an experienced administrator, you can improve your PC’s defenses and privacy settings with some well-chosen strategies. This guide provides actionable advice and real-world examples to help you secure your Windows system efficiently.

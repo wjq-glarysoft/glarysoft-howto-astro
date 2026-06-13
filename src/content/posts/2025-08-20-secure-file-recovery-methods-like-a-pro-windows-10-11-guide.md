@@ -1,8 +1,10 @@
 ---
 title: "secure file recovery methods Like a Pro: Windows 10 & 11 Guide"
 date: 2025-08-20
+slug: "secure-file-recovery-methods-like-a-pro-windows-10-11-guide"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Losing important files can feel overwhelming, especially if you are new to Windows 10 or 11. Whether it’s work documents, family photos, or downloaded projects, knowing how to safely recover deleted files is a valuable skill. Recovering files isn’t just about clicking “undo delete”—it’s about using the right tools, keeping your data safe, and avoiding mistakes that can permanently erase information. This beginner-friendly guide will show you the most effective and secure ways to get your files back.

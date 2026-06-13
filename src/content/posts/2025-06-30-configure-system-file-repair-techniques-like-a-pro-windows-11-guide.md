@@ -1,8 +1,10 @@
 ---
 title: "configure system file repair techniques Like a Pro: Windows 11 Guide"
 date: 2025-06-30
+slug: "configure-system-file-repair-techniques-like-a-pro-windows-11-guide"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Is your Windows 11 PC acting up with crashes, errors, or slowdowns? Corrupted or missing system files are often the culprit. Mastering system file repair is essential—not just for tech experts, but for any user who wants a smooth, reliable Windows experience. This guide walks you through the best practices and actionable steps for repairing system files on Windows 11, from standard tools to advanced utilities. Whether you’re a beginner or a seasoned user, follow these techniques to keep your Windows running like new.

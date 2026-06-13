@@ -1,8 +1,10 @@
 ---
 title: "Master Windows performance troubleshooting with Built-in Features: Windows User Guide"
 date: 2025-04-30
+slug: "master-windows-performance-troubleshooting-with-built-in-features-windows-user-guide"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 For advanced Windows users, optimizing performance is not just about running a cleaner app; it involves a deep dive into the operating system's built-in features. This guide focuses on troubleshooting performance issues using tools that are already at your disposal within Windows. Follow these steps to enhance and maintain your system’s efficiency.

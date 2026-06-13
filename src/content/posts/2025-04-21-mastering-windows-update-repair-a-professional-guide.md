@@ -1,8 +1,10 @@
 ---
 title: "Mastering Windows Update Repair: A Professional Guide"
 date: 2025-04-21
+slug: "mastering-windows-update-repair-a-professional-guide"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Windows updates are essential for maintaining system security, introducing new features, and ensuring optimal performance. However, the update process can sometimes encounter issues that require troubleshooting and repair. This guide offers professional insights and practical steps to resolve common Windows update problems.

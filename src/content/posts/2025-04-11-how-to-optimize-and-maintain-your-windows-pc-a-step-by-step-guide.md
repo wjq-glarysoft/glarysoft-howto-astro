@@ -1,8 +1,10 @@
 ---
 title: "How to Optimize and Maintain Your Windows PC: A Step-by-Step Guide"
 date: 2025-04-11
+slug: "how-to-optimize-and-maintain-your-windows-pc-a-step-by-step-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Keeping your Windows PC running smoothly requires regular optimization and maintenance. Without it, your system can become slow, cluttered, and less efficient over time. Fortunately, you can enhance performance and extend the life of your PC by following some straightforward procedures. This guide will walk you through the process, providing practical advice and real-world examples to maintain a healthy computer.

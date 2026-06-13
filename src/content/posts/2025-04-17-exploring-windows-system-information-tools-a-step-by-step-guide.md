@@ -1,8 +1,10 @@
 ---
 title: "Exploring Windows System Information Tools: A Step-by-Step Guide"
 date: 2025-04-17
+slug: "exploring-windows-system-information-tools-a-step-by-step-guide"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 As a Windows user, understanding your system's specifications and performance can significantly enhance your computing experience. Whether you're troubleshooting, upgrading hardware, or simply curious about your system's capabilities, Windows provides several built-in tools to access detailed system information. This guide will walk you through these tools and how to effectively use them.

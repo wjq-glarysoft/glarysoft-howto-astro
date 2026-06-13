@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows disk cleanup and optimization in Windows?"
 date: 2025-08-16
+slug: "are-you-making-these-common-mistakes-with-windows-disk-cleanup-and-optimization-in-windows-3"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 When it comes to keeping a Windows PC running smoothly, many users rely on built-in tools like Disk Cleanup or occasional manual file deletions. While these steps help free up some space, they often fall short of true optimization. The key to saving time and avoiding frustration is not just performing cleanup tasks, but doing them properly and consistently. Unfortunately, many users make common mistakes that waste effort and leave their systems sluggish.

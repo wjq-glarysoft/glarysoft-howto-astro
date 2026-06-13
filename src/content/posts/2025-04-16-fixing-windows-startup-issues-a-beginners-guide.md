@@ -1,8 +1,10 @@
 ---
 title: "Fixing Windows Startup Issues: A Beginner's Guide"
 date: 2025-04-16
+slug: "fixing-windows-startup-issues-a-beginners-guide"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Experiencing startup issues on your Windows PC can be frustrating, but with the right approach, they can be resolved efficiently. Whether your computer is slow to boot, displays error messages, or fails to start altogether, this guide provides practical, step-by-step solutions to help you troubleshoot and fix these problems.

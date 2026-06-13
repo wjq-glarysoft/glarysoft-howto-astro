@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Secure Browsing Techniques Management for Windows 11 Users"
 date: 2025-08-09
+slug: "effective-windows-secure-browsing-techniques-management-for-windows-11-users-2"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Introduction

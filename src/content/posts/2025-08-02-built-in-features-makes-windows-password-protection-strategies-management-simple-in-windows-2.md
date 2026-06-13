@@ -1,8 +1,10 @@
 ---
 title: "Built-in Features Makes Windows Password Protection Strategies Management Simple in Windows"
 date: 2025-08-02
+slug: "built-in-features-makes-windows-password-protection-strategies-management-simple-in-windows-2"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Introduction

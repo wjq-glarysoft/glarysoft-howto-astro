@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Backup Windows File Sharing and Permissions in Windows 11"
 date: 2025-07-26
+slug: "the-complete-guide-to-backup-windows-file-sharing-and-permissions-in-windows-11"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Windows file sharing is a convenient way to share files and folders between computers on a network, whether at home or in a small office. However, many users encounter issues when they attempt to back up shared data or restore it without losing critical permissions. Mistakes in handling file sharing and permissions can lead to inaccessible files, data breaches, or loss of collaboration. This guide covers the most common missteps to avoid, and provides clear steps for safely backing up your shared files and their permissions in Windows 11.

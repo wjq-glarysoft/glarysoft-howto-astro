@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Improve Windows Security and Privacy Enhancements in Windows Systems"
 date: 2025-05-13
+slug: "the-complete-guide-to-improve-windows-security-and-privacy-enhancements-in-windows-systems"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 As an intermediate Windows user, you likely have a good grasp of your system's basic operations. However, enhancing your system's security and privacy involves more than just setting a password. This guide delves into practical steps to bolster your Windows security and privacy, ensuring your data and personal information remain safe.

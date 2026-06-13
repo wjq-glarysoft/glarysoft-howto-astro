@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows Power Management Tools Tips Every Windows User Should Know"
 date: 2025-05-12
+slug: "5-essential-windows-power-management-tools-tips-every-windows-user-should-know"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 For advanced Windows users, mastering power management tools can significantly enhance system performance and energy efficiency. In this guide, we'll delve into five essential tips to optimize power management using Windows' built-in tools and features.

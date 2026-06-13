@@ -1,8 +1,10 @@
 ---
 title: "A Beginner's Guide to Repairing Windows Update Issues"
 date: 2025-04-18
+slug: "a-beginners-guide-to-repairing-windows-update-issues"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Windows Updates are crucial for keeping your computer secure and efficient. They provide necessary security patches, performance improvements, and new features. However, sometimes Windows Updates can encounter errors, leading to frustration and potential system vulnerabilities. In this guide, we'll explore practical ways to repair Windows Update issues, ensuring your system remains up-to-date and secure.

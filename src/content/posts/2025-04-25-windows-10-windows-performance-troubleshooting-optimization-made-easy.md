@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 Windows Performance Troubleshooting Optimization Made Easy"
 date: 2025-04-25
+slug: "windows-10-windows-performance-troubleshooting-optimization-made-easy"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Windows 10 is a robust operating system, but over time, performance issues can arise that hinder its efficiency. Whether you're a beginner or an advanced user, understanding how to troubleshoot and optimize Windows 10 can dramatically improve your system's speed and responsiveness. This guide provides expert recommendations to clean up and repair your PC, ensuring it runs smoothly.

@@ -1,8 +1,10 @@
 ---
 title: "Built-in Features Makes Windows Visual Effects Optimization Management Simple in Windows"
 date: 2025-06-17
+slug: "built-in-features-makes-windows-visual-effects-optimization-management-simple-in-windows-2"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Why Should You Optimize Windows Visual Effects?

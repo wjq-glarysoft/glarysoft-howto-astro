@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Folder Structure Optimization Management in Windows"
 date: 2025-08-12
+slug: "intermediates-guide-to-folder-structure-optimization-management-in-windows-4"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Why is Folder Structure Optimization Important?

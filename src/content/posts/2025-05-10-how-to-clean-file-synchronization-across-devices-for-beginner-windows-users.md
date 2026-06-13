@@ -1,8 +1,10 @@
 ---
 title: "How to clean file synchronization across devices for Beginner Windows Users?"
 date: 2025-05-10
+slug: "how-to-clean-file-synchronization-across-devices-for-beginner-windows-users"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 In today’s digital age, keeping files synchronized across multiple devices is crucial for efficiency and accessibility. As a beginner Windows user, you might find the concept of file synchronization a bit daunting. However, once you get the hang of it, managing and accessing your files seamlessly across devices becomes a simple task. This guide will provide you with practical advice and real-world examples to help you clean up and optimize file synchronization on your Windows PC.

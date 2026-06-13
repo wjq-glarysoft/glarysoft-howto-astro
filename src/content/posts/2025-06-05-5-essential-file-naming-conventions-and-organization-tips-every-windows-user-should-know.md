@@ -1,8 +1,10 @@
 ---
 title: "5 Essential File Naming Conventions and Organization Tips Every Windows User Should Know"
 date: 2025-06-05
+slug: "5-essential-file-naming-conventions-and-organization-tips-every-windows-user-should-know"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Keeping your files and folders in order is more important than ever as you juggle work documents, personal photos, downloads, and project files on your Windows PC. Proper file naming and organization doesn’t just save you time searching for things, it also prevents data loss and confusion down the line. Whether you’re just starting out or looking to upgrade your file management skills, here are five essential tips every Windows user should know.

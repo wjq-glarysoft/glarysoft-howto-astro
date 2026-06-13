@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Improve Security and Privacy Protection in Windows?"
 date: 2025-06-30
+slug: "whats-the-best-way-to-improve-security-and-privacy-protection-in-windows"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Many Windows users make the same mistakes when it comes to digital security and privacy, often without realizing the risks. Improving your protection goes beyond installing antivirus software; it means changing habits, knowing what to avoid, and using the right tools. Here’s a practical guide to help you sidestep common pitfalls and strengthen your Windows PC’s defenses.

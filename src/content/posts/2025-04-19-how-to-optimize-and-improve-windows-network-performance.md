@@ -1,8 +1,10 @@
 ---
 title: "How to Optimize and Improve Windows Network Performance"
 date: 2025-04-19
+slug: "how-to-optimize-and-improve-windows-network-performance"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Optimizing network performance on a Windows PC can significantly enhance your online experience, whether you're streaming, gaming, or working remotely. Windows offers several built-in tools and settings to help you maximize your network's efficiency. In this article, we'll explore practical, actionable steps to fine-tune your network performance and achieve a smoother and faster internet connection.

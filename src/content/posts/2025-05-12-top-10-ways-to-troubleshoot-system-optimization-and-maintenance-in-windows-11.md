@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Troubleshoot System Optimization and Maintenance in Windows 11"
 date: 2025-05-12
+slug: "top-10-ways-to-troubleshoot-system-optimization-and-maintenance-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Windows 11 is designed to be user-friendly and performant, but like any operating system, it can sometimes slow down or exhibit unexpected behavior. This guide will provide you with ten ways to troubleshoot and optimize your system, improving its performance and extending its lifespan. Whether you’re a beginner or more advanced user, these tips will help keep your Windows 11 computer running smoothly.

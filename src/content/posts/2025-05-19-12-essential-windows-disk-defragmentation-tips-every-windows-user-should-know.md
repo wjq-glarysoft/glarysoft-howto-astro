@@ -1,8 +1,10 @@
 ---
 title: "12 Essential Windows Disk Defragmentation Tips Every Windows User Should Know"
 date: 2025-05-19
+slug: "12-essential-windows-disk-defragmentation-tips-every-windows-user-should-know"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Disk defragmentation is a crucial task for maintaining and optimizing the performance of your Windows computer. Especially for beginners, understanding and properly managing disk defragmentation can lead to smoother operation and extended hardware life. Here are 12 essential tips to guide you through the process effectively.

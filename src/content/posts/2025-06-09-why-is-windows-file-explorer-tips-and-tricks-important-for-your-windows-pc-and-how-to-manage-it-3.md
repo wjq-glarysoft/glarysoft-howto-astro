@@ -1,8 +1,10 @@
 ---
 title: "Why is Windows File Explorer Tips and Tricks Important for Your Windows PC and How to Manage It?"
 date: 2025-06-09
+slug: "why-is-windows-file-explorer-tips-and-tricks-important-for-your-windows-pc-and-how-to-manage-it-3"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Why Should Intermediate Users Master Windows File Explorer?

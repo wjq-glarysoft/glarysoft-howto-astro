@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Organize Windows Firewall Setup and Management in Windows 10 & 11"
 date: 2025-05-22
+slug: "the-complete-guide-to-organize-windows-firewall-setup-and-management-in-windows-10-11"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows Firewall is a crucial component of your system's defense mechanism, designed to protect your PC from unauthorized access and potential threats. Whether you're a novice or an experienced user, managing your Windows Firewall effectively can enhance your privacy and security. Here’s a comprehensive guide to help you set up and manage Windows Firewall in Windows 10 and 11.

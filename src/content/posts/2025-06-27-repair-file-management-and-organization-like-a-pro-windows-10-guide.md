@@ -1,8 +1,10 @@
 ---
 title: "repair file management and organization Like a Pro: Windows 10 Guide"
 date: 2025-06-27
+slug: "repair-file-management-and-organization-like-a-pro-windows-10-guide"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 File management is often an overlooked skill, yet it’s essential for keeping your Windows 10 system running smoothly and efficiently. Whether you’re a casual user or a power user with mountains of data, mastering file organization can save you time, prevent data loss, and even improve system performance.

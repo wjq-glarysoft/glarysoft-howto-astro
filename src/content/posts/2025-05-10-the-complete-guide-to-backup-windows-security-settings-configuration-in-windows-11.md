@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Backup Windows Security Settings Configuration in Windows 11"
 date: 2025-05-10
+slug: "the-complete-guide-to-backup-windows-security-settings-configuration-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Backing up your Windows security settings is crucial for maintaining the integrity and security of your PC. Having a backup allows you to quickly restore your preferred security configurations should anything go awry. This guide will walk you through the process of backing up your Windows 11 security settings, with insights for both beginners and advanced users.

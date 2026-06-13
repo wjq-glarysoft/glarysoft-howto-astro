@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows Security and Privacy Enhancements Management in Windows"
 date: 2025-06-21
+slug: "intermediates-guide-to-windows-security-and-privacy-enhancements-management-in-windows"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Windows PCs are powerful and versatile, but they can also expose your personal information if not properly configured. Whether you’re a regular user or someone with a bit more technical experience, enhancing your security and privacy is essential. This guide provides clear, actionable steps for safeguarding your Windows system, organized by skill level so you can dive in wherever you feel comfortable.

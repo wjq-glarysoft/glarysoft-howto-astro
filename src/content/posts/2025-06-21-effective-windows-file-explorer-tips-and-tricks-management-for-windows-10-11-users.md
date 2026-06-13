@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows File Explorer Tips and Tricks Management for Windows 10 & 11 Users"
 date: 2025-06-21
+slug: "effective-windows-file-explorer-tips-and-tricks-management-for-windows-10-11-users"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Windows File Explorer is the backbone of file and folder management in Windows 10 and 11. It’s easy to use, but many beginners make common mistakes that can lead to lost files, disorganization, or wasted time. Here’s how to avoid those pitfalls and make the most of File Explorer, with practical advice you can use right away.

@@ -1,8 +1,10 @@
 ---
 title: "Master Windows security and privacy enhancements with Glary Utilities: Windows User Guide"
 date: 2025-06-24
+slug: "master-windows-security-and-privacy-enhancements-with-glary-utilities-windows-user-guide"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Why Should Advanced Users Prioritize Windows Privacy and Security?

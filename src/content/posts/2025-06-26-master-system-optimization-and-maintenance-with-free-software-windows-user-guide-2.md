@@ -1,8 +1,10 @@
 ---
 title: "Master system optimization and maintenance with Free Software: Windows User Guide"
 date: 2025-06-26
+slug: "master-system-optimization-and-maintenance-with-free-software-windows-user-guide-2"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Why is System Optimization Important for Windows Users?

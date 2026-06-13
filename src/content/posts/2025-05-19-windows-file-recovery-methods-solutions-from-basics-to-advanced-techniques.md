@@ -1,8 +1,10 @@
 ---
 title: "Windows file recovery methods Solutions: From Basics to Advanced Techniques"
 date: 2025-05-19
+slug: "windows-file-recovery-methods-solutions-from-basics-to-advanced-techniques"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 When you accidentally delete an important file, it can feel like a disaster. Fortunately, Windows provides several methods to recover lost files. Whether you're a beginner or an advanced user, understanding these techniques can save you from data loss. This guide outlines practical solutions, from basic to advanced, to help you recover files on a Windows system effectively.

@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows Temporary File Cleanup Management in Windows"
 date: 2025-07-29
+slug: "intermediates-guide-to-windows-temporary-file-cleanup-management-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 What Are Temporary Files and Why Do They Matter?

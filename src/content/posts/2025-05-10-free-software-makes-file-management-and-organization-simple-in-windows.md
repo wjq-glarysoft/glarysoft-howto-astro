@@ -1,8 +1,10 @@
 ---
 title: "Free Software Makes File Management and Organization Simple in Windows"
 date: 2025-05-10
+slug: "free-software-makes-file-management-and-organization-simple-in-windows"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Efficient file management and organization are crucial for maintaining a productive and smoothly running Windows system. Whether you're a beginner trying to keep track of your documents or an advanced user needing to streamline your workflow, there's free software available to make these tasks easier. In this article, we'll explore practical steps for using free tools to manage and organize files and folders effectively.

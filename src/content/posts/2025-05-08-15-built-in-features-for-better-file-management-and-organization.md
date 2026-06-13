@@ -1,8 +1,10 @@
 ---
 title: "15 Built-in Features for Better File Management and Organization"
 date: 2025-05-08
+slug: "15-built-in-features-for-better-file-management-and-organization"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 For Windows users, file management and organization can seem daunting, especially for those just starting. Fortunately, Windows offers a variety of built-in features that simplify this task. Here, we discuss 15 features that can improve your file management skills and keep your documents organized.

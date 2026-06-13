@@ -1,8 +1,10 @@
 ---
 title: "optimize file backup strategies Like a Pro: Windows Systems Guide"
 date: 2025-07-15
+slug: "optimize-file-backup-strategies-like-a-pro-windows-systems-guide"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Why Is File Backup So Important?

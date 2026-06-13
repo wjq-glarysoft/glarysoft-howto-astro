@@ -1,8 +1,10 @@
 ---
 title: "Free Software Makes Windows File Sharing and Permissions Management Simple in Windows"
 date: 2025-06-19
+slug: "free-software-makes-windows-file-sharing-and-permissions-management-simple-in-windows"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Are you looking to make file sharing and permissions management in Windows more straightforward? For many intermediate users, sharing files across a network and controlling who can access what can be a confusing challenge. Fortunately, free software tools and a solid understanding of built-in Windows features make the process more efficient and less prone to mistakes.

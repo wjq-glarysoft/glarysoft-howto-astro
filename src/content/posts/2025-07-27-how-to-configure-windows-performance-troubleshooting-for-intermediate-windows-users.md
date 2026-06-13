@@ -1,8 +1,10 @@
 ---
 title: "How to Configure Windows Performance Troubleshooting for Intermediate Windows Users"
 date: 2025-07-27
+slug: "how-to-configure-windows-performance-troubleshooting-for-intermediate-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Windows PCs can slow down over time, often due to clutter, unnecessary software, or misconfigured settings. Performance troubleshooting helps restore your computer’s speed and responsiveness. This guide provides step-by-step instructions for intermediate Windows users, focusing on actionable strategies for cleaning up and repairing common problems. Whether you’re just beginning or managing a complex system, you’ll find useful tips tailored to your skill level.

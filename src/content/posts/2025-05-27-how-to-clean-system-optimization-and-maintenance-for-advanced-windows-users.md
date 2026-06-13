@@ -1,8 +1,10 @@
 ---
 title: "How to Clean System Optimization and Maintenance for Advanced Windows Users?"
 date: 2025-05-27
+slug: "how-to-clean-system-optimization-and-maintenance-for-advanced-windows-users"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Why Should Advanced Users Care About Optimization and Maintenance?

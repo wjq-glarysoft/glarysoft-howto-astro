@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Maintain Windows CPU Performance Tuning in Windows Systems"
 date: 2025-06-10
+slug: "the-complete-guide-to-maintain-windows-cpu-performance-tuning-in-windows-systems"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Keeping your Windows computer running smoothly requires regular attention to CPU performance. The CPU is your PC’s brain, and when it’s bogged down, everything slows. Whether you’re a beginner or an advanced user, this guide will walk you through actionable steps and practical tips for maintaining and tuning CPU performance on Windows systems.

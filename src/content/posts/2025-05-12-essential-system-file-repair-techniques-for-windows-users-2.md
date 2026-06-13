@@ -1,8 +1,10 @@
 ---
 title: "Essential System File Repair Techniques for Windows Users"
 date: 2025-05-12
+slug: "essential-system-file-repair-techniques-for-windows-users-2"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Windows operating systems are the backbone of many computers today, but like any software, they can experience issues with system files that may lead to performance problems or unexpected behavior. Although many repairs might seem daunting, there are essential, beginner-friendly techniques that can help restore your system's performance without advanced technical knowledge. This guide will walk you through some basic methods to repair system files and maintain your Windows PC.

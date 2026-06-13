@@ -1,8 +1,10 @@
 ---
 title: "When Should You Backup Windows CPU Performance Tuning on Your Windows Computer?"
 date: 2025-07-20
+slug: "when-should-you-backup-windows-cpu-performance-tuning-on-your-windows-computer"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 CPU performance tuning can unlock considerable speed and efficiency on a Windows computer. However, just as tuning your car requires forethought and backup plans, adjusting CPU-related settings on your PC should always be approached carefully. One of the most crucial, yet often overlooked, aspects is knowing when and how to back up your configuration before making changes.

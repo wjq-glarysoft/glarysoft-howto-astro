@@ -1,8 +1,10 @@
 ---
 title: "Advanced Techniques for Backup and Data Recovery on Windows"
 date: 2025-04-13
+slug: "advanced-techniques-for-backup-and-data-recovery-on-windows"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 In today's digital age, safeguarding your data is crucial. Whether you're a professional managing sensitive information or a casual user with cherished photos and documents, data loss can be catastrophic. Advanced backup and recovery techniques can help mitigate these risks and ensure that your data is always recoverable.

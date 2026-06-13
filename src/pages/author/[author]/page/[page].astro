@@ -1,0 +1,108 @@
+---
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import { getExcerpt } from '../../../../utils/truncate';
+import Pagination from '../../../../components/Pagination.astro';
+
+type Post = CollectionEntry<'posts'>;
+
+export async function getStaticPaths() {
+  const allPosts: Post[] = await getCollection('posts');
+  
+  // 按作者将所有文章分组
+  const postsByAuthor = new Map<string, Post[]>();
+  
+  for (const post of allPosts) {
+    const author = post.data.author;
+    if (!author) continue;
+    
+    const authorPosts = postsByAuthor.get(author) || [];
+    authorPosts.push(post);
+    postsByAuthor.set(author, authorPosts);
+  }
+
+  
+  // 将作者对应的文章按日期排序（最新在前）
+  for (const [author, posts] of postsByAuthor) {    
+    const sortedPosts = posts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+    postsByAuthor.set(author, sortedPosts);
+  }
+  
+  const POSTS_PER_PAGE = 9;
+  const paths = [];
+  
+
+  //生成路径
+  for (const [author, authorPosts] of postsByAuthor) {
+    const totalPages = Math.ceil(authorPosts.length / POSTS_PER_PAGE);
+    
+    for (let pageNum = 1; pageNum <= totalPages; pageNum++) {
+      const startIndex = (pageNum - 1) * POSTS_PER_PAGE;
+      const pagePosts = authorPosts.slice(startIndex, startIndex + POSTS_PER_PAGE);
+      
+      paths.push({
+        params: {
+          author: author,
+          page: String(pageNum)
+        },
+        props: {
+          author,
+          pageNum,
+          totalPages,
+          pagePosts
+        }
+      });
+    }
+  }
+  console.log(paths);
+  return paths;
+}
+
+//接收props值
+const { author:authorName, pageNum, totalPages, pagePosts:currentPosts } = Astro.props;
+
+// 格式化日期函数
+function formatDate(date: Date) {
+  return date.toLocaleDateString('en-US', {
+    month: 'short',
+    day: 'numeric',
+    year: 'numeric'
+  });
+}
+---
+
+<BaseLayout title={`${authorName} - Glarysoft How-to Articles`}>
+    <div class="container" style="margin-top: 1.2rem;">
+        <div>
+            <p class="block-spacer-50"></p>
+            <h1 class="x-large-font-size">Author: {authorName}</h1>
+            <p class="block-spacer-30"></p>
+        </div>        
+        <ul class="is-layout-grid is-layout-grid-3">            
+            {currentPosts.map(post => (
+                <li>
+                    <div class="post-card">
+                        <h2>
+                            <a href={`/posts/${post.data.slug}`}>
+                            {post.data.title}
+                            </a>
+                        </h2>
+                        <div class="post-meta">
+                            <span>{formatDate(post.data.date)}</span> — by <a href={`/author/${authorName?.toLowerCase().replace(/\s+/g, '-')}/`}>{authorName}</a> in <a href={`/categories/${post.data.categories}/`}>{post.data.categories?.join(', ') || ''}</a>
+                        </div> 
+                        <div>
+                            <p class="post-excerpt">
+                                {getExcerpt(post.body ?? "", 55)}
+                            </p>
+                            <p style="margin-top: 1.2rem;"> 
+                                <a href={`/posts/${post.data.slug}`}>read more</a>
+                            </p>
+                        </div>
+                    </div>
+                </li>
+            ))}            
+        </ul>
+        <Pagination currentPage={pageNum} totalPages={totalPages} baseUrl={`/author/${authorName}`} />
+    </div>
+</BaseLayout>

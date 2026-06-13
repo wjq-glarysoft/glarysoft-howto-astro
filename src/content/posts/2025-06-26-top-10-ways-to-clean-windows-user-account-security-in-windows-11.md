@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Clean Windows User Account Security in Windows 11"
 date: 2025-06-26
+slug: "top-10-ways-to-clean-windows-user-account-security-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Keeping your Windows 11 user account secure is crucial for protecting your privacy, personal files, and system integrity. Over time, lingering accounts, unused permissions, and insecure configurations can leave your PC vulnerable. Regularly cleaning and optimizing your account security not only safeguards your data, but also helps your computer run smoother. Below, you'll find ten actionable ways to tighten your Windows user account security, with both beginner-friendly and advanced instructions.

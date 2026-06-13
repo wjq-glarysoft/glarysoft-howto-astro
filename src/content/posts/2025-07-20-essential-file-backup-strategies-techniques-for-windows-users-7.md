@@ -1,8 +1,10 @@
 ---
 title: "Essential file backup strategies: Techniques for Windows Users"
 date: 2025-07-20
+slug: "essential-file-backup-strategies-techniques-for-windows-users-7"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Why Should You Back Up Your Files on Windows?

@@ -1,8 +1,10 @@
 ---
 title: "15 Proven Methods to Repair Windows File Sharing and Permissions in Windows"
 date: 2025-06-22
+slug: "15-proven-methods-to-repair-windows-file-sharing-and-permissions-in-windows"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Windows file sharing is essential for collaboration, backups, and device interoperability. However, issues with sharing and permissions can block access or even expose sensitive data. If you find file sharing broken or permissions misconfigured, the following 15 advanced yet practical methods will help you repair and secure your Windows file sharing and permissions.

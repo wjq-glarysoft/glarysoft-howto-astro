@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Network Performance Tuning Techniques for Windows Users"
 date: 2025-06-29
+slug: "essential-windows-network-performance-tuning-techniques-for-windows-users-5"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Is your Windows PC experiencing slow web browsing, laggy downloads, or unstable connections? Optimizing your network settings can make a noticeable difference in your online experience. Whether you’re a casual user or someone who works from home, this guide will help you to fine-tune your Windows network performance using easy, beginner-friendly techniques.

@@ -1,8 +1,10 @@
 ---
 title: "Master Windows system tool customization with Windows Tools: Windows User Guide"
 date: 2025-05-01
+slug: "master-windows-system-tool-customization-with-windows-tools-windows-user-guide"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 As an intermediate Windows user, you're likely familiar with the basics of using your PC. However, to truly optimize your Windows experience, it's essential to delve into system tool customization. Windows Tools, previously known as Administrative Tools, offer a suite of utilities designed to help you manage your device more efficiently. This guide will take you through practical steps to customize and leverage these tools for an optimized experience.

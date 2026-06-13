@@ -1,8 +1,10 @@
 ---
 title: "12 Essential File Management and Organization Tips Every Windows User Should Know"
 date: 2025-04-25
+slug: "12-essential-file-management-and-organization-tips-every-windows-user-should-know"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Managing files and folders efficiently is a critical aspect of maintaining a productive workflow and ensuring that important data is easily accessible. However, many Windows users fall into common pitfalls that can lead to cluttered storage and lost files. Here are 12 essential tips to help you manage and organize your files effectively, while avoiding common mistakes.

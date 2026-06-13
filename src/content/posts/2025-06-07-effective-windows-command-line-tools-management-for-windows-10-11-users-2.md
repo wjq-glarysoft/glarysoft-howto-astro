@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows command line tools Management for Windows 10 & 11 Users"
 date: 2025-06-07
+slug: "effective-windows-command-line-tools-management-for-windows-10-11-users-2"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Introduction

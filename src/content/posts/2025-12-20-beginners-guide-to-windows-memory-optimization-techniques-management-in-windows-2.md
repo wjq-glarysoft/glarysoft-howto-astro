@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Memory Optimization Techniques Management in Windows"
 date: 2025-12-20
+slug: "beginners-guide-to-windows-memory-optimization-techniques-management-in-windows-2"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Managing memory efficiently in Windows is one of the most important aspects of keeping your computer fast and responsive. Many users experience slowdowns, app crashes, or lagging performance because of poor memory optimization habits. Understanding how to manage memory correctly—and what mistakes to avoid—can significantly improve your system’s stability and speed.

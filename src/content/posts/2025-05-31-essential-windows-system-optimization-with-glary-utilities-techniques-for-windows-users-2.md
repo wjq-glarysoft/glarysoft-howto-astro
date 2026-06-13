@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows System Optimization with Glary Utilities: Techniques for Windows Users"
 date: 2025-05-31
+slug: "essential-windows-system-optimization-with-glary-utilities-techniques-for-windows-users-2"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Introduction: Why Optimize Your Windows System?

@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Security and Privacy Protection Management in Windows"
 date: 2025-06-29
+slug: "alls-guide-to-security-and-privacy-protection-management-in-windows-2"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Securing your Windows computer and ensuring your privacy requires more than just installing antivirus software. With the increasing complexity of malware, tracking technologies, and cyber threats, a comprehensive approach to security and privacy is essential. This guide offers practical, actionable advice, covering both straightforward steps for beginners and advanced techniques for experienced users.

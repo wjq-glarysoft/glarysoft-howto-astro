@@ -1,8 +1,10 @@
 ---
 title: "7 Essential Windows Command Line Tools Tips Every Windows User Should Know"
 date: 2025-06-13
+slug: "7-essential-windows-command-line-tools-tips-every-windows-user-should-know-2"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Are you curious about the power of the Windows command line? Whether you’re a beginner or looking to expand your everyday toolkit, the command line offers fast, flexible ways to manage and troubleshoot your PC. Here are seven essential command line tips every Windows user should know, complete with step-by-step instructions and practical examples.

@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems Disk Cleanup and Optimization Made Easy"
 date: 2025-05-25
+slug: "windows-systems-disk-cleanup-and-optimization-made-easy"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Keeping your Windows PC running smoothly isn’t just about having the latest hardware or software. Over time, junk files, outdated system data, and fragmented drives can slow down even the fastest computers. Fortunately, cleaning up and optimizing your Windows system is straightforward if you follow the right steps. In this guide, you’ll find practical, step-by-step instructions for both beginners and advanced users to clean and optimize your Windows PC for better performance.

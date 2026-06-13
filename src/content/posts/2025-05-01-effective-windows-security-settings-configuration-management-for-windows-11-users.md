@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Security Settings Configuration Management for Windows 11 Users"
 date: 2025-05-01
+slug: "effective-windows-security-settings-configuration-management-for-windows-11-users"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 As a Windows 11 user, understanding and configuring your security settings is crucial to safeguard your personal information and maintain the integrity of your system. This guide will walk you through important security settings, offering practical advice and real-world examples to secure your Windows 11 PC effectively.

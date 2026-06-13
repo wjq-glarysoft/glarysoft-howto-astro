@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 Windows user account security Optimization Made Easy"
 date: 2025-06-13
+slug: "windows-10-windows-user-account-security-optimization-made-easy"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Why Is User Account Security Important in Windows 10?

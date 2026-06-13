@@ -1,8 +1,10 @@
 ---
 title: "7 Essential Windows Network Performance Tuning Tips Every Windows User Should Know"
 date: 2025-05-13
+slug: "7-essential-windows-network-performance-tuning-tips-every-windows-user-should-know"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Optimizing your Windows network performance can significantly enhance your online experience, whether you're streaming, gaming, or working remotely. Here are seven essential tips to help you achieve better network performance.

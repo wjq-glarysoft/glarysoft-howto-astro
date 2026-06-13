@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Disk Management and Cleanup: Best Practices"
 date: 2025-04-12
+slug: "effective-windows-disk-management-and-cleanup-best-practices"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Managing and maintaining your Windows PC's disk space is crucial for optimal performance and longevity. Over time, as files accumulate and software is installed, your system can become cluttered, leading to slower performance and storage issues. This article provides practical advice on effective disk management and cleanup best practices, ensuring your Windows system remains efficient.

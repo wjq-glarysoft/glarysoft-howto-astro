@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Secure Windows File Explorer Tips and Tricks in Windows 10"
 date: 2025-08-02
+slug: "the-complete-guide-to-secure-windows-file-explorer-tips-and-tricks-in-windows-10"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Windows File Explorer is the default file management tool in Windows 10, used by millions to organize, access, and secure their files and folders. Whether you’re new to Windows or a seasoned user, there are many powerful tricks and security features hidden in File Explorer that can help you better protect your data and work more efficiently. This guide will walk you through essential and advanced tips with step-by-step instructions. Tips are organized for both beginners and advanced users, so you can start at your comfort level and progress as you build confidence.

@@ -1,8 +1,10 @@
 ---
 title: "Windows Performance Troubleshooting: Best Practices for Clean Up & Repair"
 date: 2025-04-19
+slug: "windows-performance-troubleshooting-best-practices-for-clean-up-repair"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Windows performance problems can slow down your productivity and lead to a frustrating user experience. Fortunately, there are effective strategies and tools that can help you clean up and repair your system, enhancing its overall performance. Here’s a guide on best practices for troubleshooting performance issues on your Windows PC.

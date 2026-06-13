@@ -1,8 +1,10 @@
 ---
 title: "Windows Tools Makes Folder Structure Optimization Management Simple in Windows"
 date: 2025-07-13
+slug: "windows-tools-makes-folder-structure-optimization-management-simple-in-windows-3"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Why Should You Optimize Your Folder Structure?

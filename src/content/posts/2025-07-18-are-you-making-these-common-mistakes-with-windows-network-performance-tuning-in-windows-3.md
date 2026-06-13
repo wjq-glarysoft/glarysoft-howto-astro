@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Network Performance Tuning in Windows?"
 date: 2025-07-18
+slug: "are-you-making-these-common-mistakes-with-windows-network-performance-tuning-in-windows-3"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Optimizing network performance in Windows can dramatically affect your browsing, streaming, downloading, and online gaming experience. Yet, many users unintentionally hinder their network speeds by making avoidable mistakes. Whether you’re a casual user or an IT professional, understanding these pitfalls – and knowing how to fix them – can make all the difference.

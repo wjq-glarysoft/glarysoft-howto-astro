@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Manage Windows Temporary File Cleanup in Windows Systems"
 date: 2025-08-19
+slug: "the-complete-guide-to-manage-windows-temporary-file-cleanup-in-windows-systems"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Temporary files in Windows systems serve a purpose during software installations, updates, and day-to-day program use. However, over time they accumulate and consume valuable disk space, often leading to sluggish performance. Learning how to clean these files efficiently not only speeds up your PC but also reduces system clutter. This guide explores time-saving methods to manage temporary files, with step-by-step instructions suitable for beginners and advanced users.

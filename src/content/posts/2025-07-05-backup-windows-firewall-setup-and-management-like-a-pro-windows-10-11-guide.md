@@ -1,8 +1,10 @@
 ---
 title: "backup Windows firewall setup and management Like a Pro: Windows 10 & 11 Guide"
 date: 2025-07-05
+slug: "backup-windows-firewall-setup-and-management-like-a-pro-windows-10-11-guide"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Are you concerned about your Windows PC’s security and privacy? The Windows Firewall is a powerful tool built right into Windows 10 and 11 that helps protect your computer from unauthorized access and online threats. This beginner’s guide will walk you through understanding, setting up, and managing the Windows Firewall—plus show you how to back up your firewall settings to safeguard your security preferences. Let’s get started!

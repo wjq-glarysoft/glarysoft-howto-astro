@@ -1,8 +1,10 @@
 ---
 title: "Can Glary Utilities Help with Windows Performance Troubleshooting? A Complete Guide for Windows Users"
 date: 2025-08-07
+slug: "can-glary-utilities-help-with-windows-performance-troubleshooting-a-complete-guide-for-windows-users-2"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Is Your Windows PC Slowing Down?

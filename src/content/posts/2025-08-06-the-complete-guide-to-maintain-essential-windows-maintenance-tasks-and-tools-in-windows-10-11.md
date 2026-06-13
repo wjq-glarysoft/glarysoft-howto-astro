@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Maintain Essential Windows Maintenance Tasks and Tools in Windows 10 & 11"
 date: 2025-08-06
+slug: "the-complete-guide-to-maintain-essential-windows-maintenance-tasks-and-tools-in-windows-10-11"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Keeping Windows 10 and 11 running smoothly requires regular maintenance and a solid understanding of the system tools available. For intermediate users, knowing what tasks to perform and which utilities to use can make a noticeable difference in system performance, reliability, and security. This guide outlines essential maintenance practices and the tools you should use to keep your Windows PC in top shape.

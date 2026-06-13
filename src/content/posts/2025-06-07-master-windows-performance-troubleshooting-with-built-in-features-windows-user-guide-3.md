@@ -1,8 +1,10 @@
 ---
 title: "Master Windows performance troubleshooting with Built-in Features: Windows User Guide"
 date: 2025-06-07
+slug: "master-windows-performance-troubleshooting-with-built-in-features-windows-user-guide-3"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Windows users often experience performance slowdowns that impact productivity and overall user experience. Fortunately, Windows provides a variety of built-in features and tools for diagnosing and fixing these issues. This user guide will walk you through the process of troubleshooting and optimizing your Windows system using these features, alongside best practices for Clean Up & Repair. Whether you are a beginner or an advanced user, you’ll find actionable steps and practical examples to help restore and maintain your PC's performance.

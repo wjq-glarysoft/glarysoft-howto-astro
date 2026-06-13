@@ -1,8 +1,10 @@
 ---
 title: "Windows File Sharing and Permissions Solutions: From Basics to Advanced Techniques"
 date: 2025-05-05
+slug: "windows-file-sharing-and-permissions-solutions-from-basics-to-advanced-techniques"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 When it comes to managing files and folders, understanding Windows file sharing and permissions is essential, especially for advanced users. These settings not only control access but also enhance security across networks. This article dives deep into the best practices for using Windows file sharing and permissions effectively.

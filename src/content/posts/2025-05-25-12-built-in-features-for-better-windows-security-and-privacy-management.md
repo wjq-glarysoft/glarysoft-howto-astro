@@ -1,8 +1,10 @@
 ---
 title: "12 Built-in Features for Better Windows Security and Privacy Management"
 date: 2025-05-25
+slug: "12-built-in-features-for-better-windows-security-and-privacy-management"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Windows PCs are packed with security and privacy tools designed to help protect your personal data from threats and prying eyes. If you’re new to Windows, navigating these features might seem overwhelming. This beginner guide will introduce you to twelve essential built-in features, show you how to use them, and explain why they matter for both your privacy and security.

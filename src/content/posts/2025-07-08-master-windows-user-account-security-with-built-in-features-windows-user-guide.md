@@ -1,8 +1,10 @@
 ---
 title: "Master Windows user account security with Built-in Features: Windows User Guide"
 date: 2025-07-08
+slug: "master-windows-user-account-security-with-built-in-features-windows-user-guide"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Securing your Windows user account is fundamental to protecting your personal data and maintaining your system’s privacy. Windows has evolved to include many robust, built-in security features, but many users—both beginners and advanced—still make common mistakes that can leave their accounts vulnerable. This guide will walk you through actionable, practical steps to avoid these pitfalls and master user account security, ensuring your Windows experience is safe and private.

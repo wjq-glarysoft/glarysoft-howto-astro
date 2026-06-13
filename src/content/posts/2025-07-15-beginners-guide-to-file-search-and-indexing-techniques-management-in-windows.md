@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to File Search and Indexing Techniques Management in Windows"
 date: 2025-07-15
+slug: "beginners-guide-to-file-search-and-indexing-techniques-management-in-windows"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Finding the right file quickly can be a real challenge, especially as your computer fills up with documents, photos, and downloads. Windows offers built-in search and indexing features designed to help you locate files efficiently. However, many beginners run into common mistakes that make these tools less effective. This guide will highlight these pitfalls and show you how to manage your files, search, and indexing for faster, frustration-free results.

@@ -1,8 +1,10 @@
 ---
 title: "Mastering File Management and Organization: A Beginner's Guide"
 date: 2025-04-10
+slug: "mastering-file-management-and-organization-a-beginners-guide"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 File management is an essential skill for anyone using a computer. Proper file management keeps your system organized, makes your work more efficient, and saves you time in the long run. For beginners, effective file organization can seem daunting, but with a few simple strategies, you can keep your files in check.

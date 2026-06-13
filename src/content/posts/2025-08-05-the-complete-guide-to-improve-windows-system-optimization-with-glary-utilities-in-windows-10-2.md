@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Improve Windows System Optimization with Glary Utilities in Windows 10"
 date: 2025-08-05
+slug: "the-complete-guide-to-improve-windows-system-optimization-with-glary-utilities-in-windows-10-2"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Introduction: Why Windows 10 Needs Optimization

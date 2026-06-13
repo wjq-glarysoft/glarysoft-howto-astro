@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Temporary File Cleanup with Built-in Features: Windows User Guide"
 date: 2025-06-09
+slug: "master-windows-temporary-file-cleanup-with-built-in-features-windows-user-guide"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Temporary files are essential for Windows to run smoothly, but over time, they can pile up and consume valuable disk space, ultimately affecting your PC’s performance. Regular cleanup is crucial for maintaining a healthy and efficient system. This expert guide covers the best practices for temporary file cleanup on Windows using only built-in tools, with step-by-step instructions for both beginners and advanced users.

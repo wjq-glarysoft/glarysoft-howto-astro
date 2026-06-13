@@ -1,8 +1,10 @@
 ---
 title: "Enhancing Windows Security and Privacy: Time-Saving Tips"
 date: 2025-04-13
+slug: "enhancing-windows-security-and-privacy-time-saving-tips"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 In today's digital age, ensuring the security and privacy of your Windows system is paramount. With increasing cyber threats, safeguarding your computer doesn't just protect your data but also saves you time by preventing potential recovery efforts after a security breach. This article will guide you through practical and time-efficient ways to enhance your Windows security and privacy.

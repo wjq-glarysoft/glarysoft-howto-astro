@@ -1,8 +1,10 @@
 ---
 title: "Windows file management and organization Solutions: From Basics to Advanced Techniques"
 date: 2025-06-30
+slug: "windows-file-management-and-organization-solutions-from-basics-to-advanced-techniques-3"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Why Do Advanced Users Still Struggle with File Management?

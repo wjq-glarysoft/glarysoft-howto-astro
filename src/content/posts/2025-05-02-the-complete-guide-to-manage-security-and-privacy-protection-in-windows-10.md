@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Manage Security and Privacy Protection in Windows 10"
 date: 2025-05-02
+slug: "the-complete-guide-to-manage-security-and-privacy-protection-in-windows-10"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 In today's digital landscape, security and privacy are paramount, and Windows 10 provides a variety of features to help users protect their systems. However, there are common mistakes that users often make which can compromise their security and privacy. This guide provides actionable advice to avoid these pitfalls, ensuring a safer computing experience for both novice and seasoned users.

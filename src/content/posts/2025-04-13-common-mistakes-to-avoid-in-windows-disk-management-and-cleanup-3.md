@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid in Windows Disk Management and Cleanup"
 date: 2025-04-13
+slug: "common-mistakes-to-avoid-in-windows-disk-management-and-cleanup-3"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Managing and cleaning up your Windows disk is crucial for maintaining optimal system performance and extending the lifespan of your hard drive. However, many users make common mistakes during this process, which can lead to data loss, system instability, or even hardware failure. To help you avoid these pitfalls, here are some practical, actionable pieces of advice with real-world examples.

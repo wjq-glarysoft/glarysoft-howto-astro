@@ -1,8 +1,10 @@
 ---
 title: "How to Configure Windows System Information Tools for All Windows Users?"
 date: 2025-06-03
+slug: "how-to-configure-windows-system-information-tools-for-all-windows-users"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Understanding and managing your computer’s internal details can significantly boost your troubleshooting abilities and help you keep your system running smoothly. Windows provides several built-in system information tools, and there are also third-party utilities like Glary Utilities that make these tasks easier and more comprehensive. This guide is designed for intermediate users who want to configure, access, and use system information tools effectively on their Windows PCs.

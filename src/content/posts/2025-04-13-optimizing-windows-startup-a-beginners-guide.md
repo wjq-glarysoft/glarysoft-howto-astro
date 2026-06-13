@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Startup: A Beginner's Guide"
 date: 2025-04-13
+slug: "optimizing-windows-startup-a-beginners-guide"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 When your Windows PC takes a long time to start up, it can be a frustrating experience that wastes both time and productivity. Fortunately, there are several ways to optimize your Windows startup process to ensure your computer is running at its best. This guide will walk you through a series of steps you can take to streamline your PC's startup routine, making boot times faster and more efficient.

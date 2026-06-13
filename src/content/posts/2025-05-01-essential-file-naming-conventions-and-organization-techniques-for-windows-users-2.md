@@ -1,8 +1,10 @@
 ---
 title: "Essential File Naming Conventions and Organization Techniques for Windows Users"
 date: 2025-05-01
+slug: "essential-file-naming-conventions-and-organization-techniques-for-windows-users-2"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Effective file naming and organization can significantly enhance your productivity and efficiency when using a Windows PC. Whether you're a student, a professional, or just someone who wants to keep their digital space tidy, adopting smart techniques can save you time and frustration. This article outlines essential file naming conventions and organization strategies that cater to all levels of Windows users.

@@ -1,8 +1,10 @@
 ---
 title: "How to Secure File Search and Indexing Techniques for Beginner Windows Users?"
 date: 2025-04-24
+slug: "how-to-secure-file-search-and-indexing-techniques-for-beginner-windows-users"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Understanding how to efficiently manage and secure file search and indexing on your Windows PC can greatly enhance your productivity and protect your data. This article aims to provide beginner Windows users with clear guidance on making the most of Windows search and indexing features, while also ensuring these processes are secure.

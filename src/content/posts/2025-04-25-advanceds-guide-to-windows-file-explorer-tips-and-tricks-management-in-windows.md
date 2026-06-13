@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows File Explorer Tips and Tricks Management in Windows"
 date: 2025-04-25
+slug: "advanceds-guide-to-windows-file-explorer-tips-and-tricks-management-in-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Windows File Explorer is an essential tool for managing files and folders on your Windows computer. Whether you're a beginner or an advanced user, understanding how to effectively use File Explorer can greatly enhance your productivity and help you maintain a well-organized system. This guide provides practical tips and tricks for mastering File Explorer, catering to both novice and experienced users.

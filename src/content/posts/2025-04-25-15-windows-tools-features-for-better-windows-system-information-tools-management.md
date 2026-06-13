@@ -1,8 +1,10 @@
 ---
 title: "15 Windows Tools Features for Better Windows System Information Tools Management"
 date: 2025-04-25
+slug: "15-windows-tools-features-for-better-windows-system-information-tools-management"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 For those looking to gain a deeper understanding of their Windows system, utilizing available system information tools is key. Whether you're a beginner eager to understand your system better or an advanced user seeking to optimize performance, mastering these tools can greatly enhance your computing experience.

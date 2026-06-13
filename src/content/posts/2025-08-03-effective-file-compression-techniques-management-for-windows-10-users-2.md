@@ -1,8 +1,10 @@
 ---
 title: "Effective File Compression Techniques Management for Windows 10 Users"
 date: 2025-08-03
+slug: "effective-file-compression-techniques-management-for-windows-10-users-2"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Why Is File Compression Important for Windows 10 Users?

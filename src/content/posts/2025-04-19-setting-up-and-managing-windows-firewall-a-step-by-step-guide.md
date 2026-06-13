@@ -1,8 +1,10 @@
 ---
 title: "Setting Up and Managing Windows Firewall: A Step-by-Step Guide"
 date: 2025-04-19
+slug: "setting-up-and-managing-windows-firewall-a-step-by-step-guide"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 In today's digital world, securing your computer against unauthorized access is crucial. Windows Firewall is a built-in security feature that helps protect your PC by blocking potentially harmful connections. This guide will walk you through the process of setting up and managing the Windows Firewall to enhance your system's privacy and security.

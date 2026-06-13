@@ -1,8 +1,10 @@
 ---
 title: "15 Essential Windows Network Performance Tuning Tips Every Windows User Should Know"
 date: 2025-06-07
+slug: "15-essential-windows-network-performance-tuning-tips-every-windows-user-should-know"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Is your Windows PC suffering from slow downloads, laggy video calls, or sluggish web browsing? Many users overlook network performance when optimizing their computers, but with a few practical tweaks, you can significantly boost your network speed and reliability. This guide provides 15 step-by-step tips that every Windows user can follow to enhance network performance, whether you’re a beginner or an experienced user.

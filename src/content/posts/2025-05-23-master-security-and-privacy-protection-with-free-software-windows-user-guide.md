@@ -1,8 +1,10 @@
 ---
 title: "Master security and privacy protection with Free Software: Windows User Guide"
 date: 2025-05-23
+slug: "master-security-and-privacy-protection-with-free-software-windows-user-guide"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Securing your Windows PC and maintaining your privacy doesn’t have to be complicated or expensive. There are powerful free tools and built-in features that, when used correctly, can protect your sensitive data and keep your system safe from threats. This guide provides intermediate Windows users with actionable, step-by-step instructions to master both security and privacy protection using free software solutions.

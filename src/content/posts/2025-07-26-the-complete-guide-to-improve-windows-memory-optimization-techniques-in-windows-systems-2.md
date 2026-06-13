@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Improve Windows Memory Optimization Techniques in Windows Systems"
 date: 2025-07-26
+slug: "the-complete-guide-to-improve-windows-memory-optimization-techniques-in-windows-systems-2"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Introduction

@@ -1,8 +1,10 @@
 ---
 title: "How to Backup Windows CPU Performance Tuning for Beginner Windows Users"
 date: 2025-07-28
+slug: "how-to-backup-windows-cpu-performance-tuning-for-beginner-windows-users"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Optimizing your Windows computer’s CPU performance can give your PC a noticeable speed boost, but what happens if your adjustments cause instability or unexpected issues? Backing up your CPU performance tuning settings is essential before making any changes. This article will guide you step-by-step through the best practices for preserving your system’s state before tweaking CPU settings, while providing practical advice for both beginners and advanced users.

@@ -1,8 +1,10 @@
 ---
 title: "Enhancing Windows Security and Privacy: A Beginner's Guide"
 date: 2025-04-10
+slug: "enhancing-windows-security-and-privacy-a-beginners-guide-2"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 In our increasingly digital world, maintaining the security and privacy of your Windows PC is more crucial than ever. Whether you're a casual user or someone who frequently handles sensitive information, securing your system can help protect against data breaches, malware, and unauthorized access. This guide provides practical advice for beginners to enhance their Windows security and privacy.

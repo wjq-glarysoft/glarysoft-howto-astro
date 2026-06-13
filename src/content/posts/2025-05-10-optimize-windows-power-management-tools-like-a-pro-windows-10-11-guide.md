@@ -1,8 +1,10 @@
 ---
 title: "Optimize Windows Power Management Tools Like a Pro: Windows 10 & 11 Guide"
 date: 2025-05-10
+slug: "optimize-windows-power-management-tools-like-a-pro-windows-10-11-guide"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Understanding how to manage your Windows power settings is essential to balancing performance and energy efficiency on your computer. Even as a beginner, you can make significant improvements by using the built-in tools available in Windows 10 and 11. This guide will walk you through the basics and some advanced techniques to help you optimize your power management like a pro.

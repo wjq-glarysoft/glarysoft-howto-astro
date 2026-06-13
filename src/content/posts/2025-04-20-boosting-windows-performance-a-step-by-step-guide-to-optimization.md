@@ -1,8 +1,10 @@
 ---
 title: "Boosting Windows Performance: A Step-by-Step Guide to Optimization"
 date: 2025-04-20
+slug: "boosting-windows-performance-a-step-by-step-guide-to-optimization"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Optimizing your Windows PC can significantly enhance its performance, making everyday tasks faster and more efficient. Whether you're a power user or someone who simply wants a smoother experience, these actionable steps will help you achieve noticeable improvements.

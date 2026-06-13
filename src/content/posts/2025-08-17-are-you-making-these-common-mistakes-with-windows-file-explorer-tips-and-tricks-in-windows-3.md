@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows File Explorer Tips and Tricks in Windows?"
 date: 2025-08-17
+slug: "are-you-making-these-common-mistakes-with-windows-file-explorer-tips-and-tricks-in-windows-3"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Windows File Explorer is one of the most used tools, yet many users barely scratch the surface of what it can do. Whether you’re a beginner just navigating files or an advanced user who needs efficiency, small mistakes in using File Explorer can waste time and cause clutter. Below, we’ll go through step-by-step tips and highlight common mistakes to avoid, with sections tailored for both beginners and advanced users.

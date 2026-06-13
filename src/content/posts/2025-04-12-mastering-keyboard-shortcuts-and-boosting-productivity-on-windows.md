@@ -1,8 +1,10 @@
 ---
 title: "Mastering Keyboard Shortcuts and Boosting Productivity on Windows"
 date: 2025-04-12
+slug: "mastering-keyboard-shortcuts-and-boosting-productivity-on-windows"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 In today's fast-paced digital world, mastering keyboard shortcuts is a critical skill that can significantly enhance your productivity. Windows users have access to a plethora of shortcuts that streamline daily tasks, allowing you to work more efficiently. Below, we explore some of the most effective keyboard shortcuts alongside productivity tips to help you become a Windows power user.

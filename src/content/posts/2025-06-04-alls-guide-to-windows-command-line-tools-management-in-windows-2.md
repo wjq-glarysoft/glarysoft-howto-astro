@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows Command Line Tools Management in Windows"
 date: 2025-06-04
+slug: "alls-guide-to-windows-command-line-tools-management-in-windows-2"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Are you a beginner Windows user looking to get comfortable with command line tools? Many users shy away from the Command Prompt and PowerShell, but learning to use these tools can greatly improve your ability to manage and troubleshoot your Windows PC. However, new users often make mistakes that can lead to confusion or even system problems. This guide will help you avoid common pitfalls and use Windows command line tools safely and effectively.

@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Firewall Setup and Management for Windows Systems Users"
 date: 2025-04-28
+slug: "effective-windows-firewall-setup-and-management-for-windows-systems-users"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Setting up and managing your Windows Firewall is a crucial step in protecting your computer from unauthorized access and potential security threats. Whether you're a novice or an experienced user, following a systematic approach ensures your privacy and security are intact. Here’s a step-by-step tutorial to guide you through effectively setting up and managing your Windows Firewall.

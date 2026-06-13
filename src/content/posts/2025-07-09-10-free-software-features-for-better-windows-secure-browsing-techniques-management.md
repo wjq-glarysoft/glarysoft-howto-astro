@@ -1,8 +1,10 @@
 ---
 title: "10 Free Software Features for Better Windows Secure Browsing Techniques Management"
 date: 2025-07-09
+slug: "10-free-software-features-for-better-windows-secure-browsing-techniques-management"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Browsing the web safely is more important than ever, especially with threats like malware, phishing, and data tracking on the rise. Windows users have access to several free tools and features that can greatly improve online privacy and security. This guide will walk you through ten practical, beginner-friendly software features and techniques to help keep your browsing safe and your data private.

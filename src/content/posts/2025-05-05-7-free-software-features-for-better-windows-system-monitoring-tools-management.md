@@ -1,8 +1,10 @@
 ---
 title: "7 Free Software Features for Better Windows System Monitoring Tools Management"
 date: 2025-05-05
+slug: "7-free-software-features-for-better-windows-system-monitoring-tools-management"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 For intermediate users looking to enhance their Windows experience, having the right system monitoring tools is crucial. These tools help keep track of various system metrics, ensuring that your computer is running smoothly. Below are seven free software features that can significantly aid in monitoring and managing your Windows system:

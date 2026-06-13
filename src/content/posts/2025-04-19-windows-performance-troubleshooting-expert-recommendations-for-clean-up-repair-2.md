@@ -1,8 +1,10 @@
 ---
 title: "Windows Performance Troubleshooting: Expert Recommendations for Clean Up & Repair"
 date: 2025-04-19
+slug: "windows-performance-troubleshooting-expert-recommendations-for-clean-up-repair-2"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 As a Windows user, you may notice your computer's performance declining over time. This can manifest as slower boot times, delayed program launches, or even system crashes. Fortunately, many of these issues can be resolved with a focus on clean up and repair, enhancing your PC's performance. Here are some expert recommendations to troubleshoot and optimize your Windows system effectively.

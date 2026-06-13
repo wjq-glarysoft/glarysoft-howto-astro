@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 Windows CPU Performance Tuning Optimization Made Easy"
 date: 2025-07-14
+slug: "windows-10-11-windows-cpu-performance-tuning-optimization-made-easy"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Is your Windows PC running slower than you’d like? Are apps taking longer to open, or is multitasking a struggle? Whether you’re on Windows 10 or Windows 11, optimizing CPU performance doesn’t have to be complicated or time-consuming. Here’s how you can get your system running faster with practical, easy-to-follow tips.

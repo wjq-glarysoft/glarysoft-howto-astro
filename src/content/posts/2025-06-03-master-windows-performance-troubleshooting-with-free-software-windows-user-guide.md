@@ -1,8 +1,10 @@
 ---
 title: "Master Windows performance troubleshooting with Free Software: Windows User Guide"
 date: 2025-06-03
+slug: "master-windows-performance-troubleshooting-with-free-software-windows-user-guide"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Smooth performance is essential for an enjoyable and productive Windows experience, but even modern PCs can slow down over time. Whether you’re a casual user or a seasoned pro, learning how to troubleshoot and fix common performance issues can save you time, frustration, and money. This guide walks you through practical steps to diagnose, clean, and repair your Windows PC using free tools—including the highly recommended Glary Utilities suite.

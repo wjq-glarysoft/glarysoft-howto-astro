@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid in Windows Disk Management and Cleanup"
 date: 2025-04-10
+slug: "common-mistakes-to-avoid-in-windows-disk-management-and-cleanup"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Managing and cleaning up disk space on your Windows PC is crucial for maintaining optimal performance and ensuring that your system runs smoothly. However, there are several common mistakes that users often make during this process. Avoiding these pitfalls can save you time, protect your data, and extend the life of your computer.

@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Monitor Windows Diagnostic Utilities in Windows 11"
 date: 2025-07-02
+slug: "top-10-ways-to-monitor-windows-diagnostic-utilities-in-windows-11"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Understanding how to monitor and use Windows diagnostic utilities is essential for keeping your computer running smoothly. Windows 11 offers a range of built-in tools that help detect, diagnose, and resolve common issues. For beginners, learning to use these system tools can seem daunting, but with step-by-step guidance and practical examples, you’ll gain confidence in maintaining your PC’s health. Here are the top 10 ways you can monitor and utilize Windows diagnostic utilities, along with tips on making the process easier with Glary Utilities.

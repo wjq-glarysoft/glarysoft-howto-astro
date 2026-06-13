@@ -1,8 +1,10 @@
 ---
 title: "Avoiding Common Mistakes in File Synchronization Across Devices for Windows Users"
 date: 2025-04-19
+slug: "avoiding-common-mistakes-in-file-synchronization-across-devices-for-windows-users"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 File synchronization across devices is an essential task for anyone who works on multiple devices or collaborates with others. However, there are common mistakes that can disrupt this process, leading to lost data or file conflicts. Here are some practical tips and real-world examples to help you avoid these common pitfalls when syncing files and folders on Windows systems.

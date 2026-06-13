@@ -1,8 +1,10 @@
 ---
 title: "secure Windows security settings configuration Like a Pro: Windows 10 Guide"
 date: 2026-04-27
+slug: "secure-windows-security-settings-configuration-like-a-pro-windows-10-guide"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Windows 10 provides a wide range of built-in tools and settings designed to protect user privacy, safeguard personal data, and maintain system integrity. However, securing Windows effectively requires more than just enabling antivirus protection—it involves understanding, configuring, and maintaining key system security options. This guide explores how to configure Windows 10 security settings like a professional, with practical examples for both beginners and advanced users.

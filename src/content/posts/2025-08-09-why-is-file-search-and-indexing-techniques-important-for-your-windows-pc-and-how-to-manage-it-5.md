@@ -1,8 +1,10 @@
 ---
 title: "Why is file search and indexing techniques Important for Your Windows PC and How to Manage It?"
 date: 2025-08-09
+slug: "why-is-file-search-and-indexing-techniques-important-for-your-windows-pc-and-how-to-manage-it-5"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Why Does File Search and Indexing Matter on Windows?

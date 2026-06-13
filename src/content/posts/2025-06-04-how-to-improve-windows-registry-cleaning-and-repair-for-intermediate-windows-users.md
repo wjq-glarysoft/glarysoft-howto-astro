@@ -1,8 +1,10 @@
 ---
 title: "How to Improve Windows Registry Cleaning and Repair for Intermediate Windows Users?"
 date: 2025-06-04
+slug: "how-to-improve-windows-registry-cleaning-and-repair-for-intermediate-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Why Should You Care About the Windows Registry?

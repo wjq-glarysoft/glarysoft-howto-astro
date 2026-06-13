@@ -1,8 +1,10 @@
 ---
 title: "Securing Your Windows User Account: A Step-by-Step Guide"
 date: 2025-04-19
+slug: "securing-your-windows-user-account-a-step-by-step-guide"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 In today’s digital age, maintaining the security of your Windows user account is crucial to safeguard your personal data from unauthorized access. This guide provides practical steps to enhance the privacy and security of your Windows account, ensuring your sensitive information remains protected.

@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows Privacy Enhancement Tips Every Windows User Should Know"
 date: 2025-08-12
+slug: "5-essential-windows-privacy-enhancement-tips-every-windows-user-should-know"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Why Should You Enhance Privacy on Windows?

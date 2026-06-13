@@ -1,8 +1,10 @@
 ---
 title: "Essential Security and Privacy Protection Techniques for Windows Users"
 date: 2025-07-30
+slug: "essential-security-and-privacy-protection-techniques-for-windows-users-11"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 How Can Advanced Users Harden Windows Security?

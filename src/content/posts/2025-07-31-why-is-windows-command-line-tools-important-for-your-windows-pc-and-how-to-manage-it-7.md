@@ -1,8 +1,10 @@
 ---
 title: "Why is Windows Command Line Tools Important for Your Windows PC and How to Manage It?"
 date: 2025-07-31
+slug: "why-is-windows-command-line-tools-important-for-your-windows-pc-and-how-to-manage-it-7"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 What Are Windows Command Line Tools and Why Should You Care?

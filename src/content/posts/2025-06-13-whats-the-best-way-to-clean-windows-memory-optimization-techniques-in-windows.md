@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Clean Windows Memory? Optimization Techniques in Windows"
 date: 2025-06-13
+slug: "whats-the-best-way-to-clean-windows-memory-optimization-techniques-in-windows"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Many Windows users notice their computer slows down over time, especially when running several programs. This is often caused by inefficient use of system memory (RAM). Fortunately, there are simple steps you can take to clean and optimize memory on your Windows PC, even if you're a beginner. This guide will walk you through practical techniques with clear steps and examples.

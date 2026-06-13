@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Improve Windows Secure Browsing Techniques in Windows 10"
 date: 2025-07-13
+slug: "top-10-ways-to-improve-windows-secure-browsing-techniques-in-windows-10"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Browsing the internet is a daily activity for most Windows 10 users, but it comes with risks to your privacy and security. With cyber threats on the rise, it’s essential to optimize your system and browsing habits for a safer experience. This guide provides actionable steps and real-world examples to help users at all levels protect themselves while browsing on Windows 10.

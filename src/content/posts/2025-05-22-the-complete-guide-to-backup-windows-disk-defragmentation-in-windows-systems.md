@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Backup Windows Disk Defragmentation in Windows Systems"
 date: 2025-05-22
+slug: "the-complete-guide-to-backup-windows-disk-defragmentation-in-windows-systems"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Disk defragmentation is a crucial process to ensure your Windows system runs smoothly and efficiently. Over time, files on your hard drive become fragmented, causing your system to slow down. Defragmentation reorganizes the data, making it easier and quicker for your system to access files. This guide will walk you through the process of disk defragmentation, catering to both beginners and advanced users, with a focus on optimizing and improving your Windows experience.

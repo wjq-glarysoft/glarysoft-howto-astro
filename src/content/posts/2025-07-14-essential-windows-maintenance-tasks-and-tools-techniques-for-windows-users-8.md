@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Maintenance Tasks and Tools: Techniques for Windows Users"
 date: 2025-07-14
+slug: "essential-windows-maintenance-tasks-and-tools-techniques-for-windows-users-8"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Why is Regular Windows Maintenance Important?

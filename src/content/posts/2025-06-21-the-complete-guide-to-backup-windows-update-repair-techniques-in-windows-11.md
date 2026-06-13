@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Backup Windows Update Repair Techniques in Windows 11"
 date: 2025-06-21
+slug: "the-complete-guide-to-backup-windows-update-repair-techniques-in-windows-11"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Windows 11 regularly receives updates that improve security, add features, and fix bugs. However, sometimes these updates can cause problems such as failed installations, slow performance, or system errors. For beginners, repairing Windows Update issues might seem daunting, but with the right guidance and tools, you can resolve most problems easily. This guide will walk you through practical backup and repair techniques to keep your Windows 11 system running smoothly.

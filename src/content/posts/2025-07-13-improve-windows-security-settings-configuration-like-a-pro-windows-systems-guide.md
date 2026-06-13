@@ -1,8 +1,10 @@
 ---
 title: "improve Windows security settings configuration Like a Pro: Windows Systems Guide"
 date: 2025-07-13
+slug: "improve-windows-security-settings-configuration-like-a-pro-windows-systems-guide"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows security is more critical than ever, with threats constantly evolving and user data at risk. Whether you're a home user or a professional, understanding and configuring Windows security settings like a pro can significantly reduce your vulnerability. This guide walks you through advanced, yet accessible, techniques to optimize your Windows privacy and security.

@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows password protection strategies"
 date: 2025-07-19
+slug: "essential-windows-password-protection-strategies"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Techniques for Windows Users

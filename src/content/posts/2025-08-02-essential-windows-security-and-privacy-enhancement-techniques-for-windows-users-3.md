@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Security and Privacy Enhancement Techniques for Windows Users"
 date: 2025-08-02
+slug: "essential-windows-security-and-privacy-enhancement-techniques-for-windows-users-3"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Why Should Advanced Windows Users Prioritize Security and Privacy?

@@ -1,8 +1,10 @@
 ---
 title: "Mastering Keyboard Shortcuts and Productivity Tips: A Beginner's Guide"
 date: 2025-04-14
+slug: "mastering-keyboard-shortcuts-and-productivity-tips-a-beginners-guide"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Keyboard shortcuts are essential tools for boosting productivity and efficiency while working on a Windows computer. They allow you to perform actions quickly without relying on the mouse, which can save time and enhance your overall workflow. In this beginner's guide, we'll explore practical keyboard shortcuts and productivity tips that can make your daily computer tasks more efficient.

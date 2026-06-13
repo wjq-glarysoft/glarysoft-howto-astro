@@ -1,8 +1,10 @@
 ---
 title: "manage Windows visual effects optimization Like a Pro: Windows Systems Guide"
 date: 2025-08-10
+slug: "manage-windows-visual-effects-optimization-like-a-pro-windows-systems-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Why Optimize Windows Visual Effects?

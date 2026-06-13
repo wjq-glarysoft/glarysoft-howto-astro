@@ -1,8 +1,10 @@
 ---
 title: "15 Built-in Features for Better Windows System Information Tools Management"
 date: 2025-05-27
+slug: "15-built-in-features-for-better-windows-system-information-tools-management"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Managing a Windows PC efficiently requires a deep understanding of the system’s health, performance, and configuration. Advanced users rely on system information tools to diagnose issues, monitor resources, and optimize operations. Windows comes equipped with a variety of built-in features to help you gather detailed system information. This guide explores 15 essential features for managing Windows system information, offering actionable advice and practical examples for advanced users.

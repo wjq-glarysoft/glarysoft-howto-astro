@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Clean Security and Privacy Protection in Windows 10 & 11"
 date: 2025-05-20
+slug: "the-complete-guide-to-clean-security-and-privacy-protection-in-windows-10-11"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Maintaining security and privacy on your Windows 10 or 11 system is crucial in today's digital landscape. Whether you are an intermediate user familiar with the basics or looking to deepen your understanding, this guide provides actionable steps to enhance your system’s protection.

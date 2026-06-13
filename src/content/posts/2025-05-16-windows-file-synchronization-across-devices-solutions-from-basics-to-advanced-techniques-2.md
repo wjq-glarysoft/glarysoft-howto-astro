@@ -1,8 +1,10 @@
 ---
 title: "Windows file synchronization across devices Solutions: From Basics to Advanced Techniques"
 date: 2025-05-16
+slug: "windows-file-synchronization-across-devices-solutions-from-basics-to-advanced-techniques-2"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 File synchronization is a crucial task in today's digital era, allowing you to access the same files across multiple devices seamlessly. Whether you're working from a desktop, a laptop, or a tablet, having your files synchronized ensures you always have the latest version at your fingertips. This guide will walk you through the basics of file synchronization on Windows, providing practical advice for both beginners and advanced users.

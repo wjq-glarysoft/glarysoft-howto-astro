@@ -1,8 +1,10 @@
 ---
 title: "How to Monitor Windows Network Performance Tuning for Intermediate Windows Users"
 date: 2025-06-01
+slug: "how-to-monitor-windows-network-performance-tuning-for-intermediate-windows-users"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Windows network performance directly affects everything from loading webpages to transferring files and streaming media. Whether you’re a home user wanting smoother video calls or a power user managing large file uploads, tuning your network performance in Windows can deliver noticeable improvements. This guide will help intermediate users monitor, tune, and optimize Windows network performance using built-in tools, advanced settings, and specialized utilities.

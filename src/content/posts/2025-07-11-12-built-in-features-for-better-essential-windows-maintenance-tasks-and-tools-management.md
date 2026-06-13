@@ -1,8 +1,10 @@
 ---
 title: "12 Built-in Features for Better Essential Windows Maintenance Tasks and Tools Management"
 date: 2025-07-11
+slug: "12-built-in-features-for-better-essential-windows-maintenance-tasks-and-tools-management"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Keeping your Windows PC running smoothly isn’t just about installing antivirus software or updating Windows occasionally. Regular maintenance using the built-in tools Microsoft provides can prevent slowdowns, free up valuable space, and reduce the risk of system errors. As an intermediate Windows user, you already know the basics—now it’s time to level up your routine with these 12 essential system tools and tasks, including how to get the most out of them.

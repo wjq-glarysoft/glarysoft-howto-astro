@@ -1,8 +1,10 @@
 ---
 title: "Can Built-in Features Help with Windows Firewall Setup and Management? A Complete Guide for Windows Users"
 date: 2025-06-26
+slug: "can-built-in-features-help-with-windows-firewall-setup-and-management-a-complete-guide-for-windows-users"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Understanding the importance of a firewall is a key step in keeping your Windows PC safe from online threats and unauthorized access. For many beginner Windows users, the built-in Windows Firewall (now called Windows Defender Firewall) can seem complicated. However, with clear guidance, it's possible to set up and manage your firewall effectively using the features included within Windows itself. This guide will walk you through best practices, practical setup steps, and useful examples to protect your privacy and security.

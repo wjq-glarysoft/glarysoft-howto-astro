@@ -1,8 +1,10 @@
 ---
 title: "Improve Windows Performance with Time-Saving Disk Defragmentation Tips"
 date: 2025-04-19
+slug: "improve-windows-performance-with-time-saving-disk-defragmentation-tips"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Disk defragmentation is an essential maintenance task for Windows users aiming to optimize their system's performance. Over time, as files are added, modified, or deleted, they become fragmented, which means parts of a single file are scattered across the disk. This fragmentation can slow down your computer since the hard drive must work harder to retrieve all the pieces of a file. Here are some practical, time-saving tips to help you efficiently defragment your disk and improve system performance.

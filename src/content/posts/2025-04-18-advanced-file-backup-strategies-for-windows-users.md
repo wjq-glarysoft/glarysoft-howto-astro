@@ -1,8 +1,10 @@
 ---
 title: "Advanced File Backup Strategies for Windows Users"
 date: 2025-04-18
+slug: "advanced-file-backup-strategies-for-windows-users"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 In the digital age, protecting your data is more crucial than ever. For Windows users, implementing advanced file backup strategies can ensure that your files and folders remain secure even in the face of unexpected data loss. This article will discuss practical and actionable backup techniques that go beyond the basics.

@@ -1,8 +1,10 @@
 ---
 title: "Boosting Windows Network Performance: Time-Saving Tips for Optimization"
 date: 2025-04-19
+slug: "boosting-windows-network-performance-time-saving-tips-for-optimization-2"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Achieving optimal network performance on your Windows machine can significantly enhance productivity, particularly for tasks that require high-speed data transfer or real-time collaboration. Here are some practical, actionable tips to optimize and improve network performance, saving you time and ensuring a smooth online experience.

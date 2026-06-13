@@ -1,8 +1,10 @@
 ---
 title: "Master junk file removal strategies with Free Software: Windows User Guide"
 date: 2025-06-07
+slug: "master-junk-file-removal-strategies-with-free-software-windows-user-guide"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 What Are Junk Files and Why Do They Matter?

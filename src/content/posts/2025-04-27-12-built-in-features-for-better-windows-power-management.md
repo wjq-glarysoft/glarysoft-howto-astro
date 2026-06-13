@@ -1,8 +1,10 @@
 ---
 title: "12 Built-in Features for Better Windows Power Management"
 date: 2025-04-27
+slug: "12-built-in-features-for-better-windows-power-management"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 For advanced Windows users, optimizing power management can enhance system performance, extend the longevity of hardware, and reduce energy consumption. This article explores twelve built-in Windows features and tools that can help you manage power settings effectively.

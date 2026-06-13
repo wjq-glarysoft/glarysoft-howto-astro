@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with File Recovery Methods in Windows?"
 date: 2025-08-02
+slug: "are-you-making-these-common-mistakes-with-file-recovery-methods-in-windows-6"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Losing important files is a stressful experience, but Windows users have access to several recovery options. However, many people make avoidable mistakes that decrease their odds of successful file recovery. This guide will help you avoid common pitfalls, whether you’re a beginner or have some technical know-how.

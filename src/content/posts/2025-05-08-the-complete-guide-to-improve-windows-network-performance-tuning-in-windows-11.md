@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Improve Windows Network Performance Tuning in Windows 11"
 date: 2025-05-08
+slug: "the-complete-guide-to-improve-windows-network-performance-tuning-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 As an intermediate Windows user, you’re likely looking for ways to enhance your network performance on Windows 11. Efficient network tuning can significantly improve your online experience, whether it’s faster browsing, seamless streaming, or smoother online gaming. In this guide, we’ll explore various strategies to optimize your network settings and enhance performance.

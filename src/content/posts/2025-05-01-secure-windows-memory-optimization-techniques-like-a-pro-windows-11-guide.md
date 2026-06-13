@@ -1,8 +1,10 @@
 ---
 title: "Secure Windows Memory Optimization Techniques Like a Pro: Windows 11 Guide"
 date: 2025-05-01
+slug: "secure-windows-memory-optimization-techniques-like-a-pro-windows-11-guide"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Are you an intermediate Windows user looking to optimize your system's memory? Windows 11, with its sleek design and advanced features, can benefit significantly from effective memory optimization. In this guide, we'll explore practical, real-world techniques to enhance your system's performance and secure your memory usage for seamless operations.

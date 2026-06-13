@@ -1,8 +1,10 @@
 ---
 title: "Why is Windows File Sharing and Permissions Important for Your Windows PC and How to Manage It?"
 date: 2025-05-27
+slug: "why-is-windows-file-sharing-and-permissions-important-for-your-windows-pc-and-how-to-manage-it-2"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 File sharing and permissions are foundational elements of Windows management, affecting both personal productivity and system security. Whether you are setting up a home network, managing files in a small business, or administering a larger workgroup, understanding Windows file sharing and permissions ensures you can collaborate efficiently while protecting sensitive data.

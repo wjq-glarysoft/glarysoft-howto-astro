@@ -1,8 +1,10 @@
 ---
 title: "Windows 11 Windows User Account Security Optimization Made Easy"
 date: 2025-05-06
+slug: "windows-11-windows-user-account-security-optimization-made-easy"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 In the modern digital age, securing your Windows 11 user account is crucial for protecting your personal information and maintaining privacy. Even if you're familiar with some of the basics of Windows security, there are several advanced steps that can enhance your security posture. This guide will walk you through optimizing your Windows 11 user account security with practical and actionable advice.

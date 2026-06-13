@@ -1,8 +1,10 @@
 ---
 title: "Why is File Management and Organization Important for Your Windows PC and How to Manage It?"
 date: 2025-06-19
+slug: "why-is-file-management-and-organization-important-for-your-windows-pc-and-how-to-manage-it"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Why Does File Organization Matter for Advanced Windows Users?

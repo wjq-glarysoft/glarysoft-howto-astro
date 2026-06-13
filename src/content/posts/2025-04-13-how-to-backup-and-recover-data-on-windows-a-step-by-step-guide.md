@@ -1,8 +1,10 @@
 ---
 title: "How to Backup and Recover Data on Windows: A Step-by-Step Guide"
 date: 2025-04-13
+slug: "how-to-backup-and-recover-data-on-windows-a-step-by-step-guide"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Backing up and recovering data on a Windows PC is essential to protect your important files from unexpected data loss due to hardware failure, malware, or accidental deletion. This guide will walk you through the steps of creating backups and recovering lost data using both built-in Windows tools and third-party utilities like Glary Utilities.

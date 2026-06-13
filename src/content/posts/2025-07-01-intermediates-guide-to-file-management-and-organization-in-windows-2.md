@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to File Management and Organization in Windows"
 date: 2025-07-01
+slug: "intermediates-guide-to-file-management-and-organization-in-windows-2"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Why is File Management Important for Advanced Users?

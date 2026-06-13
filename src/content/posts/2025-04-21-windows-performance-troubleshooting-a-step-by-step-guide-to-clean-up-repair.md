@@ -1,8 +1,10 @@
 ---
 title: "Windows Performance Troubleshooting: A Step-by-Step Guide to Clean Up & Repair"
 date: 2025-04-21
+slug: "windows-performance-troubleshooting-a-step-by-step-guide-to-clean-up-repair"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 When your Windows computer starts to lag or freeze, it can be frustrating and disruptive. However, a sluggish system doesn't always mean it's time for an upgrade. Often, performance issues can be resolved with a bit of maintenance and repair. In this guide, we'll explore step-by-step methods to clean up and repair your Windows machine, ensuring it runs smoothly and efficiently.

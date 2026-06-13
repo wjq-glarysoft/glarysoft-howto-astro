@@ -1,8 +1,10 @@
 ---
 title: "Master Windows power management tools with Glary Utilities: Windows User Guide"
 date: 2025-04-26
+slug: "master-windows-power-management-tools-with-glary-utilities-windows-user-guide"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Power management in Windows is essential for optimizing system performance, extending battery life, and ensuring efficient energy use. Whether you're a beginner or an advanced user, mastering these tools can significantly enhance your PC experience. This guide will provide practical advice and real-world examples, highlighting how [Glary Utilities](https://www.glarysoft.com) can streamline your power management tasks.

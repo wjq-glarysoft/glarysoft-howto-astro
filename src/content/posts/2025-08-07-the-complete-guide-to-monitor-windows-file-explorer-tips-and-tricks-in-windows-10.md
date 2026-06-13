@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Monitor Windows File Explorer Tips and Tricks in Windows 10"
 date: 2025-08-07
+slug: "the-complete-guide-to-monitor-windows-file-explorer-tips-and-tricks-in-windows-10"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Windows File Explorer is the foundation for managing files and folders on any Windows 10 PC. Yet, many users—both beginners and advanced—fall into common pitfalls that can slow productivity, cause data loss, or create confusion. This guide addresses those mistakes and offers practical, actionable advice to help you use File Explorer more efficiently.

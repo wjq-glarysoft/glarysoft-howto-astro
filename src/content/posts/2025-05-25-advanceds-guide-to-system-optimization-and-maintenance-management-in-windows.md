@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to System Optimization and Maintenance Management in Windows"
 date: 2025-05-25
+slug: "advanceds-guide-to-system-optimization-and-maintenance-management-in-windows"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Are you a beginner Windows user looking to make your computer run faster and more smoothly? Proper system optimization and maintenance are the keys to keeping your PC in top shape. This guide will walk you through easy, practical steps—no technical jargon—so you can confidently manage your computer’s performance. Let’s get started!

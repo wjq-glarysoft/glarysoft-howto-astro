@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Windows File Explorer Tips and Tricks Toolkit for Windows Computers"
 date: 2025-08-12
+slug: "the-ultimate-windows-file-explorer-tips-and-tricks-toolkit-for-windows-computers-12"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Windows File Explorer is the backbone of file management on any Windows PC. Whether you’re a casual user or a power user, mastering File Explorer can greatly enhance your productivity and save you valuable time. This toolkit provides a comprehensive set of tips and tricks, from beginner-friendly basics to advanced power moves, designed to streamline your files and folders workflow. Let’s dive in!

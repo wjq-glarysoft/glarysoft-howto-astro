@@ -1,8 +1,10 @@
 ---
 title: "Getting Started with Windows Firewall: A Beginner's Guide to Privacy & Security"
 date: 2025-04-17
+slug: "getting-started-with-windows-firewall-a-beginners-guide-to-privacy-security"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Windows Firewall is a crucial component of your computer's defense system, blocking unauthorized access while permitting legitimate communication. For beginners, setting up and managing the Windows Firewall can seem daunting, but with a few simple steps, you can ensure your system is protected.

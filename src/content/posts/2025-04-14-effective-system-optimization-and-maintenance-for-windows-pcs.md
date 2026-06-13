@@ -1,8 +1,10 @@
 ---
 title: "Effective System Optimization and Maintenance for Windows PCs"
 date: 2025-04-14
+slug: "effective-system-optimization-and-maintenance-for-windows-pcs"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Optimizing and maintaining your Windows PC is crucial for ensuring smooth performance and longevity. This guide will walk you through practical steps to keep your system running efficiently, with a focus on using Glary Utilities as a comprehensive tool to assist in this process.

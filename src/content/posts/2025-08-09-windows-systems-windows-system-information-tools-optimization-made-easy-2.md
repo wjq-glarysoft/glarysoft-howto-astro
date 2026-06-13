@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems Windows system information tools Optimization Made Easy"
 date: 2025-08-09
+slug: "windows-systems-windows-system-information-tools-optimization-made-easy-2"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Understanding your Windows PC’s health and performance is crucial, especially if you want your computer to run smoothly and efficiently. If you’re a beginner, you may feel overwhelmed by the technical jargon and the many tools available. Don’t worry—this guide will walk you through what system information tools are, how they help optimize your computer, and how to use them step by step.

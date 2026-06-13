@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Backup Windows Visual Effects Optimization in Windows 10 & 11"
 date: 2025-04-24
+slug: "the-complete-guide-to-backup-windows-visual-effects-optimization-in-windows-10-11"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Optimizing visual effects on Windows 10 or 11 is a great way to enhance your system's performance. These effects can make your interface look sleek, but they can also slow down your system if not configured properly. This guide provides a comprehensive tutorial on how to back up and optimize visual effects for both Windows 10 and 11 users.

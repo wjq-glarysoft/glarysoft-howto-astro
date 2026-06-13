@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows File Management and Cleanup Techniques"
 date: 2025-04-12
+slug: "effective-windows-file-management-and-cleanup-techniques"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Efficient file management and routine cleanup are vital for maintaining optimal performance on your Windows computer. This process not only helps in organizing your data but also improves system speed and frees up valuable storage space. Here are some best practices and actionable steps to help you manage and clean up your files effectively.

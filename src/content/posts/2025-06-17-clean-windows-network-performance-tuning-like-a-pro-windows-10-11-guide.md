@@ -1,8 +1,10 @@
 ---
 title: "clean Windows network performance tuning Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-17
+slug: "clean-windows-network-performance-tuning-like-a-pro-windows-10-11-guide"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Are you tired of slow downloads, laggy online games, or buffering videos on your Windows 10 or 11 PC? Good news! Network performance tuning isn’t just for tech pros—beginners can make noticeable improvements with the right steps. This guide breaks down practical ways to optimize and improve your Windows network speed, with real-world examples anyone can follow.

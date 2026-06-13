@@ -1,8 +1,10 @@
 ---
 title: "When Should You Backup Windows Security and Privacy Enhancements on Your Windows Computer?"
 date: 2025-08-17
+slug: "when-should-you-backup-windows-security-and-privacy-enhancements-on-your-windows-computer"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Protecting personal data and sensitive information on a Windows computer requires more than installing antivirus software or enabling a firewall. Many users now apply custom privacy and security enhancements, ranging from configuring Windows Defender policies to adjusting telemetry settings, fine-tuning firewall rules, or using encryption for sensitive files. These changes strengthen your system against threats, but they also represent a significant investment of time and effort. Backing them up is often overlooked, yet it is one of the smartest steps you can take to ensure consistent protection.

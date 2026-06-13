@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid in File Management and Organization"
 date: 2025-04-13
+slug: "common-mistakes-to-avoid-in-file-management-and-organization-2"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Effective file management is essential for maintaining a well-organized and efficient computer system. Poor file organization can lead to wasted time, frustration, and even data loss. Here are some common mistakes to avoid, along with practical advice to keep your files in order.

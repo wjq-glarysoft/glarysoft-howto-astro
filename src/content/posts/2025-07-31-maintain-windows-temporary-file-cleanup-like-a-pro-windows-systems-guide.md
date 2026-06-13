@@ -1,8 +1,10 @@
 ---
 title: "maintain Windows temporary file cleanup Like a Pro: Windows Systems Guide"
 date: 2025-07-31
+slug: "maintain-windows-temporary-file-cleanup-like-a-pro-windows-systems-guide"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Are you tired of your Windows PC feeling sluggish or running out of storage space? Temporary files are often the hidden culprits piling up in your system. Cleaning them up can boost speed and free up valuable space, but it’s easy to make mistakes if you’re not careful. This guide will help beginners avoid common pitfalls and maintain a smooth-running computer with practical, step-by-step advice.

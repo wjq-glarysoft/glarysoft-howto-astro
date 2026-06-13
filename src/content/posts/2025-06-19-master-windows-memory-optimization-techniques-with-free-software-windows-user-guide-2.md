@@ -1,8 +1,10 @@
 ---
 title: "Master Windows memory optimization techniques with Free Software: Windows User Guide"
 date: 2025-06-19
+slug: "master-windows-memory-optimization-techniques-with-free-software-windows-user-guide-2"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Why Does Memory Optimization Matter in Windows?

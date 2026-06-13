@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Optimize Windows Diagnostic Utilities in Windows 10 & 11"
 date: 2025-06-16
+slug: "the-complete-guide-to-optimize-windows-diagnostic-utilities-in-windows-10-11"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Windows 10 and 11 are equipped with a suite of built-in diagnostic utilities designed to help users troubleshoot, analyze, and maintain system health. Leveraging these tools effectively can resolve nagging issues, enhance performance, and prevent costly downtime. This guide provides comprehensive, actionable advice for optimizing the use of Windows diagnostic utilities, with practical examples and step-by-step instructions for both beginners and advanced users.

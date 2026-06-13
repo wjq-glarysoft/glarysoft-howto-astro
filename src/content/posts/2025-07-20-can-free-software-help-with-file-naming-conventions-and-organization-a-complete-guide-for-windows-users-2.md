@@ -1,8 +1,10 @@
 ---
 title: "Can Free Software Help with File Naming Conventions and Organization? A Complete Guide for Windows Users"
 date: 2025-07-20
+slug: "can-free-software-help-with-file-naming-conventions-and-organization-a-complete-guide-for-windows-users-2"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Why Are File Naming Conventions Important for Windows Users?

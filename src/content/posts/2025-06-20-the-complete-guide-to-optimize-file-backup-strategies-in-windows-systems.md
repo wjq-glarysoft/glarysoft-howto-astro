@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Optimize File Backup Strategies in Windows Systems"
 date: 2025-06-20
+slug: "the-complete-guide-to-optimize-file-backup-strategies-in-windows-systems"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Backing up files and folders is an essential task for every Windows user, yet many people only realize its importance after experiencing data loss. Mistakes made during backup planning can lead to incomplete or unusable backups, frustration, and sometimes even permanent data loss. This guide explores common mistakes to avoid, provides actionable strategies suitable for both beginners and advanced users, and offers practical examples to help ensure your important files are safe.

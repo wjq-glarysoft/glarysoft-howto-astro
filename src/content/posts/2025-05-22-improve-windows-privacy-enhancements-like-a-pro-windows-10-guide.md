@@ -1,8 +1,10 @@
 ---
 title: "Improve Windows Privacy Enhancements Like a Pro: Windows 10 Guide"
 date: 2025-05-22
+slug: "improve-windows-privacy-enhancements-like-a-pro-windows-10-guide"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Enhancing privacy on Windows 10 is essential to protect your personal information from unwanted access and surveillance. Whether you're a novice or an experienced user, these best practices can help you take full control of your privacy settings. Follow this guide to customize your system for optimal privacy protection.

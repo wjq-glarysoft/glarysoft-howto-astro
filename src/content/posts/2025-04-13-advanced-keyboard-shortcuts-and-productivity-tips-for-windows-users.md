@@ -1,8 +1,10 @@
 ---
 title: "Advanced Keyboard Shortcuts and Productivity Tips for Windows Users"
 date: 2025-04-13
+slug: "advanced-keyboard-shortcuts-and-productivity-tips-for-windows-users"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Keyboard shortcuts are an essential tool for anyone looking to optimize their workflow and enhance productivity on a Windows PC. While most users are familiar with basic shortcuts like Ctrl + C for copy and Ctrl + V for paste, advanced techniques can significantly elevate your efficiency. This article will explore some advanced keyboard shortcuts and productivity tips, providing practical examples and actionable advice.

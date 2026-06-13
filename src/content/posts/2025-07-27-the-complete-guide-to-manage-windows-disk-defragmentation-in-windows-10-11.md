@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Manage Windows Disk Defragmentation in Windows 10 & 11"
 date: 2025-07-27
+slug: "the-complete-guide-to-manage-windows-disk-defragmentation-in-windows-10-11"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Why Is Disk Defragmentation Important on Windows 10 & 11?

@@ -1,8 +1,10 @@
 ---
 title: "When Should You Maintain File Naming Conventions and Organization on Your Windows Computer?"
 date: 2025-05-05
+slug: "when-should-you-maintain-file-naming-conventions-and-organization-on-your-windows-computer"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Maintaining file naming conventions and organization is essential for anyone who uses a Windows computer, whether you're a novice or an expert. A well-organized system not only saves time but also prevents the frustration of misplaced files. This guide will walk you through the importance of maintaining file naming conventions and organization on your Windows computer, along with step-by-step instructions and practical examples.

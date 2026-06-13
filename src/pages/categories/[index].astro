@@ -1,0 +1,84 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import type { CollectionEntry } from 'astro:content';
+import { getExcerpt } from '../../utils/truncate';
+import Pagination from '../../components/Pagination.astro';
+
+type Post = CollectionEntry<'posts'>;
+const POSTS_PER_PAGE = 9;
+
+// 生成所有分类的首页路径
+export async function getStaticPaths() {
+  const allPosts = await getCollection('posts');
+  
+  const allCategoriesTest = [...new Set(allPosts.flatMap(post => {
+    
+    return post.data.categories || []
+}))];
+console.log(allCategoriesTest);
+
+  // 从文章的categories字段获取所有不重复的分类
+  const allCategories = [...new Set(
+    allPosts.flatMap(post => post.data.categories || [])
+  )];
+
+  // 为每个分类生成首页路径数组
+  return Array.from(allCategories).map(category => ({
+    params: { index: encodeURIComponent(category) },
+    props: { 
+        category,
+        allPosts
+    }
+  }));
+}
+
+// 接收参数
+const { category, allPosts } = Astro.props;
+
+// 获取该分类的所有文章
+const categoryPosts = allPosts
+  .filter(post => post.data.categories?.includes(category))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+// 计算分页信息
+const totalPages = Math.ceil(categoryPosts.length / POSTS_PER_PAGE);
+const currentPage = 1;
+const startIndex = 0;
+const currentPosts = categoryPosts.slice(startIndex, startIndex + POSTS_PER_PAGE);
+---
+
+<BaseLayout title={`${category} - Page 1 - Glarysoft How-to Articles`}>
+  <div class="category-home">
+    <!-- 分类头部 -->
+    <header class="category-header">
+      <h1>分类：{category}</h1>
+      <p class="post-count">共 {categoryPosts.length} 篇文章</p>
+    </header>
+
+    <!-- 文章列表 -->
+    <div class="posts-list">
+      {currentPosts.map(post => (
+        <article class="post-card">
+          <h2>
+            <a href={`/${post.data.categories}`}>{post.data.title}</a>
+          </h2>
+          <div class="post-meta">
+            <time datetime={post.data.date.toISOString()}>
+              {post.data.date.toLocaleDateString('zh-CN')}
+            </time>
+            <span class="author">{post.data.author}</span>
+          </div>
+          <p class="excerpt">{post.data.description || post.body?.slice(0, 150)}</p>
+          <div class="tags">
+            {post.data.categories?.map(tag => (
+              <a href={`/categories/${encodeURIComponent(tag)}`} class="tag">
+                {tag}
+              </a>
+            ))}
+          </div>
+        </article>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

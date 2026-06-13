@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid in Backup and Data Recovery"
 date: 2025-04-10
+slug: "common-mistakes-to-avoid-in-backup-and-data-recovery"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Data backup and recovery are critical components of maintaining the health and functionality of your Windows system. However, even with the best intentions, many users make common mistakes that can jeopardize their data integrity and recovery efforts. Here is a detailed guide to avoid these pitfalls, ensuring that your data remains safe and recoverable when you need it most.

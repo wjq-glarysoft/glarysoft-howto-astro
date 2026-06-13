@@ -1,8 +1,10 @@
 ---
 title: "monitor Windows file sharing and permissions Like a Pro: Windows 11 Guide"
 date: 2025-07-07
+slug: "monitor-windows-file-sharing-and-permissions-like-a-pro-windows-11-guide"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 File sharing is one of the most powerful features of Windows 11, enabling users to collaborate, share resources, and access files across devices on the same network. However, sharing files also brings questions of security and control. Who can access your files? Can they edit or only view them? Monitoring and managing these permissions is essential for both home users and professionals. This guide walks you through practical, real-world steps to monitor and control file sharing and permissions in Windows 11, with clear advice for both beginners and advanced users.

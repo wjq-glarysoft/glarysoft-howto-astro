@@ -1,8 +1,10 @@
 ---
 title: "5 Proven Methods to Manage Windows Privacy Enhancements in Windows"
 date: 2025-07-27
+slug: "5-proven-methods-to-manage-windows-privacy-enhancements-in-windows"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Managing your privacy on a Windows PC can feel overwhelming, especially if you’re new to the world of computers. However, Windows offers several built-in privacy features, and with a few simple steps, you can boost your privacy and take control of your data. This guide walks you through five proven methods to enhance your privacy in Windows, using easy-to-follow instructions and real-world examples.

@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Windows Network Performance Tuning Toolkit for Windows Computers"
 date: 2025-05-15
+slug: "the-ultimate-windows-network-performance-tuning-toolkit-for-windows-computers"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Enhancing your Windows computer's network performance can significantly improve your internet browsing experience, reduce lag in online gaming, and increase download speeds. This guide provides all-level Windows users with a comprehensive toolkit to optimize and improve network performance systematically.

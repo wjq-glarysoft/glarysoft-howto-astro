@@ -1,0 +1,73 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getExcerpt } from '../../utils/truncate';
+import Pagination from '../../components/Pagination.astro';
+
+//在getStaticPaths中获取并传递数据
+export async function getStaticPaths() {
+  const POSTS_PER_PAGE = 80; 
+  
+  const allPosts = (await getCollection('posts'))
+  .map(post => ({
+    ...post
+  })).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+  
+  const totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE);
+  
+  //为每个页面生成路径, 并传递该页面需要的文章数据
+  return Array.from({ length: totalPages }, (_, i) => {
+    const pageNum = i + 1;
+    const startIndex = pageNum * POSTS_PER_PAGE - POSTS_PER_PAGE;
+    const pagePosts = allPosts.slice(startIndex, startIndex + POSTS_PER_PAGE);
+    
+    return {
+      params: { page: String(pageNum) },
+      props: { 
+        pageNum,
+        totalPages,
+        posts: pagePosts  //传递当前页的所有文章
+      }
+    };
+  });
+}
+
+
+//直接从props接收数据，无需再次获取
+const { pageNum, totalPages, posts: currentPosts } = Astro.props;
+
+---
+
+<BaseLayout title="Glarysoft How-to Articles">
+  <div class="container" style="margin-top: 1.2rem;">
+    <div>
+      <p class="block-spacer-50"></p>
+      <h1 style="text-align: center; margin-top: 1.2rem;">How to Articles</h1>
+      <p class="block-spacer-30"></p>
+    </div>
+    <div style="margin-top: 1.2rem;">
+        <ul class="is-layout-grid">
+            {currentPosts.map((post) => (
+                <li>
+                    <div class="post-card">
+                        <h2>
+                            <a href={`/posts/${post.data.slug}`}>
+                                {post.data.title || 'Untitled'}
+                            </a>
+                        </h2>
+                        <div>
+                            <p class="post-excerpt">
+                                {getExcerpt(post.body ?? "", 55)}
+                            </p>
+                            <p style="margin-top: 1.2rem;"> 
+                                <a href={`/posts/${post.data.slug}`}>read more</a>
+                            </p>
+                        </div>
+                    </div>
+                </li>
+            ))}
+        </ul> 
+    </div>       
+    <Pagination currentPage={pageNum} totalPages={totalPages} />
+  </div>
+</BaseLayout>

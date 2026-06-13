@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Windows User Account Security Toolkit for Windows Computers"
 date: 2025-05-20
+slug: "the-ultimate-windows-user-account-security-toolkit-for-windows-computers-2"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 When it comes to safeguarding your Windows computer, the security of your user account is paramount. As a beginner, it might seem overwhelming, but this guide aims to simplify account security by highlighting common mistakes to avoid and offering practical advice.

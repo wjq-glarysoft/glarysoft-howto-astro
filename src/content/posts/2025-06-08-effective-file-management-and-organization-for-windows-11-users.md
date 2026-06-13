@@ -1,8 +1,10 @@
 ---
 title: "Effective File Management and Organization for Windows 11 Users"
 date: 2025-06-08
+slug: "effective-file-management-and-organization-for-windows-11-users"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Why Is File Management Important in Windows 11?

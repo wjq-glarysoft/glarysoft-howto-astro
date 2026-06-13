@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows CPU Performance Tuning Management for Windows Systems Users"
 date: 2025-07-10
+slug: "effective-windows-cpu-performance-tuning-management-for-windows-systems-users-2"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Is Your Windows PC Running Slower Than Usual?

@@ -1,8 +1,10 @@
 ---
 title: "Master Windows password protection strategies with Glary Utilities: Windows User Guide"
 date: 2025-06-29
+slug: "master-windows-password-protection-strategies-with-glary-utilities-windows-user-guide"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Why is strong password protection essential for Windows users?

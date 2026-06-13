@@ -1,8 +1,10 @@
 ---
 title: "configure Windows performance troubleshooting Like a Pro: Windows Systems Guide"
 date: 2025-05-04
+slug: "configure-windows-performance-troubleshooting-like-a-pro-windows-systems-guide"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 When your Windows PC begins to slow down or behave erratically, it's time to roll up your sleeves and dive into performance troubleshooting. This guide will walk you through the process step-by-step, from basic solutions for novices to more advanced techniques for seasoned users.

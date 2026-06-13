@@ -1,8 +1,10 @@
 ---
 title: "Mastering File Search and Indexing in Windows: Professional Insights and Techniques"
 date: 2025-04-19
+slug: "mastering-file-search-and-indexing-in-windows-professional-insights-and-techniques"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Searching for files efficiently can save significant time and increase productivity, especially when working with a vast number of files and folders. Windows offers several tools and techniques that enhance the file search experience through indexing. This article provides you with professional insights and practical advice to master file search and indexing on your Windows system.

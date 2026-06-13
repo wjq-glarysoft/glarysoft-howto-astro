@@ -1,8 +1,10 @@
 ---
 title: "Master Windows security settings configuration with Built-in Features: Windows User Guide"
 date: 2025-11-13
+slug: "master-windows-security-settings-configuration-with-built-in-features-windows-user-guide-2"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows provides a wide range of built-in tools that help protect your personal data, prevent unauthorized access, and keep your computer running securely. For beginners, understanding and configuring these settings can make a big difference in maintaining both privacy and system safety. This guide explains how to use essential Windows features effectively to strengthen your computer’s security.

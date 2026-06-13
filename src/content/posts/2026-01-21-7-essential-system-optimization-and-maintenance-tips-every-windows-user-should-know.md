@@ -1,8 +1,10 @@
 ---
 title: "7 Essential System Optimization and Maintenance Tips Every Windows User Should Know"
 date: 2026-01-21
+slug: "7-essential-system-optimization-and-maintenance-tips-every-windows-user-should-know"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Keeping your Windows PC running smoothly isn’t just about having powerful hardware—it’s about regular maintenance and optimization. Over time, programs, updates, and temporary files can slow down performance. By following these seven essential tips, you can keep your system running fast, stable, and efficient. This guide covers simple steps for beginners as well as advanced insights for experienced Windows users.

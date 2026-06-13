@@ -1,8 +1,10 @@
 ---
 title: "Can Glary Utilities Help with Windows System Monitoring Tools? A Complete Guide for Windows Users"
 date: 2025-05-01
+slug: "can-glary-utilities-help-with-windows-system-monitoring-tools-a-complete-guide-for-windows-users"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Introduction to Windows System Monitoring

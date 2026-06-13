@@ -1,8 +1,10 @@
 ---
 title: "Configure Windows Performance Optimization Tips Like a Pro: Windows 11 Guide"
 date: 2025-05-07
+slug: "configure-windows-performance-optimization-tips-like-a-pro-windows-11-guide"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Windows 11 is designed to be sleek and efficient, but there are always ways to enhance its performance further. For beginners looking to make their system run smoother and faster without spending too much time, this guide will outline practical and time-saving tips for optimizing your Windows 11 PC.

@@ -1,8 +1,10 @@
 ---
 title: "Best Practices for Windows Performance Troubleshooting"
 date: 2025-04-17
+slug: "best-practices-for-windows-performance-troubleshooting"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Maintaining optimal performance on your Windows PC involves regular cleanup and repair. Over time, computers can slow down due to unnecessary files, fragmented data, and software conflicts. Here’s a comprehensive guide to troubleshooting and improving your Windows computer's performance using best practices.

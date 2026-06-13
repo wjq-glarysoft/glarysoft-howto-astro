@@ -1,8 +1,10 @@
 ---
 title: "Windows file management and organization Solutions: From Basics to Advanced Techniques"
 date: 2025-07-29
+slug: "windows-file-management-and-organization-solutions-from-basics-to-advanced-techniques-8"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Why Is Advanced File Management Important?

@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Monitor Windows Privacy Enhancements in Windows 11"
 date: 2025-05-16
+slug: "the-complete-guide-to-monitor-windows-privacy-enhancements-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Windows 11 offers a host of new privacy enhancements designed to give you greater control over your personal data. Whether you're a beginner or an advanced user, understanding these features can help you optimize your experience and enhance your digital security. This guide provides practical, actionable advice to help you monitor and manage these privacy features efficiently, saving you time and effort.

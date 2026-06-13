@@ -1,8 +1,10 @@
 ---
 title: "How to Optimize Windows Performance: Tips for Intermediate Windows Users"
 date: 2025-05-06
+slug: "how-to-optimize-windows-performance-tips-for-intermediate-windows-users"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 As an intermediate Windows user, you may already be familiar with the basic concepts of system optimization. However, improving your Windows performance can be taken to the next level with a few advanced techniques. Whether you're aiming to speed up your system, free up resources, or streamline your workflow, these actionable tips can help you achieve a snappier and more efficient PC experience.

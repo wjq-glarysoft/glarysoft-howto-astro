@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Optimize File Compression Techniques in Windows 10 & 11"
 date: 2025-08-15
+slug: "the-complete-guide-to-optimize-file-compression-techniques-in-windows-10-11"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 File compression is a simple yet powerful way to save storage space, make file transfers faster, and keep your data organized. In Windows 10 and 11, you can compress files and folders without needing extra software, and you can also take advantage of more advanced tools for better results. This guide will walk you through the most effective file compression techniques step-by-step, tailored for beginners.

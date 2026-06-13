@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Improve Windows Disk Cleanup and Optimization in Windows 10 & 11"
 date: 2025-08-07
+slug: "top-10-ways-to-improve-windows-disk-cleanup-and-optimization-in-windows-10-11"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Keeping your Windows 10 or 11 computer clean and well-optimized can improve speed, free up space, and extend the life of your PC. If you're a beginner, you may be unsure where to start. Here are the top 10 simple and effective ways to clean up and optimize your Windows computer, explained in a way anyone can follow.

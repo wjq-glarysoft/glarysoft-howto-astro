@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows User Account Security Tips Every Windows User Should Know"
 date: 2025-07-07
+slug: "5-essential-windows-user-account-security-tips-every-windows-user-should-know-3"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 User account security is the cornerstone of a safe Windows environment, particularly for advanced users who often handle sensitive data, manage multiple accounts, or operate in professional or home-lab setups. While basic security can be achieved with default settings, advanced tweaking and vigilance are required to truly lock down your Windows user accounts. Here are five actionable, technically in-depth tips to reinforce your system’s privacy and security.

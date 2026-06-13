@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Clean Windows Network Performance Tuning in Windows 11"
 date: 2025-08-06
+slug: "the-complete-guide-to-clean-windows-network-performance-tuning-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Optimizing your Windows 11 network performance can dramatically enhance your internet experience, whether you're working from home, gaming, or streaming. Tuning your system for optimal network speed and reliability can seem daunting, but with the right steps, anyone can improve their system’s connectivity. This guide provides professional, actionable techniques for both beginners and advanced users, including how Glary Utilities can play a key role in ensuring clean and smooth network operation.

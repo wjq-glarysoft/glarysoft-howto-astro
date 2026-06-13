@@ -1,8 +1,10 @@
 ---
 title: "How to Manage File Compression Techniques for Intermediate Windows Users"
 date: 2025-06-14
+slug: "how-to-manage-file-compression-techniques-for-intermediate-windows-users"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 File compression is an essential skill for anyone looking to optimize storage space, speed up file transfers, or organize large sets of data on a Windows system. Whether you’re handling daily backups, sharing large folders, or simply trying to squeeze more out of your hard drive, understanding and managing file compression techniques will vastly improve your productivity and system efficiency.

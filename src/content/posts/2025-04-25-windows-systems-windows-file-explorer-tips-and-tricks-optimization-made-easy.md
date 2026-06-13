@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems Windows File Explorer Tips and Tricks Optimization Made Easy"
 date: 2025-04-25
+slug: "windows-systems-windows-file-explorer-tips-and-tricks-optimization-made-easy"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Windows File Explorer is a critical tool for managing files and folders on your PC. Knowing how to optimize its use can drastically improve your productivity and system organization. This article provides you with useful tips and tricks, suitable for both beginners and advanced users, to make the most of Windows File Explorer.

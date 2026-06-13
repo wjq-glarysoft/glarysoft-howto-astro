@@ -1,8 +1,10 @@
 ---
 title: "organize Windows CPU performance tuning Like a Pro: Windows 10 & 11 Guide"
 date: 2025-05-04
+slug: "organize-windows-cpu-performance-tuning-like-a-pro-windows-10-11-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Understanding how to optimize your CPU performance can significantly enhance your Windows 10 or 11 experience, making your system faster and more efficient. For beginners, this guide will walk you through practical steps to tune your CPU performance easily and effectively. Let's dive into how you can organize Windows CPU performance tuning like a pro.

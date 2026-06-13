@@ -1,8 +1,10 @@
 ---
 title: "Built-in Features Make Windows Performance Optimization Simple for Advanced Users"
 date: 2025-05-18
+slug: "built-in-features-make-windows-performance-optimization-simple-for-advanced-users"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 For advanced Windows users, optimizing system performance goes beyond basic cleanup routines. It involves delving into the built-in features of Windows that can be fine-tuned to enhance efficiency and speed. Here's a guide to help you leverage these features effectively.

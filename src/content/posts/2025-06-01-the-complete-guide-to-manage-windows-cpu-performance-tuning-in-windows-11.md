@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Manage Windows CPU Performance Tuning in Windows 11"
 date: 2025-06-01
+slug: "the-complete-guide-to-manage-windows-cpu-performance-tuning-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Windows 11 brings not only a sleek interface but also new opportunities for advanced users to fine-tune CPU performance for demanding workloads and daily efficiency. Effective CPU performance tuning can maximize responsiveness, boost productivity, and extract every ounce of power from your hardware. This guide provides advanced, actionable techniques for managing and optimizing CPU performance in Windows 11.

@@ -1,8 +1,10 @@
 ---
 title: "Understanding Windows Backup and Restore Utilities: A Professional Insight"
 date: 2025-04-18
+slug: "understanding-windows-backup-and-restore-utilities-a-professional-insight"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Backing up your data is essential for protecting against data loss, whether from accidental deletion, hardware failure, or malware attacks. Windows provides built-in backup and restore utilities that are effective for safeguarding your valuable information. This article will guide you through understanding and utilizing these system tools with practical advice and examples.

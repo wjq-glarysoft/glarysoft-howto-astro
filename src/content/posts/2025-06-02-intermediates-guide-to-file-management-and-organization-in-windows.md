@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to File Management and Organization in Windows"
 date: 2025-06-02
+slug: "intermediates-guide-to-file-management-and-organization-in-windows"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Why Is Effective File Management Important?

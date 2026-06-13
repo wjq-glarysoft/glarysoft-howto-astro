@@ -1,8 +1,10 @@
 ---
 title: "15 Essential File Naming Conventions and Organization Tips Every Windows User Should Know"
 date: 2025-06-22
+slug: "15-essential-file-naming-conventions-and-organization-tips-every-windows-user-should-know"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 File chaos is a hidden productivity killer—even for advanced Windows users. While the fundamentals of file management are widely known, many seasoned users still fall into subtle traps that lead to bloated directories, lost documents, and daily inefficiencies. By mastering file naming conventions and organization techniques, you can transform how you manage, locate, and secure files on your Windows PC. Here are 15 essential tips, each highlighting common mistakes to avoid and practical solutions you can implement today.

@@ -1,8 +1,10 @@
 ---
 title: "Essential File Compression Techniques for Windows Users"
 date: 2025-08-15
+slug: "essential-file-compression-techniques-for-windows-users-3"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 File compression is a valuable skill for any Windows user who works with large files or needs to share data efficiently. Whether you want to save disk space, speed up file transfers, or organize your folders more effectively, understanding how to compress and decompress files is essential. This guide will explain the basics for beginners while also covering advanced techniques for users who want more control and efficiency.

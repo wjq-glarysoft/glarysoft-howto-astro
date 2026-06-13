@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows Network Performance Tuning Management in Windows"
 date: 2025-06-08
+slug: "intermediates-guide-to-windows-network-performance-tuning-management-in-windows"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Is Your Windows Network Sluggish? Understanding the Causes

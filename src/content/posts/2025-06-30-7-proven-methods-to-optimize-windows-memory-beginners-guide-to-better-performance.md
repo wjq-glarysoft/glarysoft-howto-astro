@@ -1,8 +1,10 @@
 ---
 title: "7 Proven Methods to Optimize Windows Memory: Beginner’s Guide to Better Performance"
 date: 2025-06-30
+slug: "7-proven-methods-to-optimize-windows-memory-beginners-guide-to-better-performance"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Are you experiencing slowdowns, freezing, or lag on your Windows PC? Memory (RAM) issues are a common cause. Fortunately, optimizing your Windows memory doesn’t have to be complicated. If you’re new to PC maintenance, these seven beginner-friendly methods will help you get the most out of your system. Let’s explore each technique with practical steps and simple explanations.

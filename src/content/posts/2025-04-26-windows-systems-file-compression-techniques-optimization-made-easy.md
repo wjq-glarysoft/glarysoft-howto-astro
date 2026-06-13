@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems file compression techniques Optimization Made Easy"
 date: 2025-04-26
+slug: "windows-systems-file-compression-techniques-optimization-made-easy"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 For intermediate Windows users, file compression can be a powerful tool for optimizing storage and improving system performance. Let's delve into various file compression techniques, practical examples, and how they can be effectively utilized in Windows environments.

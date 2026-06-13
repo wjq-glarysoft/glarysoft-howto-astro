@@ -1,8 +1,10 @@
 ---
 title: "Windows 11 file naming conventions and organization Optimization Made Easy"
 date: 2025-04-26
+slug: "windows-11-file-naming-conventions-and-organization-optimization-made-easy"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 In today's digital age, a well-organized file system is crucial for both personal and professional efficiency. Windows 11, with its advanced features and sleek design, offers various ways to optimize your file organization. This guide provides a detailed look into file naming conventions and organization strategies tailored for users of all skill levels.

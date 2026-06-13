@@ -1,8 +1,10 @@
 ---
 title: "Common Networking and Connectivity Mistakes to Avoid"
 date: 2025-04-13
+slug: "common-networking-and-connectivity-mistakes-to-avoid-2"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Networking and connectivity are crucial components of any Windows-based system. Ensuring a stable and secure network connection can often be fraught with potential missteps. Here are some common mistakes to avoid, along with practical tips and examples to enhance your networking experience.

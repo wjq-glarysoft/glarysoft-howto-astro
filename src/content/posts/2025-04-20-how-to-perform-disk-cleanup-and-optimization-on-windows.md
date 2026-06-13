@@ -1,8 +1,10 @@
 ---
 title: "How to Perform Disk Cleanup and Optimization on Windows"
 date: 2025-04-20
+slug: "how-to-perform-disk-cleanup-and-optimization-on-windows"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Keeping your Windows PC running smoothly and efficiently requires regular maintenance, including disk cleanup and optimization. Over time, your computer accumulates unnecessary files, temporary data, and fragments of information that can slow down performance. In this step-by-step guide, we'll explore practical methods to clean and optimize your disk, ensuring your system remains in top shape.

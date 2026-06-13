@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Repair Windows Software Management Best Practices in Windows Systems"
 date: 2025-08-01
+slug: "the-complete-guide-to-repair-windows-software-management-best-practices-in-windows-systems"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Introduction

@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 Windows Privacy Enhancements Optimization Made Easy"
 date: 2025-07-20
+slug: "windows-10-11-windows-privacy-enhancements-optimization-made-easy-2"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Keeping your data private on Windows 10 and 11 is more important than ever. With a few simple changes, you can minimize tracking, control what information you share, and protect your system from prying eyes. Whether you’re a beginner just setting up your PC or an advanced user ready to fine-tune privacy, this guide offers practical steps and real-world examples to enhance security on your Windows device.

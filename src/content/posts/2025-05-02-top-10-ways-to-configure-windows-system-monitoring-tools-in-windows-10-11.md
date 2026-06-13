@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Configure Windows System Monitoring Tools in Windows 10 & 11"
 date: 2025-05-02
+slug: "top-10-ways-to-configure-windows-system-monitoring-tools-in-windows-10-11"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 For intermediate users looking to optimize and monitor their Windows 10 and 11 systems, configuring system monitoring tools can be an empowering step towards maintaining and enhancing your PC's performance. In this guide, we explore the top 10 ways to configure system monitoring tools effectively.

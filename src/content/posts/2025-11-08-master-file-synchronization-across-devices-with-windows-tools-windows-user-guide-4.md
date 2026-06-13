@@ -1,8 +1,10 @@
 ---
 title: "Master file synchronization across devices with Windows Tools: Windows User Guide"
 date: 2025-11-08
+slug: "master-file-synchronization-across-devices-with-windows-tools-windows-user-guide-4"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Keeping files consistent across multiple devices is essential for productivity, collaboration, and data security. Windows provides several built-in tools and settings to help you synchronize your files automatically without relying on third-party cloud services. This guide explains how to synchronize files and folders across your Windows devices, with step-by-step instructions suitable for both beginners and advanced users.

@@ -1,8 +1,10 @@
 ---
 title: "Tips and Tricks for Mastering Your Windows Computer"
 date: 2025-04-10
+slug: "tips-and-tricks-for-mastering-your-windows-computer"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Navigating through the intricacies of a Windows computer can seem daunting at first, but with just a few tips and tricks, you can streamline your workflow and enhance your overall computing experience. Whether you are a novice user or an experienced tech enthusiast, these hacks can help you make the most out of your Windows device.

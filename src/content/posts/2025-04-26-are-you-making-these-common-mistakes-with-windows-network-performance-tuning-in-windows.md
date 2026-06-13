@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Network Performance Tuning in Windows?"
 date: 2025-04-26
+slug: "are-you-making-these-common-mistakes-with-windows-network-performance-tuning-in-windows"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Optimizing network performance on a Windows system is crucial for ensuring fast and reliable connectivity. However, many users, both beginners and advanced, often make mistakes that can lead to suboptimal network performance. This article will guide you through common errors to avoid and offer practical advice to enhance your network performance effectively.

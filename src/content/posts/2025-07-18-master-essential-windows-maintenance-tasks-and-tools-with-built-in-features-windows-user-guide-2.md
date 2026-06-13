@@ -1,8 +1,10 @@
 ---
 title: "Master essential Windows maintenance tasks and tools with Built-in Features: Windows User Guide"
 date: 2025-07-18
+slug: "master-essential-windows-maintenance-tasks-and-tools-with-built-in-features-windows-user-guide-2"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Why Is Regular Windows Maintenance Important?

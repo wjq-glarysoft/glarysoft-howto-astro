@@ -1,8 +1,10 @@
 ---
 title: "When Should You Maintain Windows Backup and Restore Utilities on Your Windows Computer?"
 date: 2025-06-07
+slug: "when-should-you-maintain-windows-backup-and-restore-utilities-on-your-windows-computer"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Why Are Backup and Restore Utilities Crucial for Advanced Windows Users?

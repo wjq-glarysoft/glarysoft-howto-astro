@@ -1,8 +1,10 @@
 ---
 title: "Master Windows privacy enhancements with Built-in Features: Windows User Guide"
 date: 2025-08-11
+slug: "master-windows-privacy-enhancements-with-built-in-features-windows-user-guide-2"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Privacy on Windows doesn’t have to be complicated or time-consuming. With many built-in features, you can quickly secure your data, limit unnecessary tracking, and control your digital footprint. This guide walks you through time-saving, practical privacy enhancements every Windows user should know—whether you’re a beginner or an advanced power user.

@@ -1,8 +1,10 @@
 ---
 title: "Boosting CPU Performance on Windows: Time-Saving Tips and Tricks"
 date: 2025-04-19
+slug: "boosting-cpu-performance-on-windows-time-saving-tips-and-tricks"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Optimizing CPU performance can significantly enhance your Windows experience, making your system faster and more efficient, especially when running demanding applications. Here are some practical tips to help you optimize CPU performance, saving you time and improving productivity.

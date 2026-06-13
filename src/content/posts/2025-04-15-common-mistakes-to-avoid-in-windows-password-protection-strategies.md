@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid in Windows Password Protection Strategies"
 date: 2025-04-15
+slug: "common-mistakes-to-avoid-in-windows-password-protection-strategies"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Passwords are the first line of defense in protecting your personal information and sensitive data on Windows systems. Despite their importance, many users still make critical errors that leave their accounts vulnerable. Understanding and avoiding these common mistakes can significantly enhance your security posture.

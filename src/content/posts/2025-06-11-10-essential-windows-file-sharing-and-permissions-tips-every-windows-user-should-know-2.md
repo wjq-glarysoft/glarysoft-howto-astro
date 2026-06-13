@@ -1,8 +1,10 @@
 ---
 title: "10 Essential Windows File Sharing and Permissions Tips Every Windows User Should Know"
 date: 2025-06-11
+slug: "10-essential-windows-file-sharing-and-permissions-tips-every-windows-user-should-know-2"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 File sharing and permissions are central to working efficiently and securely on Windows, whether you’re connecting computers at home, within a small office, or as part of a large organization. Understanding how to properly share files and set permissions prevents accidental data exposure, boosts productivity, and makes collaboration seamless. Here are 10 essential tips, divided into beginner and advanced sections, to help you master Windows file sharing and permissions.

@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Optimize Windows Performance: Common Mistakes to Avoid in Windows 11"
 date: 2025-06-17
+slug: "top-10-ways-to-optimize-windows-performance-common-mistakes-to-avoid-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Windows 11 brings a modern interface and improved security, but even advanced users often fall into optimization pitfalls that actually hinder performance. Here are 10 ways to optimize Windows 11, each paired with a common mistake to avoid, and actionable tips for best results.

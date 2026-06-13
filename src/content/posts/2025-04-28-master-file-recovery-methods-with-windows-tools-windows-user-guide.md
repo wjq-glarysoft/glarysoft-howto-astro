@@ -1,8 +1,10 @@
 ---
 title: "Master file recovery methods with Windows Tools: Windows User Guide"
 date: 2025-04-28
+slug: "master-file-recovery-methods-with-windows-tools-windows-user-guide"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Accidentally deleting important files or losing data due to system errors can be a troubling experience for many Windows users. Fortunately, Windows provides several built-in tools and utilities that can help you recover lost or deleted files. In this guide, we’ll walk through various file recovery methods and provide step-by-step instructions suitable for both beginners and advanced users.

@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure Windows Secure Browsing Techniques in Windows 10 & 11"
 date: 2025-04-24
+slug: "the-complete-guide-to-configure-windows-secure-browsing-techniques-in-windows-10-11"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 In today's digital age, maintaining privacy and security while browsing the internet is more crucial than ever. Both beginners and advanced users of Windows 10 and 11 can implement various secure browsing techniques to protect themselves from online threats. This guide provides practical, actionable advice to help you navigate the complexities of secure browsing.

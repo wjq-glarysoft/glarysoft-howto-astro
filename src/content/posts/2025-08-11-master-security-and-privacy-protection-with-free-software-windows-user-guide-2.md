@@ -1,8 +1,10 @@
 ---
 title: "Master security and privacy protection with Free Software: Windows User Guide"
 date: 2025-08-11
+slug: "master-security-and-privacy-protection-with-free-software-windows-user-guide-2"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Introduction

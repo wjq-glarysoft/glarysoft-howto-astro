@@ -1,8 +1,10 @@
 ---
 title: "Essential File Management and Organization Techniques for Windows Users"
 date: 2025-05-03
+slug: "essential-file-management-and-organization-techniques-for-windows-users"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 File management and organization are crucial skills for every Windows user, enhancing productivity and ensuring that important documents are always within reach. In this article, we'll explore techniques to effectively manage and organize your files and folders, offering practical advice for both beginners and advanced users.

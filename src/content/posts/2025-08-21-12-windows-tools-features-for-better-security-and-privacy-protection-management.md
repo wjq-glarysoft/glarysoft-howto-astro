@@ -1,8 +1,10 @@
 ---
 title: "12 Windows Tools Features for Better Security and Privacy Protection Management"
 date: 2025-08-21
+slug: "12-windows-tools-features-for-better-security-and-privacy-protection-management"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Windows has built-in tools and features that help advanced users strengthen their system’s security and safeguard personal data. Understanding and configuring these features step by step ensures a more resilient environment against threats. Below are twelve essential features, explained with practical instructions and real-world application examples.

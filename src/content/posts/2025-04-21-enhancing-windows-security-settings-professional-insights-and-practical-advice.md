@@ -1,8 +1,10 @@
 ---
 title: "Enhancing Windows Security Settings: Professional Insights and Practical Advice"
 date: 2025-04-21
+slug: "enhancing-windows-security-settings-professional-insights-and-practical-advice"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 In today's digital age, ensuring the security of your Windows operating system is more crucial than ever. With cyber threats evolving, having a robust security configuration can protect your sensitive information and maintain privacy. This article provides professional insights into optimizing Windows security settings, offering practical advice for a safer computing experience.

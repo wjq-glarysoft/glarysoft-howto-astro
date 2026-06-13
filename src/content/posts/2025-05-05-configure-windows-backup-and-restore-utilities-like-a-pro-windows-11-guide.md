@@ -1,8 +1,10 @@
 ---
 title: "Configure Windows Backup and Restore Utilities Like a Pro: Windows 11 Guide"
 date: 2025-05-05
+slug: "configure-windows-backup-and-restore-utilities-like-a-pro-windows-11-guide"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 As an advanced Windows user, you understand the importance of safeguarding your data and system configurations. Windows 11 offers built-in backup and restore utilities, but knowing how to use these tools efficiently can save you a lot of time and prevent potential headaches. This guide provides you with time-saving tips and practical advice to master Windows Backup and Restore utilities.

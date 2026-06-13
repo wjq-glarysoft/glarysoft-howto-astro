@@ -1,8 +1,10 @@
 ---
 title: "repair Windows network performance tuning Like a Pro: Windows 10 Guide"
 date: 2025-04-28
+slug: "repair-windows-network-performance-tuning-like-a-pro-windows-10-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 When it comes to enhancing your Windows 10 network performance, many users often overlook or misconfigure settings that could lead to suboptimal performance. This guide will help intermediate users identify common mistakes and apply practical solutions for optimal network performance.

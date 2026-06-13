@@ -1,8 +1,10 @@
 ---
 title: "Mastering Windows File Sharing and Permissions: Professional Insights"
 date: 2025-04-20
+slug: "mastering-windows-file-sharing-and-permissions-professional-insights"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 In today's interconnected world, understanding how to effectively manage file sharing and permissions within the Windows operating system is crucial for both personal and professional environments. Whether you're a home user looking to share photos with family members or a business professional managing sensitive documents, mastering these features can significantly enhance productivity and security.

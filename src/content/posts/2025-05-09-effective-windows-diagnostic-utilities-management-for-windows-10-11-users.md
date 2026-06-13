@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Diagnostic Utilities Management for Windows 10 & 11 Users"
 date: 2025-05-09
+slug: "effective-windows-diagnostic-utilities-management-for-windows-10-11-users"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Windows operating systems, particularly the popular Windows 10 and the newer Windows 11, come equipped with a variety of diagnostic utilities designed to help users maintain optimal system performance and troubleshoot issues. Understanding and managing these tools effectively can significantly enhance your computing experience. In this guide, we'll explore some of the key diagnostic utilities available on Windows and provide step-by-step instructions for using them to keep your system running smoothly.

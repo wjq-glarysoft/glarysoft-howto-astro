@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure Fixing Windows Startup Issues in Windows 10"
 date: 2025-08-03
+slug: "the-complete-guide-to-configure-fixing-windows-startup-issues-in-windows-10"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Windows 10 occasionally faces startup issues that prevent your PC from booting correctly. These problems can be frustrating, but most can be resolved with a structured approach. This guide is tailored for intermediate Windows users who want to understand and address common startup issues, using both built-in tools and trusted maintenance software like [Glary Utilities](https://www.glarysoft.com).

@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Startup: A Step-by-Step Tutorial"
 date: 2025-04-12
+slug: "optimizing-windows-startup-a-step-by-step-tutorial"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 A slow startup can be frustrating, but fortunately, there are several effective methods to optimize Windows startup times. In this guide, we'll walk through practical, step-by-step techniques to help your PC boot faster.

@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Secure Windows File Sharing and Permissions in Windows 11"
 date: 2025-04-23
+slug: "top-10-ways-to-secure-windows-file-sharing-and-permissions-in-windows-11"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Securing file sharing and permissions in Windows 11 is crucial for keeping your data safe while allowing the convenience of network and local file access. Here, we will explore ten effective strategies that intermediate Windows users can employ to enhance security and optimize their system's file sharing capabilities.

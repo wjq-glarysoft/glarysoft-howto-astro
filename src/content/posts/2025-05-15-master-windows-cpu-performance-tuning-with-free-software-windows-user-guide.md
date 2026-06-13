@@ -1,8 +1,10 @@
 ---
 title: "Master Windows CPU Performance Tuning with Free Software: Windows User Guide"
 date: 2025-05-15
+slug: "master-windows-cpu-performance-tuning-with-free-software-windows-user-guide"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Optimizing your CPU performance can significantly enhance your Windows experience, whether you're a casual user or a power user. This guide will walk you through best practices for CPU performance tuning, offering practical, actionable advice. We'll also introduce you to Glary Utilities, a free software tool that simplifies the process of optimizing your CPU performance.

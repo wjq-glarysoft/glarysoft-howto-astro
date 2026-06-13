@@ -1,8 +1,10 @@
 ---
 title: "Can Windows Tools Help with Windows Registry Cleaning and Repair? A Complete Guide for Windows Users"
 date: 2025-05-20
+slug: "can-windows-tools-help-with-windows-registry-cleaning-and-repair-a-complete-guide-for-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Understanding the Windows Registry

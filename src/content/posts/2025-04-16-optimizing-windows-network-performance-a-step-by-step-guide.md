@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Network Performance: A Step-by-Step Guide"
 date: 2025-04-16
+slug: "optimizing-windows-network-performance-a-step-by-step-guide"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 In today's digital world, having a fast and reliable network connection is crucial for both personal and professional activities. For Windows users, there are several ways to fine-tune the network settings to ensure optimal performance. This guide will walk you through practical steps to boost your network efficiency and speed.

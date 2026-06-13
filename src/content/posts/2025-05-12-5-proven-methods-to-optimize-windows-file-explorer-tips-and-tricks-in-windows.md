@@ -1,8 +1,10 @@
 ---
 title: "5 Proven Methods to Optimize Windows File Explorer Tips and Tricks in Windows"
 date: 2025-05-12
+slug: "5-proven-methods-to-optimize-windows-file-explorer-tips-and-tricks-in-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Windows File Explorer is an essential tool for managing files and folders on your computer. Whether you are a casual or a power user, optimizing the way you use File Explorer can significantly improve your productivity. Here are five proven methods to enhance your experience with Windows File Explorer.

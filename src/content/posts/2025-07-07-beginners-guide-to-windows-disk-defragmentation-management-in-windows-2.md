@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Disk Defragmentation Management in Windows"
 date: 2025-07-07
+slug: "beginners-guide-to-windows-disk-defragmentation-management-in-windows-2"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Introduction

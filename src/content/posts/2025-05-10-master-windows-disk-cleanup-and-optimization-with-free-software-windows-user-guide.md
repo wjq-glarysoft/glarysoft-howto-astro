@@ -1,8 +1,10 @@
 ---
 title: "Master Windows disk cleanup and optimization with Free Software: Windows User Guide"
 date: 2025-05-10
+slug: "master-windows-disk-cleanup-and-optimization-with-free-software-windows-user-guide"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Keeping your Windows PC running smoothly requires regular maintenance, particularly in the areas of disk cleanup and optimization. Whether you're a beginner or an experienced user, understanding how to efficiently manage these tasks can significantly improve your system's performance. In this guide, we explore practical methods for disk cleanup and optimization, using free software options to help you maintain your system's health.

@@ -1,8 +1,10 @@
 ---
 title: "Master security and privacy protection with Free Software: Windows User Guide"
 date: 2025-08-19
+slug: "master-security-and-privacy-protection-with-free-software-windows-user-guide-3"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Protecting your digital privacy and ensuring system security on Windows is not just about installing an antivirus program—it involves a combination of smart practices, good configuration choices, and the use of trusted free tools. For intermediate Windows users, this guide explains how to strengthen privacy and security with practical steps and real-world examples.

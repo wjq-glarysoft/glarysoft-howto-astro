@@ -1,8 +1,10 @@
 ---
 title: "Advanced Windows Performance Optimization Techniques"
 date: 2025-04-11
+slug: "advanced-windows-performance-optimization-techniques"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Optimizing Windows performance isn't just about cleaning up temporary files or defragmenting your hard drive—though those can help. For users seeking more advanced techniques to get the most out of their system, deeper tweaks and adjustments will be necessary. Here are some advanced strategies to optimize your Windows PC performance effectively.

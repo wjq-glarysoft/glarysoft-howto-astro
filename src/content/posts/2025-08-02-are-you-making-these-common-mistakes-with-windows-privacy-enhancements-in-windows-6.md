@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Privacy Enhancements in Windows?"
 date: 2025-08-02
+slug: "are-you-making-these-common-mistakes-with-windows-privacy-enhancements-in-windows-6"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Windows offers a range of privacy enhancements designed to help users safeguard their personal information and control how data is shared. However, many users—both new and experienced—make mistakes that leave their systems more exposed than they realize. Drawing from professional experience, this article uncovers common missteps, explains why they matter, and provides actionable advice to ensure your Windows PC is as private and secure as possible.

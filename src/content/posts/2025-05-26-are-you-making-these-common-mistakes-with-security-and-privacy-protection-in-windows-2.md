@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Security and Privacy Protection in Windows?"
 date: 2025-05-26
+slug: "are-you-making-these-common-mistakes-with-security-and-privacy-protection-in-windows-2"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 If you’re new to Windows PCs, you might think your computer is secure right out of the box. However, there are a number of common mistakes that beginners make when it comes to security and privacy. Fortunately, you don’t need to be a tech expert to protect yourself. Let’s break down these pitfalls and show you how to address them with easy, effective steps.

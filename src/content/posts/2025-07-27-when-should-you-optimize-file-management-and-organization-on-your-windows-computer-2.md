@@ -1,8 +1,10 @@
 ---
 title: "When Should You Optimize File Management and Organization on Your Windows Computer?"
 date: 2025-07-27
+slug: "when-should-you-optimize-file-management-and-organization-on-your-windows-computer-2"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Why Is Advanced File Management Critical for Power Users?

@@ -1,8 +1,10 @@
 ---
 title: "Windows Security and Privacy Enhancements: Common Mistakes to Avoid"
 date: 2025-04-13
+slug: "windows-security-and-privacy-enhancements-common-mistakes-to-avoid"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 In today's digital era, safeguarding your Windows PC against security threats and enhancing privacy is more crucial than ever. While Microsoft provides robust security features in Windows, users often make common mistakes that can leave them vulnerable. Let's explore these pitfalls and discover practical, actionable advice to keep your system secure and private.

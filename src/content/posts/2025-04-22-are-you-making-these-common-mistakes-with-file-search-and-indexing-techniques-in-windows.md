@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with File Search and Indexing Techniques in Windows?"
 date: 2025-04-22
+slug: "are-you-making-these-common-mistakes-with-file-search-and-indexing-techniques-in-windows"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 If you're a beginner navigating the world of Windows, understanding file search and indexing is essential to optimizing your experience. Windows provides powerful tools to help you quickly find files and folders, but common mistakes can lead to slow searches and missed files. Let's explore these pitfalls and how to avoid them.

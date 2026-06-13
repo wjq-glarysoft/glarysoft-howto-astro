@@ -1,12 +1,10 @@
 ---
 title: "How to Perform Disk Management on Windows"
 date: 2024-05-28
+slug: "disk-management-on-windows"
 categories: 
   - "optimize-improve"
-tags: 
-  - "check-disk-windows"
-  - "disk-management"
-  - "how-to-disk-defrag"
+author: "antonia"
 ---
 
 Disk management is crucial for optimizing system performance on Windows. By efficiently managing your disk, you can enhance the speed, stability, and overall health of your system. [Glary Utilities](https://www.glarysoft.com/) offers a comprehensive suite of disk management tools, including Check Disk, [Disk Defrag](https://www.glarysoft.com/kb/disk-speedup/), and Disk Repair, to help users maintain their systems effectively.

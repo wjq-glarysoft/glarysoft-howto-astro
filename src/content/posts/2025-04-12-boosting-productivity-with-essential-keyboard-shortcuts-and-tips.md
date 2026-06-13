@@ -1,8 +1,10 @@
 ---
 title: "Boosting Productivity with Essential Keyboard Shortcuts and Tips"
 date: 2025-04-12
+slug: "boosting-productivity-with-essential-keyboard-shortcuts-and-tips"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 In today's fast-paced digital world, efficiency is key, especially when working on a Windows PC. Leveraging keyboard shortcuts is one of the quickest ways to enhance productivity. Not only do they save time, but they also minimize the need for using a mouse, which can interrupt workflow. Below, we explore some essential keyboard shortcuts and productivity tips, providing real-world examples of how these can be applied effectively.

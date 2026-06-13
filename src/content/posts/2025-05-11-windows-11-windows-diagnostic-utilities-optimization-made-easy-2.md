@@ -1,8 +1,10 @@
 ---
 title: "Windows 11 Windows Diagnostic Utilities Optimization Made Easy"
 date: 2025-05-11
+slug: "windows-11-windows-diagnostic-utilities-optimization-made-easy-2"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Windows 11 has brought several new features and enhancements to the table, but one area that remains crucial for maintaining system performance is the use of diagnostic utilities. These tools help identify and resolve issues that could slow down your computer or cause other operational problems. Let's delve into how you can optimize your Windows 11 system using these diagnostic utilities, with step-by-step guidance for both beginners and advanced users.

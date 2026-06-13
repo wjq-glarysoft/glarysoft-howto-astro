@@ -1,8 +1,10 @@
 ---
 title: "12 Proven Methods to Manage Windows Command Line Tools in Windows"
 date: 2025-05-11
+slug: "12-proven-methods-to-manage-windows-command-line-tools-in-windows"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Managing Windows command line tools can significantly enhance your efficiency and control over your system. Whether you're a beginner or an advanced user, these methods will help you leverage the power of command-line operations effectively.

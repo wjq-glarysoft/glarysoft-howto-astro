@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Manage File Search and Indexing Techniques in Windows 11"
 date: 2025-05-04
+slug: "the-complete-guide-to-manage-file-search-and-indexing-techniques-in-windows-11"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Windows 11 brings a host of new features and improvements, and one area that has seen significant enhancement is the file search and indexing system. This guide will walk you through managing file searches and optimizing the indexing process, making it easier for you to find files quickly and efficiently.

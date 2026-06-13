@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Configure Windows Disk Defragmentation in Windows Systems"
 date: 2025-08-06
+slug: "top-10-ways-to-configure-windows-disk-defragmentation-in-windows-systems"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Is your Windows PC feeling sluggish or taking too long to boot? Fragmented files can slow down your system, leading to longer load times and inefficient disk performance. Disk defragmentation is a long-standing optimization technique that can help speed up your PC by reorganizing scattered file fragments into contiguous sections. Whether you are a beginner or an advanced user, configuring Windows disk defragmentation can be a straightforward process with the right steps. Here are the top 10 ways to make disk defragmentation work for you.

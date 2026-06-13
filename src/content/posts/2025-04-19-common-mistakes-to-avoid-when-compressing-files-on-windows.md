@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid When Compressing Files on Windows"
 date: 2025-04-19
+slug: "common-mistakes-to-avoid-when-compressing-files-on-windows"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 File compression is a valuable technique for saving disk space, reducing transfer times, and organizing files more efficiently. However, Windows users often encounter pitfalls that can lead to frustration and data issues. By understanding common mistakes and how to avoid them, you can compress files effectively and safely.

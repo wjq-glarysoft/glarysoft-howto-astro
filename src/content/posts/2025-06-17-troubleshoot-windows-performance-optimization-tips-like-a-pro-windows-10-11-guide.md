@@ -1,8 +1,10 @@
 ---
 title: "troubleshoot Windows performance optimization tips Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-17
+slug: "troubleshoot-windows-performance-optimization-tips-like-a-pro-windows-10-11-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Are you tired of your Windows 10 or 11 PC running sluggishly or taking forever to boot up? Whether you're a beginner or a seasoned Windows user, optimizing your system doesn’t have to be a time-consuming chore. With a few smart, time-saving strategies, you can boost speed, improve reliability, and keep your PC running smoothly. Here’s a step-by-step guide to troubleshooting and optimizing Windows performance like a pro — with practical, real-world examples.

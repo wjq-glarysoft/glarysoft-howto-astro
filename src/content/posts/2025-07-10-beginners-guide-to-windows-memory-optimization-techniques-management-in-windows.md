@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Memory Optimization Techniques Management in Windows"
 date: 2025-07-10
+slug: "beginners-guide-to-windows-memory-optimization-techniques-management-in-windows"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Is your Windows PC feeling sluggish, taking longer to open programs, or struggling when you juggle multiple tasks? These signs often point to memory management issues. Thankfully, there are practical ways you can optimize memory usage in Windows, even if you’re a beginner. This guide covers essential memory optimization techniques, offering step-by-step instructions to help you make your PC feel faster and more responsive.

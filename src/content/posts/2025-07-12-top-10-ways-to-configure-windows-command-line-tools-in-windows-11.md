@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Configure Windows Command Line Tools in Windows 11"
 date: 2025-07-12
+slug: "top-10-ways-to-configure-windows-command-line-tools-in-windows-11"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Windows 11 offers a powerful set of command line tools for users seeking to manage, troubleshoot, and optimize their systems. Whether you’re a beginner exploring new capabilities or an advanced user automating tasks, configuring these tools correctly can streamline your workflow and enhance system performance. Below are the top 10 practical ways to configure Windows command line tools, with real-world examples and easy-to-follow steps.

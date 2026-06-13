@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Configure Windows Backup and Restore Utilities in Windows?"
 date: 2025-08-16
+slug: "whats-the-best-way-to-configure-windows-backup-and-restore-utilities-in-windows"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Backing up your files and system is one of the most important maintenance routines every Windows user should practice. Windows comes with built-in backup and restore tools designed to protect your data in case of accidental deletion, hardware failure, or corruption. By configuring these utilities properly, you ensure that your operating system, programs, and personal files can be recovered when things go wrong.

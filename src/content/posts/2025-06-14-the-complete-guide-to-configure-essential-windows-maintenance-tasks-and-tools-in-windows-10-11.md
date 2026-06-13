@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure Essential Windows Maintenance Tasks and Tools in Windows 10 & 11"
 date: 2025-06-14
+slug: "the-complete-guide-to-configure-essential-windows-maintenance-tasks-and-tools-in-windows-10-11"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Keeping your Windows PC running smoothly doesn’t have to take hours or require expert knowledge. Windows 10 and 11 offer built-in system tools, and third-party utilities like Glary Utilities, that can automate and simplify essential maintenance tasks. This guide will walk you through practical, time-saving ways to set up and use these tools, so your computer stays fast, secure, and hassle-free—no matter your experience level.

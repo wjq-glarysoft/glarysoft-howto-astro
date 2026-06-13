@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Disk Cleanup and Optimization Techniques for Windows Users"
 date: 2025-07-17
+slug: "essential-windows-disk-cleanup-and-optimization-techniques-for-windows-users-3"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Why Is Disk Cleanup and Optimization Important?

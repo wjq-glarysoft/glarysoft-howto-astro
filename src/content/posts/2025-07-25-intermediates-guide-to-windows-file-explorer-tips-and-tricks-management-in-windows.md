@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows File Explorer Tips and Tricks Management in Windows"
 date: 2025-07-25
+slug: "intermediates-guide-to-windows-file-explorer-tips-and-tricks-management-in-windows"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Windows File Explorer is much more powerful than many users realize. Beyond basic file browsing, it offers a range of features that can help you manage, organize, and optimize your files and folders efficiently. Whether you’re a casual user or looking to boost your productivity, these intermediate tips and tricks will elevate your file management skills.

@@ -1,8 +1,10 @@
 ---
 title: "12 Windows Tools Features for Better Windows File Sharing and Permissions Management"
 date: 2025-05-03
+slug: "12-windows-tools-features-for-better-windows-file-sharing-and-permissions-management"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Managing file sharing and permissions on Windows can be a complex task, but understanding the right tools and techniques can make the process straightforward. This guide will explore 12 essential Windows features that enhance file sharing and permissions management. Whether you are a beginner or an advanced user, this article offers practical advice to improve your file handling skills.

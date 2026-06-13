@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Clean File Compression Techniques in Windows 10 & 11"
 date: 2025-05-10
+slug: "the-complete-guide-to-clean-file-compression-techniques-in-windows-10-11"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Understanding file compression is crucial for anyone looking to optimize storage space and improve file management on Windows 10 and 11. This guide will cover various compression techniques, practical uses, and tips for beginners and advanced users alike.

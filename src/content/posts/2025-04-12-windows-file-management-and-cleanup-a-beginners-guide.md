@@ -1,8 +1,10 @@
 ---
 title: "Windows File Management and Cleanup: A Beginner's Guide"
 date: 2025-04-12
+slug: "windows-file-management-and-cleanup-a-beginners-guide"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Managing files on your Windows PC efficiently is crucial for maintaining a tidy workspace and ensuring optimal performance. For beginners, understanding the basics of file management and the importance of regular cleanup can make a significant difference. This guide provides practical advice and real-world examples to help you get started.

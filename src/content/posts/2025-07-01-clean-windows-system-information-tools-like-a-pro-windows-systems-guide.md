@@ -1,8 +1,10 @@
 ---
 title: "clean Windows system information tools Like a Pro: Windows Systems Guide"
 date: 2025-07-01
+slug: "clean-windows-system-information-tools-like-a-pro-windows-systems-guide"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Why Monitor System Information in Windows?

@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Backup and Restore Utilities Techniques for Windows Users"
 date: 2025-05-25
+slug: "essential-windows-backup-and-restore-utilities-techniques-for-windows-users-2"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Why Is Backing Up and Restoring Important on Windows?

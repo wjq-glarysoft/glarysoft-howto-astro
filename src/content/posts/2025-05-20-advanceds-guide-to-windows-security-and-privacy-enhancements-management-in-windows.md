@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Security and Privacy Enhancements Management in Windows"
 date: 2025-05-20
+slug: "advanceds-guide-to-windows-security-and-privacy-enhancements-management-in-windows"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Windows security and privacy are critical areas that require regular attention to keep your data safe and private. Whether you're a beginner or an advanced user, understanding common mistakes and how to avoid them can significantly enhance your system's security. This guide provides practical, actionable advice on managing Windows security and privacy enhancements, with content suitable for both beginners and advanced users.

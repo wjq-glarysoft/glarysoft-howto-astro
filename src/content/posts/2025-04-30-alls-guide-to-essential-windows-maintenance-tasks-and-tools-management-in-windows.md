@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Essential Windows Maintenance Tasks and Tools Management in Windows"
 date: 2025-04-30
+slug: "alls-guide-to-essential-windows-maintenance-tasks-and-tools-management-in-windows"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Maintaining your Windows system doesn't have to be a daunting task, especially if you focus on time-saving tools and techniques. In this guide, we'll walk through essential maintenance tasks and introduce tools that help streamline these processes. Whether you're a novice or a seasoned user, these tips will help keep your system running smoothly.

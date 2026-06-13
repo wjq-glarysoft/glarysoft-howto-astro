@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Clean File Backup Strategies in Windows 10 & 11"
 date: 2025-07-16
+slug: "the-complete-guide-to-clean-file-backup-strategies-in-windows-10-11"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Why Is File Backup Important for Windows Users?

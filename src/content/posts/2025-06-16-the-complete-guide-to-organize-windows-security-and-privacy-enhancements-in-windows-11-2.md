@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Organize Windows Security and Privacy Enhancements in Windows 11"
 date: 2025-06-16
+slug: "the-complete-guide-to-organize-windows-security-and-privacy-enhancements-in-windows-11-2"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Windows 11 introduces a range of security and privacy features designed to protect users from evolving threats and provide control over personal data. Whether you’re a home user or IT professional, organizing and optimizing these settings is critical to safe computing. This guide combines professional insights with practical steps to ensure your Windows 11 machine is secure, private, and running smoothly.

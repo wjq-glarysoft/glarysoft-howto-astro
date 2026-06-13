@@ -1,8 +1,10 @@
 ---
 title: "secure Windows registry cleaning and repair Like a Pro: Windows 10 & 11 Guide"
 date: 2025-07-22
+slug: "secure-windows-registry-cleaning-and-repair-like-a-pro-windows-10-11-guide"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 What Is the Windows Registry and Why Should You Clean It?

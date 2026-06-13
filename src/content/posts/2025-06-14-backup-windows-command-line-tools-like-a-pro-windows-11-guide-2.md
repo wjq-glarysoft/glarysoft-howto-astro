@@ -1,8 +1,10 @@
 ---
 title: "backup Windows command line tools Like a Pro: Windows 11 Guide"
 date: 2025-06-14
+slug: "backup-windows-command-line-tools-like-a-pro-windows-11-guide-2"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Command line tools in Windows 11 offer powerful methods for system backup and recovery. For intermediate users, mastering these tools can save hours of troubleshooting and help safeguard important data. This guide details practical techniques to back up your system using native Windows command line utilities and introduces how to combine these with comprehensive solutions like Glary Utilities for enhanced results.

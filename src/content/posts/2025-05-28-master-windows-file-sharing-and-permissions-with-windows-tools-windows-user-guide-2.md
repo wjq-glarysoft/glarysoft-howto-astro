@@ -1,8 +1,10 @@
 ---
 title: "Master Windows File Sharing and Permissions with Windows Tools: Windows User Guide"
 date: 2025-05-28
+slug: "master-windows-file-sharing-and-permissions-with-windows-tools-windows-user-guide-2"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 File sharing is a core feature of Windows, enabling users to collaborate, back up, and access files across devices. Understanding how Windows file sharing and permissions work is crucial for maintaining privacy, security, and efficiency. This guide provides practical steps and real-world scenarios for setting up and managing file sharing and permissions in Windows, with tailored advice for both beginners and advanced users.

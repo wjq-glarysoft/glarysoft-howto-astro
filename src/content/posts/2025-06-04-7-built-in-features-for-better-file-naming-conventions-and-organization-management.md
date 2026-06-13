@@ -1,8 +1,10 @@
 ---
 title: "7 Built-in Features for Better File Naming Conventions and Organization Management"
 date: 2025-06-04
+slug: "7-built-in-features-for-better-file-naming-conventions-and-organization-management"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Are you struggling to find your files on your Windows PC? Do you keep saving new documents only to lose track of them later? Proper file naming conventions and organization are essential skills every Windows user should master. Fortunately, Windows offers several built-in features that make managing files and folders easy, even for beginners. Let’s explore seven essential tools and techniques to help you keep your files organized, along with practical tips and real-world examples.

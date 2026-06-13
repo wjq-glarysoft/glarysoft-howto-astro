@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows CPU Performance Tuning Management in Windows"
 date: 2025-05-10
+slug: "advanceds-guide-to-windows-cpu-performance-tuning-management-in-windows"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 For intermediate Windows users looking to improve their system's CPU performance, this guide will provide you with practical, real-world tips to save time and enhance efficiency. Optimizing CPU performance can lead to a smoother, more responsive computing experience. Let's dive into some actionable strategies for managing and tuning CPU performance effectively.

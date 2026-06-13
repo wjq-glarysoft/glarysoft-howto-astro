@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Secure Browsing Techniques for Windows Users"
 date: 2025-08-05
+slug: "essential-windows-secure-browsing-techniques-for-windows-users-9"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 How Can You Secure Your Browser on Windows?

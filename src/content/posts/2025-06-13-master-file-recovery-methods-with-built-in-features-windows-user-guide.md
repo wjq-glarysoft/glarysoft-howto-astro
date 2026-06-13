@@ -1,8 +1,10 @@
 ---
 title: "Master file recovery methods with Built-in Features: Windows User Guide"
 date: 2025-06-13
+slug: "master-file-recovery-methods-with-built-in-features-windows-user-guide"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Accidentally deleting important files or folders is a common scenario for Windows users. Fortunately, Windows provides built-in tools for file recovery that can often save the day. This step-by-step guide will walk you through practical file recovery methods available in Windows, tailored for beginners. By following these instructions, you can quickly and confidently restore lost files and get back to your work.

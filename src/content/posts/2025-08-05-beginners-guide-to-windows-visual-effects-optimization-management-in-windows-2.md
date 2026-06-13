@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Visual Effects Optimization Management in Windows"
 date: 2025-08-05
+slug: "beginners-guide-to-windows-visual-effects-optimization-management-in-windows-2"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Windows operating systems come with a range of visual effects designed to make your experience more attractive and engaging. These effects include smooth animations, transparent window borders, and fancy transitions. While they make Windows look modern, they can also use up system resources and affect overall performance, especially on older or less powerful PCs. Optimizing these visual effects is a practical way to speed up your computer without sacrificing too much on user experience.

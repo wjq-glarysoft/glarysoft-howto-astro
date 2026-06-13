@@ -1,8 +1,10 @@
 ---
 title: "Master system file repair techniques with Windows Tools: Windows User Guide"
 date: 2025-08-15
+slug: "master-system-file-repair-techniques-with-windows-tools-windows-user-guide-4"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Keeping your Windows system healthy is essential for smooth performance, and damaged or missing system files can cause crashes, slowdowns, and unexpected errors. Fortunately, Windows includes built-in tools designed to detect and repair these files. As a beginner, understanding how to use these tools effectively will help you maintain your computer and prevent small issues from becoming big problems.

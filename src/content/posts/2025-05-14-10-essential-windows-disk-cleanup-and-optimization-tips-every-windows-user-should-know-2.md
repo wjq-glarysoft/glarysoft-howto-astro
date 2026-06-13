@@ -1,8 +1,10 @@
 ---
 title: "10 Essential Windows Disk Cleanup and Optimization Tips Every Windows User Should Know"
 date: 2025-05-14
+slug: "10-essential-windows-disk-cleanup-and-optimization-tips-every-windows-user-should-know-2"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Maintaining a clean and optimized disk is crucial to ensure your Windows PC runs smoothly. Whether you're a beginner or an advanced user, these tips will guide you through effective disk cleanup and optimization techniques. We'll explore these methods in detail, including the use of Glary Utilities as a powerful tool in your maintenance arsenal.

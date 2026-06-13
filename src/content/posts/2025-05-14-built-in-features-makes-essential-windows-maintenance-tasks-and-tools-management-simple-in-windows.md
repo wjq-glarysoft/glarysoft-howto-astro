@@ -1,8 +1,10 @@
 ---
 title: "Built-in Features Makes Essential Windows Maintenance Tasks and Tools Management Simple in Windows"
 date: 2025-05-14
+slug: "built-in-features-makes-essential-windows-maintenance-tasks-and-tools-management-simple-in-windows"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Maintaining your Windows PC effectively ensures it runs smoothly and efficiently. Even as a beginner, you can manage essential maintenance tasks using built-in Windows features. Understanding these can save you from unnecessary slowdowns and issues. Let's explore how you can leverage these tools to keep your system in top shape.

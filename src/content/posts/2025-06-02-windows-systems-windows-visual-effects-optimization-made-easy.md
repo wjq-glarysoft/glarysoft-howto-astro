@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems Windows Visual Effects Optimization Made Easy"
 date: 2025-06-02
+slug: "windows-systems-windows-visual-effects-optimization-made-easy"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Are Windows Visual Effects Slowing Down Your PC?

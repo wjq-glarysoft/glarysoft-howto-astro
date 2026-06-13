@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows System Information Tools Management in Windows"
 date: 2025-05-14
+slug: "alls-guide-to-windows-system-information-tools-management-in-windows"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Managing system information is crucial for maintaining and troubleshooting your Windows PC. Intermediate users can leverage built-in tools and third-party utilities to gather in-depth details about their system's hardware and software. This guide will explore various Windows system information tools, offering practical advice and examples to help you effectively manage your PC's data.

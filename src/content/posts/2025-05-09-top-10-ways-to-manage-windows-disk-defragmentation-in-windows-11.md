@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Manage Windows Disk Defragmentation in Windows 11"
 date: 2025-05-09
+slug: "top-10-ways-to-manage-windows-disk-defragmentation-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 In the pursuit of maintaining a smooth and swift-running Windows 11 system, managing disk defragmentation is a crucial step. Fragmentation occurs when files are broken into pieces and stored in different locations on the disk, leading to slower read and write times. By regularly defragmenting your hard drives, you can improve system performance significantly. This guide explores the top 10 ways to effectively manage disk defragmentation, catering to both beginners and advanced users.

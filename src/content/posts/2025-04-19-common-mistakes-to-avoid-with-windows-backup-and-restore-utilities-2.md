@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid with Windows Backup and Restore Utilities"
 date: 2025-04-19
+slug: "common-mistakes-to-avoid-with-windows-backup-and-restore-utilities-2"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Creating reliable backups is an essential part of PC maintenance, ensuring your data is protected against unexpected loss due to hardware failure, software corruption, or cyber threats. Windows provides built-in backup and restore utilities that are often underutilized or used incorrectly. Here, we will explore common mistakes to avoid when using these tools to help you safeguard your data effectively.

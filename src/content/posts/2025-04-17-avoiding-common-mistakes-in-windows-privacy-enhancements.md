@@ -1,8 +1,10 @@
 ---
 title: "Avoiding Common Mistakes in Windows Privacy Enhancements"
 date: 2025-04-17
+slug: "avoiding-common-mistakes-in-windows-privacy-enhancements"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Enhancing your Windows privacy is crucial in today's digital world, where data protection is a top priority. However, many users inadvertently make mistakes that can compromise their privacy despite good intentions. Here are some common pitfalls to avoid and practical advice to ensure your privacy settings are robust and effective.

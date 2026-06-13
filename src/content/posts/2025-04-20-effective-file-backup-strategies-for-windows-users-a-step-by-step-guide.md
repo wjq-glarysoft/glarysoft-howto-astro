@@ -1,8 +1,10 @@
 ---
 title: "Effective File Backup Strategies for Windows Users: A Step-by-Step Guide"
 date: 2025-04-20
+slug: "effective-file-backup-strategies-for-windows-users-a-step-by-step-guide"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 In today's digital age, the importance of backing up your files cannot be overstated. A solid backup strategy not only protects your data from unforeseen disasters like hardware failures or malware attacks but also ensures peace of mind. This guide will walk you through practical file backup strategies tailored for Windows users, featuring actionable steps and real-world examples.

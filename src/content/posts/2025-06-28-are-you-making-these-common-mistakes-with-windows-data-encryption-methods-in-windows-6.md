@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Data Encryption Methods in Windows?"
 date: 2025-06-28
+slug: "are-you-making-these-common-mistakes-with-windows-data-encryption-methods-in-windows-6"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Data encryption is essential for protecting your files from unauthorized access. Windows offers built-in methods like BitLocker and Encrypted File System (EFS), but many users make mistakes that can compromise their privacy and security. Understanding how to avoid these pitfalls can ensure your data remains confidential and accessible only to you.

@@ -1,8 +1,10 @@
 ---
 title: "Windows 11 User Account Security Optimization Made Easy"
 date: 2025-05-08
+slug: "windows-11-user-account-security-optimization-made-easy"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows 11 offers a range of robust features designed to enhance user account security. Understanding and utilizing these features can significantly bolster your system's defenses. This article provides a comprehensive guide to optimizing user account security on Windows 11 for all users, using practical examples and advice.

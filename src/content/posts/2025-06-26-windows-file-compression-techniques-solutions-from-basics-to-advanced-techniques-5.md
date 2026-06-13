@@ -1,8 +1,10 @@
 ---
 title: "Windows file compression techniques Solutions: From Basics to Advanced Techniques"
 date: 2025-06-26
+slug: "windows-file-compression-techniques-solutions-from-basics-to-advanced-techniques-5"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Why Should You Compress Files on Windows?

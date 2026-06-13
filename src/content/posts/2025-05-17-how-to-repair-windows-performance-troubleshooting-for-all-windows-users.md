@@ -1,8 +1,10 @@
 ---
 title: "How to Repair Windows Performance Troubleshooting for All Windows Users?"
 date: 2025-05-17
+slug: "how-to-repair-windows-performance-troubleshooting-for-all-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Windows performance issues can be frustrating, but with the right tools and techniques, you can effectively troubleshoot and enhance your computer's performance. This guide is aimed at beginner users, offering practical and actionable advice to clean up and repair your Windows system using advanced techniques that are still simple to execute.

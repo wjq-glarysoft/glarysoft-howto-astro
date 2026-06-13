@@ -1,8 +1,10 @@
 ---
 title: "Streamlining Windows Security Settings: Time-Saving Tips"
 date: 2025-04-15
+slug: "streamlining-windows-security-settings-time-saving-tips"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 In today's digital age, safeguarding your Windows PC from threats is crucial. However, configuring security settings can often seem time-consuming and complex. This article provides practical, time-saving tips to optimize your Windows security settings without delving into overwhelming details, ensuring you protect your data efficiently.

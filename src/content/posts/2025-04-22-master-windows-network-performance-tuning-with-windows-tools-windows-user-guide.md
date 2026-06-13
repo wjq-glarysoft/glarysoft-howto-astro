@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Network Performance Tuning with Windows Tools: Windows User Guide"
 date: 2025-04-22
+slug: "master-windows-network-performance-tuning-with-windows-tools-windows-user-guide"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Optimizing your network performance on a Windows machine can lead to significant improvements in speed and reliability, whether you're gaming, streaming, or working from home. This guide will walk you through practical steps to enhance your network performance using built-in Windows tools and third-party applications like [Glary Utilities](https://www.glarysoft.com) for a comprehensive solution. Designed for all levels of Windows users, this guide provides clear, step-by-step instructions.

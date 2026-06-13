@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Security and Privacy Enhancements with Built-in Features: Windows User Guide"
 date: 2025-06-26
+slug: "master-windows-security-and-privacy-enhancements-with-built-in-features-windows-user-guide-2"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Are you looking to elevate your Windows security and privacy beyond the basics? Advanced Windows users can harness a range of built-in features to fortify their systems. This guide provides detailed, step-by-step instructions and practical tips for configuring Windows security and privacy enhancements, ensuring your computer is both robust and resilient.

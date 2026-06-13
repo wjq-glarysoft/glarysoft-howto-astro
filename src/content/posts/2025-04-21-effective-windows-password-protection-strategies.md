@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Password Protection Strategies"
 date: 2025-04-21
+slug: "effective-windows-password-protection-strategies"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Ensuring robust password protection is crucial for maintaining privacy and security on your Windows system. In today's digital world, where cyber threats are increasingly sophisticated, safeguarding your access credentials is of paramount importance. Below are some best practices for enhancing password protection on Windows systems that anyone can follow.

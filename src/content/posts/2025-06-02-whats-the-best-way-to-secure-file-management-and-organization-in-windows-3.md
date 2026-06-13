@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Secure File Management and Organization in Windows?"
 date: 2025-06-02
+slug: "whats-the-best-way-to-secure-file-management-and-organization-in-windows-3"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 How Can Advanced Users Structure Folders for Maximum Efficiency?

@@ -1,8 +1,10 @@
 ---
 title: "improve file backup strategies Like a Pro: Windows 11 Guide"
 date: 2025-07-20
+slug: "improve-file-backup-strategies-like-a-pro-windows-11-guide"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Backing up your files may sound technical, but with the right guidance, even a beginner can protect their important documents, photos, and projects like a pro. In this Windows 11 guide, you’ll learn actionable backup strategies and walk away with clear steps to keep your files safe.

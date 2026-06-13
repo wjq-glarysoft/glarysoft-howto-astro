@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Maintain Windows Data Encryption Methods in Windows 11"
 date: 2025-04-26
+slug: "top-10-ways-to-maintain-windows-data-encryption-methods-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Data encryption is a critical component of maintaining privacy and security on your Windows 11 computer. As a beginner, understanding and implementing encryption can seem daunting, but it’s essential for protecting your information. Here’s a guide to the top 10 ways to maintain Windows data encryption methods effectively.

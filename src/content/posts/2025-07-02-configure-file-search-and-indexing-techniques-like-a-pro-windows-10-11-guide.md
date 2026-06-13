@@ -1,8 +1,10 @@
 ---
 title: "configure file search and indexing techniques Like a Pro: Windows 10 & 11 Guide"
 date: 2025-07-02
+slug: "configure-file-search-and-indexing-techniques-like-a-pro-windows-10-11-guide"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Searching for files and folders in Windows 10 and 11 can be quick and efficient—if you have your search and indexing settings fine-tuned. The default settings work for casual use, but for those who regularly work with large volumes of files, emails, or network shares, some configuration is essential for optimal performance. This guide covers not only the best practices for configuring file search and indexing but also highlights common mistakes to avoid so you can make the most out of your Windows experience.

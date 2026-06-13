@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Disk Cleanup and Optimization: A Professional's Guide"
 date: 2025-04-18
+slug: "effective-windows-disk-cleanup-and-optimization-a-professionals-guide"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Windows operating systems are known for their robust capabilities, but like any complex system, they require regular maintenance to perform at their best. Proper disk cleanup and optimization can significantly enhance your computer's speed and efficiency. Here’s a professional's guide to optimizing your Windows computer through effective disk cleanup and repair strategies.

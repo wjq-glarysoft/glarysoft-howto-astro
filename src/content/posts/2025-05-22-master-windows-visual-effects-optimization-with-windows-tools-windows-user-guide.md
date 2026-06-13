@@ -1,8 +1,10 @@
 ---
 title: "Master Windows visual effects optimization with Windows Tools: Windows User Guide"
 date: 2025-05-22
+slug: "master-windows-visual-effects-optimization-with-windows-tools-windows-user-guide"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Windows visual effects can significantly impact the performance of your PC, especially if you're running an older or less powerful machine. Optimizing these effects can lead to a smoother, more responsive system. This guide provides intermediate Windows users with expert recommendations on how to optimize visual effects for a better-performing PC.

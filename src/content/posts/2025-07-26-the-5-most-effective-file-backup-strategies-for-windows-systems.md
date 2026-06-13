@@ -1,8 +1,10 @@
 ---
 title: "The 5 Most Effective File Backup Strategies for Windows Systems"
 date: 2025-07-26
+slug: "the-5-most-effective-file-backup-strategies-for-windows-systems"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Introduction

@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid for Optimal Windows Performance"
 date: 2025-04-21
+slug: "common-mistakes-to-avoid-for-optimal-windows-performance"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Optimizing Windows performance often feels like a never-ending task, especially when users unknowingly make mistakes that can slow down their computers. In this article, we'll discuss common pitfalls and provide actionable advice on how to avoid them, ensuring your system runs smoothly and efficiently.

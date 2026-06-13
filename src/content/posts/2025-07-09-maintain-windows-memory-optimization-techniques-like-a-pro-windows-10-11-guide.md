@@ -1,8 +1,10 @@
 ---
 title: "maintain Windows memory optimization techniques Like a Pro: Windows 10 & 11 Guide"
 date: 2025-07-09
+slug: "maintain-windows-memory-optimization-techniques-like-a-pro-windows-10-11-guide"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Are you experiencing sluggish performance or frequent memory warnings on your Windows 10 or 11 PC? Memory (RAM) is a key component that determines how smoothly your computer runs, especially when multitasking or running demanding applications. Let’s explore practical, actionable memory optimization techniques to help you keep your Windows system running at its best, regardless of your level of experience.

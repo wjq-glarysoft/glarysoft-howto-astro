@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Organize Windows Disk Defragmentation in Windows?"
 date: 2025-05-05
+slug: "whats-the-best-way-to-organize-windows-disk-defragmentation-in-windows"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Disk defragmentation is a crucial maintenance task for optimizing your Windows PC's performance, especially if you are using a traditional Hard Disk Drive (HDD). Fragmentation occurs over time as files are created, modified, and deleted, leaving gaps that slow down your computer. Here's a step-by-step guide on how to organize and run disk defragmentation effectively as a beginner.

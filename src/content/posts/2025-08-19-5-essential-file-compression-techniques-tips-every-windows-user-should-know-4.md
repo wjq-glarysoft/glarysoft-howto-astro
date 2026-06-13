@@ -1,8 +1,10 @@
 ---
 title: "5 Essential File Compression Techniques Tips Every Windows User Should Know"
 date: 2025-08-19
+slug: "5-essential-file-compression-techniques-tips-every-windows-user-should-know-4"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Managing files and folders efficiently is critical for keeping your Windows system organized and responsive. One of the most effective ways to save space and improve file handling is through compression. File compression reduces the size of data without altering its contents, making it easier to store, transfer, and back up. Below are five essential file compression techniques explained step by step, with guidance tailored for both beginners and advanced users.

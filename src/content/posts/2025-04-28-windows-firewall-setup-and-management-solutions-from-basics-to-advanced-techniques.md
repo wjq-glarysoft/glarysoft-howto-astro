@@ -1,8 +1,10 @@
 ---
 title: "Windows Firewall Setup and Management Solutions: From Basics to Advanced Techniques"
 date: 2025-04-28
+slug: "windows-firewall-setup-and-management-solutions-from-basics-to-advanced-techniques"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Windows Firewall is a critical component of your PC's security architecture, acting as a gatekeeper between your computer and the internet. It helps block unauthorized access while permitting legitimate communication. Whether you're a beginner or an advanced user, understanding how to configure and manage Windows Firewall can significantly enhance your system’s privacy and security.

@@ -1,8 +1,10 @@
 ---
 title: "Built-in Features Make Windows Security Settings Configuration Management Simple in Windows"
 date: 2025-05-09
+slug: "built-in-features-make-windows-security-settings-configuration-management-simple-in-windows-2"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 As a beginner in the world of Windows computing, understanding how to manage and configure security settings is crucial for protecting your data and ensuring your system runs smoothly. Fortunately, Windows provides several built-in features that make this process straightforward. This guide will walk you through some of these features, offering practical advice on how to use them effectively.

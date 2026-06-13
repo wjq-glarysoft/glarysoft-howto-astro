@@ -1,8 +1,10 @@
 ---
 title: "Best Practices for Software Installation and Updates on Windows"
 date: 2025-04-13
+slug: "best-practices-for-software-installation-and-updates-on-windows-2"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Installing and updating software on your Windows PC is a routine task that, when done correctly, can greatly enhance both security and performance. However, improper practices can lead to clutter, performance issues, and even security vulnerabilities. Here are some best practices to ensure smooth and efficient software management on your Windows system.

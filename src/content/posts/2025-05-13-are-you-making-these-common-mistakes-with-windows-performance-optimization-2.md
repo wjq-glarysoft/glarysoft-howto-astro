@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Performance Optimization?"
 date: 2025-05-13
+slug: "are-you-making-these-common-mistakes-with-windows-performance-optimization-2"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Windows performance optimization can seem daunting, especially when you aim for a smooth and efficient system. Many users inadvertently make mistakes that hinder their PC's performance rather than enhance it. This guide will help you identify and rectify common missteps with practical, step-by-step advice suitable for both beginners and advanced users.

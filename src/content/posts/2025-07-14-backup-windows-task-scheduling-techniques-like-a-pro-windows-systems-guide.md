@@ -1,8 +1,10 @@
 ---
 title: "backup Windows task scheduling techniques Like a Pro: Windows Systems Guide"
 date: 2025-07-14
+slug: "backup-windows-task-scheduling-techniques-like-a-pro-windows-systems-guide"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 If you’re new to Windows and want to make sure your important files and system settings are safe, scheduling regular backups is essential. Built-in system tools and smart third-party solutions make backup task scheduling easy, even for beginners. This guide will walk you through practical techniques and tools to automate your Windows backups and keep your data secure.

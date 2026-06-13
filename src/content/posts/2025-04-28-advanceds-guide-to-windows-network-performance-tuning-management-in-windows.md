@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Network Performance Tuning Management in Windows"
 date: 2025-04-28
+slug: "advanceds-guide-to-windows-network-performance-tuning-management-in-windows"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 For advanced Windows users, optimizing network performance goes beyond basic tweaks and requires a deeper understanding of system and networking components. This guide explores advanced techniques to fine-tune network performance, ensuring your system operates at peak efficiency.

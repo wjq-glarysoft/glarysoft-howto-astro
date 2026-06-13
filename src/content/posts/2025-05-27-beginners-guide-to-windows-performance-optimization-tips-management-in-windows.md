@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Performance Optimization Tips Management in Windows"
 date: 2025-05-27
+slug: "beginners-guide-to-windows-performance-optimization-tips-management-in-windows"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Is your Windows PC running slower than usual? If so, you are not alone. Over time, even the most powerful computers can start to lag due to unnecessary files, background programs, or simple neglect. Fortunately, optimizing your Windows performance is absolutely achievable, and you don’t need to be a tech expert to do it. This guide will walk you through practical, actionable tips suitable for all levels of Windows users, helping you improve and maintain your PC’s speed and efficiency.

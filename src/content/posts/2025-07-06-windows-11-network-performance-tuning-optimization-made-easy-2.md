@@ -1,8 +1,10 @@
 ---
 title: "Windows 11 Network Performance Tuning Optimization Made Easy"
 date: 2025-07-06
+slug: "windows-11-network-performance-tuning-optimization-made-easy-2"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Is your Windows 11 network performing below your expectations? Slow downloads, laggy connections, or inconsistent speeds can be frustrating—especially for advanced users who demand reliable performance. Fortunately, with the right approach, you can optimize Windows 11 network settings for better throughput, lower latency, and an overall smoother experience. This guide will walk you through practical, actionable steps for tuning your Windows 11 network performance, combining both built-in tools and advanced utilities.

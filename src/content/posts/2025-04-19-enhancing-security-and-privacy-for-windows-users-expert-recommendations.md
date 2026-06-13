@@ -1,8 +1,10 @@
 ---
 title: "Enhancing Security and Privacy for Windows Users: Expert Recommendations"
 date: 2025-04-19
+slug: "enhancing-security-and-privacy-for-windows-users-expert-recommendations"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 In today's digital landscape, ensuring your Windows PC is secure and your personal data is private is more important than ever. From protecting against cyber threats to managing personal information, this guide provides practical, actionable advice for enhancing security and privacy on your Windows system.

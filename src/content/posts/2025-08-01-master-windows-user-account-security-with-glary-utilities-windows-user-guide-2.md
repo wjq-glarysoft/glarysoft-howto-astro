@@ -1,8 +1,10 @@
 ---
 title: "Master Windows user account security with Glary Utilities: Windows User Guide"
 date: 2025-08-01
+slug: "master-windows-user-account-security-with-glary-utilities-windows-user-guide-2"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Introduction

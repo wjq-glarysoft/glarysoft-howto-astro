@@ -1,8 +1,10 @@
 ---
 title: "Built-in Features Make Windows Privacy Enhancements Management Simple in Windows"
 date: 2025-06-14
+slug: "built-in-features-make-windows-privacy-enhancements-management-simple-in-windows"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows provides a wealth of built-in tools to help users manage privacy and security settings, making the process much more straightforward than it used to be. Whether you’re a new user concerned about data collection or a power user fine-tuning network permissions, these features can save you time and effort. This article explores how to leverage Windows’ built-in privacy options efficiently, with actionable tips for both beginners and advanced users.

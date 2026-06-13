@@ -1,8 +1,10 @@
 ---
 title: "Free Software Makes Windows Security Settings Configuration Management Simple in Windows"
 date: 2025-05-14
+slug: "free-software-makes-windows-security-settings-configuration-management-simple-in-windows"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 When it comes to managing security settings on a Windows PC, many users might feel overwhelmed by the technicalities involved. However, there's a wide range of free software available that simplifies this process, allowing users of all levels to enhance their PC's security with ease. This guide will walk you through how to configure your Windows security settings using free tools, with a focus on practicality and user-friendliness.

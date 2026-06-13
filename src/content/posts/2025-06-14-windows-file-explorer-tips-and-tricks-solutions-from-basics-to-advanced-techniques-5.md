@@ -1,8 +1,10 @@
 ---
 title: "Windows File Explorer Tips and Tricks Solutions: From Basics to Advanced Techniques"
 date: 2025-06-14
+slug: "windows-file-explorer-tips-and-tricks-solutions-from-basics-to-advanced-techniques-5"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Windows File Explorer is the backbone for managing files and folders on your PC. Whether you’re organizing vacation photos or wrangling complex project directories, mastering File Explorer can dramatically boost your productivity. This article delivers actionable tips, practical shortcuts, and advanced techniques to help both beginners and power users make the most of File Explorer.

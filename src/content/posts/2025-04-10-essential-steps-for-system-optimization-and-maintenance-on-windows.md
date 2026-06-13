@@ -1,8 +1,10 @@
 ---
 title: "Essential Steps for System Optimization and Maintenance on Windows"
 date: 2025-04-10
+slug: "essential-steps-for-system-optimization-and-maintenance-on-windows"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Maintaining a well-optimized Windows system not only boosts performance but also extends the life of your PC. Here’s a detailed guide to keep your system in top shape, with practical steps and examples.

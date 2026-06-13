@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to File Management and Organization in Windows"
 date: 2025-07-15
+slug: "intermediates-guide-to-file-management-and-organization-in-windows-4"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Effective file management is essential for anyone using a Windows PC regularly. Whether you’re organizing work documents, photos, or software downloads, a tidy file system saves time, reduces stress, and improves productivity. This guide offers expert recommendations and actionable steps for all users, from beginners to power users, to master file management and organization in Windows.

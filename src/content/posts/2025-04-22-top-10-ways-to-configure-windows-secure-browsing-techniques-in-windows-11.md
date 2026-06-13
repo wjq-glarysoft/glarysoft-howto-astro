@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Configure Windows Secure Browsing Techniques in Windows 11"
 date: 2025-04-22
+slug: "top-10-ways-to-configure-windows-secure-browsing-techniques-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 In today's digital landscape, ensuring secure browsing is crucial for protecting your personal information and maintaining privacy. Windows 11 offers several built-in features and settings that you can configure to enhance your browsing security. This guide will walk you through ten effective techniques to secure your browsing experience on Windows 11.

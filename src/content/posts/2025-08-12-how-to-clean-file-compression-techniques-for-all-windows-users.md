@@ -1,8 +1,10 @@
 ---
 title: "How to Clean File Compression Techniques for All Windows Users?"
 date: 2025-08-12
+slug: "how-to-clean-file-compression-techniques-for-all-windows-users"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Understanding file compression can help you save space, organize your files better, and make sharing easier. If you’re new to Windows and file management, learning about file compression techniques is a great way to keep your PC running smoothly. This beginner’s guide will walk you through what file compression is, why it matters, and how you can use it to clean up and optimize your files and folders.

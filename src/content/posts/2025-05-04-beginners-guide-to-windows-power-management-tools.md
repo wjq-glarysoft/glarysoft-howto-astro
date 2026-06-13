@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Power Management Tools"
 date: 2025-05-04
+slug: "beginners-guide-to-windows-power-management-tools"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Managing power settings on a Windows PC is crucial for both conserving energy and optimizing performance. Whether you're using a laptop to extend battery life or a desktop to reduce electricity usage, understanding Windows power management tools can significantly impact productivity and costs. Here’s a comprehensive guide focusing on time-saving tips for using these tools effectively.

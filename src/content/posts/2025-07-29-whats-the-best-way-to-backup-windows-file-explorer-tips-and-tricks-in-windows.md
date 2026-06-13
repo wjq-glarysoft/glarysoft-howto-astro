@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Backup Windows File Explorer Tips and Tricks in Windows?"
 date: 2025-07-29
+slug: "whats-the-best-way-to-backup-windows-file-explorer-tips-and-tricks-in-windows"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Understanding Windows File Explorer is a key step for any beginner looking to make the most out of their PC experience. File Explorer is your main tool for working with files and folders—copying, moving, searching, and organizing everything that lives on your computer. But learning a few simple tips and tricks can truly make your daily tasks faster and easier.

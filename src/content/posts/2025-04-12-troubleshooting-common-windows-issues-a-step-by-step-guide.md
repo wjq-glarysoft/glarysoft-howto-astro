@@ -1,8 +1,10 @@
 ---
 title: "Troubleshooting Common Windows Issues: A Step-by-Step Guide"
 date: 2025-04-12
+slug: "troubleshooting-common-windows-issues-a-step-by-step-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Windows operating systems, while robust, can sometimes encounter issues that hinder performance or functionality. From system slowdowns to connectivity problems, understanding how to troubleshoot these issues is crucial. This guide provides a step-by-step approach to resolving common Windows problems with practical advice and real-world solutions.

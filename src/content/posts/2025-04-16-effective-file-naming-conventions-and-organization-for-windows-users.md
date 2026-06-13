@@ -1,8 +1,10 @@
 ---
 title: "Effective File Naming Conventions and Organization for Windows Users"
 date: 2025-04-16
+slug: "effective-file-naming-conventions-and-organization-for-windows-users"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Organizing files and folders efficiently is key to maintaining a productive workflow, especially on a Windows operating system. By adopting strategic file naming conventions and organization methods, you can significantly save time and reduce the frustration often associated with searching for documents. Here, we'll explore some practical tips and real-world examples that Windows users can apply to streamline their file management.

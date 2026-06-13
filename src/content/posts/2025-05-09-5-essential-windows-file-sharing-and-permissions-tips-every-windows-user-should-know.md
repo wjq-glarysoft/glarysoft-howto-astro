@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows File Sharing and Permissions Tips Every Windows User Should Know"
 date: 2025-05-09
+slug: "5-essential-windows-file-sharing-and-permissions-tips-every-windows-user-should-know"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 For those who have a decent grasp of Windows but want to enhance their file sharing and permissions capabilities, understanding the intricacies can greatly improve your efficiency and security. Here are five essential tips on managing Windows file sharing and permissions like a pro.

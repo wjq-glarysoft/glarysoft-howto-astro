@@ -1,8 +1,10 @@
 ---
 title: "How to Improve Network Performance on Windows: A Beginner's Guide"
 date: 2025-04-21
+slug: "how-to-improve-network-performance-on-windows-a-beginners-guide"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 In today's digital age, a smooth and efficient network connection on your Windows PC is essential for both leisure and productivity. However, many users often face issues with sluggish internet speeds or unstable connections. This guide offers practical steps you can take to enhance your Windows network performance.

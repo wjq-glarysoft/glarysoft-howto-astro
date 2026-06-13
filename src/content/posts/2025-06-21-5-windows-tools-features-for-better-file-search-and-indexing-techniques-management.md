@@ -1,8 +1,10 @@
 ---
 title: "5 Windows Tools Features for Better File Search and Indexing Techniques Management"
 date: 2025-06-21
+slug: "5-windows-tools-features-for-better-file-search-and-indexing-techniques-management"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Finding files quickly can be a challenge, especially as your Windows PC fills up with documents, photos, and downloads. Luckily, Windows includes several built-in tools and features that make searching for files and managing indexing (the way Windows catalogs your files for faster search) much easier. Even if you’re a beginner, you can use these features to streamline your file management and save time. Here are five essential Windows tools and techniques to master file search and indexing.

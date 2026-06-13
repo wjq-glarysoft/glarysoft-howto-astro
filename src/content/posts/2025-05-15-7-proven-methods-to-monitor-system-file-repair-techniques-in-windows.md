@@ -1,8 +1,10 @@
 ---
 title: "7 Proven Methods to Monitor System File Repair Techniques in Windows"
 date: 2025-05-15
+slug: "7-proven-methods-to-monitor-system-file-repair-techniques-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Monitoring and repairing system files in Windows is essential for maintaining the health and performance of your PC. If you're experiencing slowdowns, crashes, or errors, damaged or corrupted system files might be the cause. This guide will walk you through easy-to-follow methods for monitoring and repairing system files in Windows, particularly aimed at beginners.

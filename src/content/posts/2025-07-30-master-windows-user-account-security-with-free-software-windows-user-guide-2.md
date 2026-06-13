@@ -1,8 +1,10 @@
 ---
 title: "Master Windows user account security with Free Software: Windows User Guide"
 date: 2025-07-30
+slug: "master-windows-user-account-security-with-free-software-windows-user-guide-2"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Why Should Advanced Users Prioritize User Account Security?

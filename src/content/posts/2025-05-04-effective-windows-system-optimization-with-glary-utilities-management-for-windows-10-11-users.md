@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows System Optimization with Glary Utilities Management for Windows 10 & 11 Users"
 date: 2025-05-04
+slug: "effective-windows-system-optimization-with-glary-utilities-management-for-windows-10-11-users"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Introduction to System Optimization

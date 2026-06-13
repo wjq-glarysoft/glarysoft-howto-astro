@@ -1,8 +1,10 @@
 ---
 title: "Exploring Windows Command Line Tools: A Step-by-Step Guide for System Optimization"
 date: 2025-04-16
+slug: "exploring-windows-command-line-tools-a-step-by-step-guide-for-system-optimization"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 The Windows Command Line Interface (CLI) is a powerful tool that many users often overlook. It offers a range of system tools that can significantly enhance your system's performance and streamline maintenance tasks. This guide will introduce you to some essential command line tools and provide practical steps to use them effectively.

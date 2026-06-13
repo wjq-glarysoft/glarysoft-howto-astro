@@ -1,8 +1,10 @@
 ---
 title: "12 Essential File Backup Strategies Tips Every Windows User Should Know"
 date: 2025-06-19
+slug: "12-essential-file-backup-strategies-tips-every-windows-user-should-know-3"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Why Is File Backup So Important for Windows Users?

@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows System Monitoring Tools Management in Windows"
 date: 2025-05-27
+slug: "beginners-guide-to-windows-system-monitoring-tools-management-in-windows"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Monitoring your Windows PC’s health is crucial for maintaining performance, stability, and security. System monitoring tools help you keep an eye on processes, resource usage, and potential issues before they become problems. This guide will walk you through the basics of system monitoring in Windows, practical steps using built-in and third-party tools, and offer advanced tips for those who want more control or deeper insights.

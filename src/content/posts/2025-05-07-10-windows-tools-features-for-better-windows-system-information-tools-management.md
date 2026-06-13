@@ -1,8 +1,10 @@
 ---
 title: "10 Windows Tools Features for Better Windows System Information Tools Management"
 date: 2025-05-07
+slug: "10-windows-tools-features-for-better-windows-system-information-tools-management"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Managing system information tools on Windows effectively requires understanding not only how to use them but also how to avoid common pitfalls. Whether you're a beginner or more advanced user, this guide will help you navigate these tools more efficiently.

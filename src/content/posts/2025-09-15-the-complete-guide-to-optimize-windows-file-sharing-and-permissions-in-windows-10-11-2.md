@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Optimize Windows File Sharing and Permissions in Windows 10 & 11"
 date: 2025-09-15
+slug: "the-complete-guide-to-optimize-windows-file-sharing-and-permissions-in-windows-10-11-2"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 File sharing in Windows 10 and 11 allows you to give others access to your files and folders, whether they are on the same local network or connecting remotely. However, without proper setup and optimization, file sharing can become slow, insecure, or confusing. Understanding permissions is equally important because it ensures that only the right people can access or modify your data. This guide covers everything from the basics to advanced configurations, with real-world examples to help both beginners and advanced users.

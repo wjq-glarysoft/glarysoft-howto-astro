@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Organize Windows Security and Privacy Enhancements in Windows 11"
 date: 2025-06-07
+slug: "the-complete-guide-to-organize-windows-security-and-privacy-enhancements-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Are you new to Windows 11 and want to make sure your computer is both secure and private? This guide is designed for beginners who want easy, step-by-step instructions to enhance their Windows security and privacy. By following these practical steps, you’ll keep your personal information safe and enjoy peace of mind while using your PC.

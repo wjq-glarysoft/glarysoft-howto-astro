@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Secure File Synchronization Across Devices in Windows 10 & 11"
 date: 2025-06-28
+slug: "top-10-ways-to-secure-file-synchronization-across-devices-in-windows-10-11"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 File synchronization is a core part of modern Windows workflows, whether for business collaboration, personal backup, or keeping files up-to-date across multiple PCs and mobile devices. However, ensuring your synchronized files remain secure throughout the process—while still being easily accessible—requires careful planning and the right set of tools.

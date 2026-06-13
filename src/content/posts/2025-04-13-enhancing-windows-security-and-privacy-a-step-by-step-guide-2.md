@@ -1,8 +1,10 @@
 ---
 title: "Enhancing Windows Security and Privacy: A Step-by-Step Guide"
 date: 2025-04-13
+slug: "enhancing-windows-security-and-privacy-a-step-by-step-guide-2"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 In today's digital age, ensuring the security and privacy of your Windows system is crucial. With cyber threats evolving, taking proactive steps to safeguard your data is more important than ever. Below is a comprehensive guide covering practical measures you can implement to enhance security and privacy on your Windows PC.

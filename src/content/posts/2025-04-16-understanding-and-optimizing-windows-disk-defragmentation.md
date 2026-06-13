@@ -1,8 +1,10 @@
 ---
 title: "Understanding and Optimizing Windows Disk Defragmentation"
 date: 2025-04-16
+slug: "understanding-and-optimizing-windows-disk-defragmentation"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 As a Windows user, maintaining your system's performance is crucial for ensuring that your computer runs smoothly and efficiently. One of the key components in this maintenance process is disk defragmentation. Although modern systems, especially those with solid-state drives (SSDs), handle this task differently, understanding disk defragmentation can significantly benefit users still relying on traditional hard disk drives (HDDs).

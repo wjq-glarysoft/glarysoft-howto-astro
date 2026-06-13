@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Backup Windows System Tool Customization in Windows 11"
 date: 2025-07-13
+slug: "the-complete-guide-to-backup-windows-system-tool-customization-in-windows-11"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Windows 11 offers a wide array of system tools designed to optimize, maintain, and secure your PC. Customizing these system tools lets you tailor your computing experience to your needs, boost efficiency, and improve system health. However, investing time in such customizations makes it essential to implement a robust backup strategy. This guide explains how to customize your favorite Windows system tools and, crucially, how to back up and restore those customizations for maximum peace of mind.

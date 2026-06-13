@@ -1,8 +1,10 @@
 ---
 title: "Best Practices for Windows Software Management"
 date: 2025-04-13
+slug: "best-practices-for-windows-software-management"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Managing software on your Windows PC efficiently not only ensures optimal performance but also enhances system security and stability. Here are some best practices that can help you manage your software effectively:

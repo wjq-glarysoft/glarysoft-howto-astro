@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Disk Defragmentation in Windows?"
 date: 2025-05-08
+slug: "are-you-making-these-common-mistakes-with-windows-disk-defragmentation-in-windows"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Disk defragmentation is an often overlooked but crucial process for maintaining optimal performance on your Windows PC. It reorganizes fragmented data so that your hard drive can efficiently locate and manage files. However, users commonly make mistakes that can negate the benefits of defragmentation. This article explores these pitfalls and offers practical, actionable advice to ensure you're optimizing and improving your system correctly.

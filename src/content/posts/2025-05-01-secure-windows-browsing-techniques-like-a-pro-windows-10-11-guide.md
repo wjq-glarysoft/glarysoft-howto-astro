@@ -1,8 +1,10 @@
 ---
 title: "Secure Windows Browsing Techniques Like a Pro: Windows 10 & 11 Guide"
 date: 2025-05-01
+slug: "secure-windows-browsing-techniques-like-a-pro-windows-10-11-guide"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 In the digital age, browsing the internet securely is paramount, especially for Windows 10 and 11 users. This guide offers comprehensive techniques to enhance your browsing security, catering to both beginners and advanced users. Let's explore effective strategies to safeguard your online experience.

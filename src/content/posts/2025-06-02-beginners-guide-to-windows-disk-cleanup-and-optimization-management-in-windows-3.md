@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Disk Cleanup and Optimization Management in Windows"
 date: 2025-06-02
+slug: "beginners-guide-to-windows-disk-cleanup-and-optimization-management-in-windows-3"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Keeping your Windows PC running smoothly requires regular maintenance, much like a car needs its oil changed. One of the most effective ways to maintain your computer's performance and health is through disk cleanup and optimization. This guide covers the essentials of cleaning up and optimizing your Windows drives, providing step-by-step instructions for beginners and additional strategies for advanced users.

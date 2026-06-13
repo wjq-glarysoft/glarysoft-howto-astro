@@ -1,8 +1,10 @@
 ---
 title: "10 Proven Methods to Repair Security and Privacy Protection in Windows"
 date: 2025-05-09
+slug: "10-proven-methods-to-repair-security-and-privacy-protection-in-windows"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 In today’s digital world, maintaining privacy and security on your Windows PC is paramount. This guide will walk you through ten proven methods to bolster your system's security and privacy. These steps are designed for intermediate Windows users who have a basic understanding of Windows settings and are comfortable making changes to their system.

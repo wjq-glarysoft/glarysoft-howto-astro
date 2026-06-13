@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Secure Windows System Information Tools in Windows 10 & 11"
 date: 2025-05-05
+slug: "top-10-ways-to-secure-windows-system-information-tools-in-windows-10-11"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Securing system information tools in Windows 10 & 11 is critical to maintaining the integrity and privacy of your PC’s data. As an intermediate user, you already grasp the basics, so let's explore specific strategies and tools that can enhance your system's security.

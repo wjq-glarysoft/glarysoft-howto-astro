@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Troubleshoot File Naming Conventions and Organization in Windows Systems"
 date: 2025-06-21
+slug: "the-complete-guide-to-troubleshoot-file-naming-conventions-and-organization-in-windows-systems"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Why Are File Naming Conventions Important in Windows?

@@ -1,8 +1,10 @@
 ---
 title: "backup Windows secure browsing techniques Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-05
+slug: "backup-windows-secure-browsing-techniques-like-a-pro-windows-10-11-guide"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Safe and private browsing is more important than ever on Windows 10 and 11. Whether you’re new to computers or an experienced user, understanding how to protect your information online is crucial. This guide will show you practical steps to keep your browsing private and secure, with tips for both beginners and advanced users. Let’s build your Windows browsing knowledge from the basics up to pro-level techniques.

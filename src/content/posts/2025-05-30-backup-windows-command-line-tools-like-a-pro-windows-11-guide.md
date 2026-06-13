@@ -1,8 +1,10 @@
 ---
 title: "backup Windows command line tools Like a Pro: Windows 11 Guide"
 date: 2025-05-30
+slug: "backup-windows-command-line-tools-like-a-pro-windows-11-guide"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Backing up your Windows system and personal files is crucial for preventing data loss. While graphical tools make this easy, command line tools offer powerful and flexible backup options for both casual and advanced users. This guide explains the best practices for using Windows command line tools to back up your system, with practical examples for Windows 11 users.

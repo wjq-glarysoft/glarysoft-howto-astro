@@ -1,8 +1,10 @@
 ---
 title: "How to Secure Windows: Security and Privacy Enhancements for Beginner Windows Users"
 date: 2025-08-10
+slug: "how-to-secure-windows-security-and-privacy-enhancements-for-beginner-windows-users"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows computers are used by millions of people daily for everything from work to personal browsing. With increased use comes greater risk—data breaches, malware, and privacy invasion are all real threats. Securing your Windows system might sound intimidating, but with the right time-saving tips and tools, even beginners can make significant improvements quickly. This article details practical steps for both beginners and advanced users to safeguard their Windows PCs, with a special focus on privacy and security enhancements.

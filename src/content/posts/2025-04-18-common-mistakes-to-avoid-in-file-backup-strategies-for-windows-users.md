@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid in File Backup Strategies for Windows Users"
 date: 2025-04-18
+slug: "common-mistakes-to-avoid-in-file-backup-strategies-for-windows-users"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Backing up files is a crucial task for safeguarding your data against loss, corruption, or accidental deletion. However, many Windows users make common mistakes that can compromise the effectiveness of their backup strategies. In this article, we'll explore these pitfalls and provide practical advice to help you develop a more robust backup plan.

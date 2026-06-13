@@ -1,8 +1,10 @@
 ---
 title: "Master file search and indexing techniques with Free Software: Windows User Guide"
 date: 2025-04-30
+slug: "master-file-search-and-indexing-techniques-with-free-software-windows-user-guide"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Efficient file searching and indexing on Windows can significantly enhance productivity, especially for advanced users who handle numerous files and complex directories. This guide delves into mastering file search and indexing using free software, offering professional insights to optimize your file management practices.

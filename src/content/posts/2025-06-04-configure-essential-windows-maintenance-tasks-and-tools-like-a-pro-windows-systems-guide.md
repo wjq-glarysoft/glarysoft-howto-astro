@@ -1,8 +1,10 @@
 ---
 title: "configure essential Windows maintenance tasks and tools Like a Pro: Windows Systems Guide"
 date: 2025-06-04
+slug: "configure-essential-windows-maintenance-tasks-and-tools-like-a-pro-windows-systems-guide"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Keeping your Windows PC running smoothly is not just about avoiding problems—it’s about maximizing performance, security, and longevity. Whether you’re a casual user or an IT professional, configuring and using the right Windows system tools is crucial to keeping your system in top shape. In this comprehensive guide, you’ll learn to master essential Windows maintenance tasks with practical steps and pro-level insights.

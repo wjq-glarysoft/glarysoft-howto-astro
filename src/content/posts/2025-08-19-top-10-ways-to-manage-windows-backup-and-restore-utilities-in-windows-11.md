@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Manage Windows Backup and Restore Utilities in Windows 11"
 date: 2025-08-19
+slug: "top-10-ways-to-manage-windows-backup-and-restore-utilities-in-windows-11"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Windows 11 includes several built-in tools for backup and restore that help you safeguard your files, system settings, and overall PC health. Managing these tools effectively ensures you can recover from crashes, hardware failures, or accidental file deletions. Below are ten practical ways to manage Windows backup and restore utilities, explained with step-by-step instructions suitable for intermediate Windows users.

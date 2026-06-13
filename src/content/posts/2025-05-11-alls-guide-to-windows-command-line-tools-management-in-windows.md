@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows Command Line Tools Management in Windows"
 date: 2025-05-11
+slug: "alls-guide-to-windows-command-line-tools-management-in-windows"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Windows command line tools offer a powerful way to manage and optimize your PC, saving you time and effort. Whether you're looking to automate repetitive tasks or configure complex settings with a few keystrokes, command line tools are indispensable. This guide will explore practical, actionable advice for using these tools efficiently. We'll cover both beginner-friendly steps and advanced tips for seasoned users.

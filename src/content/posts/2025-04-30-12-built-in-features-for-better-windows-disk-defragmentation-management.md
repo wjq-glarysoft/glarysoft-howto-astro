@@ -1,8 +1,10 @@
 ---
 title: "12 Built-in Features for Better Windows Disk Defragmentation Management"
 date: 2025-04-30
+slug: "12-built-in-features-for-better-windows-disk-defragmentation-management"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Managing disk defragmentation effectively is key to maintaining optimal performance on your Windows PC. This guide details built-in Windows features that will help you manage disk defragmentation better, ensuring your system runs smoothly.

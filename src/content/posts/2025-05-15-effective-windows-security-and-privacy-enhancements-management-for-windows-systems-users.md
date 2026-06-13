@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Security and Privacy Enhancements Management for Windows Systems Users"
 date: 2025-05-15
+slug: "effective-windows-security-and-privacy-enhancements-management-for-windows-systems-users"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Windows operating systems are prevalent in many homes and offices, which makes understanding how to maintain security and privacy essential for all users, especially beginners. This guide will help you grasp the basics of securing your Windows environment with actionable steps.

@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows User Account Security Techniques for Windows Users"
 date: 2025-07-18
+slug: "essential-windows-user-account-security-techniques-for-windows-users-8"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Why Is User Account Security Important on Windows?

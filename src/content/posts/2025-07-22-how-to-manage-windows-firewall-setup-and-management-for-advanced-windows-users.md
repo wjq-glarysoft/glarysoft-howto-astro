@@ -1,8 +1,10 @@
 ---
 title: "How to manage Windows firewall setup and management for Advanced Windows Users?"
 date: 2025-07-22
+slug: "how-to-manage-windows-firewall-setup-and-management-for-advanced-windows-users"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 The Windows Firewall is a core component of your PC's privacy and security. While the default setup protects most users, advanced users often need to fine-tune firewall settings to support custom applications, enhance privacy, or lock down a system. This guide covers practical ways to set up, manage, and troubleshoot the Windows Firewall, focusing on time-saving strategies and real-world scenarios for both beginners and advanced users.

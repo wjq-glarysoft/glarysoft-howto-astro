@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Disk Cleanup and Optimization in Windows?"
 date: 2025-05-28
+slug: "are-you-making-these-common-mistakes-with-windows-disk-cleanup-and-optimization-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Disk cleanup and optimization are key steps in keeping your Windows computer running smoothly. Many beginners know these tasks are important, but it’s easy to fall into common mistakes that can slow down your PC or even cause issues. Let’s explore how to avoid these mistakes, and discover best practices for keeping your system clean and fast.

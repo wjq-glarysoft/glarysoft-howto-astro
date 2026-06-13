@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Backup File Naming Conventions and Organization in Windows?"
 date: 2025-05-09
+slug: "whats-the-best-way-to-backup-file-naming-conventions-and-organization-in-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Organizing and naming your files consistently is crucial for maintaining a well-structured and efficient filing system on your Windows PC. Whether you're a beginner or an advanced user, establishing and adhering to effective file naming conventions can significantly streamline your digital workflow. In this article, we'll explore expert recommendations for file naming conventions and organization, providing practical, actionable advice and real-world examples for Windows users.

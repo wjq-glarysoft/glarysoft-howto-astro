@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Monitor Windows Startup Optimization Methods in Windows 11"
 date: 2025-06-03
+slug: "the-complete-guide-to-monitor-windows-startup-optimization-methods-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Introduction

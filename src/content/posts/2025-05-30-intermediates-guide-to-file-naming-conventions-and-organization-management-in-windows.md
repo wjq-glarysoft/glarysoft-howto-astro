@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to File Naming Conventions and Organization Management in Windows"
 date: 2025-05-30
+slug: "intermediates-guide-to-file-naming-conventions-and-organization-management-in-windows"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Organizing files and folders efficiently on a Windows PC is essential for productivity and smooth workflow. As files accumulate over time, poor organization leads to clutter, wasted time, and even the risk of losing important documents. Understanding and implementing effective file naming conventions and organization strategies not only helps you find what you need quickly but also maximizes the performance and longevity of your Windows system. This guide provides expert-backed, practical advice for both beginner and advanced users to master file management in Windows.

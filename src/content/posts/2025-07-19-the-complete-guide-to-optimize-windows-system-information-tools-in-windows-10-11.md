@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Optimize Windows System Information Tools in Windows 10 & 11"
 date: 2025-07-19
+slug: "the-complete-guide-to-optimize-windows-system-information-tools-in-windows-10-11"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Getting the most from your Windows PC starts with understanding its capabilities and current health. System information tools are invaluable for monitoring, troubleshooting, and optimizing your machine. In both Windows 10 and 11, a range of built-in utilities and third-party solutions like Glary Utilities can reveal critical details about your hardware, software, and system performance. This guide walks through best practices for leveraging these tools, tailored for both beginners and advanced users.

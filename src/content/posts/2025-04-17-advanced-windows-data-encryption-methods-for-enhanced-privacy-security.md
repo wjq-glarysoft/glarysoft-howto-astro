@@ -1,8 +1,10 @@
 ---
 title: "Advanced Windows Data Encryption Methods for Enhanced Privacy & Security"
 date: 2025-04-17
+slug: "advanced-windows-data-encryption-methods-for-enhanced-privacy-security"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 In an era where privacy and security are paramount, ensuring your data is encrypted is a critical step for Windows users. Encryption transforms your data into a secure format, unreadable to unauthorized users. This guide explores advanced methods of data encryption on Windows, providing practical advice and real-world examples to fortify your digital privacy.

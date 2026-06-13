@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid with Windows Power Management Tools"
 date: 2025-04-19
+slug: "common-mistakes-to-avoid-with-windows-power-management-tools"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Windows power management tools are essential for optimizing the energy efficiency and performance of your computer. However, users often make common mistakes that can lead to suboptimal performance or even reduce the lifespan of their hardware. In this article, we'll explore these pitfalls and offer practical tips for using Windows power management tools effectively.

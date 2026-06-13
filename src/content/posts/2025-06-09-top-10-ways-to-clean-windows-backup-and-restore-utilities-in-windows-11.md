@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Clean Windows Backup and Restore Utilities in Windows 11"
 date: 2025-06-09
+slug: "top-10-ways-to-clean-windows-backup-and-restore-utilities-in-windows-11"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Windows 11 provides built-in backup and restore utilities, such as File History, System Restore, and full system image backups. Over time, these tools can accumulate redundant data, outdated restore points, and unnecessary files that not only consume disk space but may also slow down your PC and complicate recovery options. Cleaning up these utilities the right way ensures you maintain optimal performance and reliable backups. This guide explores the top 10 ways to efficiently clean Windows backup and restore utilities, highlighting common mistakes to avoid and providing practical instructions for both beginners and advanced users.

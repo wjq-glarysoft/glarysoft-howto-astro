@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid When Using Windows Backup and Restore Utilities"
 date: 2025-04-20
+slug: "common-mistakes-to-avoid-when-using-windows-backup-and-restore-utilities"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Ensuring your data is backed up is crucial for maintaining the integrity of your files and the smooth operation of your PC. Windows offers built-in backup and restore utilities that can help safeguard your data. However, both beginners and experienced users can make mistakes that may compromise the effectiveness of these tools. Here, we'll discuss common pitfalls and provide actionable advice to optimize your backup strategy.

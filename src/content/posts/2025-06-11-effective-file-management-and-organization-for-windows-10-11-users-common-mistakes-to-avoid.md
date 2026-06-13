@@ -1,8 +1,10 @@
 ---
 title: "Effective File Management and Organization for Windows 10 & 11 Users: Common Mistakes to Avoid"
 date: 2025-06-11
+slug: "effective-file-management-and-organization-for-windows-10-11-users-common-mistakes-to-avoid"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Why Is Proper File Management Important?

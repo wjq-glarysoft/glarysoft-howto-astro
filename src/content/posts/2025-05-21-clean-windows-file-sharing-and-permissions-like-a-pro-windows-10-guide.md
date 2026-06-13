@@ -1,8 +1,10 @@
 ---
 title: "clean Windows file sharing and permissions Like a Pro: Windows 10 Guide"
 date: 2025-05-21
+slug: "clean-windows-file-sharing-and-permissions-like-a-pro-windows-10-guide"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Windows 10 offers robust file sharing and permission tools that can seem complex but are essential for effective file management and security. Whether you're managing a home network or a small business, understanding these features will help you maintain a secure and efficient environment. This guide will provide you with expert recommendations on how to handle file sharing and permissions like a pro.

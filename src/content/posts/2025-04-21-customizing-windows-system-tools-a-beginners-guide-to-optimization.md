@@ -1,8 +1,10 @@
 ---
 title: "Customizing Windows System Tools: A Beginner's Guide to Optimization"
 date: 2025-04-21
+slug: "customizing-windows-system-tools-a-beginners-guide-to-optimization"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Customizing system tools on your Windows PC can significantly enhance your user experience by making routine tasks more efficient and tailored to your specific needs. Whether you're looking to streamline your workflow or improve your computer's performance, learning how to customize these tools is invaluable. This guide will walk you through the basics of system tool customization with practical examples to get you started.

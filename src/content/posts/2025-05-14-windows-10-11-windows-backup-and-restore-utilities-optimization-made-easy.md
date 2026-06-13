@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 Windows Backup and Restore Utilities Optimization Made Easy"
 date: 2025-05-14
+slug: "windows-10-11-windows-backup-and-restore-utilities-optimization-made-easy"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Backing up and restoring your Windows system is crucial for safeguarding your data and keeping your PC running smoothly. For beginners, navigating Windows' built-in backup tools might seem daunting. However, understanding these utilities can help you ensure your data’s safety and optimize your system’s performance. This guide will walk you through the basics of Windows 10 and 11 backup and restore utilities, providing practical steps and tips.

@@ -1,8 +1,10 @@
 ---
 title: "12 Glary Utilities Features for Better Windows File Sharing and Permissions Management"
 date: 2025-06-13
+slug: "12-glary-utilities-features-for-better-windows-file-sharing-and-permissions-management"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Windows file sharing and permissions management are crucial for productivity and security. Whether you’re sharing folders over a home network or managing files on a work PC, ensuring the right files are accessible to the right users is essential. Glary Utilities, a popular PC optimization suite, offers a variety of tools that streamline file sharing and permissions management. This guide covers twelve practical Glary Utilities features you can use, with step-by-step instructions for both beginners and advanced users.

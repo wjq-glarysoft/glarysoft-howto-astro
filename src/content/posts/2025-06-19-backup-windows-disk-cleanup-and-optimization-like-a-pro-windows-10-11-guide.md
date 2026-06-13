@@ -1,8 +1,10 @@
 ---
 title: "backup Windows disk cleanup and optimization Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-19
+slug: "backup-windows-disk-cleanup-and-optimization-like-a-pro-windows-10-11-guide"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Keeping your Windows 10 or 11 PC running smoothly isn’t just about hardware—it’s about regular, smart maintenance. Disk cleanup and optimization can make a real difference in your computer’s performance and reliability. This guide covers the essential steps and best practices for intermediate users aiming to take disk maintenance to the next level, with a particular focus on using both built-in tools and comprehensive solutions like [Glary Utilities](https://www.glarysoft.com).

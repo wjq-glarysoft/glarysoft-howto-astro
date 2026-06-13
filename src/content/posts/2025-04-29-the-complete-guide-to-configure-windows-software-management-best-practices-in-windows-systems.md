@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure Windows Software Management Best Practices in Windows Systems"
 date: 2025-04-29
+slug: "the-complete-guide-to-configure-windows-software-management-best-practices-in-windows-systems"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Managing software effectively on a Windows system is crucial for ensuring optimal performance, security, and usability. As an advanced user, you're likely familiar with the basics, but this guide will delve into expert recommendations and refined strategies to master software management using Windows' built-in System Tools and third-party utilities like Glary Utilities.

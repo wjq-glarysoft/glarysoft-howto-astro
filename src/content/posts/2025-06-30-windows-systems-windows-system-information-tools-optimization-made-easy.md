@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems Windows System Information Tools Optimization Made Easy"
 date: 2025-06-30
+slug: "windows-systems-windows-system-information-tools-optimization-made-easy"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Windows provides a wide range of system information tools to help users monitor and optimize PC performance. However, many intermediate users make common mistakes when using these tools, leading to missed opportunities for optimization or, worse, accidental system issues. This article highlights frequent pitfalls and provides step-by-step advice to help you use Windows system information tools effectively.

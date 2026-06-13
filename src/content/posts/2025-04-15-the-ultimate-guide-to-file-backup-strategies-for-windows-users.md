@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Guide to File Backup Strategies for Windows Users"
 date: 2025-04-15
+slug: "the-ultimate-guide-to-file-backup-strategies-for-windows-users"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Backing up files and folders is a crucial aspect of data management and protection, particularly for Windows users who often deal with vast amounts of personal and professional data. Here, we delve into strategies that ensure your files are secure and easily retrievable in case of data loss scenarios such as hardware failure, accidental deletion, or malicious attacks.

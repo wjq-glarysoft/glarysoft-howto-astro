@@ -1,8 +1,10 @@
 ---
 title: "Built-in Features Makes Windows User Account Security Management Simple in Windows"
 date: 2025-06-05
+slug: "built-in-features-makes-windows-user-account-security-management-simple-in-windows"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Windows operating systems offer a variety of built-in features that help users manage account security with ease. Whether you are new to Windows or have years of experience, understanding these features is essential for protecting your personal information and maintaining privacy. This guide explains the core tools and settings available for user account security, with practical advice and real-world examples to help you apply them effectively.

@@ -1,8 +1,10 @@
 ---
 title: "How to configure Windows secure browsing techniques for All Windows Users?"
 date: 2025-04-23
+slug: "how-to-configure-windows-secure-browsing-techniques-for-all-windows-users"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 In today's digital world, safe browsing is essential for protecting personal information and ensuring secure online transactions. Whether you are a novice or an experienced Windows user, implementing secure browsing techniques can significantly reduce the risk of cyber threats. Here's a comprehensive guide to configuring Windows for safe browsing.

@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows File Explorer Tips and Tricks Management for Windows 10 Users"
 date: 2025-05-06
+slug: "effective-windows-file-explorer-tips-and-tricks-management-for-windows-10-users"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Windows File Explorer is an essential tool for managing files and folders on your PC. Whether you’re new to Windows 10 or a seasoned user, knowing a few tips and tricks can significantly enhance your file management efficiency. This article explores practical, actionable advice suitable for beginners and advanced users alike.

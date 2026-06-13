@@ -1,8 +1,10 @@
 ---
 title: "Effective file search and indexing techniques Management for Windows 11 Users"
 date: 2025-07-01
+slug: "effective-file-search-and-indexing-techniques-management-for-windows-11-users"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Why is Effective File Search Important on Windows 11?

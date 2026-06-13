@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Organize Windows Security and Privacy Enhancements in Windows 10"
 date: 2025-06-23
+slug: "the-complete-guide-to-organize-windows-security-and-privacy-enhancements-in-windows-10"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows 10 is packed with features to help you protect your personal information and keep your computer secure. For beginners, the many options and settings can seem confusing, but with a little guidance, you can easily organize and enhance your system’s privacy and security. This guide walks you through practical, step-by-step instructions to keep your data safer and your Windows 10 PC running smoothly.

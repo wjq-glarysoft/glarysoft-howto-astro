@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Backup, Clean Up, and Optimize Windows Disk in Windows 10 & 11"
 date: 2025-08-06
+slug: "top-10-ways-to-backup-clean-up-and-optimize-windows-disk-in-windows-10-11"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Keeping your Windows 10 or 11 system running smoothly requires more than just occasional disk cleanup. It’s equally important to back up your data before making major changes and adopt reliable optimization strategies. This guide offers practical, intermediate-level steps to help you back up, clean up, and optimize your system disk, so you can keep your computer running efficiently and avoid unexpected data loss.

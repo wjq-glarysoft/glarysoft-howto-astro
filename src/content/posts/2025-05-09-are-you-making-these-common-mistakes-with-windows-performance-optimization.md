@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Performance Optimization?"
 date: 2025-05-09
+slug: "are-you-making-these-common-mistakes-with-windows-performance-optimization"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Windows performance optimization is crucial for a smooth and efficient computing experience. However, many users, both beginners and advanced, often overlook key areas or make common mistakes that can hinder their system's performance. This article will guide you through advanced optimization techniques, while also offering foundational advice for beginners. Let’s ensure you’re not making these common mistakes.

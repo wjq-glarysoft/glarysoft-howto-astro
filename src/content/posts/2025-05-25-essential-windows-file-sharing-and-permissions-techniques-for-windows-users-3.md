@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows File Sharing and Permissions Techniques for Windows Users"
 date: 2025-05-25
+slug: "essential-windows-file-sharing-and-permissions-techniques-for-windows-users-3"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Sharing files and folders on a Windows PC can make collaboration easier and save time, whether you’re working with family members, colleagues, or simply moving files between your own devices. However, understanding how to share files safely and control who has access is crucial—even for beginners. This guide breaks down the basics of Windows file sharing and permissions, providing you with step-by-step advice and easy-to-follow examples.

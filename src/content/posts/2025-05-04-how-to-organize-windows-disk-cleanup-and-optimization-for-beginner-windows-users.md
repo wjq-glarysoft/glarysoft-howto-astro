@@ -1,8 +1,10 @@
 ---
 title: "How to organize Windows disk cleanup and optimization for Beginner Windows Users?"
 date: 2025-05-04
+slug: "how-to-organize-windows-disk-cleanup-and-optimization-for-beginner-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Keeping your Windows PC clean and optimized is crucial for maintaining its performance and longevity. For beginners, understanding how to organize disk cleanup and optimization can seem daunting, but it doesn't have to be. This step-by-step tutorial will guide you through the process with practical advice and examples, ensuring even the most novice users can confidently maintain their systems.

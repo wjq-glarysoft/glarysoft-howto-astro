@@ -1,8 +1,10 @@
 ---
 title: "Mastering Task Scheduling in Windows: A Beginner's Guide"
 date: 2025-04-17
+slug: "mastering-task-scheduling-in-windows-a-beginners-guide"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Task scheduling in Windows is a powerful feature that allows you to automate routine tasks on your computer. Whether you want to run maintenance tasks, start applications at specific times, or manage backups, task scheduling can enhance productivity and ensure your system runs smoothly. This guide will introduce you to the basics of Windows Task Scheduler and provide practical, actionable advice on using this tool effectively.

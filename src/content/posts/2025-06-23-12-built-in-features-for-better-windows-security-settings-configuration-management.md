@@ -1,8 +1,10 @@
 ---
 title: "12 Built-in Features for Better Windows Security Settings Configuration Management"
 date: 2025-06-23
+slug: "12-built-in-features-for-better-windows-security-settings-configuration-management"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows operating systems offer a wide array of built-in features that can greatly improve your system's security when configured correctly. Whether you are a casual PC user or an advanced administrator, understanding and utilizing these features is essential for protecting your data, privacy, and overall system integrity. This article explores twelve powerful Windows security features, providing step-by-step configuration advice, real-world use cases, and tips for both beginners and advanced users.

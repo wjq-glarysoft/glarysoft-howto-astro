@@ -1,8 +1,10 @@
 ---
 title: "Master Windows system tool customization with Glary Utilities: Windows User Guide"
 date: 2025-06-11
+slug: "master-windows-system-tool-customization-with-glary-utilities-windows-user-guide-2"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Why Should Beginners Customize Windows System Tools?

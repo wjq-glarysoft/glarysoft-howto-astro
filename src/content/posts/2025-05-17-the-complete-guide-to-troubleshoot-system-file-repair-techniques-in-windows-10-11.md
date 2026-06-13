@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Troubleshoot System File Repair Techniques in Windows 10 & 11"
 date: 2025-05-17
+slug: "the-complete-guide-to-troubleshoot-system-file-repair-techniques-in-windows-10-11"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 As a beginner Windows user, encountering system errors can be daunting. System files are crucial for the smooth operation of your computer, and when they become corrupted or missing, it can lead to significant performance issues. This guide will walk you through practical system file repair techniques for Windows 10 & 11, ensuring your computer runs efficiently.

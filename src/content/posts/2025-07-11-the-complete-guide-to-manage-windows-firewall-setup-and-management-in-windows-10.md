@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Manage Windows Firewall Setup and Management in Windows 10"
 date: 2025-07-11
+slug: "the-complete-guide-to-manage-windows-firewall-setup-and-management-in-windows-10"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Windows Firewall acts as a critical line of defense against threats trying to access your computer from the internet or local networks. Managing it correctly helps protect your privacy, secure sensitive information, and prevent malware from exploiting network vulnerabilities. This guide provides a step-by-step walkthrough for users of all experience levels to set up, manage, and optimize Windows Firewall in Windows 10 effectively.

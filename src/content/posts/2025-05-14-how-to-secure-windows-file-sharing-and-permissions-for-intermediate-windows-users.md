@@ -1,8 +1,10 @@
 ---
 title: "How to Secure Windows File Sharing and Permissions for Intermediate Windows Users?"
 date: 2025-05-14
+slug: "how-to-secure-windows-file-sharing-and-permissions-for-intermediate-windows-users"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 File sharing on Windows networks can significantly enhance productivity by allowing multiple users to access files and folders. However, improper configuration can lead to security vulnerabilities. For intermediate Windows users, it’s crucial to understand how to secure file sharing and permissions effectively.

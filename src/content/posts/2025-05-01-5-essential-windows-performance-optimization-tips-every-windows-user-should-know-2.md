@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows Performance Optimization Tips Every Windows User Should Know"
 date: 2025-05-01
+slug: "5-essential-windows-performance-optimization-tips-every-windows-user-should-know-2"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Optimizing your Windows PC for better performance can significantly improve your computing experience, whether you're tackling work tasks or enjoying multimedia content. Here are five essential tips that you can use to optimize your Windows system. These tips cater to both beginners and advanced users, providing a comprehensive approach to system improvement.

@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Organize Windows Firewall Setup and Management in Windows 10"
 date: 2025-04-24
+slug: "top-10-ways-to-organize-windows-firewall-setup-and-management-in-windows-10"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Managing and setting up your Windows Firewall is crucial for maintaining the security of your computer. As a beginner, it might seem intimidating, but with a little guidance, you can ensure that your system is protected from unauthorized access and potential security threats. Here are ten practical and easy ways to organize and manage your Windows Firewall setup in Windows 10.

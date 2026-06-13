@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 Windows Performance Troubleshooting Optimization Made Easy"
 date: 2025-05-22
+slug: "windows-10-11-windows-performance-troubleshooting-optimization-made-easy-2"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Understanding how to maintain and optimize your Windows 10 or 11 PC can significantly enhance its performance and longevity. In this guide, we'll explore practical, actionable steps for troubleshooting and optimizing your system with a focus on cleanup and repair. Whether you're a beginner or an advanced user, you’ll find useful tips tailored to your skill level.

@@ -1,8 +1,10 @@
 ---
 title: "Master essential Windows maintenance tasks and tools with Free Software: Windows User Guide"
 date: 2025-05-16
+slug: "master-essential-windows-maintenance-tasks-and-tools-with-free-software-windows-user-guide"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Maintaining a Windows PC in optimal condition involves a series of essential tasks that can prevent common issues and enhance performance. This guide will walk you through these tasks, highlight common mistakes, and introduce effective tools like Glary Utilities to streamline the process.

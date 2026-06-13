@@ -1,8 +1,10 @@
 ---
 title: "Essential folder structure optimization Techniques for Windows Users"
 date: 2025-06-21
+slug: "essential-folder-structure-optimization-techniques-for-windows-users-7"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Why Does Folder Structure Matter for Advanced Users?

@@ -1,8 +1,10 @@
 ---
 title: "Master Windows performance optimization tips with Glary Utilities: Windows User Guide"
 date: 2025-04-22
+slug: "master-windows-performance-optimization-tips-with-glary-utilities-windows-user-guide"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Windows performance can sometimes feel sluggish, especially after extended use. That's where learning how to effectively optimize your system becomes essential. This guide will walk you through using Glary Utilities, a comprehensive tool designed to enhance your PC's performance with ease. Whether you're a beginner or an advanced user, you'll find valuable tips and strategies here.

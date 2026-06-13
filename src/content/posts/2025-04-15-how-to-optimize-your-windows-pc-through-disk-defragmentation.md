@@ -1,8 +1,10 @@
 ---
 title: "How to Optimize Your Windows PC Through Disk Defragmentation"
 date: 2025-04-15
+slug: "how-to-optimize-your-windows-pc-through-disk-defragmentation"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Disk defragmentation is a crucial process for maintaining and optimizing the performance of your Windows PC. Over time, as you add and delete files, your hard drive can become fragmented. This means that pieces of files are scattered across different parts of the drive, which can slow down data access times and reduce system efficiency. Here's how you can effectively manage disk defragmentation to keep your computer running smoothly.

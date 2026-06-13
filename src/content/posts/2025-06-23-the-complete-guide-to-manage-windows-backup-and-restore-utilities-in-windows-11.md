@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Manage Windows Backup and Restore Utilities in Windows 11"
 date: 2025-06-23
+slug: "the-complete-guide-to-manage-windows-backup-and-restore-utilities-in-windows-11"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Windows 11 offers several built-in tools for system backup and restore, including File History, System Restore, and full system imaging. For advanced users, mastering these tools is essential for disaster recovery, data integrity, and efficient system maintenance. However, even experienced users can fall prey to common mistakes that undermine the reliability and effectiveness of these utilities. This guide explores best practices, actionable steps, and practical scenarios to help you avoid pitfalls and fully leverage Windows backup and restore features.

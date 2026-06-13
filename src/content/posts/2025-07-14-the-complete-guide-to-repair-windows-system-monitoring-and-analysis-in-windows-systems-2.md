@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Repair Windows System Monitoring and Analysis in Windows Systems"
 date: 2025-07-14
+slug: "the-complete-guide-to-repair-windows-system-monitoring-and-analysis-in-windows-systems-2"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 What is Windows System Monitoring and Why is it Important?

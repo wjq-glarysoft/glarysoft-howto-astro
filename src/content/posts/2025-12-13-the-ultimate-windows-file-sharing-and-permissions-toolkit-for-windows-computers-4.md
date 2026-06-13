@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Windows File Sharing and Permissions Toolkit for Windows Computers"
 date: 2025-12-13
+slug: "the-ultimate-windows-file-sharing-and-permissions-toolkit-for-windows-computers-4"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 File sharing and permissions management in Windows can seem confusing at first, but with the right understanding and tools, it becomes an efficient way to collaborate, secure data, and streamline workflows. This toolkit-style guide explains how to safely share files and folders, control access, and optimize your file management setup on Windows computers.

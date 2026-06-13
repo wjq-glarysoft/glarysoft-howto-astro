@@ -1,8 +1,10 @@
 ---
 title: "Mastering Windows File Sharing and Permissions"
 date: 2025-04-19
+slug: "mastering-windows-file-sharing-and-permissions"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Windows file sharing and permissions management are crucial aspects of utilizing your PC to its fullest potential, especially in environments where multiple users need access to files or folders. Understanding and setting these permissions correctly can greatly enhance security and collaboration within a network. Here’s a comprehensive guide to help you navigate this important feature of Windows.

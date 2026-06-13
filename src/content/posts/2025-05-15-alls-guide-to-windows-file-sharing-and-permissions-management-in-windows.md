@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows File Sharing and Permissions Management in Windows"
 date: 2025-05-15
+slug: "alls-guide-to-windows-file-sharing-and-permissions-management-in-windows"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 File sharing in Windows is a powerful feature that allows users to access files and folders across multiple devices within the same network. Managing these shared files involves setting permissions to ensure that only the right people have access. Whether you're using Windows for personal or professional purposes, understanding how to effectively manage file sharing and permissions is crucial. This guide will walk you through all the essential aspects of file sharing and permissions management in Windows.

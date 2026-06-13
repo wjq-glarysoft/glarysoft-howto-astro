@@ -1,8 +1,10 @@
 ---
 title: "Windows Task Scheduling Solutions: From Basics to Advanced Techniques"
 date: 2025-06-05
+slug: "windows-task-scheduling-solutions-from-basics-to-advanced-techniques"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Task scheduling is a cornerstone of efficient Windows system management. Whether you want to automate backups, clean up disk space, or ensure regular system maintenance, mastering task scheduling can save you time and prevent costly oversights. In this guide, you'll find practical advice and real-world examples for both beginners and advanced users, with a focus on using built-in system tools and powerful third-party utilities like Glary Utilities.

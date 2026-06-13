@@ -1,8 +1,10 @@
 ---
 title: "Using Windows Command Line Tools for System Maintenance"
 date: 2025-04-18
+slug: "using-windows-command-line-tools-for-system-maintenance"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 The Windows Command Line, commonly accessed via Command Prompt, offers a plethora of tools for maintaining and optimizing your Windows system. While more visual tools exist, understanding how to use command line utilities can give you powerful control over your system. This article will guide you through some practical examples of using command line tools for system maintenance.

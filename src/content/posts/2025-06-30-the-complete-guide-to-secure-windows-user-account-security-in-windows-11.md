@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Secure Windows User Account Security in Windows 11"
 date: 2025-06-30
+slug: "the-complete-guide-to-secure-windows-user-account-security-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Protecting your user account is fundamental for maintaining privacy and security on Windows 11. With cyber threats evolving and personal data at risk, understanding how to efficiently secure your account saves time and prevents headaches down the line. This guide offers practical, actionable tips tailored for intermediate Windows users, ensuring a robust yet streamlined approach to account security.

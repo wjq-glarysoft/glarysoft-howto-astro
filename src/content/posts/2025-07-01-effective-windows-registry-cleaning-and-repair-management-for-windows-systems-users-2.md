@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Registry Cleaning and Repair Management for Windows Systems Users"
 date: 2025-07-01
+slug: "effective-windows-registry-cleaning-and-repair-management-for-windows-systems-users-2"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 What Is the Windows Registry and Why Does It Matter?

@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Clean Windows File Explorer Tips and Tricks in Windows 11"
 date: 2025-07-06
+slug: "the-complete-guide-to-clean-windows-file-explorer-tips-and-tricks-in-windows-11"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Are you an advanced Windows 11 user looking to master File Explorer efficiency, maintain a spotless working environment, and optimize your workflow? This guide delves into advanced File Explorer techniques, plus expert maintenance tips to keep your file system organized and your PC running at peak performance. Let’s unlock the full power of Windows 11 File Explorer.

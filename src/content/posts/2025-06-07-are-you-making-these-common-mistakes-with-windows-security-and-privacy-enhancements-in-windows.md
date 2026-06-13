@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Security and Privacy Enhancements in Windows?"
 date: 2025-06-07
+slug: "are-you-making-these-common-mistakes-with-windows-security-and-privacy-enhancements-in-windows"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Everyone wants their Windows PC to be safe, fast, and private. Microsoft has made big improvements over the years, but even the most well-meaning users can slip up when it comes to security and privacy settings. Are you making these common mistakes? Let’s look at best practices, practical examples, and easy fixes to protect your digital life.

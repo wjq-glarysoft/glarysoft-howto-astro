@@ -1,8 +1,10 @@
 ---
 title: "5 Proven Methods to Improve Windows Performance Troubleshooting in Windows"
 date: 2025-06-29
+slug: "5-proven-methods-to-improve-windows-performance-troubleshooting-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 If your Windows PC is running slow or acting strangely, performance troubleshooting is essential. Whether you’re a casual user or a tech enthusiast, identifying and resolving the causes of sluggishness can greatly improve your computing experience. Here are five proven methods to troubleshoot and boost Windows performance, focusing on Clean Up & Repair techniques.

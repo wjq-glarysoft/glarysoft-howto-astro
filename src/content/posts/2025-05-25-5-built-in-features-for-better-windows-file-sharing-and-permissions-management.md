@@ -1,8 +1,10 @@
 ---
 title: "5 Built-in Features for Better Windows File Sharing and Permissions Management"
 date: 2025-05-25
+slug: "5-built-in-features-for-better-windows-file-sharing-and-permissions-management"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Windows offers several built-in features that make file sharing and permissions management straightforward, even for beginners. Understanding these features not only helps you share files efficiently but also ensures that shared data remains secure. Here’s a guide to five essential Windows tools and settings, complete with actionable advice and real-world tips for anyone looking to get started with file sharing and permissions.

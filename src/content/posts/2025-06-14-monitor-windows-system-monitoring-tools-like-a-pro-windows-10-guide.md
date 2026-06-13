@@ -1,8 +1,10 @@
 ---
 title: "monitor Windows system monitoring tools Like a Pro: Windows 10 Guide"
 date: 2025-06-14
+slug: "monitor-windows-system-monitoring-tools-like-a-pro-windows-10-guide"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Why Should You Monitor Your Windows 10 System?

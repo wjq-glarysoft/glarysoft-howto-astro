@@ -1,8 +1,10 @@
 ---
 title: "12 Free Software Features for Better Windows File Explorer Tips and Tricks Management"
 date: 2025-06-19
+slug: "12-free-software-features-for-better-windows-file-explorer-tips-and-tricks-management"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Are you spending too much time navigating Windows File Explorer or searching for files? Intermediate Windows users can significantly boost productivity with a range of free software features and practical tips. These strategies streamline file management, cut down on repetitive tasks, and bring order to cluttered folders. Let's explore 12 actionable features and time-saving tricks to master File Explorer.

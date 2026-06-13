@@ -1,8 +1,10 @@
 ---
 title: "manage Windows file explorer tips and tricks Like a Pro: Windows 10 Guide"
 date: 2025-05-22
+slug: "manage-windows-file-explorer-tips-and-tricks-like-a-pro-windows-10-guide"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Are you comfortable with Windows 10 but want to get even more from File Explorer? Mastering its features not only saves you time but also helps you keep your files and folders organized. This guide digs into practical tips, tricks, and shortcuts that intermediate users can leverage to boost their productivity and maintain an efficient workflow.

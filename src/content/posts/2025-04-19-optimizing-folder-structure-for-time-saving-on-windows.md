@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Folder Structure for Time-Saving on Windows"
 date: 2025-04-19
+slug: "optimizing-folder-structure-for-time-saving-on-windows"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 In today's fast-paced digital world, efficiency is key, and having an optimized folder structure can save you time and enhance productivity. Properly organizing your files and folders not only helps you find what you need quickly but also streamlines your workflow. Here are some practical, actionable tips to optimize your Windows folder structure for maximum efficiency.

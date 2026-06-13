@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Manage Windows Performance Troubleshooting in Windows Systems"
 date: 2025-08-11
+slug: "the-complete-guide-to-manage-windows-performance-troubleshooting-in-windows-systems"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Is your Windows PC running slower than usual? Performance issues can creep up over time, causing frustration and decreased productivity. For intermediate users familiar with the basics of Windows maintenance, this complete guide focuses on time-saving tips and actionable solutions for diagnosing and resolving performance problems, especially through clean up and repair strategies.

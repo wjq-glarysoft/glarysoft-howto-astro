@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Visual Effects for Better Performance"
 date: 2025-04-19
+slug: "optimizing-windows-visual-effects-for-better-performance-5"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Visual effects in Windows add an element of aesthetics with features like animations, shadows, and transparency. However, these effects can sometimes slow down your computer, especially if you're using an older system or have limited hardware resources. Optimizing these visual effects can enhance your PC's performance significantly. Here’s a step-by-step guide to help you adjust these settings for a smoother experience.

@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Task Scheduling Techniques with Built-in Features: Windows User Guide"
 date: 2025-06-10
+slug: "master-windows-task-scheduling-techniques-with-built-in-features-windows-user-guide-4"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Task scheduling is a critical skill for anyone aiming to automate and optimize their Windows experience. Windows comes equipped with powerful built-in tools, notably Task Scheduler, that allow you to automate routine maintenance, system optimization, and custom workflows. This guide covers practical steps for both beginners and advanced users, with a special focus on real-world system tasks.

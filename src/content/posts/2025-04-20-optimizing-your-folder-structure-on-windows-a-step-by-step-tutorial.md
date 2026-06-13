@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Your Folder Structure on Windows: A Step-by-Step Tutorial"
 date: 2025-04-20
+slug: "optimizing-your-folder-structure-on-windows-a-step-by-step-tutorial"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Creating an organized folder structure is crucial for efficient file management on your Windows PC. A well-thought-out structure not only saves time but also enhances productivity by making files easily accessible. This guide will provide you with practical advice and actionable steps to optimize your folder structure.

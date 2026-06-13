@@ -1,8 +1,10 @@
 ---
 title: "How to Optimize Your Windows Startup: A Beginner's Guide"
 date: 2025-04-11
+slug: "how-to-optimize-your-windows-startup-a-beginners-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 When you turn on your computer, do you find yourself waiting an eternity for Windows to start? A sluggish startup can be frustrating, but with a few practical steps, you can significantly reduce startup time and enhance your PC's performance. Here's a beginner-friendly guide to optimizing your Windows startup.

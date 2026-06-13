@@ -1,8 +1,10 @@
 ---
 title: "10 Essential Windows Update Repair Techniques Every Windows User Should Know"
 date: 2025-05-09
+slug: "10-essential-windows-update-repair-techniques-every-windows-user-should-know"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Windows updates are crucial for maintaining the security and performance of your PC. However, they can sometimes lead to issues that require troubleshooting and repair. Here are ten essential Windows update repair techniques to help you navigate and resolve these challenges.

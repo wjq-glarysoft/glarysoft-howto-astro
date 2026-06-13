@@ -1,8 +1,10 @@
 ---
 title: "troubleshoot file synchronization across devices Like a Pro: Windows 11 Guide"
 date: 2025-05-18
+slug: "troubleshoot-file-synchronization-across-devices-like-a-pro-windows-11-guide"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 File synchronization across multiple devices is essential in today’s digital age, especially for users who need continuous access to their data from different locations. However, beginners often encounter issues with syncing files on Windows 11. This guide will help you understand how to troubleshoot these issues effectively.

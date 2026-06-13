@@ -1,8 +1,10 @@
 ---
 title: "Windows Network Performance Tuning Solutions: From Basics to Advanced Techniques"
 date: 2025-07-14
+slug: "windows-network-performance-tuning-solutions-from-basics-to-advanced-techniques-3"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Are you experiencing slow downloads, lag during online gaming, or video buffering on your Windows PC? Optimizing your network can make a big difference, even if you’re just starting out. This article guides you through simple yet effective ways to tune your Windows network performance, with easy steps for beginners and tips using reliable tools like Glary Utilities.

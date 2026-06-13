@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Secure Windows Task Scheduling Techniques in Windows 10"
 date: 2025-06-29
+slug: "the-complete-guide-to-secure-windows-task-scheduling-techniques-in-windows-10"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Task scheduling is an essential tool for automating routine actions, maintenance, and system optimization in Windows 10. However, improper use of scheduled tasks can introduce security and stability risks. This guide explains how to securely schedule tasks in Windows 10, with practical examples and actionable advice suitable for all user levels.

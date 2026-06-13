@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems File Naming Conventions and Organization Optimization Made Easy"
 date: 2025-06-14
+slug: "windows-systems-file-naming-conventions-and-organization-optimization-made-easy"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Organizing files and folders efficiently is essential for maximizing productivity and preventing chaos on your Windows system. With countless documents, images, downloads, and work-related files accumulating over time, a robust file naming convention and organization strategy can save hours of frustration. This article provides expert recommendations and real-world examples to help both beginners and advanced users optimize their file management on Windows.

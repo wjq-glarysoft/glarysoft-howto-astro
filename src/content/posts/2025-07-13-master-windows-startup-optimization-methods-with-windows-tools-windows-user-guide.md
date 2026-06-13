@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Startup Optimization Methods with Windows Tools: Windows User Guide"
 date: 2025-07-13
+slug: "master-windows-startup-optimization-methods-with-windows-tools-windows-user-guide"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Why is Optimizing Windows Startup Important?

@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Command Line Tools with Windows Tools: Windows User Guide"
 date: 2025-04-24
+slug: "master-windows-command-line-tools-with-windows-tools-windows-user-guide"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 For many beginner-level Windows users, the command line can seem like a daunting place, often associated with complex operations best left to IT professionals. However, with the right guidance, command line tools can become invaluable in optimizing and maintaining your Windows PC. This guide will introduce you to some essential command line tools and show you how they can be used for everyday tasks.

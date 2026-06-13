@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Command Line Tools Management in Windows"
 date: 2025-06-23
+slug: "advanceds-guide-to-windows-command-line-tools-management-in-windows-2"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Windows offers a robust set of command line tools that can empower users to manage, troubleshoot, and optimize their systems with precision. For professionals seeking efficiency or tackling advanced administration tasks, mastering these tools is essential. This guide provides actionable advice, real-world examples, and a practical approach to managing system tools in Windows using the command line.

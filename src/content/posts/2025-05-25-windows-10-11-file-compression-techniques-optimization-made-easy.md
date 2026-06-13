@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 File Compression Techniques: Optimization Made Easy"
 date: 2025-05-25
+slug: "windows-10-11-file-compression-techniques-optimization-made-easy"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Are your Windows 10 or 11 drives filling up faster than you’d like? Efficient file compression can help you reclaim valuable disk space without deleting important data. This article explores file compression techniques, offering actionable best practices and practical examples that all Windows users—from beginners to advanced—can follow to optimize their storage.

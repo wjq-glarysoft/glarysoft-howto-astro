@@ -1,8 +1,10 @@
 ---
 title: "12 Essential Windows Performance Optimization Tips Every Windows User Should Know"
 date: 2025-05-27
+slug: "12-essential-windows-performance-optimization-tips-every-windows-user-should-know"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Optimizing your Windows PC can make a huge difference in speed, stability, and overall user experience. However, many users fall into common traps or overlook essential steps when trying to boost performance. In this article, we’ll explore 12 essential tips—framed around mistakes to avoid—to help you get the most from your system. Whether you’re a beginner or an advanced user, these practical recommendations and real-world examples will guide you toward a smoother and faster Windows experience.

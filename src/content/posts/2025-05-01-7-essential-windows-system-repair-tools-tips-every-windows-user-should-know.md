@@ -1,8 +1,10 @@
 ---
 title: "7 Essential Windows System Repair Tools Tips Every Windows User Should Know"
 date: 2025-05-01
+slug: "7-essential-windows-system-repair-tools-tips-every-windows-user-should-know"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Windows systems, like any other technology, require regular maintenance to function optimally. Repair tools are essential in your system maintenance toolkit, whether you're facing performance issues, error messages, or system crashes. Here are seven essential tips on using system repair tools effectively to keep your Windows operating smoothly.

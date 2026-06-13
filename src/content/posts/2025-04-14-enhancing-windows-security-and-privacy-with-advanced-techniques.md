@@ -1,8 +1,10 @@
 ---
 title: "Enhancing Windows Security and Privacy with Advanced Techniques"
 date: 2025-04-14
+slug: "enhancing-windows-security-and-privacy-with-advanced-techniques"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 In today's digital age, maintaining robust security and privacy on your Windows PC is more crucial than ever. With cyber threats evolving constantly, it's essential to leverage advanced techniques for fortifying your system. This article outlines practical steps you can take to enhance your Windows security and privacy.

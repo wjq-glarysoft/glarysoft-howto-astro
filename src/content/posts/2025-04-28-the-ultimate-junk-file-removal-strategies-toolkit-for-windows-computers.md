@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Junk File Removal Strategies Toolkit for Windows Computers"
 date: 2025-04-28
+slug: "the-ultimate-junk-file-removal-strategies-toolkit-for-windows-computers"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Introduction: Understanding Junk Files

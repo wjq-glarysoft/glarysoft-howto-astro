@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Essential Windows Maintenance Tasks and Tools Management in Windows"
 date: 2025-04-26
+slug: "intermediates-guide-to-essential-windows-maintenance-tasks-and-tools-management-in-windows"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Maintaining a Windows PC in optimal condition involves regular upkeep and smart management of system tools. This guide provides insights into essential tasks and tools that can help keep your system running smoothly. Whether you're a beginner or an advanced user, there's something here for everyone.

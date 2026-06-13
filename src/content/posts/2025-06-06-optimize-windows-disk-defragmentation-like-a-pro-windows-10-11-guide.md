@@ -1,8 +1,10 @@
 ---
 title: "optimize Windows disk defragmentation Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-06
+slug: "optimize-windows-disk-defragmentation-like-a-pro-windows-10-11-guide"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Disk defragmentation is a key part of keeping your Windows computer running smoothly, especially if you use mechanical hard drives (HDDs). Over time, your files can become scattered across different parts of the drive, which can slow down performance. Defragmentation reorganizes this data, allowing your computer to access files more quickly. This guide will walk you through everything you need to know to optimize disk defragmentation on Windows 10 and 11—whether you’re a beginner or an advanced user.

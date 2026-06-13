@@ -1,8 +1,10 @@
 ---
 title: "Mastering File Search and Indexing on Windows: A Beginner's Guide"
 date: 2025-04-17
+slug: "mastering-file-search-and-indexing-on-windows-a-beginners-guide"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Searching for files on your Windows computer can sometimes feel like looking for a needle in a haystack. Fortunately, Windows offers several built-in tools to help you find your files quickly and efficiently. This guide will walk you through some essential file search and indexing techniques to streamline your file management tasks.

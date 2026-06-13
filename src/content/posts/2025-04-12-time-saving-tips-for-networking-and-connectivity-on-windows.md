@@ -1,8 +1,10 @@
 ---
 title: "Time-Saving Tips for Networking and Connectivity on Windows"
 date: 2025-04-12
+slug: "time-saving-tips-for-networking-and-connectivity-on-windows"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Networking and connectivity issues on Windows can significantly affect productivity, whether you're working from home or managing a business network. However, with some time-saving strategies, you can streamline your networking tasks and avoid common pitfalls. Here are some practical tips to enhance your network experience on Windows.

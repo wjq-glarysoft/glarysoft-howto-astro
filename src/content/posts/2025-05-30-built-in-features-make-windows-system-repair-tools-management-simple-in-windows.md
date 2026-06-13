@@ -1,8 +1,10 @@
 ---
 title: "Built-in Features Make Windows System Repair Tools Management Simple in Windows"
 date: 2025-05-30
+slug: "built-in-features-make-windows-system-repair-tools-management-simple-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Windows users often encounter issues like sluggish performance, unexpected crashes, or mysterious error messages. Fortunately, Microsoft has equipped Windows with a suite of built-in system repair tools that make troubleshooting and maintenance more straightforward. Whether you're a beginner exploring basic options or an advanced user seeking powerful command-line utilities, understanding these features can dramatically improve your ability to repair and optimize your PC.

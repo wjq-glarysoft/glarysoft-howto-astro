@@ -1,8 +1,10 @@
 ---
 title: "How to Configure Windows Disk Cleanup and Optimization for Intermediate Windows Users?"
 date: 2025-05-22
+slug: "how-to-configure-windows-disk-cleanup-and-optimization-for-intermediate-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Optimizing and cleaning up your Windows system is crucial for maintaining its performance and extending its lifespan. For intermediate users, understanding how to efficiently configure disk cleanup and optimization tools can significantly streamline your PC's operations. This article provides you with practical steps and expert recommendations to effectively manage your disk space and keep your system running smoothly.

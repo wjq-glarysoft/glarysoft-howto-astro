@@ -1,8 +1,10 @@
 ---
 title: "maintain file naming conventions and organization Like a Pro: Windows 10 & 11 Guide"
 date: 2025-07-14
+slug: "maintain-file-naming-conventions-and-organization-like-a-pro-windows-10-11-guide"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Managing files and folders efficiently is crucial for anyone who wants to save time and reduce frustration on their Windows computer. Adopting clear file naming conventions and a logical organization system helps you find what you need quickly, prevents duplicate files, and keeps your PC clutter-free. Whether you’re new to Windows or a power user aiming to level up your workflow, this guide will walk you through best practices, real-world examples, and tips to optimize file management.

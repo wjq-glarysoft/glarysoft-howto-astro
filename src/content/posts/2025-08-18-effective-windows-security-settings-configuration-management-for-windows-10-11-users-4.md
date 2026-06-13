@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows security settings configuration Management for Windows 10 & 11 Users"
 date: 2025-08-18
+slug: "effective-windows-security-settings-configuration-management-for-windows-10-11-users-4"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Securing a Windows 10 or Windows 11 PC means going beyond simply installing antivirus software. Both versions of Windows come with built-in security features that, when properly configured, provide strong protection against threats such as malware, phishing, and unauthorized access. Managing these settings effectively ensures that your personal data remains safe while also maintaining system performance.

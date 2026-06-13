@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Diagnostic Utilities Management in Windows"
 date: 2025-06-07
+slug: "beginners-guide-to-windows-diagnostic-utilities-management-in-windows"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 If you’re new to Windows and want to keep your computer running smoothly, understanding diagnostic utilities is a great first step. These built-in and third-party tools help you identify, troubleshoot, and fix common problems on your PC. This guide will introduce you to Windows diagnostic utilities, explain how they work, and provide practical steps for using them.

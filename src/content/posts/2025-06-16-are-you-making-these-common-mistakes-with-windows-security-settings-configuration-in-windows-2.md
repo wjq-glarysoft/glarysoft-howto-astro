@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Security Settings Configuration in Windows?"
 date: 2025-06-16
+slug: "are-you-making-these-common-mistakes-with-windows-security-settings-configuration-in-windows-2"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows offers a robust set of security features, but even the most conscientious users can overlook crucial settings that leave their systems exposed. Common misconfigurations can open doors to malware, data leaks, and unauthorized access. This article breaks down the most frequent mistakes made when configuring Windows security settings, and offers practical, step-by-step fixes for every skill level.

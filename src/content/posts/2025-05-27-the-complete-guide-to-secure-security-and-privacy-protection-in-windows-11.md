@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Secure Security and Privacy Protection in Windows 11"
 date: 2025-05-27
+slug: "the-complete-guide-to-secure-security-and-privacy-protection-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Windows 11 brings a modern, user-friendly design, but it also introduces new privacy and security challenges. With personal and work data at risk, both beginners and advanced users must understand how to secure their systems effectively. This guide provides professional insights, practical steps, and real-world advice to help you protect your privacy and security on Windows 11.

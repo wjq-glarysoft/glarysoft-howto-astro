@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Disk Management and Cleanup: Expert Recommendations"
 date: 2025-04-12
+slug: "optimizing-windows-disk-management-and-cleanup-expert-recommendations"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Maintaining a clean and organized hard drive is crucial for a smooth and efficient Windows experience. Over time, your PC can accumulate unnecessary files that take up space and potentially slow down system performance. Here is a comprehensive guide on effectively managing and cleaning up your disk space.

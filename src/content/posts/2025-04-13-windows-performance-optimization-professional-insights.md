@@ -1,8 +1,10 @@
 ---
 title: "Windows Performance Optimization: Professional Insights"
 date: 2025-04-13
+slug: "windows-performance-optimization-professional-insights"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Optimizing Windows performance is essential for ensuring that your PC runs smoothly, efficiently, and without unnecessary slowdowns. Whether you're using your computer for work, gaming, or general tasks, these professional insights will guide you through practical steps to enhance your system's performance.

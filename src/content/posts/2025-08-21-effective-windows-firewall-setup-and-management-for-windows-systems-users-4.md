@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Firewall Setup and Management for Windows Systems Users"
 date: 2025-08-21
+slug: "effective-windows-firewall-setup-and-management-for-windows-systems-users-4"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 The Windows Firewall is one of the most essential built-in tools that helps protect a PC from unauthorized network access and potential threats. Whether you’re a beginner who just wants to make sure your system is safe or an advanced user who needs to customize rules for specific applications, managing the firewall properly is a key step in maintaining privacy and security.

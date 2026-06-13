@@ -1,8 +1,10 @@
 ---
 title: "organize Windows security and privacy enhancements Like a Pro: Windows Systems Guide"
 date: 2025-07-14
+slug: "organize-windows-security-and-privacy-enhancements-like-a-pro-windows-systems-guide"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Windows devices store a wealth of personal and sensitive information, making privacy and security essential for every user. Whether you’re a beginner just setting up a new PC or a seasoned Windows pro, organizing your system’s security and privacy settings can be simple and highly effective. This guide walks you through real-world steps to secure your Windows computer and protect your privacy, with practical tips for users at every skill level.

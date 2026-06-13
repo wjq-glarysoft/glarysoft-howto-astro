@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Clean Windows Temporary Files in Windows 10 & 11"
 date: 2025-05-21
+slug: "top-10-ways-to-clean-windows-temporary-files-in-windows-10-11"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 As a Windows user, temporary files can accumulate over time, taking up valuable space and potentially slowing down your system. These files, created during normal operations, can be safely deleted to enhance performance. Here are the top 10 expert-recommended methods to clean up temporary files in Windows 10 and 11.

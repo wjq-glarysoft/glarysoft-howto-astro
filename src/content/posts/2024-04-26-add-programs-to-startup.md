@@ -1,12 +1,10 @@
 ---
 title: "How to Add Programs to Startup"
 date: 2024-04-26
+slug: "add-programs-to-startup"
 categories: 
   - "optimize-improve"
-tags: 
-  - "add-program-to-startup"
-  - "change-programs-that-open-on-startup"
-  - "windows-startup-programs"
+author: "antonia"
 ---
 
 Adding programs to startup is crucial for optimizing your computer's performance and ensuring that essential applications are readily available when you boot up your system. By using the "Add a Startup Item" feature in Glary Utilities' [Startup Manager](https://www.glarysoft.com/kb/startup-manager/), you can effectively manage Windows startup programs with ease, resulting in changing programs that open on startup and optimize your computer's startup routine.

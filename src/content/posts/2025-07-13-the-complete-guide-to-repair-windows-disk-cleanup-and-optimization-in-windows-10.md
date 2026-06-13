@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Repair Windows Disk Cleanup and Optimization in Windows 10"
 date: 2025-07-13
+slug: "the-complete-guide-to-repair-windows-disk-cleanup-and-optimization-in-windows-10"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Keeping your Windows 10 PC clean and optimized is crucial for its performance, stability, and longevity. Disk cleanup and system optimization are essential maintenance tasks that prevent clutter, free up valuable storage, and help your computer run smoothly. If you are an intermediate Windows user, this guide will walk you through practical methods to repair, clean up, and optimize your Windows 10 system, with real-world examples and step-by-step instructions.

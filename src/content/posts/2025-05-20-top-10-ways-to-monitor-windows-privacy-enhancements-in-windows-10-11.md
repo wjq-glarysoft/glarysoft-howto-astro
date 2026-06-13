@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Monitor Windows Privacy Enhancements in Windows 10 & 11"
 date: 2025-05-20
+slug: "top-10-ways-to-monitor-windows-privacy-enhancements-in-windows-10-11"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 With increasing concerns about digital privacy, Windows 10 and 11 offer several built-in features and tools to help you monitor and enhance your privacy. This article will guide you through the top 10 ways to keep your Windows privacy in check, tailored for beginners and advanced users alike.

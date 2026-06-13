@@ -1,8 +1,10 @@
 ---
 title: "10 Essential Windows Temporary File Cleanup Tips Every Windows User Should Know"
 date: 2025-05-10
+slug: "10-essential-windows-temporary-file-cleanup-tips-every-windows-user-should-know"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Temporary files can clutter your Windows system, slowing down performance and consuming valuable disk space. Cleaning up these files regularly can help maintain your computer's efficiency. This guide presents ten essential tips for temporary file cleanup, with step-by-step instructions suitable for both beginners and advanced users.

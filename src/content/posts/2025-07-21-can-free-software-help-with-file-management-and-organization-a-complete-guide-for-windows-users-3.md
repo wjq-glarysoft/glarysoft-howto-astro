@@ -1,8 +1,10 @@
 ---
 title: "Can Free Software Help with File Management and Organization? A Complete Guide for Windows Users"
 date: 2025-07-21
+slug: "can-free-software-help-with-file-management-and-organization-a-complete-guide-for-windows-users-3"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Introduction

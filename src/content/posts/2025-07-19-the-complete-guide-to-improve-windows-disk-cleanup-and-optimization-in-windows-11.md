@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Improve Windows Disk Cleanup and Optimization in Windows 11"
 date: 2025-07-19
+slug: "the-complete-guide-to-improve-windows-disk-cleanup-and-optimization-in-windows-11"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Disk cleanup and system optimization are essential tasks for keeping your Windows 11 PC running smoothly, efficiently, and free from performance issues. Whether you're a casual user, an enthusiast, or a professional, understanding the best practices and tools available can make a noticeable difference in system responsiveness and longevity. This guide offers professional insights and step-by-step instructions to help all Windows users achieve effective disk cleanup and optimization.

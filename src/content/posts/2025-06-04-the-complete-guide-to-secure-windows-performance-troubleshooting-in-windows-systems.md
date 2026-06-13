@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Secure Windows Performance Troubleshooting in Windows Systems"
 date: 2025-06-04
+slug: "the-complete-guide-to-secure-windows-performance-troubleshooting-in-windows-systems"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Windows performance issues can crop up unexpectedly, slowing down your productivity and making even simple tasks a chore. Whether you’re a novice or a seasoned Windows user, understanding how to diagnose and securely resolve performance problems is crucial. This guide walks you through secure troubleshooting methods, focusing on clean up and repair practices that keep your system fast and safe.

@@ -1,8 +1,10 @@
 ---
 title: "Mastering Windows Command Line Tools for System Optimization"
 date: 2025-04-19
+slug: "mastering-windows-command-line-tools-for-system-optimization"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 The Windows Command Line, often referred to as Command Prompt, is a powerful tool for system management and troubleshooting. While it might seem daunting at first, mastering a few essential commands can significantly enhance your Windows experience. This article provides a step-by-step guide on using command line tools to optimize and maintain your Windows system.

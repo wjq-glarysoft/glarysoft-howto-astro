@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Startup for Faster Boot Times"
 date: 2025-04-10
+slug: "optimizing-windows-startup-for-faster-boot-times"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 A slow startup can be one of the most frustrating experiences for any Windows user. Fortunately, there are several effective methods to optimize your Windows startup and ensure your system is up and running as quickly as possible. By following these practical, actionable tips, you can significantly reduce your boot times.

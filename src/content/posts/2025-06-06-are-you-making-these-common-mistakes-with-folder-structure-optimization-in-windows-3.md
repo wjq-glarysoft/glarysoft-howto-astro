@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Folder Structure Optimization in Windows?"
 date: 2025-06-06
+slug: "are-you-making-these-common-mistakes-with-folder-structure-optimization-in-windows-3"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Organizing your files and folders in Windows may seem simple, but poor folder structure can waste valuable time and make it difficult to find what you need. Many beginners unknowingly repeat the same mistakes, leading to cluttered desktops, lost documents, and unnecessary stress. Let’s explore how to avoid these pitfalls and create a time-saving folder system.

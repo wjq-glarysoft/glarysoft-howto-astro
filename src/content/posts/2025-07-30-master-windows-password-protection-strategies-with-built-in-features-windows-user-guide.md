@@ -1,8 +1,10 @@
 ---
 title: "Master Windows password protection strategies with Built-in Features: Windows User Guide"
 date: 2025-07-30
+slug: "master-windows-password-protection-strategies-with-built-in-features-windows-user-guide"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Why Is Password Protection Crucial for Windows Privacy & Security?

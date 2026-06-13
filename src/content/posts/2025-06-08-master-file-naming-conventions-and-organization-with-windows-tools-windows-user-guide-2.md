@@ -1,8 +1,10 @@
 ---
 title: "Master file naming conventions and organization with Windows Tools: Windows User Guide"
 date: 2025-06-08
+slug: "master-file-naming-conventions-and-organization-with-windows-tools-windows-user-guide-2"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Why Are File Naming Conventions Important in Windows?

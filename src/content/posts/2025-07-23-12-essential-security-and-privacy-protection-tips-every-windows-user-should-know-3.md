@@ -1,8 +1,10 @@
 ---
 title: "12 Essential Security and Privacy Protection Tips Every Windows User Should Know"
 date: 2025-07-23
+slug: "12-essential-security-and-privacy-protection-tips-every-windows-user-should-know-3"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Windows computers are powerful, versatile tools, but they’re also popular targets for hackers and online threats. Whether you’re a new user or you’ve been running Windows for years, taking the right steps to protect your privacy and security is essential. This guide covers 12 actionable tips—ranging from simple beginner steps to advanced configurations—to help safeguard your computer and your personal data.

@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Maintain Windows Security Settings Configuration in Windows 10 & 11"
 date: 2025-05-21
+slug: "top-10-ways-to-maintain-windows-security-settings-configuration-in-windows-10-11"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Maintaining robust security settings on Windows 10 and 11 is crucial for protecting your system from potential threats. However, even advanced users can make common errors that leave their systems vulnerable. This article delves into the top ten ways to maintain your Windows security configurations while avoiding typical mistakes.

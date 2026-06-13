@@ -1,8 +1,10 @@
 ---
 title: "How to Clean Windows Temporary Files for Beginner Windows Users?"
 date: 2025-07-20
+slug: "how-to-clean-windows-temporary-files-for-beginner-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Do you notice your computer running slower or running out of storage? One of the easiest and most effective ways to free up space and boost your PC’s performance is cleaning out temporary files. These files accumulate over time and can clutter your system, but with a few simple steps, you can safely remove them and enjoy a smoother Windows experience. This guide will show you time-saving tips and easy methods for cleaning up temporary files, suitable for all levels of Windows users.

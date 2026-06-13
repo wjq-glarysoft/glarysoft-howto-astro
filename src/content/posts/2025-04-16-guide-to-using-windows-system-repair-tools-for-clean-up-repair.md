@@ -1,8 +1,10 @@
 ---
 title: "Guide to Using Windows System Repair Tools for Clean Up & Repair"
 date: 2025-04-16
+slug: "guide-to-using-windows-system-repair-tools-for-clean-up-repair"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 A robust Windows operating system is crucial for maintaining peak performance of your PC. Over time, unnecessary files, registry errors, and fragmented data can accumulate, leading to system slowdowns and errors. In this tutorial, we will explore practical steps to clean up and repair your Windows system using built-in tools and recommend Glary Utilities for comprehensive system optimization.

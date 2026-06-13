@@ -1,8 +1,10 @@
 ---
 title: "monitor Windows security settings configuration Like a Pro: Windows 11 Guide"
 date: 2025-06-22
+slug: "monitor-windows-security-settings-configuration-like-a-pro-windows-11-guide"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 For advanced Windows users, security goes beyond the basics of enabling Windows Defender. To truly protect your data and privacy on Windows 11, you need a comprehensive approach—regularly monitoring, auditing, and fine-tuning security settings for your specific environment. This guide explores best practices, practical tips, and real-world tools to help you master privacy and security configurations on Windows 11.

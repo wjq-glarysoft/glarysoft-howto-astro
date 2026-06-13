@@ -1,8 +1,10 @@
 ---
 title: "How to Improve Windows Performance: Optimization Tips for Intermediate Windows Users"
 date: 2025-07-05
+slug: "how-to-improve-windows-performance-optimization-tips-for-intermediate-windows-users"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Optimizing your Windows PC doesn’t have to be a time-consuming or complex process. Whether you use your computer for work, gaming, or everyday tasks, a few strategic steps can result in faster performance, fewer errors, and a smoother overall experience. In this guide, we’ll focus on time-saving optimization tips and practical actions you can take—most of which require just a few minutes of your time.

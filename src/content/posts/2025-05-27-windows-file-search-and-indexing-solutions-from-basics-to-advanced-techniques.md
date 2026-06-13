@@ -1,8 +1,10 @@
 ---
 title: "Windows File Search and Indexing Solutions: From Basics to Advanced Techniques"
 date: 2025-05-27
+slug: "windows-file-search-and-indexing-solutions-from-basics-to-advanced-techniques"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 For advanced Windows users, efficient file search and indexing are essential not just for daily productivity, but also for maintaining a well-optimized and responsive system. This article explores both fundamental and advanced techniques for managing file search and indexing in Windows, highlighting how to harness built-in features and third-party tools for superior results.

@@ -1,8 +1,10 @@
 ---
 title: "Built-in Features Makes Windows file sharing and permissions Management Simple in Windows"
 date: 2025-04-30
+slug: "built-in-features-makes-windows-file-sharing-and-permissions-management-simple-in-windows"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Managing file sharing and permissions in Windows might sound daunting, especially for beginners. However, Windows offers built-in features that make these tasks straightforward and manageable. By understanding these features, you can share files effectively and maintain control over who accesses your data.

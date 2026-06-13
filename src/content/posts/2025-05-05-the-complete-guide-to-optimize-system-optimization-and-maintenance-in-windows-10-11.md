@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Optimize System Optimization and Maintenance in Windows 10 & 11"
 date: 2025-05-05
+slug: "the-complete-guide-to-optimize-system-optimization-and-maintenance-in-windows-10-11"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Windows 10 and 11 offer a robust platform for a wide range of tasks, but like any operating system, they require regular maintenance and optimization to perform at their best. Whether you're a beginner or an advanced user, optimizing your Windows system involves a mix of simple routine tasks and more advanced techniques. This guide will walk you through both, ensuring your system runs smoothly and efficiently.

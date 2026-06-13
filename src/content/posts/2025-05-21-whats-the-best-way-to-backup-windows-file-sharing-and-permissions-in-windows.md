@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to backup Windows file sharing and permissions in Windows?"
 date: 2025-05-21
+slug: "whats-the-best-way-to-backup-windows-file-sharing-and-permissions-in-windows"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 For beginners navigating the Windows operating system, understanding how to back up file sharing settings and permissions can seem daunting. However, safeguarding these settings is crucial to maintaining consistent file access and security across your network. This tutorial walks you through the process step-by-step, ensuring you don't lose your valuable configuration in the event of a system failure.

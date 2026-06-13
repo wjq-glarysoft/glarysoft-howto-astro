@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Maintain Windows Security and Privacy Enhancements in Windows 10 & 11"
 date: 2025-05-05
+slug: "the-complete-guide-to-maintain-windows-security-and-privacy-enhancements-in-windows-10-11"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Introduction

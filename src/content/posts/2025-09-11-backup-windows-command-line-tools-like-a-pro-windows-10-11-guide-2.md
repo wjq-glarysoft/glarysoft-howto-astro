@@ -1,8 +1,10 @@
 ---
 title: "backup Windows command line tools Like a Pro: Windows 10 & 11 Guide"
 date: 2025-09-11
+slug: "backup-windows-command-line-tools-like-a-pro-windows-10-11-guide-2"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Backing up files and system data is one of the most important maintenance tasks every Windows user should perform regularly. While many rely on graphical tools, Windows 10 and 11 also provide powerful command line tools that can perform backups quickly, efficiently, and with a high degree of control. Learning how to use these tools gives you flexibility, especially when you need automated or scheduled backups without third-party applications.

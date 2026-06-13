@@ -1,8 +1,10 @@
 ---
 title: "Effective File Management and Organization for Windows 10 Users"
 date: 2025-04-24
+slug: "effective-file-management-and-organization-for-windows-10-users"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Navigating through a cluttered digital workspace can be frustrating and time-consuming. Effective file management and organization are essential skills for any Windows 10 user. Whether you're a beginner or an advanced user, this guide will help you streamline your file and folder organization for improved efficiency.

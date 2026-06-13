@@ -1,8 +1,10 @@
 ---
 title: "monitor Windows network performance tuning Like a Pro: Windows Systems Guide"
 date: 2025-05-16
+slug: "monitor-windows-network-performance-tuning-like-a-pro-windows-systems-guide"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Optimizing and improving network performance on a Windows system can significantly enhance your online experience, whether you're gaming, streaming, or working from home. This guide will walk you through the steps to monitor and tune your Windows network like a professional, using both built-in tools and third-party software to achieve the best results.

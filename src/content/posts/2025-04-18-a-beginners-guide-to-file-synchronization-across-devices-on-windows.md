@@ -1,8 +1,10 @@
 ---
 title: "A Beginner's Guide to File Synchronization Across Devices on Windows"
 date: 2025-04-18
+slug: "a-beginners-guide-to-file-synchronization-across-devices-on-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 File synchronization is an essential process that allows users to keep their files and folders up-to-date across multiple devices. Whether you're working on several computers or need access to the same files on your desktop and laptop, synchronizing your data ensures that you always have the latest version of your files no matter where you are. This guide will walk you through the basics of file synchronization for Windows users, offering practical tips and real-world examples.

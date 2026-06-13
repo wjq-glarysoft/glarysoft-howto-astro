@@ -1,8 +1,10 @@
 ---
 title: "Why is Windows Firewall Setup and Management Important for Your Windows PC and How to Manage It?"
 date: 2025-07-06
+slug: "why-is-windows-firewall-setup-and-management-important-for-your-windows-pc-and-how-to-manage-it-4"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 A firewall acts as a protective barrier between your computer and potential threats from the internet or local networks. On Windows PCs, the built-in Windows Defender Firewall is a critical component for maintaining privacy and security. But understanding why proper firewall setup matters, and knowing how to manage it effectively, can make the difference between a safe computer and one vulnerable to attacks.

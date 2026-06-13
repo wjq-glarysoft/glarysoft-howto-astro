@@ -1,8 +1,10 @@
 ---
 title: "Essential folder structure optimization Techniques for Windows Users"
 date: 2025-07-29
+slug: "essential-folder-structure-optimization-techniques-for-windows-users-11"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Why is Folder Structure Optimization Important on Windows?

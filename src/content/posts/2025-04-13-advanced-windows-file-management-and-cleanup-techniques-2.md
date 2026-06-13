@@ -1,8 +1,10 @@
 ---
 title: "Advanced Windows File Management and Cleanup Techniques"
 date: 2025-04-13
+slug: "advanced-windows-file-management-and-cleanup-techniques-2"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Managing files on a Windows system efficiently is a skill that can greatly improve productivity and system performance. Beyond the basics of file organization, advanced techniques can help ensure your system runs smoothly and your data is easily accessible. Here are some practical, advanced file management and cleanup techniques that can enhance your Windows experience.

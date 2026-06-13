@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows System Repair Tools for Clean Up & Repair"
 date: 2025-04-17
+slug: "essential-windows-system-repair-tools-for-clean-up-repair"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 As a professional in the realm of Windows optimization and maintenance, ensuring your PC runs smoothly is crucial. System repair tools play a vital role in diagnosing and fixing common issues that can slow down your computer or cause it to behave erratically. Here's a detailed look at the essential tools and practical advice to help you clean up and repair your Windows system efficiently.

@@ -1,8 +1,10 @@
 ---
 title: "Master Windows performance optimization tips with Built-in Features: Windows User Guide"
 date: 2025-04-28
+slug: "master-windows-performance-optimization-tips-with-built-in-features-windows-user-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Optimizing the performance of your Windows PC can dramatically enhance your computing experience. While third-party tools like [Glary Utilities](https://www.glarysoft.com) offer comprehensive optimization features, Windows itself provides several built-in tools and settings to help you keep your system running smoothly. This guide will introduce intermediate Windows users to practical tips for optimizing system performance using these built-in features.

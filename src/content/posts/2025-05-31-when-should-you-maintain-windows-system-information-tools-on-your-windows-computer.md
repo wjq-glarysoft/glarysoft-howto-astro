@@ -1,8 +1,10 @@
 ---
 title: "When Should You Maintain Windows System Information Tools on Your Windows Computer?"
 date: 2025-05-31
+slug: "when-should-you-maintain-windows-system-information-tools-on-your-windows-computer"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Understanding when and how to maintain your Windows system information tools is an important part of keeping your PC running smoothly, especially for beginner users. System information tools are built into Windows and also available from third-party software, such as Glary Utilities. These tools help you understand your PC’s health, performance, and hardware details, making troubleshooting and upgrades much easier.

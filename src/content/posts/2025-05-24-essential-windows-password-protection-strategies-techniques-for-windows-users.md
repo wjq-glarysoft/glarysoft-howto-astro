@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Password Protection Strategies: Techniques for Windows Users"
 date: 2025-05-24
+slug: "essential-windows-password-protection-strategies-techniques-for-windows-users"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Why Is Password Protection Important for Windows?

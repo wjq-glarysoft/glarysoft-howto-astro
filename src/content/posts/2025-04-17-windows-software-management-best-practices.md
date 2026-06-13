@@ -1,8 +1,10 @@
 ---
 title: "Windows Software Management Best Practices"
 date: 2025-04-17
+slug: "windows-software-management-best-practices"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Managing software on a Windows system can be a daunting task, especially given the wide range of applications available and the various ways they can affect system performance. Here, we present best practices focused on effective software management using Windows System Tools.

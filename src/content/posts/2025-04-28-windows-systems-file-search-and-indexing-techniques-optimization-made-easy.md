@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems file search and indexing techniques Optimization Made Easy"
 date: 2025-04-28
+slug: "windows-systems-file-search-and-indexing-techniques-optimization-made-easy"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 For advanced Windows users, optimizing file search and indexing can significantly streamline workflows and save valuable time. This article delves into advanced techniques to enhance your file-search capabilities and maximize efficiency.

@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to File Search and Indexing Techniques Management in Windows"
 date: 2025-07-13
+slug: "advanceds-guide-to-file-search-and-indexing-techniques-management-in-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Searching for files and folders on your Windows computer can sometimes feel overwhelming, especially when your drive is packed with documents, images, and applications. Efficient file search and smart indexing make a world of difference in speeding up your workflow and keeping your system organized. This guide is crafted for intermediate Windows users who want to get the most out of file search and indexing features.

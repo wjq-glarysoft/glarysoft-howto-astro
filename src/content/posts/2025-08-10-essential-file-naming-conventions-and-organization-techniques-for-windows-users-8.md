@@ -1,8 +1,10 @@
 ---
 title: "Essential file naming conventions and organization techniques for Windows users"
 date: 2025-08-10
+slug: "essential-file-naming-conventions-and-organization-techniques-for-windows-users-8"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Having a tidy, well-organized file system isn’t just for neatness—it saves time, reduces frustration, and helps prevent data loss. If you’ve ever wasted time searching for a document, lost a key version of a file, or struggled to recall where you saved something, it’s time to improve your file naming conventions and organization techniques. Here’s a step-by-step guide with real-world examples for Windows users of all levels to keep their files and folders easy to navigate and manage.

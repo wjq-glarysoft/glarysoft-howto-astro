@@ -1,8 +1,10 @@
 ---
 title: "Efficient File Search and Indexing Techniques on Windows for Time Savings"
 date: 2025-04-19
+slug: "efficient-file-search-and-indexing-techniques-on-windows-for-time-savings"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Searching for files on your Windows computer can sometimes feel like looking for a needle in a haystack, especially when dealing with a large volume of data. However, by leveraging Windows' built-in features and a few strategic techniques, you can significantly speed up the search process and save valuable time. Here’s how you can make the most of Windows file search and indexing capabilities.

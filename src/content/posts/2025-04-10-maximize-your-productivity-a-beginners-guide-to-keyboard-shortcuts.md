@@ -1,8 +1,10 @@
 ---
 title: "Maximize Your Productivity: A Beginner’s Guide to Keyboard Shortcuts"
 date: 2025-04-10
+slug: "maximize-your-productivity-a-beginners-guide-to-keyboard-shortcuts"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 In the digital age, efficiency is king. Whether you're a student typing up an essay, a professional working on a project, or just someone who spends a lot of time on the computer, mastering keyboard shortcuts can vastly enhance your productivity. For beginners, diving into the world of shortcuts might seem daunting, but with the right guidance, anyone can harness the power of these time-saving tools.

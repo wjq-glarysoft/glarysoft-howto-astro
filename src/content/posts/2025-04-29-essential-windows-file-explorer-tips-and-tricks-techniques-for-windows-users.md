@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows File Explorer Tips and Tricks Techniques for Windows Users"
 date: 2025-04-29
+slug: "essential-windows-file-explorer-tips-and-tricks-techniques-for-windows-users"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Windows File Explorer is an essential tool for navigating and managing your files and folders effectively. Whether you're a beginner or an experienced user, mastering some tips and tricks can significantly enhance your productivity. Here are some essential techniques that all Windows users can benefit from.

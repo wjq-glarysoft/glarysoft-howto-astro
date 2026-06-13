@@ -1,8 +1,10 @@
 ---
 title: "Mastering Windows File Explorer: Tips and Tricks for Best Practices"
 date: 2025-04-19
+slug: "mastering-windows-file-explorer-tips-and-tricks-for-best-practices"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Windows File Explorer is an essential tool for anyone using a Windows operating system. It serves as the primary interface for navigating through your files and folders, and though it seems straightforward, there are numerous tips and tricks that can enhance your efficiency and organization. In this article, we will explore practical, actionable advice to help you make the most of File Explorer.

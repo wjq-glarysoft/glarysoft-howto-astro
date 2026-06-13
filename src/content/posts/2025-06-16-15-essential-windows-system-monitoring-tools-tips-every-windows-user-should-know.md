@@ -1,8 +1,10 @@
 ---
 title: "15 Essential Windows System Monitoring Tools Tips Every Windows User Should Know"
 date: 2025-06-16
+slug: "15-essential-windows-system-monitoring-tools-tips-every-windows-user-should-know"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Why Should You Monitor Your Windows System?

@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid for Windows User Account Security"
 date: 2025-04-20
+slug: "common-mistakes-to-avoid-for-windows-user-account-security"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Securing your Windows user account is crucial for maintaining both privacy and security. Unfortunately, common mistakes can leave your system vulnerable to unauthorized access and data breaches. This article will walk you through typical errors to avoid and provide practical advice to enhance your account security.

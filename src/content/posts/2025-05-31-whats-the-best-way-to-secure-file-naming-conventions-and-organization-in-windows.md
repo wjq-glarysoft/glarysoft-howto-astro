@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Secure File Naming Conventions and Organization in Windows?"
 date: 2025-05-31
+slug: "whats-the-best-way-to-secure-file-naming-conventions-and-organization-in-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Keeping your files organized on a Windows computer not only saves time but also improves productivity and reduces the risk of losing important data. An effective file naming convention and a well-thought-out folder structure are crucial parts of this process. This guide provides step-by-step instructions and real-world examples to help Windows users at any level implement secure and efficient file naming and organization strategies.

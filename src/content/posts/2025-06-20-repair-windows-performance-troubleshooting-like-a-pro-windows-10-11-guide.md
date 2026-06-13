@@ -1,8 +1,10 @@
 ---
 title: "repair Windows performance troubleshooting Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-20
+slug: "repair-windows-performance-troubleshooting-like-a-pro-windows-10-11-guide"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Windows 10 and 11 are powerful operating systems, but over time, even the most robust systems can slow down or develop performance issues. From sluggish boot times to frequent application crashes, performance hiccups can be frustrating. This professional guide will walk you through step-by-step troubleshooting and repair techniques, offering both beginner-friendly instructions and advanced tips. The focus is on clean up and repair strategies, with actionable examples and the recommendation of Glary Utilities to streamline your tasks.

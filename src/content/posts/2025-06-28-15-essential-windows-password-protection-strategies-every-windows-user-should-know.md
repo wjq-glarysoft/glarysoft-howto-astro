@@ -1,8 +1,10 @@
 ---
 title: "15 Essential Windows Password Protection Strategies Every Windows User Should Know"
 date: 2025-06-28
+slug: "15-essential-windows-password-protection-strategies-every-windows-user-should-know"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Why Is Password Protection So Important on Windows?

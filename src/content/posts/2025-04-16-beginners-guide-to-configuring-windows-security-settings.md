@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Configuring Windows Security Settings"
 date: 2025-04-16
+slug: "beginners-guide-to-configuring-windows-security-settings"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 In today's digital age, protecting your personal information and ensuring your computer's security is more crucial than ever. Windows provides a range of security settings designed to safeguard your system and data from unauthorized access. This guide will walk you through the basics of configuring these settings, even if you're new to Windows security.

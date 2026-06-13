@@ -1,8 +1,10 @@
 ---
 title: "Built-in Features Make Windows File Explorer Management Simple in Windows"
 date: 2025-05-31
+slug: "built-in-features-make-windows-file-explorer-management-simple-in-windows"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Windows File Explorer is the heart of file and folder management on any Windows PC. Whether you're a new user or someone looking to work smarter, mastering File Explorer can save time and reduce frustration. Thankfully, Windows comes packed with features to make navigation, organization, and management easier than ever. This guide covers practical tips and neat tricks for all skill levels to help you get the most from File Explorer.

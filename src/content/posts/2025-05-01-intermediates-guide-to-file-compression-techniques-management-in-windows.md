@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to File Compression Techniques Management in Windows"
 date: 2025-05-01
+slug: "intermediates-guide-to-file-compression-techniques-management-in-windows"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Managing files and folders efficiently is key to optimizing your Windows experience. One of the most effective strategies for managing disk space and organizing data is through file compression. For intermediate Windows users, understanding the nuances of file compression can lead to better storage management and smoother computer performance. Here’s how you can harness file compression techniques effectively.

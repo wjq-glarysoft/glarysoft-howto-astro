@@ -1,8 +1,10 @@
 ---
 title: "Effective Security and Privacy Protection Management for Windows Systems Users"
 date: 2025-04-28
+slug: "effective-security-and-privacy-protection-management-for-windows-systems-users"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 In the digital age, securing your Windows system and protecting your privacy are crucial. This guide provides practical steps and examples for intermediate Windows users to bolster their security and privacy measures. Let’s explore ways to safeguard your system and personal information.

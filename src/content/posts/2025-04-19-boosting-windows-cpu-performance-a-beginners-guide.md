@@ -1,8 +1,10 @@
 ---
 title: "Boosting Windows CPU Performance: A Beginner's Guide"
 date: 2025-04-19
+slug: "boosting-windows-cpu-performance-a-beginners-guide"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 The central processing unit (CPU) is crucial for your Windows PC's performance, acting as the brain that executes commands and processes information. If your CPU isn't running optimally, it can severely impact your system's speed and efficiency. This guide provides practical, easy-to-follow steps to enhance your CPU's performance and improve your overall Windows experience.

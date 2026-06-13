@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Task Scheduling Techniques in Windows?"
 date: 2025-05-28
+slug: "are-you-making-these-common-mistakes-with-windows-task-scheduling-techniques-in-windows-2"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Task scheduling in Windows is a powerful tool, enabling you to automate routine tasks, schedule maintenance, launch programs at convenient times, and optimize system performance without manual intervention. However, even experienced users can stumble over common pitfalls that reduce efficiency or cause tasks to fail.

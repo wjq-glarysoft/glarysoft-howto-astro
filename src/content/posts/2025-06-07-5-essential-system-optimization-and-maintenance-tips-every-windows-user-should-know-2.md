@@ -1,8 +1,10 @@
 ---
 title: "5 Essential System Optimization and Maintenance Tips Every Windows User Should Know"
 date: 2025-06-07
+slug: "5-essential-system-optimization-and-maintenance-tips-every-windows-user-should-know-2"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Keeping your Windows PC running smoothly requires more than just installing updates. Regular optimization and maintenance are critical for improving performance, extending your computer’s lifespan, and preventing frustrating slowdowns. Whether you’re new to computers or an experienced power user, these five essential tips will help you get the best out of your Windows system.

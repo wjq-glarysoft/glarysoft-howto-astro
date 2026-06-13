@@ -1,8 +1,10 @@
 ---
 title: "7 Built-in Features for Better Windows Privacy Enhancements Management"
 date: 2025-06-28
+slug: "7-built-in-features-for-better-windows-privacy-enhancements-management"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Windows has evolved into a robust operating system with a significant focus on user privacy and security. Whether you’re a beginner or a seasoned user, it’s crucial to take control of your privacy settings to protect your data from unnecessary exposure. Here’s a step-by-step guide covering seven built-in Windows features you can use right now for better privacy management.

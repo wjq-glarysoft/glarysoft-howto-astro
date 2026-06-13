@@ -1,8 +1,10 @@
 ---
 title: "Troubleshooting Common Windows Issues: A Beginner's Guide"
 date: 2025-04-10
+slug: "troubleshooting-common-windows-issues-a-beginners-guide-2"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Experiencing issues with your Windows PC can be frustrating, especially if you're not sure where to start troubleshooting. This guide is designed to help beginners tackle common problems with practical, actionable advice. Whether it's a slow system, software crashes, or connectivity issues, we'll walk you through some basic steps to solve these problems.

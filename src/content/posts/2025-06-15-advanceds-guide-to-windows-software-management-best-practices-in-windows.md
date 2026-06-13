@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Software Management Best Practices in Windows"
 date: 2025-06-15
+slug: "advanceds-guide-to-windows-software-management-best-practices-in-windows"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Introduction

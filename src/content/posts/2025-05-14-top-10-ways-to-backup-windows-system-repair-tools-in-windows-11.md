@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Backup Windows System Repair Tools in Windows 11"
 date: 2025-05-14
+slug: "top-10-ways-to-backup-windows-system-repair-tools-in-windows-11"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 When you're using Windows 11, ensuring that you have a backup of your system repair tools can be a lifesaver. Whether you're dealing with unexpected crashes or attempting to restore your system, having these tools readily available is crucial. This guide will walk you through the top 10 ways to back up your Windows system repair tools, with a focus on practical advice and real-world examples.

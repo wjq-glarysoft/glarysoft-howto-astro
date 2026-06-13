@@ -1,8 +1,10 @@
 ---
 title: "15 Essential Windows Diagnostic Utilities Tips Every Windows User Should Know"
 date: 2025-06-28
+slug: "15-essential-windows-diagnostic-utilities-tips-every-windows-user-should-know-2"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Keeping your Windows system running smoothly requires regular checkups and smart troubleshooting. Windows provides a rich set of built-in diagnostic utilities, and with the help of third-party tools like [Glary Utilities](https://www.glarysoft.com), you can tackle most performance and reliability issues yourself. Whether you’re new to Windows maintenance or a seasoned power user, these 15 essential tips will guide you through practical steps to keep your PC healthy.

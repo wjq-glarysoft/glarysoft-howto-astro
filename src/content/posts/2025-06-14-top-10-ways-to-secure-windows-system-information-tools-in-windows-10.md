@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Secure Windows System Information Tools in Windows 10"
 date: 2025-06-14
+slug: "top-10-ways-to-secure-windows-system-information-tools-in-windows-10"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Windows 10 offers several built-in system information tools, such as System Information (msinfo32), Task Manager, Command Prompt, and PowerShell, which provide valuable insights into your device’s hardware and software configuration. While these tools are extremely helpful for troubleshooting and optimization, they also pose a security risk if accessed by unauthorized individuals. This article provides expert guidance and practical steps to secure your Windows system information tools, tailored for both beginners and advanced users.

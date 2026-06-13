@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Security Settings Configuration in Windows?"
 date: 2025-06-30
+slug: "are-you-making-these-common-mistakes-with-windows-security-settings-configuration-in-windows-3"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Configuring Windows security settings is essential for protecting your PC against threats like malware, hackers, and data leaks. Even intermediate Windows users can overlook important security options or misconfigure settings, leaving their system vulnerable. This article guides you through the most common mistakes and offers practical solutions, using real-world examples and step-by-step recommendations.

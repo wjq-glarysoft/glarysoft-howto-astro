@@ -1,8 +1,10 @@
 ---
 title: "Boost Your Windows Performance: Step-by-Step Optimization Guide"
 date: 2025-04-19
+slug: "boost-your-windows-performance-step-by-step-optimization-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Windows performance can degrade over time due to various factors, including accumulated junk files, unnecessary startup programs, and fragmented disks. Optimizing your PC not only enhances speed but also improves overall efficiency. Here’s a comprehensive guide to optimize and improve your Windows system performance.

@@ -1,8 +1,10 @@
 ---
 title: "Master Windows system tool customization with Windows Tools: Windows User Guide"
 date: 2025-08-07
+slug: "master-windows-system-tool-customization-with-windows-tools-windows-user-guide-3"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Understanding Windows System Tools: What Are They?

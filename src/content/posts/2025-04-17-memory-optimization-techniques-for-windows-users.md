@@ -1,8 +1,10 @@
 ---
 title: "Memory Optimization Techniques for Windows Users"
 date: 2025-04-17
+slug: "memory-optimization-techniques-for-windows-users"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 For Windows users, optimizing memory usage is essential to ensure smooth operation and performance. Whether working with resource-intensive applications or simply aiming for a faster system response, efficient memory management can make a significant difference. Here are several expert-recommended techniques to improve memory usage on your Windows PC.

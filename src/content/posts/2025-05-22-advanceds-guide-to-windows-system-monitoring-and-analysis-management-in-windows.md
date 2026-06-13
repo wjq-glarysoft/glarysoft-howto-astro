@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows System Monitoring and Analysis Management in Windows"
 date: 2025-05-22
+slug: "advanceds-guide-to-windows-system-monitoring-and-analysis-management-in-windows"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Monitoring and analyzing your Windows system can significantly impact performance optimization and system reliability. Whether you're a beginner aiming to understand the basics or an advanced user looking to delve deeper, this guide will provide practical steps for effective system monitoring and analysis.

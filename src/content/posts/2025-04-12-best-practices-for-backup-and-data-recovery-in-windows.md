@@ -1,8 +1,10 @@
 ---
 title: "Best Practices for Backup and Data Recovery in Windows"
 date: 2025-04-12
+slug: "best-practices-for-backup-and-data-recovery-in-windows"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 In today's digital age, data is one of the most critical assets for both individuals and businesses. Ensuring that your data is securely backed up and can be recovered in the event of a disaster is essential. This article covers best practices for backing up and recovering data on a Windows system.

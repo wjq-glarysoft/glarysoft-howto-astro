@@ -1,8 +1,10 @@
 ---
 title: "Enhancing Windows Network Performance: Best Practices and Tips"
 date: 2025-04-15
+slug: "enhancing-windows-network-performance-best-practices-and-tips"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Optimizing network performance on a Windows PC can significantly enhance productivity, improve web browsing speed, and ensure a smoother online experience. Whether you're working from home, gaming, or streaming, a well-tuned network can make all the difference. Here are some best practices to optimize and improve your Windows network performance.

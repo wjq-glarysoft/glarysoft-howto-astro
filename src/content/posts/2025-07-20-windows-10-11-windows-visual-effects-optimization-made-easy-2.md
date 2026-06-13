@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 Windows Visual Effects Optimization Made Easy"
 date: 2025-07-20
+slug: "windows-10-11-windows-visual-effects-optimization-made-easy-2"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Is Your PC Slowing Down Because of Visual Effects?

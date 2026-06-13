@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Registry Cleaning and Repair Techniques for Windows Users"
 date: 2025-07-26
+slug: "essential-windows-registry-cleaning-and-repair-techniques-for-windows-users-4"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Understanding the Importance of Registry Maintenance

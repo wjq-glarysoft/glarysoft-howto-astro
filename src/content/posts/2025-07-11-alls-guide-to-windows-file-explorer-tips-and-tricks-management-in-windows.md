@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows File Explorer Tips and Tricks Management in Windows"
 date: 2025-07-11
+slug: "alls-guide-to-windows-file-explorer-tips-and-tricks-management-in-windows"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Are you looking to speed up your daily work with files and folders on Windows? File Explorer is the default tool for browsing, organizing, and managing files, but many users overlook its powerful shortcuts and features. Whether you’re a beginner or an experienced user, adopting a few clever tricks can save you valuable time and make file management a breeze. This guide reveals actionable tips to help users of all levels get the most from Windows File Explorer.

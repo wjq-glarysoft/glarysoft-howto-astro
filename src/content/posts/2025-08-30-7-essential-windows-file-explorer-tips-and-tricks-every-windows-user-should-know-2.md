@@ -1,8 +1,10 @@
 ---
 title: "7 Essential Windows File Explorer Tips and Tricks Every Windows User Should Know"
 date: 2025-08-30
+slug: "7-essential-windows-file-explorer-tips-and-tricks-every-windows-user-should-know-2"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Windows File Explorer is far more powerful than its basic interface suggests. For advanced users, mastering its hidden features can significantly improve productivity, especially when working with large sets of files and folders. Below are seven advanced tips and tricks, explained with practical steps and real-world examples.

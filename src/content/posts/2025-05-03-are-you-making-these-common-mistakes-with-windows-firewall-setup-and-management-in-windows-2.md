@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Firewall Setup and Management in Windows?"
 date: 2025-05-03
+slug: "are-you-making-these-common-mistakes-with-windows-firewall-setup-and-management-in-windows-2"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Windows Firewall is a critical component of your system's security infrastructure. However, many users either overlook its importance or make errors in its setup and management. This article aims to address common mistakes and offer practical advice to ensure your system remains protected.

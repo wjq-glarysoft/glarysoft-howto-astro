@@ -1,8 +1,10 @@
 ---
 title: "The 7 Most Effective Windows Memory Optimization Techniques for Windows 11"
 date: 2025-06-01
+slug: "the-7-most-effective-windows-memory-optimization-techniques-for-windows-11"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Are you experiencing sluggish performance or frequent freezing on your Windows 11 PC? Memory (RAM) plays a crucial role in keeping your system responsive and smooth. Optimizing your memory can improve speed, prevent crashes, and boost productivity. Whether you’re a beginner or a seasoned user, this guide will walk you through the 7 most effective memory optimization techniques for Windows 11, with easy-to-follow steps and practical tips.

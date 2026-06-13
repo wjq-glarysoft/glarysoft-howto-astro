@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 File Naming Conventions and Organization Optimization Made Easy"
 date: 2025-04-24
+slug: "windows-10-11-file-naming-conventions-and-organization-optimization-made-easy"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 In today's digital age, maintaining an organized file system on your Windows 10 or 11 PC is more than just a nice-to-have; it's essential for productivity and efficiency. Whether you're a beginner or an advanced user, understanding and implementing effective file naming conventions and organization strategies can save you time and frustration. This article will guide you through best practices for file naming and organization, offering practical advice and real-world examples to enhance your file management skills.

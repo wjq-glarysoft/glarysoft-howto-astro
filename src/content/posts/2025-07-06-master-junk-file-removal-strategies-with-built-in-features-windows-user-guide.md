@@ -1,8 +1,10 @@
 ---
 title: "Master junk file removal strategies with Built-in Features: Windows User Guide"
 date: 2025-07-06
+slug: "master-junk-file-removal-strategies-with-built-in-features-windows-user-guide"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Why Should You Care About Junk File Removal?

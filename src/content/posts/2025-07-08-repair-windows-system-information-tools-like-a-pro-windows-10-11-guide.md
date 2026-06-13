@@ -1,8 +1,10 @@
 ---
 title: "repair Windows system information tools Like a Pro: Windows 10 & 11 Guide"
 date: 2025-07-08
+slug: "repair-windows-system-information-tools-like-a-pro-windows-10-11-guide"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Windows 10 and 11 provide a range of built-in system information tools that help users monitor, troubleshoot, and optimize their PCs. Knowing how to repair or reset these tools, and how to extract the most value from them, can make a huge difference in your system’s stability and performance. This guide explores advanced techniques for repairing and maximizing system information utilities, offering practical advice for both beginners and advanced users.

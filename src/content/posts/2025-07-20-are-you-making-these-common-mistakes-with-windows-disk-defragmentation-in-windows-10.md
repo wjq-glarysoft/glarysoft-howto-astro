@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Disk Defragmentation in Windows?"
 date: 2025-07-20
+slug: "are-you-making-these-common-mistakes-with-windows-disk-defragmentation-in-windows-10"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Disk defragmentation has long been a staple of Windows maintenance routines. Yet, many users—both beginners and advanced—make mistakes that can undermine its benefits, cause unnecessary wear, or even slow down their system. Let’s dive into the common pitfalls and provide clear, actionable guidance for getting the most out of disk defragmentation in Windows.

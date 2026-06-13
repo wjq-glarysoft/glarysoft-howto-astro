@@ -1,8 +1,10 @@
 ---
 title: "A Beginner's Guide to File Recovery on Windows"
 date: 2025-04-16
+slug: "a-beginners-guide-to-file-recovery-on-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Losing important files can be a nightmare for any computer user, but the good news is, there are various methods to recover lost or deleted files on Windows. This guide will walk you through some practical file recovery methods that are beginner-friendly and can help you get back those precious files and folders.

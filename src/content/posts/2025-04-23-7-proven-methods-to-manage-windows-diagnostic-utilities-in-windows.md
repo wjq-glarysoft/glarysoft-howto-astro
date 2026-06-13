@@ -1,8 +1,10 @@
 ---
 title: "7 Proven Methods to Manage Windows Diagnostic Utilities in Windows"
 date: 2025-04-23
+slug: "7-proven-methods-to-manage-windows-diagnostic-utilities-in-windows"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Managing Windows diagnostic utilities is crucial for maintaining system health and performance. These tools can help identify, diagnose, and resolve various system issues. This article outlines seven proven methods to effectively manage these utilities, suitable for all levels of Windows users.

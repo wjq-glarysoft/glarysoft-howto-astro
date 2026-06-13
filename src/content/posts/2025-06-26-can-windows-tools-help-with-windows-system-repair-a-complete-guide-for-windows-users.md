@@ -1,8 +1,10 @@
 ---
 title: "Can Windows Tools Help with Windows System Repair? A Complete Guide for Windows Users"
 date: 2025-06-26
+slug: "can-windows-tools-help-with-windows-system-repair-a-complete-guide-for-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Are Windows’ Built-In Tools Enough for System Repair?

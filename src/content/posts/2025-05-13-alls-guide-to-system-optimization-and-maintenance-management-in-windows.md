@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to System Optimization and Maintenance Management in Windows"
 date: 2025-05-13
+slug: "alls-guide-to-system-optimization-and-maintenance-management-in-windows"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Understanding how to keep your Windows system running smoothly is essential for both novice and seasoned users. Regular maintenance and optimization can significantly enhance your PC's performance, extend its lifespan, and improve your user experience. This guide will walk you through essential practices, offering practical, actionable advice tailored to different skill levels.

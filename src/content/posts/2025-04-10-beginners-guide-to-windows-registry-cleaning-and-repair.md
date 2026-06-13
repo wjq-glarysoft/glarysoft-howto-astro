@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Registry Cleaning and Repair"
 date: 2025-04-10
+slug: "beginners-guide-to-windows-registry-cleaning-and-repair"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Understanding the Windows Registry

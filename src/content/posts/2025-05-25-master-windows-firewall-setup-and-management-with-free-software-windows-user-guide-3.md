@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Firewall Setup and Management with Free Software: Windows User Guide"
 date: 2025-05-25
+slug: "master-windows-firewall-setup-and-management-with-free-software-windows-user-guide-3"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Why is Firewall Configuration Important for Your Privacy and Security?

@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with file management and organization in Windows?"
 date: 2025-06-04
+slug: "are-you-making-these-common-mistakes-with-file-management-and-organization-in-windows-4"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Are your files scattered across your Windows PC? Do you waste precious time searching for documents, images, or old downloads? If so, you’re not alone. Many Windows users slip into some common file management pitfalls that lead to clutter, confusion, and even data loss. Let’s look at the mistakes you might be making—and more importantly, how to fix them using practical strategies and tools.

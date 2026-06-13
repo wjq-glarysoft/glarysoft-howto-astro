@@ -1,8 +1,10 @@
 ---
 title: "Time-Saving Tips Using Windows System Information Tools"
 date: 2025-04-20
+slug: "time-saving-tips-using-windows-system-information-tools"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Managing and optimizing your Windows computer can be a daunting task, especially if you're unsure what resources are available to you. However, Windows provides several built-in system information tools that can help you gather vital information quickly and efficiently. Understanding these tools can save time and streamline your system maintenance tasks. Here are some practical tips and real-world examples on how to effectively use Windows system information tools.

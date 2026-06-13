@@ -1,8 +1,10 @@
 ---
 title: "Master Windows security settings configuration with Windows Tools: Windows User Guide"
 date: 2025-06-05
+slug: "master-windows-security-settings-configuration-with-windows-tools-windows-user-guide"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Windows security settings can seem overwhelming, but configuring them properly is essential for keeping your PC and data safe. Fortunately, Windows provides several built-in tools that make these tasks more efficient and less time-consuming. Whether you’re a beginner or an advanced user, the following guide will show you practical, step-by-step advice to master your security settings while saving time.

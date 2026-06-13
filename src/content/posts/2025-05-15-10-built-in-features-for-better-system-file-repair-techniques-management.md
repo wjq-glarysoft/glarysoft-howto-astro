@@ -1,8 +1,10 @@
 ---
 title: "10 Built-in Features for Better System File Repair Techniques Management"
 date: 2025-05-15
+slug: "10-built-in-features-for-better-system-file-repair-techniques-management"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Keeping your Windows system running smoothly and efficiently involves regular maintenance and addressing any issues that may arise with system files. Windows provides several built-in features that can help you manage and repair system files effectively. In this guide, we'll explore these features, offering practical advice and real-world examples to help you leverage them for optimal system performance.

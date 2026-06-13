@@ -1,8 +1,10 @@
 ---
 title: "Built-in Features Make Windows Disk Defragmentation Management Simple in Windows"
 date: 2025-07-30
+slug: "built-in-features-make-windows-disk-defragmentation-management-simple-in-windows"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Understanding Disk Defragmentation in Windows

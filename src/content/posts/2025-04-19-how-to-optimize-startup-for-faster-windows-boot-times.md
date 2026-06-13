@@ -1,8 +1,10 @@
 ---
 title: "How to Optimize Startup for Faster Windows Boot Times"
 date: 2025-04-19
+slug: "how-to-optimize-startup-for-faster-windows-boot-times"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 If you've ever found yourself waiting impatiently for your Windows PC to start up, you're not alone. Many users experience sluggish boot times due to various startup processes and programs. Fortunately, optimizing your Windows startup can significantly improve boot times and overall system performance. In this guide, we'll explore beginner-friendly methods to streamline your startup and provide practical steps you can take to achieve a faster boot.

@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Diagnostic Utilities Management for Windows 10 Users"
 date: 2025-06-04
+slug: "effective-windows-diagnostic-utilities-management-for-windows-10-users"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 How Can Advanced Users Integrate Windows Diagnostic Utilities into Their Workflow?

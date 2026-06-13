@@ -1,8 +1,10 @@
 ---
 title: "When Should You Configure File Naming Conventions and Organization on Your Windows Computer?"
 date: 2025-06-17
+slug: "when-should-you-configure-file-naming-conventions-and-organization-on-your-windows-computer"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Why Are File Naming Conventions and Organization Important?

@@ -1,8 +1,10 @@
 ---
 title: "Mastering Windows File Explorer: Tips and Tricks for Professionals"
 date: 2025-04-17
+slug: "mastering-windows-file-explorer-tips-and-tricks-for-professionals"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Windows File Explorer is an essential tool for managing files and folders, offering a plethora of features that can enhance your productivity. Often, the default settings and basic usage only scratch the surface of its capabilities. Here, we delve into professional tips and tricks to optimize your file management experience on Windows.

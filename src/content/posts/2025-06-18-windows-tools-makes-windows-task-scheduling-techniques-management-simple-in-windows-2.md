@@ -1,8 +1,10 @@
 ---
 title: "Windows Tools Makes Windows Task Scheduling Techniques Management Simple in Windows"
 date: 2025-06-18
+slug: "windows-tools-makes-windows-task-scheduling-techniques-management-simple-in-windows-2"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 What is Task Scheduling and Why Should Beginners Care?

@@ -1,8 +1,10 @@
 ---
 title: "Essential File Backup Strategies: Techniques for Windows Users"
 date: 2025-05-07
+slug: "essential-file-backup-strategies-techniques-for-windows-users"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 In the digital age, safeguarding your data is crucial. Backing up files isn't just for those handling sensitive information; it's essential for everyone using a Windows PC. This article will explore time-saving file backup strategies, providing practical advice for both beginners and advanced users.

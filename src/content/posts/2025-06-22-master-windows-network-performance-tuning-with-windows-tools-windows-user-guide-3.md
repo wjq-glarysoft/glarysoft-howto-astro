@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Network Performance Tuning with Windows Tools: Windows User Guide"
 date: 2025-06-22
+slug: "master-windows-network-performance-tuning-with-windows-tools-windows-user-guide-3"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 When your internet feels sluggish or file transfers crawl across your home or office network, it’s often not your provider’s fault. Windows offers a rich set of built-in tools and settings to help you diagnose, optimize, and improve network performance. This guide walks you through practical steps to boost your Windows network speed, starting from beginner tips and advancing to more technical adjustments. Whether you’re just starting out or looking to squeeze the last bit of efficiency from your setup, there’s something here for you.

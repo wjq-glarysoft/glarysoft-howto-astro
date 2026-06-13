@@ -1,8 +1,10 @@
 ---
 title: "Windows Tools Makes Windows File Sharing and Permissions Management Simple in Windows"
 date: 2025-06-06
+slug: "windows-tools-makes-windows-file-sharing-and-permissions-management-simple-in-windows"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Managing files and folders efficiently is essential for any Windows user, whether at home or in a business environment. Windows has built-in tools to help you share files across your network and control who can access or modify them. Understanding file sharing and permissions can seem intimidating, but with the right approach and tools, you can master these features and keep your files both accessible and secure.

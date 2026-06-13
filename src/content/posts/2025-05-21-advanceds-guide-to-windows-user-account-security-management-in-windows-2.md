@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows User Account Security Management in Windows"
 date: 2025-05-21
+slug: "advanceds-guide-to-windows-user-account-security-management-in-windows-2"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 In today's digital landscape, ensuring the security of your Windows user account is crucial for protecting your personal information and maintaining privacy. As an intermediate Windows user, you already have a basic understanding of user accounts, but this guide will delve into advanced practices for maximizing your account security.

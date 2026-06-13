@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Backup and Restore Utilities in Windows 10 & 11"
 date: 2026-01-30
+slug: "the-complete-guide-to-backup-and-restore-utilities-in-windows-10-11"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Backing up your Windows system is not just about saving files—it’s about protecting your entire working environment from data loss, system failures, and accidental deletions. Windows 10 and Windows 11 include several built-in utilities designed for backup and restore tasks, and understanding how to use them properly is essential for keeping your computer stable and secure. This guide walks through each tool, its purpose, and how to use it effectively, with practical examples and tips.

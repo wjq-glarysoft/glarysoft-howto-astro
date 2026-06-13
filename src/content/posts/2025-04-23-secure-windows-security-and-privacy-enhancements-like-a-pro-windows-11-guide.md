@@ -1,8 +1,10 @@
 ---
 title: "Secure Windows Security and Privacy Enhancements Like a Pro: Windows 11 Guide"
 date: 2025-04-23
+slug: "secure-windows-security-and-privacy-enhancements-like-a-pro-windows-11-guide"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Windows 11 has brought numerous enhancements to improve your security and privacy. Whether you're a novice or a seasoned user, optimizing these settings can protect your data and enhance your system's resilience against threats. This guide will provide actionable advice for all users to navigate these enhancements effectively.

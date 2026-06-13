@@ -1,8 +1,10 @@
 ---
 title: "Boosting Windows Network Performance: Time-Saving Tips for Optimization"
 date: 2025-04-15
+slug: "boosting-windows-network-performance-time-saving-tips-for-optimization"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 In today’s fast-paced digital world, network performance is key to maintaining productivity. Whether you’re streaming, gaming, or handling work tasks, optimizing your Windows network can make a significant difference. Here are some practical, time-saving tips to enhance your network performance on Windows.

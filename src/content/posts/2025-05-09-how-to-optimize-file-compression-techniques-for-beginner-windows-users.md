@@ -1,8 +1,10 @@
 ---
 title: "How to optimize file compression techniques for Beginner Windows Users?"
 date: 2025-05-09
+slug: "how-to-optimize-file-compression-techniques-for-beginner-windows-users"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Introduction to File Compression

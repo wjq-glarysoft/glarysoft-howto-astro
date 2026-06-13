@@ -1,8 +1,10 @@
 ---
 title: "Master system file repair techniques with Windows Tools: Windows User Guide"
 date: 2025-06-22
+slug: "master-system-file-repair-techniques-with-windows-tools-windows-user-guide-2"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Why Should You Care About System File Repair?

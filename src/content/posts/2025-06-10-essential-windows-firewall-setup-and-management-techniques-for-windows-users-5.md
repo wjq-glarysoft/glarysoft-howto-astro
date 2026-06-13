@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Firewall Setup and Management Techniques for Windows Users"
 date: 2025-06-10
+slug: "essential-windows-firewall-setup-and-management-techniques-for-windows-users-5"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Introduction

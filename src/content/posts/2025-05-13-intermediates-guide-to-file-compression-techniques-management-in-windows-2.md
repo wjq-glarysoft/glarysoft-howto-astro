@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to File Compression Techniques Management in Windows"
 date: 2025-05-13
+slug: "intermediates-guide-to-file-compression-techniques-management-in-windows-2"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 File compression is a crucial technique for saving space, reducing file size for quicker sharing and backup, and managing large files efficiently. For Windows users, understanding and effectively using these techniques can optimize your computer usage and improve overall productivity. This guide will walk you through file compression basics, best practices, and real-world examples to help you master these techniques on your Windows machine.

@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows Backup and Restore Utilities Management in Windows"
 date: 2025-08-10
+slug: "intermediates-guide-to-windows-backup-and-restore-utilities-management-in-windows"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Backup and restore tools are essential for protecting your data and system configurations in Windows. Whether you're guarding against accidental deletions, hardware failures, or system corruption, using the right utilities can save you time and stress. This guide explains the built-in Windows backup and restore utilities with practical instructions and also introduces a powerful third-party tool, Glary Utilities, to further streamline your system protection strategy.

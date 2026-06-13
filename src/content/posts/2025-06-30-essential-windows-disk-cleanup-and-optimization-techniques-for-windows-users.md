@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Disk Cleanup and Optimization Techniques for Windows Users"
 date: 2025-06-30
+slug: "essential-windows-disk-cleanup-and-optimization-techniques-for-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Maintaining your Windows PC’s performance and longevity requires regular disk cleanup and optimization. Over time, unnecessary files, fragmented data, and leftover residues from uninstalled programs can slow down your machine. This article offers a step-by-step guide to cleaning and optimizing Windows disks, with practical tips for beginners and advanced users alike.

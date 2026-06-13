@@ -1,8 +1,10 @@
 ---
 title: "15 Essential Windows Security and Privacy Enhancement Tips Every Windows User Should Know"
 date: 2025-08-05
+slug: "15-essential-windows-security-and-privacy-enhancement-tips-every-windows-user-should-know"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Keeping your Windows system secure and your personal data private is increasingly important in today’s digital landscape. As an intermediate Windows user, you likely know the basics, but going beyond default settings can make a world of difference. Here are 15 actionable tips with real-world examples to help you enhance your system’s security and privacy.

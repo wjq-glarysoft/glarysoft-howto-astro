@@ -1,8 +1,10 @@
 ---
 title: "improve Windows performance optimization tips Like a Pro: Windows 10 & 11 Guide"
 date: 2025-05-21
+slug: "improve-windows-performance-optimization-tips-like-a-pro-windows-10-11-guide"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 For advanced Windows users, optimizing system performance goes beyond the basics of deleting temporary files or disabling startup programs. It involves a comprehensive approach to tweaking system settings, managing resources, and employing advanced software tools. Here’s how you can elevate your Windows 10 or 11 performance like a pro.

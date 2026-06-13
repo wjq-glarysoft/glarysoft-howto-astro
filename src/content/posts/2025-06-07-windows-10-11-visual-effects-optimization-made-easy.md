@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 Visual Effects Optimization Made Easy"
 date: 2025-06-07
+slug: "windows-10-11-visual-effects-optimization-made-easy"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Are your Windows 10 or 11 animations looking a bit sluggish? Do you notice your PC slowing down when switching between windows or opening menus? Visual effects can make Windows look attractive, but they can also slow down your computer, especially on older hardware. Optimizing these visual effects is a straightforward way to improve system performance without sacrificing much in terms of user experience. Here’s how you can make your Windows PC faster and more responsive by tweaking visual effects settings, along with some practical advice and tools to help you.

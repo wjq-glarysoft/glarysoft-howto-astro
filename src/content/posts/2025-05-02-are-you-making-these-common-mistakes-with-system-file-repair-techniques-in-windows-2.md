@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with system file repair techniques in Windows?"
 date: 2025-05-02
+slug: "are-you-making-these-common-mistakes-with-system-file-repair-techniques-in-windows-2"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 When dealing with system file repair in Windows, even seasoned users can overlook some common pitfalls. Understanding the correct approach to system file repair can save you from headaches and ensure a smoothly running system. Let’s delve into some common mistakes and how to avoid them using expert-recommended techniques.

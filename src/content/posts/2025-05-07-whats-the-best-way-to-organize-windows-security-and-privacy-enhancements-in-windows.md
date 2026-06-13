@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Organize Windows Security and Privacy Enhancements in Windows?"
 date: 2025-05-07
+slug: "whats-the-best-way-to-organize-windows-security-and-privacy-enhancements-in-windows"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 For beginner Windows users, navigating the world of privacy and security can seem daunting. However, with the right guidance and tools, you can enhance your computer's defenses with ease. Here’s how to organize and implement security and privacy enhancements on your Windows PC.

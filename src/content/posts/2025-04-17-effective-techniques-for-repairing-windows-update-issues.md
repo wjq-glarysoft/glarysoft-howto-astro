@@ -1,8 +1,10 @@
 ---
 title: "Effective Techniques for Repairing Windows Update Issues"
 date: 2025-04-17
+slug: "effective-techniques-for-repairing-windows-update-issues"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Windows Updates are crucial for maintaining the security and performance of your system. However, sometimes they can be problematic, leading to errors or failed installations. Here are some practical techniques to repair and optimize Windows Update-related issues.

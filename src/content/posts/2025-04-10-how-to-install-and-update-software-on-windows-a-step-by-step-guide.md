@@ -1,8 +1,10 @@
 ---
 title: "How to Install and Update Software on Windows: A Step-by-Step Guide"
 date: 2025-04-10
+slug: "how-to-install-and-update-software-on-windows-a-step-by-step-guide"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Keeping your software up to date is crucial for maintaining your PC's performance and security. This guide will provide you with practical steps to install and update software on a Windows system. By following these instructions, you can ensure that your applications are running the latest versions for optimal functionality.

@@ -1,8 +1,10 @@
 ---
 title: "Why is File Backup Strategies Important for Your Windows PC and How to Manage It?"
 date: 2025-08-02
+slug: "why-is-file-backup-strategies-important-for-your-windows-pc-and-how-to-manage-it-5"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Why Should You Care About File Backup on Windows?

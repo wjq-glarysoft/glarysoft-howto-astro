@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Security Settings Configuration Techniques for Windows Users"
 date: 2025-06-25
+slug: "essential-windows-security-settings-configuration-techniques-for-windows-users-6"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Ensuring your Windows PC is secure and private is essential for protecting your personal data and maintaining smooth performance. Whether you’re a beginner or a seasoned user, understanding and configuring the right security settings can make a significant difference. This guide walks you through practical, actionable steps to strengthen your Windows security and privacy.

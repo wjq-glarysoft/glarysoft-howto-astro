@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows Memory Optimization Techniques Every Windows User Should Know"
 date: 2025-05-11
+slug: "5-essential-windows-memory-optimization-techniques-every-windows-user-should-know"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Windows memory optimization is a crucial aspect of maintaining a healthy, efficient, and fast computer system. Whether you're a beginner or an advanced user, understanding how to manage your system’s memory can enhance your PC's performance significantly. Here are five essential tips for optimizing memory on a Windows system.

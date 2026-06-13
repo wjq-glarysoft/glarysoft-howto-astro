@@ -1,8 +1,10 @@
 ---
 title: "backup file naming conventions and organization Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-19
+slug: "backup-file-naming-conventions-and-organization-like-a-pro-windows-10-11-guide"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Backing up your files is only half the battle; knowing exactly what you’ve backed up, where it’s stored, and how to quickly restore it can be a lifesaver. A consistent file naming and folder organization system transforms chaos into clarity, making backup management under Windows 10 & 11 smooth and reliable. This guide will walk you through professional naming conventions and folder organization strategies suited for all skill levels.

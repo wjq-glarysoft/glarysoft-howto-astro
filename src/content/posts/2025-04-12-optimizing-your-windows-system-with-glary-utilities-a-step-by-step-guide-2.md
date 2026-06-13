@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Your Windows System with Glary Utilities: A Step-by-Step Guide"
 date: 2025-04-12
+slug: "optimizing-your-windows-system-with-glary-utilities-a-step-by-step-guide-2"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 In the quest for a faster and more efficient Windows experience, system optimization is key. Whether you're dealing with sluggish performance, frequent crashes, or just want to maintain your PC in top shape, Glary Utilities is a powerful toolset that can help. In this article, we'll walk you through how to use Glary Utilities to optimize your Windows system effectively.

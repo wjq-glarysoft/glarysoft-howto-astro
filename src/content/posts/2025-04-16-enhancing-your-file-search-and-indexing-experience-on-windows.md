@@ -1,8 +1,10 @@
 ---
 title: "Enhancing Your File Search and Indexing Experience on Windows"
 date: 2025-04-16
+slug: "enhancing-your-file-search-and-indexing-experience-on-windows"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Finding files quickly and efficiently on your Windows computer can be a daunting task without the right setup. With the vast amount of data we store, a robust file search and indexing system is essential. This article will guide you through setting up and optimizing file search and indexing on your Windows PC, ensuring you can locate files effortlessly.

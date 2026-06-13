@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Organize File Backup Strategies in Windows 10"
 date: 2025-07-10
+slug: "the-complete-guide-to-organize-file-backup-strategies-in-windows-10"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Why Should You Back Up Your Files in Windows 10?

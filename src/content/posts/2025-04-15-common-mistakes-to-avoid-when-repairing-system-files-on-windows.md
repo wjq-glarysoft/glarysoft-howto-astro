@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid When Repairing System Files on Windows"
 date: 2025-04-15
+slug: "common-mistakes-to-avoid-when-repairing-system-files-on-windows"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Repairing system files is a critical task for maintaining the health and performance of your Windows PC. However, many users often make mistakes during this process, which can lead to more harm than good. In this article, we will explore some common pitfalls and provide practical advice to ensure that you repair your system files efficiently and safely.

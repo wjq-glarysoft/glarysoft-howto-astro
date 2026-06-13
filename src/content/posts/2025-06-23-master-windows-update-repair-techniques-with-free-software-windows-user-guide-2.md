@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Update Repair Techniques with Free Software: Windows User Guide"
 date: 2025-06-23
+slug: "master-windows-update-repair-techniques-with-free-software-windows-user-guide-2"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Why Do Windows Updates Fail and How Can You Diagnose the Issue?

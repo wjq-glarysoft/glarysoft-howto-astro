@@ -1,8 +1,10 @@
 ---
 title: "Effective Troubleshooting of Common Windows Issues: A Step-by-Step Guide"
 date: 2025-04-14
+slug: "effective-troubleshooting-of-common-windows-issues-a-step-by-step-guide"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Navigating through a technical issue on your Windows PC can be daunting, but with a structured approach, you can resolve most common problems efficiently. This guide provides practical, step-by-step instructions to troubleshoot several typical issues that Windows users encounter.

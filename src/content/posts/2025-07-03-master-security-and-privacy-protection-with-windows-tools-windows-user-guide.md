@@ -1,8 +1,10 @@
 ---
 title: "Master security and privacy protection with Windows Tools: Windows User Guide"
 date: 2025-07-03
+slug: "master-security-and-privacy-protection-with-windows-tools-windows-user-guide"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Keeping your Windows computer secure and protecting your privacy may sound complicated, but there are built-in tools and quick strategies that make it easier and less time-consuming than you might think. This guide explores how everyone—from beginners to advanced users—can use Windows’ privacy and security features, plus a few third-party tools, to save time and boost confidence in their digital safety.

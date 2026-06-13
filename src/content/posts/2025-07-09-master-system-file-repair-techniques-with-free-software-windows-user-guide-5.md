@@ -1,8 +1,10 @@
 ---
 title: "Master system file repair techniques with Free Software: Windows User Guide"
 date: 2025-07-09
+slug: "master-system-file-repair-techniques-with-free-software-windows-user-guide-5"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Introduction

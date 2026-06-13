@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows Performance Optimization Tips Every Windows User Should Know"
 date: 2025-04-27
+slug: "5-essential-windows-performance-optimization-tips-every-windows-user-should-know"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Windows performance optimization is crucial for ensuring your computer runs smoothly and efficiently. As an intermediate Windows user, you likely appreciate the importance of maintaining your system's performance. Here are five essential tips to help you optimize your Windows PC for better speed and reliability.

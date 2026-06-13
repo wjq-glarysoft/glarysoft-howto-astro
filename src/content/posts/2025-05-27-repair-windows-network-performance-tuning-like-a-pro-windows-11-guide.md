@@ -1,8 +1,10 @@
 ---
 title: "repair Windows network performance tuning Like a Pro: Windows 11 Guide"
 date: 2025-05-27
+slug: "repair-windows-network-performance-tuning-like-a-pro-windows-11-guide"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Optimizing network performance in Windows 11 can yield dramatic improvements in browsing speed, file transfers, online gaming, and productivity across a range of applications. Advanced users have access to a variety of system-level tweaks and tools for squeezing every bit of efficiency from a Windows machine’s network stack. This guide presents proven methods and practical steps to repair and tune your Windows 11 network performance like a true pro.

@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Registry Cleaning and Repair with Free Software: Windows User Guide"
 date: 2025-07-24
+slug: "master-windows-registry-cleaning-and-repair-with-free-software-windows-user-guide"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Understanding the Windows Registry and the Need for Cleaning

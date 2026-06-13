@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to improve Windows CPU performance tuning in Windows 10 & 11"
 date: 2025-05-14
+slug: "the-complete-guide-to-improve-windows-cpu-performance-tuning-in-windows-10-11"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Optimizing CPU performance can significantly enhance your Windows experience, making your system faster and more efficient. However, many users fall into common traps that can hinder rather than help. This guide will walk you through various strategies to optimize CPU performance in Windows 10 and 11, emphasizing mistakes to avoid, with practical advice for both beginners and advanced users.

@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows Registry Cleaning and Repair Management in Windows"
 date: 2025-04-30
+slug: "intermediates-guide-to-windows-registry-cleaning-and-repair-management-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Understanding the Windows Registry

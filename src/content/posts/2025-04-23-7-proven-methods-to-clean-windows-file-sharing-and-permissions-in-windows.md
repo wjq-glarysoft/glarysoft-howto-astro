@@ -1,8 +1,10 @@
 ---
 title: "7 Proven Methods to Clean Windows File Sharing and Permissions in Windows"
 date: 2025-04-23
+slug: "7-proven-methods-to-clean-windows-file-sharing-and-permissions-in-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Windows file sharing and permissions are crucial for maintaining both security and functionality in a networked environment. Whether you are a beginner or an advanced user, optimizing these settings can enhance your system's efficiency and security posture. Here are seven proven methods to clean and enhance Windows file sharing and permissions.

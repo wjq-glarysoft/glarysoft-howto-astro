@@ -1,8 +1,10 @@
 ---
 title: "Clean Windows Privacy Enhancements Like a Pro: Windows Systems Guide"
 date: 2025-08-15
+slug: "clean-windows-privacy-enhancements-like-a-pro-windows-systems-guide"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Protecting your privacy on a Windows PC requires a combination of built-in tools, smart configuration choices, and regular maintenance. While Windows includes several privacy features by default, knowing how to fine-tune them can make the difference between basic protection and professional-grade privacy control. This guide walks you through practical, real-world steps for enhancing privacy, clearly separated for beginners and advanced users.

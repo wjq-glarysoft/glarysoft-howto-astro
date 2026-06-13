@@ -1,8 +1,10 @@
 ---
 title: "The 15 Most Effective Windows File Sharing and Permissions Strategies for Windows 10 & 11"
 date: 2025-05-18
+slug: "the-15-most-effective-windows-file-sharing-and-permissions-strategies-for-windows-10-11"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 File sharing and permissions are fundamental to efficient collaboration and data management on Windows 10 and 11. Understanding these features can help you control access and protect your data. Here are 15 strategies to optimize file sharing and permissions on your Windows system.

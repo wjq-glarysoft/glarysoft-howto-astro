@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows Secure Browsing Techniques Every Windows User Should Know"
 date: 2025-06-02
+slug: "5-essential-windows-secure-browsing-techniques-every-windows-user-should-know"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Browsing the internet is a daily activity for most Windows users, but few realize how many privacy and security threats can lurk online. Whether you’re shopping, banking, or just reading news, it’s crucial to protect your data and privacy. This guide introduces five practical secure browsing techniques tailored for Windows users, with step-by-step instructions and helpful tips for both beginners and advanced users.

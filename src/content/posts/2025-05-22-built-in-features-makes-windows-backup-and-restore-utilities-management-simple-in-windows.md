@@ -1,8 +1,10 @@
 ---
 title: "Built-in Features Makes Windows Backup and Restore Utilities Management Simple in Windows"
 date: 2025-05-22
+slug: "built-in-features-makes-windows-backup-and-restore-utilities-management-simple-in-windows"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Managing backups is a crucial aspect of securing your data on Windows. Fortunately, Windows provides built-in utilities that make backup and restore processes straightforward, especially for beginners. This guide will walk you through using these features effectively.

@@ -1,8 +1,10 @@
 ---
 title: "Advanced Windows Secure Browsing Techniques"
 date: 2025-04-16
+slug: "advanced-windows-secure-browsing-techniques"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 In an era where online threats are constantly evolving, Windows users must adopt advanced techniques for secure browsing to protect their privacy and security. This article delves into sophisticated methods and tools that can significantly enhance your online security while using a Windows PC.

@@ -1,8 +1,10 @@
 ---
 title: "manage Windows command line tools Like a Pro: Windows 10 Guide"
 date: 2025-05-07
+slug: "manage-windows-command-line-tools-like-a-pro-windows-10-guide"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 For intermediate Windows users looking to step up their game, delving into the command line interface (CLI) offers a world of efficiency and control. Understanding the nuances of various Windows command line tools can significantly enhance your system management capabilities. Here, we’ll dive into essential command line tools and how you can leverage them like a pro in Windows 10.

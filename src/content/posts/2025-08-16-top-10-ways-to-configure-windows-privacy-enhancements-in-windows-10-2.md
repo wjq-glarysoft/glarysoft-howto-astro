@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Configure Windows Privacy Enhancements in Windows 10"
 date: 2025-08-16
+slug: "top-10-ways-to-configure-windows-privacy-enhancements-in-windows-10-2"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Windows 10 comes with many features designed to make your computer more connected and personalized. However, these features often collect data in the background. For beginners, configuring privacy settings properly is an important step to keep your personal information safe, reduce unwanted tracking, and maintain control of your system. Below are ten practical ways to enhance privacy in Windows 10 and ensure a more secure computing experience.

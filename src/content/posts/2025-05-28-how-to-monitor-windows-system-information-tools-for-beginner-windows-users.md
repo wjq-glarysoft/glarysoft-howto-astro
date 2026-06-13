@@ -1,8 +1,10 @@
 ---
 title: "How to Monitor Windows System Information Tools for Beginner Windows Users"
 date: 2025-05-28
+slug: "how-to-monitor-windows-system-information-tools-for-beginner-windows-users"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Keeping track of your Windows computer’s performance and health may seem confusing, especially if you are new to system maintenance. However, Windows offers a set of built-in system information tools that help you monitor your hardware, software, and overall system health. Using these tools not only improves your PC experience but can also help you prevent problems before they become serious.

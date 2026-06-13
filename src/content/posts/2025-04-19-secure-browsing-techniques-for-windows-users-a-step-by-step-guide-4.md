@@ -1,8 +1,10 @@
 ---
 title: "Secure Browsing Techniques for Windows Users: A Step-by-Step Guide"
 date: 2025-04-19
+slug: "secure-browsing-techniques-for-windows-users-a-step-by-step-guide-4"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 In the digital age, securing your browsing activities is a fundamental aspect of maintaining privacy and security. Windows users can implement several techniques to ensure a safer browsing experience. This article provides a step-by-step tutorial on enhancing your browser security, protecting data, and maintaining privacy online.

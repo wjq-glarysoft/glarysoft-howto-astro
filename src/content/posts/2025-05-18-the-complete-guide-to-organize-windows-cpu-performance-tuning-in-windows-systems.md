@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Organize Windows CPU Performance Tuning in Windows Systems"
 date: 2025-05-18
+slug: "the-complete-guide-to-organize-windows-cpu-performance-tuning-in-windows-systems"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 For advanced Windows users, optimizing CPU performance is crucial to maintain a system that runs smoothly and efficiently. Mastery over CPU performance tuning can lead to noticeable improvements in processing speed and overall system responsiveness. This guide delves into expert recommendations to fine-tune your CPU for peak performance.

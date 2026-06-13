@@ -1,8 +1,10 @@
 ---
 title: "Time-Saving Tips Using Windows Command Line Tools"
 date: 2025-04-19
+slug: "time-saving-tips-using-windows-command-line-tools-2"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 The Windows Command Line, often referred to as Command Prompt or CMD, is a powerful tool that can significantly boost productivity and optimize system management for both novice and experienced users. By leveraging command line tools, you can execute tasks more quickly and efficiently than through graphical user interfaces. Here are some practical tips to save time using Windows command line tools.

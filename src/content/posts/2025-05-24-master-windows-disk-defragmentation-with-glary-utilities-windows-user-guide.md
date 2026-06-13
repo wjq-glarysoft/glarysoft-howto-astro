@@ -1,8 +1,10 @@
 ---
 title: "Master Windows disk defragmentation with Glary Utilities: Windows User Guide"
 date: 2025-05-24
+slug: "master-windows-disk-defragmentation-with-glary-utilities-windows-user-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Understanding Disk Fragmentation: Why Does It Matter?

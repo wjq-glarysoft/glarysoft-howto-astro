@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid When Optimizing Windows Visual Effects"
 date: 2025-04-20
+slug: "common-mistakes-to-avoid-when-optimizing-windows-visual-effects"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Optimizing Windows visual effects can significantly enhance system performance, especially if you're working with older hardware or simply want a snappier user experience. However, there are common mistakes that users often make during this process, leading to suboptimal results or even degraded system performance. This article will guide you through these pitfalls and provide practical advice on how to effectively optimize your Windows visual effects without compromising functionality.

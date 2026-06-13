@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Improve Windows File Explorer: Tips and Tricks for Intermediate Users"
 date: 2025-06-07
+slug: "the-complete-guide-to-improve-windows-file-explorer-tips-and-tricks-for-intermediate-users"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Are you ready to elevate your Windows File Explorer skills and manage your files and folders more efficiently? Intermediate Windows users can dramatically improve productivity by mastering File Explorer’s hidden features and leveraging practical tricks. This complete guide offers professional insights and actionable advice to help you organize, access, and optimize your files and folders with confidence.

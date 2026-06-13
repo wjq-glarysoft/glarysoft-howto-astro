@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Monitor Windows Disk Defragmentation in Windows 11"
 date: 2025-06-09
+slug: "the-complete-guide-to-monitor-windows-disk-defragmentation-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Do you notice your Windows 11 PC slowing down or taking longer to open files and programs? One reason could be disk fragmentation—especially if you’re using a traditional hard disk drive (HDD). Disk fragmentation happens over time as files are written, deleted, and modified, causing pieces of data to scatter across your disk. Defragmenting reorganizes this data, helping Windows access files faster and boosting your computer’s performance. This guide will walk you through how to monitor and manage disk defragmentation in Windows 11, ensuring your system stays speedy and efficient.

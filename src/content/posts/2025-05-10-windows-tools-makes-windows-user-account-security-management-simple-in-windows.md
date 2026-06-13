@@ -1,8 +1,10 @@
 ---
 title: "Windows Tools Makes Windows User Account Security Management Simple in Windows"
 date: 2025-05-10
+slug: "windows-tools-makes-windows-user-account-security-management-simple-in-windows"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows user account security is a critical aspect of maintaining the integrity and confidentiality of your systems and data. As an intermediate Windows user, you have the foundational knowledge to fine-tune your security settings, and this article will guide you through practical steps to enhance your account security using built-in Windows tools.

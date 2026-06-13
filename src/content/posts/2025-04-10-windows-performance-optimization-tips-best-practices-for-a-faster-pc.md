@@ -1,8 +1,10 @@
 ---
 title: "Windows Performance Optimization Tips: Best Practices for a Faster PC"
 date: 2025-04-10
+slug: "windows-performance-optimization-tips-best-practices-for-a-faster-pc"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Optimizing your Windows PC for better performance is a blend of regular maintenance, smart resource management, and leveraging tools designed for efficiency. Whether you're using your PC for work, gaming, or general tasks, these actionable tips can help enhance your system's performance.

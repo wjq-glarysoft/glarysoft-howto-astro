@@ -1,8 +1,10 @@
 ---
 title: "Effective File Naming Conventions and Organization for Windows Users"
 date: 2025-04-20
+slug: "effective-file-naming-conventions-and-organization-for-windows-users-3"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Organizing digital files is crucial for improving productivity, efficiency, and even maintaining system performance. By establishing a clear and consistent file naming convention, you can easily locate your files and reduce clutter on your Windows PC. This step-by-step guide will provide practical advice and examples for organizing your files and folders effectively.

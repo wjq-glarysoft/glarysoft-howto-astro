@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Your Windows System with Glary Utilities"
 date: 2025-04-13
+slug: "optimizing-your-windows-system-with-glary-utilities"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Windows systems, over time, can become sluggish due to accumulated clutter, fragmented files, and unnecessary background processes. To maintain peak performance, regular system optimization is essential. As a widely recognized tool for system cleanup and optimization, Glary Utilities offers a comprehensive suite of features that can simplify this process.

@@ -1,8 +1,10 @@
 ---
 title: "12 Essential Windows Error Fixing Methods Tips Every Windows User Should Know"
 date: 2025-04-29
+slug: "12-essential-windows-error-fixing-methods-tips-every-windows-user-should-know"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 As a Windows user, you might occasionally encounter errors that can disrupt your daily activities. Before you panic, know that there are straightforward methods to fix these issues. Here's a beginner's guide to resolving common Windows errors using practical and easy-to-follow steps.

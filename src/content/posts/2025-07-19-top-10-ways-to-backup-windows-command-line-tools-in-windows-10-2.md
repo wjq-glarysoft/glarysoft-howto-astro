@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Backup Windows Command Line Tools in Windows 10"
 date: 2025-07-19
+slug: "top-10-ways-to-backup-windows-command-line-tools-in-windows-10-2"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Windows 10 comes with a suite of powerful command line tools, including Command Prompt (cmd.exe), PowerShell, and an array of utilities like ipconfig, sfc, and DISM. For users who frequently customize their environment or rely on scripts, ensuring you have backups of your tool configurations, aliases, and scripts is vital. Below are ten effective ways to back up your command line tools, configurations, and related data, with actionable steps and real-word examples for each.

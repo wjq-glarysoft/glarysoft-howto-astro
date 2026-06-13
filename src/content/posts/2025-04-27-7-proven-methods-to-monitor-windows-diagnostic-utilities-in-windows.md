@@ -1,8 +1,10 @@
 ---
 title: "7 Proven Methods to Monitor Windows Diagnostic Utilities in Windows"
 date: 2025-04-27
+slug: "7-proven-methods-to-monitor-windows-diagnostic-utilities-in-windows"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Monitoring Windows diagnostic utilities can be an essential practice for maintaining a healthy PC. If you're new to Windows, don't worry; we've got you covered with easy-to-follow, step-by-step instructions. Here are seven effective methods to monitor and use Windows diagnostic utilities, tailored for beginner-level users.

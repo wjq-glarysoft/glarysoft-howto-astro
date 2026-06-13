@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Software Management Best Practices with Built-in Features: Windows User Guide"
 date: 2025-05-11
+slug: "master-windows-software-management-best-practices-with-built-in-features-windows-user-guide"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Software management is a crucial part of maintaining a well-functioning Windows computer. For beginner users, understanding the built-in tools available in Windows for managing software can be incredibly empowering. This guide will walk you through best practices using these tools, providing practical advice and examples.

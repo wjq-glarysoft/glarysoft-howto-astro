@@ -1,8 +1,10 @@
 ---
 title: "Windows Update Repair Techniques: A Step-by-Step Tutorial"
 date: 2025-04-20
+slug: "windows-update-repair-techniques-a-step-by-step-tutorial"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Windows Updates are essential for keeping your system secure and running smoothly. However, sometimes updates can cause issues or fail to install, which can be frustrating. If you're facing such problems, this article provides comprehensive steps to repair Windows Update and get your system back on track.

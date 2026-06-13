@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows User Account Security Techniques for Windows Users"
 date: 2025-08-06
+slug: "essential-windows-user-account-security-techniques-for-windows-users-9"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 How Can Advanced Users Harden User Account Security in Windows?

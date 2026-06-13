@@ -1,8 +1,10 @@
 ---
 title: "Why is Windows System Monitoring Tools Important for Your Windows PC and How to Manage It?"
 date: 2025-08-09
+slug: "why-is-windows-system-monitoring-tools-important-for-your-windows-pc-and-how-to-manage-it-9"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Introduction

@@ -1,8 +1,10 @@
 ---
 title: "The 5 Most Effective Windows Network Performance Tuning Strategies for Windows 10 & 11"
 date: 2025-07-20
+slug: "the-5-most-effective-windows-network-performance-tuning-strategies-for-windows-10-11"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Is your Windows PC suffering from slow downloads, laggy video calls, or sluggish file transfers? Optimizing your network settings can significantly improve your online experience. For intermediate Windows 10 and 11 users, there are several effective strategies you can apply to enhance network performance without diving too deep into complex configurations. Here are the five most practical tuning strategies, each with step-by-step instructions and real-world examples.

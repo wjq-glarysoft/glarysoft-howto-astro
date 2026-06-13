@@ -1,8 +1,10 @@
 ---
 title: "Master file search and indexing techniques with Windows Tools: Windows User Guide"
 date: 2025-05-07
+slug: "master-file-search-and-indexing-techniques-with-windows-tools-windows-user-guide"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Locating files quickly and efficiently is vital for any Windows user, whether you’re a beginner or a seasoned expert. Windows offers several tools and techniques to help you manage file searches and indexing. In this guide, we’ll explore these features in a detailed, step-by-step manner, catering to all skill levels.

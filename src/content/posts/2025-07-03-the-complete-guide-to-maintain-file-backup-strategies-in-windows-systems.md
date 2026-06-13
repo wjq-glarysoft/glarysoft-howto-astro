@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Maintain File Backup Strategies in Windows Systems"
 date: 2025-07-03
+slug: "the-complete-guide-to-maintain-file-backup-strategies-in-windows-systems"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Introduction: Why Are File Backups Important in Windows?

@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Visual Effects for Better Performance"
 date: 2025-04-15
+slug: "optimizing-windows-visual-effects-for-better-performance-2"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 When it comes to enhancing your Windows PC's performance, one area that often gets overlooked is the optimization of visual effects. While these effects add to the aesthetic appeal of the operating system, they can also consume valuable system resources. Tailoring these settings can lead to noticeable performance improvements, especially on older or less powerful machines. Here's a step-by-step guide on how to optimize these effects for improved performance.

@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Diagnostic Utilities Techniques for Windows Users"
 date: 2025-06-17
+slug: "essential-windows-diagnostic-utilities-techniques-for-windows-users"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Why Are Windows Diagnostic Utilities Important?

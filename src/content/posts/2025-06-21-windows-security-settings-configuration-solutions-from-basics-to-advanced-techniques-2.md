@@ -1,8 +1,10 @@
 ---
 title: "Windows Security Settings Configuration Solutions: From Basics to Advanced Techniques"
 date: 2025-06-21
+slug: "windows-security-settings-configuration-solutions-from-basics-to-advanced-techniques-2"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Securing your Windows PC is not just about installing antivirus software; it requires a thorough understanding and configuration of built-in Windows security settings. Misconfigured settings can expose sensitive data or make the system vulnerable to cyber threats. This guide offers professional insights and step-by-step solutions for configuring Windows security, from the foundational basics to advanced protective strategies.

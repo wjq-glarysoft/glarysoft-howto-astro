@@ -1,8 +1,10 @@
 ---
 title: "Master file search and indexing techniques with Built-in Features: Windows User Guide"
 date: 2025-05-05
+slug: "master-file-search-and-indexing-techniques-with-built-in-features-windows-user-guide"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 For advanced Windows users, mastering file search and indexing is crucial to maintaining an efficient and well-organized system. This guide will walk you through the advanced built-in features of Windows that can be leveraged to enhance your file search and indexing skills.

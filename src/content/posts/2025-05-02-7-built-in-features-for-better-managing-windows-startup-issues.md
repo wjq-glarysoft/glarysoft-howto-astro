@@ -1,8 +1,10 @@
 ---
 title: "7 Built-in Features for Better Managing Windows Startup Issues"
 date: 2025-05-02
+slug: "7-built-in-features-for-better-managing-windows-startup-issues"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Windows startup issues are a common frustration for many users, affecting both the speed and efficiency with which your system boots up. Fortunately, Windows provides several built-in features that can help diagnose and resolve these issues. In this article, we'll explore seven such features, offering practical advice and examples for both beginners and advanced users.

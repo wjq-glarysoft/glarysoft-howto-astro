@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows File Sharing and Permissions in Windows?"
 date: 2025-08-15
+slug: "are-you-making-these-common-mistakes-with-windows-file-sharing-and-permissions-in-windows-4"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Windows file sharing and permissions are powerful tools for controlling access to files and folders, whether at home, in an office, or across a network. Yet, many users — both beginners and advanced — unknowingly make mistakes that can lead to security risks, access problems, or performance issues. By understanding the most common pitfalls and following best practices, you can maintain a secure and efficient file-sharing environment.

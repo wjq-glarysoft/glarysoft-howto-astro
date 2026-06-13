@@ -1,8 +1,10 @@
 ---
 title: "backup file compression techniques Like a Pro: Windows Systems Guide"
 date: 2025-08-08
+slug: "backup-file-compression-techniques-like-a-pro-windows-systems-guide"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Efficient file backup is essential for safeguarding data, saving disk space, and streamlining restores. One of the most effective ways to optimize your backup process is through advanced file compression. This guide explores practical compression techniques for Windows users—moving beyond basic ZIPs, and helping you manage files and folders like a pro.

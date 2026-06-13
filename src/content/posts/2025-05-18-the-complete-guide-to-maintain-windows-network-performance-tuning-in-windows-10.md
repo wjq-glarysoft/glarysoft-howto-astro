@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Maintain Windows Network Performance Tuning in Windows 10"
 date: 2025-05-18
+slug: "the-complete-guide-to-maintain-windows-network-performance-tuning-in-windows-10"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Maintaining optimal network performance on your Windows 10 computer is crucial for ensuring smooth internet connectivity and efficient data transfer. Whether you're gaming, streaming, or working from home, network performance directly impacts your daily tasks. This guide provides comprehensive steps for both beginners and advanced users to tune their Windows 10 network settings for optimal performance.

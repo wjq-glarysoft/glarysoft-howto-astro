@@ -1,8 +1,10 @@
 ---
 title: "Master file synchronization across devices with Free Software: Windows User Guide"
 date: 2025-06-09
+slug: "master-file-synchronization-across-devices-with-free-software-windows-user-guide-2"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Why Should You Synchronize Files Across Devices?

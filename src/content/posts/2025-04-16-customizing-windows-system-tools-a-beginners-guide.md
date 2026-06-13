@@ -1,8 +1,10 @@
 ---
 title: "Customizing Windows System Tools: A Beginner's Guide"
 date: 2025-04-16
+slug: "customizing-windows-system-tools-a-beginners-guide"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Windows operating systems come packed with a variety of system tools designed to help users manage, maintain, and optimize their PCs. For beginners, understanding and customizing these tools can greatly enhance your computing experience, ensuring your system runs smoothly and efficiently. This guide will introduce you to key system tools and provide actionable advice on how to customize them to suit your needs.

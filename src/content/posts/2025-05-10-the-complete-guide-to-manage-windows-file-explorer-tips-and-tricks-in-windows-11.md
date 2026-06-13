@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Manage Windows File Explorer Tips and Tricks in Windows 11"
 date: 2025-05-10
+slug: "the-complete-guide-to-manage-windows-file-explorer-tips-and-tricks-in-windows-11"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 For advanced users, Windows File Explorer is not just a file management tool but a powerful utility that, when mastered, can significantly enhance productivity and save time. In this guide, we'll delve deep into some of the more advanced tips and tricks to help you make the most out of File Explorer in Windows 11.

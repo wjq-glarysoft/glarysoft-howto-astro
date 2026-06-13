@@ -1,8 +1,10 @@
 ---
 title: "5 Built-in Features for Better Windows System Information Tools Management"
 date: 2025-06-17
+slug: "5-built-in-features-for-better-windows-system-information-tools-management"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Knowing your Windows system’s hardware and software details is essential for troubleshooting, upgrades, and system optimization. Windows includes several built-in tools that provide detailed system information without needing to install anything extra. This article walks you through five such features, offering step-by-step instructions, practical usage examples, and tips for both beginners and advanced users. Whether you're diagnosing issues or planning upgrades, mastering these built-in tools will make managing your PC easier.

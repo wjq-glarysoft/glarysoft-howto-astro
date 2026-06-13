@@ -1,8 +1,10 @@
 ---
 title: "Windows Disk Defragmentation Solutions: From Basics to Advanced Techniques"
 date: 2025-07-12
+slug: "windows-disk-defragmentation-solutions-from-basics-to-advanced-techniques-7"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Introduction

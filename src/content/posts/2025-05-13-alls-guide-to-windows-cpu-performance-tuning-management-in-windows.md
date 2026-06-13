@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows CPU Performance Tuning Management in Windows"
 date: 2025-05-13
+slug: "alls-guide-to-windows-cpu-performance-tuning-management-in-windows"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Managing your CPU performance is crucial for maintaining a smooth and efficient computing experience on your Windows machine. While many users focus on visual enhancements or memory upgrades, optimizing CPU performance can significantly improve system responsiveness and overall productivity. This guide provides intermediate-level insights and actionable steps to fine-tune your Windows CPU performance.

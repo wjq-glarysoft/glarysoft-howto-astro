@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid for Enhanced Windows User Account Security"
 date: 2025-04-15
+slug: "common-mistakes-to-avoid-for-enhanced-windows-user-account-security"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Securing your Windows user account is a vital component of maintaining privacy and security in your computing environment. Despite the built-in security features of Windows, many users inadvertently make mistakes that could compromise their account security. This article will explore common pitfalls and provide actionable advice to help you safeguard your Windows user account.

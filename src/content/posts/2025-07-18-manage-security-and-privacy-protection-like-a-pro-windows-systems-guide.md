@@ -1,8 +1,10 @@
 ---
 title: "manage security and privacy protection Like a Pro: Windows Systems Guide"
 date: 2025-07-18
+slug: "manage-security-and-privacy-protection-like-a-pro-windows-systems-guide"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Protecting your security and privacy on Windows isn’t just about installing antivirus software. It’s a combination of smart practices, system settings tweaks, and regular maintenance to shield your data from threats and prying eyes. This guide walks you through essential steps and practical examples, making it easy for all levels of Windows users to strengthen their security and privacy.

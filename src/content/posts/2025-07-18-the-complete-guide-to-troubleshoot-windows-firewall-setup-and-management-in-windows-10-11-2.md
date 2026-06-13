@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Troubleshoot Windows Firewall Setup and Management in Windows 10 & 11"
 date: 2025-07-18
+slug: "the-complete-guide-to-troubleshoot-windows-firewall-setup-and-management-in-windows-10-11-2"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Windows Firewall is your computer’s first line of defense against malicious network traffic. A properly configured firewall helps protect your personal data, prevents unauthorized access, and ensures safe browsing. However, firewall misconfigurations or conflicts can lead to connectivity issues or leave your system vulnerable. This guide covers expert recommendations for setting up, managing, and troubleshooting the Windows Firewall in Windows 10 and 11, suitable for both beginners and advanced users.

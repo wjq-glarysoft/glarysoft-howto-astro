@@ -1,8 +1,10 @@
 ---
 title: "Essential Best Practices for System Optimization and Maintenance on Windows"
 date: 2025-04-10
+slug: "essential-best-practices-for-system-optimization-and-maintenance-on-windows"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Maintaining a smooth-running, efficient Windows PC requires regular system optimization and maintenance. These tasks not only enhance your computer's performance but also extend its lifespan. Below, we've outlined some best practices that are both practical and actionable.

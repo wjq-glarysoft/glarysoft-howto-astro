@@ -1,8 +1,10 @@
 ---
 title: "How to configure Windows data encryption methods for Advanced Windows Users?"
 date: 2025-06-14
+slug: "how-to-configure-windows-data-encryption-methods-for-advanced-windows-users"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Understanding why encryption matters

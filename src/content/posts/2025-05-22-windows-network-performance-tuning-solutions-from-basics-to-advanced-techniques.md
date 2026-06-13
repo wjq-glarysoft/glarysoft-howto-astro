@@ -1,8 +1,10 @@
 ---
 title: "Windows Network Performance Tuning Solutions: From Basics to Advanced Techniques"
 date: 2025-05-22
+slug: "windows-network-performance-tuning-solutions-from-basics-to-advanced-techniques"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 In today's connected world, a fast and reliable network is essential for both personal use and professional productivity. Whether you're streaming your favorite shows, gaming, or working from home, optimizing your Windows network performance can make a significant difference. This guide will walk you through the basics of network tuning, offering practical advice and real-world examples suitable for beginners and advanced users alike.

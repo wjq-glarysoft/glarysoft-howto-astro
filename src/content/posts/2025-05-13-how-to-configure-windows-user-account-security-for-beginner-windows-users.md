@@ -1,8 +1,10 @@
 ---
 title: "How to Configure Windows User Account Security for Beginner Windows Users?"
 date: 2025-05-13
+slug: "how-to-configure-windows-user-account-security-for-beginner-windows-users"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 As a beginner Windows user, understanding how to secure your user account is essential for maintaining privacy and security. Windows provides several built-in features that can help protect your account from unauthorized access. This guide will walk you through some time-saving tips and practical steps to configure your Windows user account security effectively.

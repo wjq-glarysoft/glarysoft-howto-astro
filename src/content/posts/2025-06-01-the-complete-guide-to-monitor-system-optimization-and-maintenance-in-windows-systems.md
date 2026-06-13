@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Monitor System Optimization and Maintenance in Windows Systems"
 date: 2025-06-01
+slug: "the-complete-guide-to-monitor-system-optimization-and-maintenance-in-windows-systems"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Introduction

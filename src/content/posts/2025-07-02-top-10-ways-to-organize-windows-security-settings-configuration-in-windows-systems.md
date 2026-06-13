@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Organize Windows Security Settings Configuration in Windows Systems"
 date: 2025-07-02
+slug: "top-10-ways-to-organize-windows-security-settings-configuration-in-windows-systems"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows security settings can feel overwhelming, especially for beginners. Safeguarding your PC and personal data starts with a well-organized approach to privacy and security configuration. Below are ten practical methods to help you organize, review, and strengthen your Windows security settings, with guidance for both new and experienced users.

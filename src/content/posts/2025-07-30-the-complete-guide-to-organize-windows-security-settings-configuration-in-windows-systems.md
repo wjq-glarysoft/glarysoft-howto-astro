@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Organize Windows Security Settings Configuration in Windows Systems"
 date: 2025-07-30
+slug: "the-complete-guide-to-organize-windows-security-settings-configuration-in-windows-systems"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Configuring security settings in Windows is essential for protecting your data and privacy. However, many users—both beginners and advanced—make common mistakes that can leave their systems vulnerable. This guide explores how to effectively organize your Windows security settings, highlights common pitfalls, and offers step-by-step solutions for maintaining a secure system environment.

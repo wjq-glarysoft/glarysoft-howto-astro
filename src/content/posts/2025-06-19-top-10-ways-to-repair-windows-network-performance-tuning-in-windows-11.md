@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Repair Windows Network Performance Tuning in Windows 11"
 date: 2025-06-19
+slug: "top-10-ways-to-repair-windows-network-performance-tuning-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Windows 11 offers a modern networking stack, but even advanced users often overlook critical details that can hinder network performance. Tuning your system for optimal throughput and low latency requires more than tweaking obvious settings. Below are the top 10 ways to repair and optimize Windows network performance, emphasizing common mistakes to avoid and practical strategies to ensure you get the most from your network connection.

@@ -1,8 +1,10 @@
 ---
 title: "12 Essential Windows Security Settings Configuration Tips Every Windows User Should Know"
 date: 2025-06-26
+slug: "12-essential-windows-security-settings-configuration-tips-every-windows-user-should-know"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Keeping your Windows PC secure is crucial in today’s digital world. From phishing attacks to malware, threats are constantly evolving. Luckily, Windows includes a broad set of privacy and security features—if you know where to look and how to configure them. This guide provides 12 essential security settings, with step-by-step instructions, so you can better protect your system and personal data.

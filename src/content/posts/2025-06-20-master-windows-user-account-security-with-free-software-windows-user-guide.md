@@ -1,8 +1,10 @@
 ---
 title: "Master Windows user account security with Free Software: Windows User Guide"
 date: 2025-06-20
+slug: "master-windows-user-account-security-with-free-software-windows-user-guide"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Windows user account security is the cornerstone of your PC’s Privacy & Security. Whether you’re a casual user or an IT professional, understanding how to strengthen user accounts saves you time, protects your data, and simplifies troubleshooting. This guide explores actionable strategies and time-saving techniques using free tools and built-in features to help you master Windows account security.

@@ -1,8 +1,10 @@
 ---
 title: "5 Essential File Management and Organization Tips Every Windows User Should Know"
 date: 2025-04-25
+slug: "5-essential-file-management-and-organization-tips-every-windows-user-should-know"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Managing files efficiently on your Windows PC ensures that you can find and use your data quickly, which is crucial for productivity and system performance. Whether you're a beginner or an experienced user, these five essential tips will help you master file management and organization.

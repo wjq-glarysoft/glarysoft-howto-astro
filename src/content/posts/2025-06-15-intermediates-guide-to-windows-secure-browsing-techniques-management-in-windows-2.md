@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows Secure Browsing Techniques Management in Windows"
 date: 2025-06-15
+slug: "intermediates-guide-to-windows-secure-browsing-techniques-management-in-windows-2"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Browsing the internet is a daily necessity, but it comes with privacy and security risks. As an intermediate Windows user, you already know the basics—using strong passwords and running antivirus software. However, taking your secure browsing practices to the next level means understanding and managing advanced techniques to protect your privacy and data while online. This guide dives into practical, real-world ways to enhance your web security on Windows.

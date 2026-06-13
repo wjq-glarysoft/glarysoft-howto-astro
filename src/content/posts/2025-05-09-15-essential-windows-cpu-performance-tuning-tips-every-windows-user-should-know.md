@@ -1,8 +1,10 @@
 ---
 title: "15 Essential Windows CPU performance tuning Tips Every Windows User Should Know"
 date: 2025-05-09
+slug: "15-essential-windows-cpu-performance-tuning-tips-every-windows-user-should-know"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Boosting your Windows CPU performance can dramatically improve your computer's speed and responsiveness. Whether you're a beginner seeking to enhance everyday tasks or an advanced user looking to squeeze every bit of performance for demanding applications, these 15 tips offer a comprehensive guide to getting the most out of your Windows PC.

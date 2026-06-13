@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Clean Windows Registry Cleaning and Repair in Windows 11"
 date: 2025-07-16
+slug: "the-complete-guide-to-clean-windows-registry-cleaning-and-repair-in-windows-11"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 If you’ve ever wondered what the Windows Registry is, or why some experts recommend cleaning it, you’re not alone. This guide will walk you through the basics of the Windows 11 Registry, explain why (and when) you might want to clean or repair it, and provide simple, step-by-step instructions using the safest methods available for beginners.

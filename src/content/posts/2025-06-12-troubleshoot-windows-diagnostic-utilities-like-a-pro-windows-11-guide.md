@@ -1,8 +1,10 @@
 ---
 title: "troubleshoot Windows diagnostic utilities Like a Pro: Windows 11 Guide"
 date: 2025-06-12
+slug: "troubleshoot-windows-diagnostic-utilities-like-a-pro-windows-11-guide"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 When your Windows 11 PC starts acting up—slowing down, freezing, or displaying error messages—knowing how to leverage built-in and third-party diagnostic tools can make all the difference. This comprehensive guide walks you through the essentials of Windows diagnostic utilities, offering practical insights whether you’re just starting or already have advanced troubleshooting skills.

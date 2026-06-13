@@ -1,8 +1,10 @@
 ---
 title: "Advanced Techniques for Customizing Windows System Tools"
 date: 2025-04-15
+slug: "advanced-techniques-for-customizing-windows-system-tools"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Customizing Windows system tools can significantly enhance your productivity and streamline your workflow. While most users stick to the default settings, advanced customization can unlock hidden potential and empower you to tailor the system to your specific needs. Let's explore some techniques to customize these tools effectively.

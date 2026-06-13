@@ -1,8 +1,10 @@
 ---
 title: "Essential System File Repair Techniques for Windows Users"
 date: 2025-04-24
+slug: "essential-system-file-repair-techniques-for-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Windows operating systems are complex, and over time, system files can become corrupt or missing, leading to various performance issues or system errors. Fortunately, there are effective techniques to repair these essential system files. This guide will explore practical, actionable methods for system file repair, suitable for all levels of Windows users.

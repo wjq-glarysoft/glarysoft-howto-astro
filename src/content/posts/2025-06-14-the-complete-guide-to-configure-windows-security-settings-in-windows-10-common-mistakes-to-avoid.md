@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure Windows Security Settings in Windows 10: Common Mistakes to Avoid"
 date: 2025-06-14
+slug: "the-complete-guide-to-configure-windows-security-settings-in-windows-10-common-mistakes-to-avoid"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Windows 10 is packed with security features designed to protect your personal data, shield you from malicious software, and keep your computer running smoothly. However, even with these built-in tools, many users make mistakes when configuring their security settings, leaving themselves vulnerable to threats. This guide explores the most common pitfalls, provides actionable steps for beginners and advanced users, and offers practical advice to optimize your privacy and security setup.

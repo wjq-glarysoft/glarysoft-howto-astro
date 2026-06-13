@@ -1,8 +1,10 @@
 ---
 title: "Advanced Techniques for File Management and Organization on Windows"
 date: 2025-04-18
+slug: "advanced-techniques-for-file-management-and-organization-on-windows"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Managing and organizing your files effectively on a Windows system is crucial for maintaining productivity and ensuring that you can quickly find what you need. While basic file management involves creating folders and naming files logically, advanced techniques allow for more efficient organization and retrieval. Here are some practical strategies for taking your file management to the next level.

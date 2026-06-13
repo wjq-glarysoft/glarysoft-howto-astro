@@ -1,8 +1,10 @@
 ---
 title: "Mastering Your Windows PC: Tips and Tricks for Seamless Use"
 date: 2025-04-10
+slug: "mastering-your-windows-pc-tips-and-tricks-for-seamless-use"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Windows is a versatile and powerful operating system that powers millions of computers worldwide. Whether you're a seasoned user or a newcomer to the digital landscape, knowing a few tips and tricks can enhance your experience and improve productivity. In this article, we delve into some practical suggestions that can help you get the most out of your Windows PC.

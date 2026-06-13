@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Organize Windows Security and Privacy Enhancements in Windows Systems"
 date: 2025-07-13
+slug: "the-complete-guide-to-organize-windows-security-and-privacy-enhancements-in-windows-systems"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Understanding how to secure your Windows PC and protect your privacy might seem overwhelming, especially if you consider yourself a beginner. However, organizing your approach and applying a few key enhancements can make your computer safer and your personal data more private. This guide will walk you through actionable steps and real-world examples tailored for new Windows users, using simple language and practical instructions.

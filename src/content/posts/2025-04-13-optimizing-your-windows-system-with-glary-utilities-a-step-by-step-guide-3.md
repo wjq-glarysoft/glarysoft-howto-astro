@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Your Windows System with Glary Utilities: A Step-by-Step Guide"
 date: 2025-04-13
+slug: "optimizing-your-windows-system-with-glary-utilities-a-step-by-step-guide-3"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Windows systems can slow down over time due to accumulated junk files, fragmented disks, and misconfigured settings. Optimizing your system helps improve performance and maintain stability. Glary Utilities is a comprehensive tool that can aid in this process, offering an array of features to clean, repair, and optimize your PC. Below is a step-by-step tutorial on how to use Glary Utilities to enhance your Windows system.

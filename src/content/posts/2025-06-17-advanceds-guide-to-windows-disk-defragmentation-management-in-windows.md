@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Disk Defragmentation Management in Windows"
 date: 2025-06-17
+slug: "advanceds-guide-to-windows-disk-defragmentation-management-in-windows"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Why Is Disk Defragmentation Important for Windows Performance?

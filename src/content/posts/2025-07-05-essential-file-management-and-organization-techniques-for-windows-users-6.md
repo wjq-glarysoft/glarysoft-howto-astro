@@ -1,8 +1,10 @@
 ---
 title: "Essential File Management and Organization Techniques for Windows Users"
 date: 2025-07-05
+slug: "essential-file-management-and-organization-techniques-for-windows-users-6"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Why Does File Organization Matter?

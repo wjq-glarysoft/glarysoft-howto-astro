@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to manage Windows security and privacy enhancements in Windows 10 & 11"
 date: 2025-08-18
+slug: "the-complete-guide-to-manage-windows-security-and-privacy-enhancements-in-windows-10-11"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Managing security and privacy on Windows 10 and 11 is not just about enabling features—it’s equally about avoiding common mistakes that put your system and data at risk. Many users unintentionally overlook important settings or misconfigure features, leaving their machines vulnerable. This guide explores those pitfalls and offers practical steps to secure your system while maintaining privacy. Each section addresses both beginners and advanced users, ensuring that no matter your skill level, you can confidently strengthen your Windows setup.

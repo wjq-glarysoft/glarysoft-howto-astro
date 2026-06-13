@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Manage Windows Backup and Restore Utilities in Windows 10"
 date: 2025-07-09
+slug: "top-10-ways-to-manage-windows-backup-and-restore-utilities-in-windows-10"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Introduction

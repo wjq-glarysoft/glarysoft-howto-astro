@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 Disk Cleanup and Optimization Made Easy"
 date: 2025-07-13
+slug: "windows-10-disk-cleanup-and-optimization-made-easy"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Keeping your Windows 10 PC running smoothly doesn’t have to be a chore. A clean, optimized system saves time, prevents frustrating slowdowns, and extends the life of your hardware. Whether you’re a beginner just learning the ropes or an advanced user looking for efficiency hacks, this guide will walk you through effective disk cleanup and optimization strategies—focusing on practical, time-saving solutions.

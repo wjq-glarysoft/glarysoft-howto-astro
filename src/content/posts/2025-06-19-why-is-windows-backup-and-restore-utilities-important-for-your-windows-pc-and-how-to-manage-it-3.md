@@ -1,8 +1,10 @@
 ---
 title: "Why is Windows Backup and Restore Utilities Important for Your Windows PC and How to Manage It?"
 date: 2025-06-19
+slug: "why-is-windows-backup-and-restore-utilities-important-for-your-windows-pc-and-how-to-manage-it-3"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Introduction

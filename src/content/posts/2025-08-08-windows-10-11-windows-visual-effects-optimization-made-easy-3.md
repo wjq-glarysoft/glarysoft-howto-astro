@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 Windows Visual Effects Optimization Made Easy"
 date: 2025-08-08
+slug: "windows-10-11-windows-visual-effects-optimization-made-easy-3"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Windows 10 and 11 come packed with dynamic visual effects—animations, shadows, and transparency—that make the operating system look sleek and modern. While these visual flourishes enhance the user experience, they can also slow down your PC, especially on older or less powerful hardware. Whether you want a performance boost or simply prefer a more minimalist look, optimizing these visual effects can make a real difference.

@@ -1,8 +1,10 @@
 ---
 title: "When Should You Monitor Windows Diagnostic Utilities on Your Windows Computer?"
 date: 2025-05-22
+slug: "when-should-you-monitor-windows-diagnostic-utilities-on-your-windows-computer-2"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Monitoring Windows diagnostic utilities can significantly enhance your computer's performance and longevity. Knowing when and how to utilize these tools can save you from potential headaches such as unexpected crashes or sluggish performance. Let's dive into the specifics of when you should monitor these utilities and how Glary Utilities can support this process.

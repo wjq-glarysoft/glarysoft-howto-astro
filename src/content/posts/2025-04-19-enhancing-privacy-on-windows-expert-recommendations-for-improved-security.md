@@ -1,8 +1,10 @@
 ---
 title: "Enhancing Privacy on Windows: Expert Recommendations for Improved Security"
 date: 2025-04-19
+slug: "enhancing-privacy-on-windows-expert-recommendations-for-improved-security"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 In today's digital landscape, maintaining privacy on your Windows PC is more critical than ever. Windows, with its robust features, offers numerous options to safeguard your data and enhance security. This article will guide you through practical, actionable steps to bolster your privacy on Windows.

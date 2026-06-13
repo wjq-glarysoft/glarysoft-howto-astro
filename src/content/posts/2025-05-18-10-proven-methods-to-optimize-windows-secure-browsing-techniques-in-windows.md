@@ -1,8 +1,10 @@
 ---
 title: "10 Proven Methods to Optimize Windows Secure Browsing Techniques in Windows"
 date: 2025-05-18
+slug: "10-proven-methods-to-optimize-windows-secure-browsing-techniques-in-windows"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Ensuring secure browsing on Windows is crucial for protecting your personal information and maintaining your online privacy. Here is a step-by-step guide with ten proven methods to optimize your secure browsing techniques in Windows.

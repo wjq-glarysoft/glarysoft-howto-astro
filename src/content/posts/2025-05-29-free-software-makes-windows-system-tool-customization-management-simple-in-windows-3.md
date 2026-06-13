@@ -1,8 +1,10 @@
 ---
 title: "Free Software Makes Windows System Tool Customization Management Simple in Windows"
 date: 2025-05-29
+slug: "free-software-makes-windows-system-tool-customization-management-simple-in-windows-3"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Why Should You Customize System Tools in Windows?

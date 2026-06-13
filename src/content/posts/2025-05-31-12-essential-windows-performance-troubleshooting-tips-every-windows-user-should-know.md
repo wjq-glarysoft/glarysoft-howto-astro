@@ -1,8 +1,10 @@
 ---
 title: "12 Essential Windows Performance Troubleshooting Tips Every Windows User Should Know"
 date: 2025-05-31
+slug: "12-essential-windows-performance-troubleshooting-tips-every-windows-user-should-know"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Experiencing slowdowns, freezes, or unexpected errors on your Windows PC can be frustrating. Whether you're a casual user or an IT enthusiast, knowing how to troubleshoot performance issues is key to keeping your system running smoothly. Below are twelve expert-backed tips for diagnosing and resolving common Windows performance problems, including actionable steps for both beginners and advanced users.

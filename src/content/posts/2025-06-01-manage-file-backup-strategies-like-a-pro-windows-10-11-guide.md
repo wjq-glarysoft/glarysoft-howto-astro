@@ -1,8 +1,10 @@
 ---
 title: "manage file backup strategies Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-01
+slug: "manage-file-backup-strategies-like-a-pro-windows-10-11-guide"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Keeping your important files and folders safe is more critical than ever. Accidental deletions, hardware failures, and malware attacks can threaten your valuable data. This article provides step-by-step guidance on effective file backup strategies in Windows 10 and 11, tailored for both beginners and advanced users. Follow these practical examples and methods to ensure your files are protected and always recoverable.

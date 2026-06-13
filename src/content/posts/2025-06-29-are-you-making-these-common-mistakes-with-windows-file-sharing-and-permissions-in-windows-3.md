@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows File Sharing and Permissions in Windows?"
 date: 2025-06-29
+slug: "are-you-making-these-common-mistakes-with-windows-file-sharing-and-permissions-in-windows-3"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Windows file sharing is a useful feature that lets you share documents, pictures, or even whole folders with family members, friends, or coworkers on your network. However, many beginners make common mistakes that can lead to confusion, lost files, or even security risks. Understanding the basics of file sharing and permissions can save you a lot of trouble and help you get the most out of your Windows PC. Let’s look at the most frequent mistakes and how to avoid them with practical, step-by-step advice.

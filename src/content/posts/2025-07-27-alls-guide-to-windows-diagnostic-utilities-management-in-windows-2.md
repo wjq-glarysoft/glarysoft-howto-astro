@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows Diagnostic Utilities Management in Windows"
 date: 2025-07-27
+slug: "alls-guide-to-windows-diagnostic-utilities-management-in-windows-2"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 What Are Windows Diagnostic Utilities and Why Should Advanced Users Care?

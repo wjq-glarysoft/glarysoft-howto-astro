@@ -1,8 +1,10 @@
 ---
 title: "Understanding and Implementing File Compression Techniques on Windows"
 date: 2025-04-15
+slug: "understanding-and-implementing-file-compression-techniques-on-windows"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 File compression is an essential technique for managing disk space and efficiently transferring files. On Windows systems, several methods and tools can be employed to compress files and folders, thereby optimizing storage and speeding up file sharing. Here, we’ll explore practical advice and real-world applications of file compression on Windows.

@@ -1,8 +1,10 @@
 ---
 title: "Master Windows power management tools with Free Software: Windows User Guide"
 date: 2025-06-02
+slug: "master-windows-power-management-tools-with-free-software-windows-user-guide-2"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 What Are Power Management Tools in Windows?

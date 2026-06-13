@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure Windows CPU Performance Tuning in Windows 10 & 11"
 date: 2025-06-19
+slug: "the-complete-guide-to-configure-windows-cpu-performance-tuning-in-windows-10-11"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Windows 10 and 11 offer a range of built-in tools and settings for tuning CPU performance. Understanding how to properly configure these options can significantly improve your system's responsiveness, particularly for demanding tasks such as gaming, video editing, or running multiple applications at once. This guide provides professional, actionable advice for intermediate Windows users seeking to optimize CPU performance using both native settings and trusted third-party utilities like Glary Utilities.

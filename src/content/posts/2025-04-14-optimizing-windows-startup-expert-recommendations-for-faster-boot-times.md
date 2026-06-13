@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Startup: Expert Recommendations for Faster Boot Times"
 date: 2025-04-14
+slug: "optimizing-windows-startup-expert-recommendations-for-faster-boot-times"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 A sluggish startup can be a major annoyance for any Windows user. Fortunately, there are several proven methods to optimize your system's boot time, ensuring a smoother and quicker start. Below are some expert recommendations to help you achieve a faster Windows startup.

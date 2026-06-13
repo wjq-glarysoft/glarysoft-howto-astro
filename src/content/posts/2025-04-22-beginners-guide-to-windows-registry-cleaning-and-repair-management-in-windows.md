@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Registry Cleaning and Repair Management in Windows"
 date: 2025-04-22
+slug: "beginners-guide-to-windows-registry-cleaning-and-repair-management-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Understanding and maintaining the Windows registry is crucial for the smooth operation of your PC. The registry acts as the brain of your Windows operating system, storing configuration settings and options. Over time, however, the registry can become cluttered with obsolete or corrupt entries, leading to system instability or performance degradation. This guide will walk you through the basics of cleaning and repairing the registry, ensuring your computer remains in top condition.

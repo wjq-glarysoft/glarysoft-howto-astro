@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Repair Windows Registry Cleaning and Repair in Windows Systems"
 date: 2025-05-12
+slug: "the-complete-guide-to-repair-windows-registry-cleaning-and-repair-in-windows-systems"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 For many Windows users, the registry remains a mysterious and often misunderstood part of the operating system. Yet, maintaining a clean and functional registry is crucial for ensuring your PC runs smoothly. In this guide, we’ll unravel the complexities of the Windows registry and offer beginner-friendly advice on how to clean and repair it.

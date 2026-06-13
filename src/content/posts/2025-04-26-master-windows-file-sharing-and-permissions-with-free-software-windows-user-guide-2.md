@@ -1,8 +1,10 @@
 ---
 title: "Master Windows file sharing and permissions with Free Software: Windows User Guide"
 date: 2025-04-26
+slug: "master-windows-file-sharing-and-permissions-with-free-software-windows-user-guide-2"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 For advanced Windows users, mastering file sharing and permissions is crucial for maintaining a secure and efficient network environment. This guide explores best practices and advanced tips for managing files and folders, leveraging both built-in Windows features and free software solutions like [Glary Utilities](https://www.glarysoft.com) to optimize the process.

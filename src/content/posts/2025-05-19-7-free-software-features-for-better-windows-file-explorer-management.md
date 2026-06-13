@@ -1,8 +1,10 @@
 ---
 title: "7 Free Software Features for Better Windows File Explorer Management"
 date: 2025-05-19
+slug: "7-free-software-features-for-better-windows-file-explorer-management"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 For intermediate Windows users looking to enhance their file management skills, understanding the full potential of Windows File Explorer is crucial. While many users are familiar with basic functions like copying, moving, and deleting files, there are several lesser-known tips, tricks, and software features that can significantly optimize your workflow. Here’s how you can take your file management to the next level with some practical tips and the help of [Glary Utilities](https://www.glarysoft.com).

@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Backup File Naming Conventions and Organization in Windows 10"
 date: 2025-07-18
+slug: "top-10-ways-to-backup-file-naming-conventions-and-organization-in-windows-10"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Why Are File Naming Conventions and Organization Important?

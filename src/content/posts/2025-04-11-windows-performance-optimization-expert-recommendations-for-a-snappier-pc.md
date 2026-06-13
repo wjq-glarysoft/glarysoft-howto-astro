@@ -1,8 +1,10 @@
 ---
 title: "Windows Performance Optimization: Expert Recommendations for a Snappier PC"
 date: 2025-04-11
+slug: "windows-performance-optimization-expert-recommendations-for-a-snappier-pc"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Having a Windows machine that runs efficiently and swiftly is crucial for productivity and a smooth user experience. With numerous tasks and applications vying for your system's resources, it’s essential to optimize your PC to maintain peak performance. Here are some expert recommendations for optimizing your Windows PC:

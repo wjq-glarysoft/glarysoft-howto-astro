@@ -1,8 +1,10 @@
 ---
 title: "Best Practices for Cleaning Up Temporary Files on Windows"
 date: 2025-04-18
+slug: "best-practices-for-cleaning-up-temporary-files-on-windows"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Temporary files can accumulate on your Windows computer over time, slowing down performance and taking up valuable storage space. These files include leftover data from system updates, installations, and various applications. Regularly cleaning up temporary files is essential to maintaining a well-optimized system. In this article, we’ll explore best practices for cleaning up temporary files, with practical steps and advice to guide you through the process.

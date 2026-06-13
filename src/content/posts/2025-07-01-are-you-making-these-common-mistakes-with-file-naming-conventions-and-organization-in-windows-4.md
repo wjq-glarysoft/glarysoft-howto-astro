@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with File Naming Conventions and Organization in Windows?"
 date: 2025-07-01
+slug: "are-you-making-these-common-mistakes-with-file-naming-conventions-and-organization-in-windows-4"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Organizing files and folders on your Windows computer might seem straightforward, but even seasoned users often make mistakes that lead to confusion, lost documents, or wasted time. Whether you’re managing personal files, work projects, or shared resources, following best practices for naming and organizing files is essential for productivity and peace of mind. Here’s how to spot and fix the most common mistakes.

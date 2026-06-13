@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Configure Windows Performance Troubleshooting in Windows 10 & 11"
 date: 2025-05-08
+slug: "top-10-ways-to-configure-windows-performance-troubleshooting-in-windows-10-11-2"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Windows performance issues can be frustrating, but many common pitfalls can be easily avoided with the right knowledge and tools. Below are ten ways to configure and enhance your Windows 10 and 11 experience, focusing on practical advice and real-world examples.

@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Windows Disk Defragmentation Toolkit for Windows Computers"
 date: 2025-05-18
+slug: "the-ultimate-windows-disk-defragmentation-toolkit-for-windows-computers"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Defragmenting your disk is an essential maintenance task that can significantly enhance the performance of your Windows computer. For beginners, understanding and executing disk defragmentation might seem daunting, but it doesn't have to be. This guide provides time-saving tips to simplify the process and improve your system's efficiency.

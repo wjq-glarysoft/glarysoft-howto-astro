@@ -1,8 +1,10 @@
 ---
 title: "Understanding Networking and Connectivity: A Beginner's Guide"
 date: 2025-04-10
+slug: "understanding-networking-and-connectivity-a-beginners-guide-2"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 In the digital age, networking and connectivity form the backbone of our interaction with technology. From browsing the internet to streaming videos or playing online games, a robust network connection is essential. If you're new to networking, this guide will help you grasp the basics and offer practical, actionable advice to improve your connectivity.

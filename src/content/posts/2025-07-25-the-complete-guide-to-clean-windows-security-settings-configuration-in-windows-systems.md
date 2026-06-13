@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Clean Windows Security Settings Configuration in Windows Systems"
 date: 2025-07-25
+slug: "the-complete-guide-to-clean-windows-security-settings-configuration-in-windows-systems"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Securing your Windows PC goes beyond installing antivirus software. A clean and well-configured system greatly reduces the risk of malware, data theft, and privacy breaches. This guide outlines expert-recommended steps to review, adjust, and maintain Windows security settings for optimal protection, focusing on actionable advice for intermediate Windows users.

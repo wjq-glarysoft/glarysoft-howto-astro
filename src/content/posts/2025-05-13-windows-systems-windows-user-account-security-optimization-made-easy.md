@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems Windows User Account Security Optimization Made Easy"
 date: 2025-05-13
+slug: "windows-systems-windows-user-account-security-optimization-made-easy"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Ensuring the security and privacy of your Windows user account is crucial in today's digital age. With the growing number of threats and privacy concerns, it's essential to optimize your Windows user account settings for maximum security. This guide offers practical, actionable advice and real-world examples suitable for both beginners and advanced users.

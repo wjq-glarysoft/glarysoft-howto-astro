@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 File Backup Strategies Optimization Made Easy"
 date: 2025-06-30
+slug: "windows-10-11-file-backup-strategies-optimization-made-easy"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Why Is File Backup Critical for Windows Users?

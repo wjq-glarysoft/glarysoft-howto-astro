@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Manage Windows File Explorer Tips and Tricks in Windows 10 & 11"
 date: 2025-04-22
+slug: "the-complete-guide-to-manage-windows-file-explorer-tips-and-tricks-in-windows-10-11"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Windows File Explorer is an essential tool for navigating and managing your computer's files and folders. It has evolved over the years and offers a variety of features that can enhance productivity and organization. For intermediate Windows users, unlocking the full potential of File Explorer can significantly streamline workflow and ensure efficient file management. This guide provides professional insights on how to make the most out of File Explorer in Windows 10 and 11.

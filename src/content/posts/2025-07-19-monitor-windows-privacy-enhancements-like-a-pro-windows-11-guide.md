@@ -1,8 +1,10 @@
 ---
 title: "monitor Windows privacy enhancements Like a Pro: Windows 11 Guide"
 date: 2025-07-19
+slug: "monitor-windows-privacy-enhancements-like-a-pro-windows-11-guide"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows 11 brings a host of privacy enhancements designed to give users more control over their personal data and system security. Whether you’re concerned about app access to your camera, diagnostic data sent to Microsoft, or how your files are handled, knowing how to monitor and adjust these settings is essential. This guide offers a step-by-step walkthrough for both beginners and advanced users. You’ll learn how to take command of your privacy, optimize your security, and keep your Windows 11 PC running smoothly with practical examples and actionable instructions.

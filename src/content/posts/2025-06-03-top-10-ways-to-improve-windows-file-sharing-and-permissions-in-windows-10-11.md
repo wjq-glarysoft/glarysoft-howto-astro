@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Improve Windows File Sharing and Permissions in Windows 10 & 11"
 date: 2025-06-03
+slug: "top-10-ways-to-improve-windows-file-sharing-and-permissions-in-windows-10-11"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Sharing files and folders on your Windows PC can make collaboration at home or work much easier. However, common mistakes with file sharing and permissions can lead to frustration, security problems, and inaccessible files. Here are the top 10 ways to improve Windows file sharing and permissions by avoiding the most common pitfalls, with practical tips for beginners.

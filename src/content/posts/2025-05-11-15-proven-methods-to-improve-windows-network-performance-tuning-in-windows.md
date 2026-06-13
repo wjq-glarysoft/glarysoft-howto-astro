@@ -1,8 +1,10 @@
 ---
 title: "15 Proven Methods to Improve Windows Network Performance Tuning in Windows"
 date: 2025-05-11
+slug: "15-proven-methods-to-improve-windows-network-performance-tuning-in-windows"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Having a fast and reliable network connection is essential for any Windows user. However, even with good hardware, certain mistakes can degrade network performance. Here, we'll explore 15 proven methods to optimize your network effectively by avoiding common pitfalls.

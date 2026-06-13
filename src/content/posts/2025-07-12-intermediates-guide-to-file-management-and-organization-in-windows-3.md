@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to File Management and Organization in Windows"
 date: 2025-07-12
+slug: "intermediates-guide-to-file-management-and-organization-in-windows-3"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Effective file management and organization are key skills for every Windows user, ensuring you can find, access, and back up your data with minimal hassle. This guide walks you through practical, step-by-step techniques to organize your files and folders, making daily tasks more efficient whether you’re a casual user or someone handling large volumes of data.

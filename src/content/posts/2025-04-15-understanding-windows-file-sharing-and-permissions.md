@@ -1,8 +1,10 @@
 ---
 title: "Understanding Windows File Sharing and Permissions"
 date: 2025-04-15
+slug: "understanding-windows-file-sharing-and-permissions"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Windows file sharing is a powerful feature that allows users to exchange files and folders seamlessly across a network. When set up correctly, it can enhance productivity by providing quick access to necessary documents and resources. However, to maximize efficiency and security, understanding how to manage file sharing and permissions is crucial. Here, we delve into expert recommendations and practical steps to effectively use these features.

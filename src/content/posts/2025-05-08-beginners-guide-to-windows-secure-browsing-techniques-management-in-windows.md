@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Secure Browsing Techniques Management in Windows"
 date: 2025-05-08
+slug: "beginners-guide-to-windows-secure-browsing-techniques-management-in-windows"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 In today's digital age, safeguarding your privacy and security while browsing the internet is crucial, especially on a Windows PC. For intermediate users, understanding and implementing secure browsing techniques can protect personal information and prevent unauthorized access. This guide provides practical, actionable advice to enhance your browsing security.

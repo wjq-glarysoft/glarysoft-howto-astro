@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Maintain Windows Secure Browsing Techniques in Windows Systems"
 date: 2025-06-28
+slug: "the-complete-guide-to-maintain-windows-secure-browsing-techniques-in-windows-systems"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Safe and responsible browsing is essential on any Windows system, whether you’re checking emails, shopping online, or reading the news. With the increasing number of online threats—such as phishing attempts, malware, and privacy intrusions—Windows users at all experience levels must practice secure browsing techniques. This guide walks you through actionable steps and real-world examples for maintaining privacy and security while browsing on Windows.

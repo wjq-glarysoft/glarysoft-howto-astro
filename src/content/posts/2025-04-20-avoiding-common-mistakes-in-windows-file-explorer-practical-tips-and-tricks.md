@@ -1,8 +1,10 @@
 ---
 title: "Avoiding Common Mistakes in Windows File Explorer: Practical Tips and Tricks"
 date: 2025-04-20
+slug: "avoiding-common-mistakes-in-windows-file-explorer-practical-tips-and-tricks"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Windows File Explorer is an essential tool for managing files and folders on your PC, but common mistakes can hinder your productivity and cause unnecessary frustration. By understanding these pitfalls and learning how to avoid them, you can optimize your workflow and maintain an organized file system. Here are some practical tips and tricks to help you navigate Windows File Explorer more effectively.

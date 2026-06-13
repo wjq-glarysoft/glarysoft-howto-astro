@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Windows System Information Tools Toolkit for Windows Computers"
 date: 2025-04-23
+slug: "the-ultimate-windows-system-information-tools-toolkit-for-windows-computers"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Understanding the intricacies of your Windows computer is crucial for maintaining peak performance and optimal health. For intermediate users, utilizing system information tools can provide valuable insights into hardware status, software configurations, and system resource usage. Here's a comprehensive guide on leveraging these tools effectively.

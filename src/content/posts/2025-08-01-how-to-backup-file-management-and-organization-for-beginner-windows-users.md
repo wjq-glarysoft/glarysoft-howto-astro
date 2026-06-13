@@ -1,8 +1,10 @@
 ---
 title: "How to Backup File Management and Organization for Beginner Windows Users?"
 date: 2025-08-01
+slug: "how-to-backup-file-management-and-organization-for-beginner-windows-users"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Why Is File Management and Organization Important?

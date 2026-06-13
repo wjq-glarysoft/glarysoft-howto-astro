@@ -1,8 +1,10 @@
 ---
 title: "How to backup Windows user account security for Intermediate Windows Users?"
 date: 2025-06-30
+slug: "how-to-backup-windows-user-account-security-for-intermediate-windows-users"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Protecting your files and keeping your Windows user account secure is more important than ever. Whether you’re upgrading your PC, troubleshooting problems, or concerned about ransomware, having a backup plan for your Windows user account security can save hours—if not days—of hassle. This guide offers intermediate Windows users practical, actionable advice, plus quick-win tips that can benefit both beginners and advanced users.

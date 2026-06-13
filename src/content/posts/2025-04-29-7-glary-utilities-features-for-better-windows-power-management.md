@@ -1,8 +1,10 @@
 ---
 title: "7 Glary Utilities Features for Better Windows Power Management"
 date: 2025-04-29
+slug: "7-glary-utilities-features-for-better-windows-power-management"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Managing your Windows PC's power settings can significantly affect your computer's performance and energy efficiency. With the right tools, you can optimize these settings to extend battery life and enhance overall system performance. Glary Utilities is a comprehensive tool that offers several features to help manage and optimize Windows power management efficiently. Here, we’ll explore seven features that can help you harness the full potential of your Windows power management tools.

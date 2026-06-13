@@ -1,8 +1,10 @@
 ---
 title: "maintain security and privacy protection Like a Pro: Windows 11 Guide"
 date: 2025-05-15
+slug: "maintain-security-and-privacy-protection-like-a-pro-windows-11-guide"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 In today's digital age, safeguarding your privacy and ensuring your data's security is paramount. Windows 11 brings a host of new features and settings designed to enhance security and privacy protection. Whether you're a beginner or an advanced user, this guide will provide you with practical, actionable advice to maintain your security and privacy like a pro.

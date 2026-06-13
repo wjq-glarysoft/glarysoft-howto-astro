@@ -1,8 +1,10 @@
 ---
 title: "Windows Performance Optimization Tips: Professional Insights"
 date: 2025-04-14
+slug: "windows-performance-optimization-tips-professional-insights"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Optimizing your Windows PC can significantly enhance its speed and efficiency, ensuring that your system runs smoothly and effectively. As a Windows system expert, I have collated some practical and actionable tips to help you optimize your PC's performance like a pro.

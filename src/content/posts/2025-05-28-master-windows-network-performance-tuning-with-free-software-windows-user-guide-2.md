@@ -1,8 +1,10 @@
 ---
 title: "Master Windows network performance tuning with Free Software: Windows User Guide"
 date: 2025-05-28
+slug: "master-windows-network-performance-tuning-with-free-software-windows-user-guide-2"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Are you frustrated by slow downloads, choppy video calls, or laggy gaming on your Windows PC? Network performance problems are common, but the good news is that many can be improved with some simple tuning. Even better, you don’t need to be a technical expert—there are free tools and easy steps you can follow to achieve noticeable results. This guide will walk you through practical, beginner-friendly tips to optimize your Windows network performance, making your online activities smoother and faster.

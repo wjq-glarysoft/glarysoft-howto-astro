@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Maintain Windows Security Settings Configuration in Windows?"
 date: 2025-07-30
+slug: "whats-the-best-way-to-maintain-windows-security-settings-configuration-in-windows-2"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Why Is Maintaining Windows Security Settings Important?

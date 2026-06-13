@@ -1,8 +1,10 @@
 ---
 title: "15 Essential Windows User Account Security Tips Every Windows User Should Know"
 date: 2025-06-19
+slug: "15-essential-windows-user-account-security-tips-every-windows-user-should-know-3"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Keeping your Windows user account secure is vital for protecting your personal data and privacy. Many users unknowingly make common mistakes that put their information at risk. This guide breaks down 15 practical tips you can follow to avoid those pitfalls and strengthen your Windows user account security, even if you're new to computers.

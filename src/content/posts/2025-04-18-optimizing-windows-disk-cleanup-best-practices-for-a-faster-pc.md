@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Disk Cleanup: Best Practices for a Faster PC"
 date: 2025-04-18
+slug: "optimizing-windows-disk-cleanup-best-practices-for-a-faster-pc"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 In the world of PCs, maintaining optimal performance is crucial to ensure that your system runs smoothly. One of the fundamental ways to achieve this is by performing regular disk cleanup and optimization. This process not only frees up valuable storage space but also enhances system speed and reliability. Here, we discuss best practices for Windows disk cleanup and optimization, providing practical, actionable advice that every user can apply.

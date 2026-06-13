@@ -1,8 +1,10 @@
 ---
 title: "improve security and privacy protection Like a Pro: Windows Systems Guide"
 date: 2025-08-08
+slug: "improve-security-and-privacy-protection-like-a-pro-windows-systems-guide"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Are you new to Windows and concerned about your security and privacy? Protecting your personal information doesn’t have to be complicated. With a few simple steps, you can greatly reduce the risk of threats and keep your data safe. This guide walks beginners through essential tasks and tips for boosting security and privacy on a Windows PC.

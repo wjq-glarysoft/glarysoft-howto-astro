@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Backup Windows System Information Tools in Windows 11"
 date: 2025-08-08
+slug: "the-complete-guide-to-backup-windows-system-information-tools-in-windows-11"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Windows 11 comes equipped with a broad array of system information tools invaluable to advanced users. Proper backup and documentation of these system details can save countless hours during troubleshooting, upgrades, or system migrations. This guide covers the best practices for backing up Windows system information tools, leveraging both built-in features and third-party solutions to streamline your workflow.

@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Temporary File Cleanup with Free Software: Windows User Guide"
 date: 2025-07-10
+slug: "master-windows-temporary-file-cleanup-with-free-software-windows-user-guide-3"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Why Should You Care About Windows Temporary Files?

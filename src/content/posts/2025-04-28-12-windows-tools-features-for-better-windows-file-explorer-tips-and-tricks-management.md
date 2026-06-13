@@ -1,8 +1,10 @@
 ---
 title: "12 Windows Tools Features for Better Windows File Explorer Tips and Tricks Management"
 date: 2025-04-28
+slug: "12-windows-tools-features-for-better-windows-file-explorer-tips-and-tricks-management"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Windows File Explorer is an essential tool for managing your files and folders, but many users only scratch the surface of what it can do. For beginners, learning a few time-saving tips and tricks can significantly enhance productivity and ease of use. Here are 12 features and tips that can help make your file management tasks quicker and more efficient.

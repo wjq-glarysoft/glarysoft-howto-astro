@@ -1,8 +1,10 @@
 ---
 title: "Fixing Windows Errors: Best Practices for Clean Up & Repair"
 date: 2025-04-18
+slug: "fixing-windows-errors-best-practices-for-clean-up-repair"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Windows errors can be a significant source of frustration, potentially affecting everything from system performance to data security. While some issues may stem from software incompatibilities or hardware malfunctions, many can be effectively addressed with regular system maintenance and cleanup. Below are best practices that can help you keep your Windows PC running smoothly by cleaning up and repairing common errors.

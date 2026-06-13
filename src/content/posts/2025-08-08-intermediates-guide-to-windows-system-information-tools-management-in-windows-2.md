@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows System Information Tools Management in Windows"
 date: 2025-08-08
+slug: "intermediates-guide-to-windows-system-information-tools-management-in-windows-2"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Understanding and managing your system information is key for maintaining a healthy and efficient Windows PC. Intermediate users, who are already familiar with basic Windows functions, can greatly benefit from deeper insights into their hardware and software environments. This guide explores built-in and third-party system information tools on Windows, offering practical advice and real-world examples for managing your system more effectively.

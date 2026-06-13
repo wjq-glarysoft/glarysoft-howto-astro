@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Maintain Windows Performance Optimization Tips in Windows 11"
 date: 2025-05-17
+slug: "the-complete-guide-to-maintain-windows-performance-optimization-tips-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Maintaining optimal performance in Windows 11 involves a combination of regular system maintenance, careful management of resources, and the use of effective tools. Whether you're a novice or an experienced user, these best practices will help you keep your Windows 11 system running smoothly. Here’s a comprehensive guide to optimizing your Windows performance.

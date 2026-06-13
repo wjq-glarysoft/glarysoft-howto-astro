@@ -1,8 +1,10 @@
 ---
 title: "7 Essential Windows Disk Cleanup and Optimization Tips Every Windows User Should Know"
 date: 2025-07-12
+slug: "7-essential-windows-disk-cleanup-and-optimization-tips-every-windows-user-should-know-2"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Keeping your Windows computer fast and efficient doesn’t need to be complicated. Even if you’re new to using Windows, there are simple steps you can take to clean up and optimize your disk for better performance. Here are seven essential tips every beginner should know, including how tools like Glary Utilities can make the process quick and hassle-free.

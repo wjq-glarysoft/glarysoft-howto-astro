@@ -1,8 +1,10 @@
 ---
 title: "12 Essential Windows Backup and Restore Utilities Tips Every Windows User Should Know"
 date: 2025-06-07
+slug: "12-essential-windows-backup-and-restore-utilities-tips-every-windows-user-should-know"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Backing up and restoring your data is one of the most important aspects of using a Windows PC, whether at home or in a professional environment. With the right system tools and smart strategies, you can protect your files, recover from disasters, and keep your PC running smoothly. This article provides 12 essential tips on using Windows backup and restore utilities, with practical advice for both beginners and advanced users.

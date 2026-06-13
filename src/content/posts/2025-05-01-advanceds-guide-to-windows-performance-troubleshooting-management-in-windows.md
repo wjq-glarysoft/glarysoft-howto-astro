@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Performance Troubleshooting Management in Windows"
 date: 2025-05-01
+slug: "advanceds-guide-to-windows-performance-troubleshooting-management-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Windows performance troubleshooting can be daunting, but with the right tools and techniques, you can significantly enhance and maintain your system's speed and efficiency. This guide will delve into advanced techniques for troubleshooting and managing Windows performance, focusing on practical, actionable advice suitable for users at all levels.

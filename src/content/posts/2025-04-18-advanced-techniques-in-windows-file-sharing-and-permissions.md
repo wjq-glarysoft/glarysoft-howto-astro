@@ -1,8 +1,10 @@
 ---
 title: "Advanced Techniques in Windows File Sharing and Permissions"
 date: 2025-04-18
+slug: "advanced-techniques-in-windows-file-sharing-and-permissions"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 When it comes to Windows file sharing and permissions, mastering advanced techniques can significantly enhance your productivity and security. Whether you are part of a small workgroup or managing a large network, understanding the intricacies of file sharing can make a substantial difference. This article will walk you through some advanced tips and practical examples to optimize your file sharing capabilities in Windows.

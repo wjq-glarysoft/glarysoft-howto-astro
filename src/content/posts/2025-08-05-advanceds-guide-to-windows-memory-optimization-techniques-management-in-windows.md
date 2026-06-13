@@ -1,8 +1,10 @@
 ---
 title: "Advanced’s Guide to Windows Memory Optimization Techniques Management in Windows"
 date: 2025-08-05
+slug: "advanceds-guide-to-windows-memory-optimization-techniques-management-in-windows"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Introduction

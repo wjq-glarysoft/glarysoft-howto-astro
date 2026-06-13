@@ -1,8 +1,10 @@
 ---
 title: "Master Windows file sharing and permissions with Glary Utilities: Windows User Guide"
 date: 2025-08-13
+slug: "master-windows-file-sharing-and-permissions-with-glary-utilities-windows-user-guide-4"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Why is File Sharing Important in Windows?

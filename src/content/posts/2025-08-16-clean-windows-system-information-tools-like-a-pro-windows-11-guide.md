@@ -1,8 +1,10 @@
 ---
 title: "clean Windows system information tools Like a Pro: Windows 11 Guide"
 date: 2025-08-16
+slug: "clean-windows-system-information-tools-like-a-pro-windows-11-guide"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Windows 11 comes with a wide range of built-in system information tools that help users understand, maintain, and troubleshoot their PCs. Whether you are a casual user checking basic system specs or a power user diagnosing performance issues, knowing how to use these tools effectively is key to keeping your computer running smoothly. By combining the built-in Windows features with specialized utilities like Glary Utilities, you can manage your system information more efficiently while ensuring your PC is optimized.

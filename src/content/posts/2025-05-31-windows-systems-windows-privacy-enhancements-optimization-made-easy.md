@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems Windows Privacy Enhancements Optimization Made Easy"
 date: 2025-05-31
+slug: "windows-systems-windows-privacy-enhancements-optimization-made-easy"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Protecting your privacy on Windows is more important than ever, thanks to the increasing amount of personal data handled by our PCs. Whether you’re a casual user or a tech enthusiast, optimizing your Windows system for privacy is a smart move. This guide covers practical, step-by-step privacy enhancements, from basic settings to advanced tweaks, ensuring your system is secure and your personal data stays private.

@@ -1,8 +1,10 @@
 ---
 title: "12 Essential Windows Secure Browsing Techniques Every Windows User Should Know"
 date: 2025-05-07
+slug: "12-essential-windows-secure-browsing-techniques-every-windows-user-should-know"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 In today's digital age, secure browsing is vital to protect your personal information and maintain privacy online. Windows users, in particular, need to be vigilant due to the widespread use of the operating system. This guide will delve into twelve essential secure browsing techniques, offering both beginner and advanced insights to bolster your online safety.

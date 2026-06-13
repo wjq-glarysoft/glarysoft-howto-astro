@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 Windows Command Line Tools Optimization Made Easy"
 date: 2025-05-09
+slug: "windows-10-11-windows-command-line-tools-optimization-made-easy"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Windows command line tools can be a powerful ally in optimizing and maintaining your operating system. However, many users, regardless of their experience level, often make common mistakes while using these tools. In this article, we’ll explore these pitfalls and provide practical advice to help you navigate the command line with confidence.

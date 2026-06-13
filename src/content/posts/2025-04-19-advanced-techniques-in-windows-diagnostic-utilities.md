@@ -1,8 +1,10 @@
 ---
 title: "Advanced Techniques in Windows Diagnostic Utilities"
 date: 2025-04-19
+slug: "advanced-techniques-in-windows-diagnostic-utilities"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 For advanced users seeking to maximize the performance and stability of their Windows system, understanding and utilizing diagnostic utilities can be a game changer. These tools allow you to delve deep into your system's functionality, ensuring it operates smoothly and efficiently. Here, we'll explore some advanced techniques using Windows' built-in tools alongside third-party applications like Glary Utilities.

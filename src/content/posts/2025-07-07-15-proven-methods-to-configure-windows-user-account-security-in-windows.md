@@ -1,8 +1,10 @@
 ---
 title: "15 Proven Methods to Configure Windows User Account Security in Windows"
 date: 2025-07-07
+slug: "15-proven-methods-to-configure-windows-user-account-security-in-windows"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Securing your Windows user account is one of the most important steps you can take to protect your system and personal information. Windows offers a variety of tools and settings designed to help users manage privacy and security effectively. This guide presents 15 proven methods, ranging from simple changes to advanced configurations, to significantly improve your user account security.

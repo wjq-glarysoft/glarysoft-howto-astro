@@ -1,8 +1,10 @@
 ---
 title: "Time-Saving Tips for System Optimization and Maintenance"
 date: 2025-04-14
+slug: "time-saving-tips-for-system-optimization-and-maintenance"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 In our fast-paced world, efficiency is key, and keeping your Windows PC running smoothly is crucial for saving time and avoiding unnecessary frustrations. Here are some practical time-saving tips for system optimization and maintenance that can make a noticeable difference in your daily computer use.

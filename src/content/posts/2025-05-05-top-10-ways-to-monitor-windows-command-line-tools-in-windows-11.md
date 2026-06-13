@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Monitor Windows Command Line Tools in Windows 11"
 date: 2025-05-05
+slug: "top-10-ways-to-monitor-windows-command-line-tools-in-windows-11"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Windows 11 brings a fresh look and feel, but for many tasks, the command line remains a powerful ally, even for beginners. If you're new to using command line tools, knowing how to monitor and maximize their efficiency can save you time and hassle. Here's a guide to top time-saving tips for using Windows command line tools effectively.

@@ -1,8 +1,10 @@
 ---
 title: "10 Essential File Compression Techniques Every Windows User Should Know"
 date: 2025-07-16
+slug: "10-essential-file-compression-techniques-every-windows-user-should-know"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 File compression is a powerful way to save disk space, share files more easily, and manage large folders on your Windows PC. Whether you’re a casual user looking to free up storage or an advanced user managing complex archives, understanding the basics and advanced techniques of file compression can make a noticeable difference in your daily computer tasks. This guide will walk you through 10 essential tips, with separate advice for beginners and more advanced users.

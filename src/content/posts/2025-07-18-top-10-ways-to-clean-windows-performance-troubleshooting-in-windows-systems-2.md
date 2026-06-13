@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Clean Windows Performance Troubleshooting in Windows Systems"
 date: 2025-07-18
+slug: "top-10-ways-to-clean-windows-performance-troubleshooting-in-windows-systems-2"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 If your Windows PC has started to slow down, freeze, or behave unpredictably, you’re not alone. Many common performance problems can be fixed by cleaning up and repairing your system. As a beginner, you do not need advanced technical skills to improve your computer’s speed and reliability. Below are the top 10 practical ways to troubleshoot and clean up Windows performance issues, complete with easy, step-by-step examples.

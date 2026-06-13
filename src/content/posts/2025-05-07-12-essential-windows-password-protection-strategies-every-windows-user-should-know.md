@@ -1,8 +1,10 @@
 ---
 title: "12 Essential Windows Password Protection Strategies Every Windows User Should Know"
 date: 2025-05-07
+slug: "12-essential-windows-password-protection-strategies-every-windows-user-should-know"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 As an intermediate Windows user, you’re likely familiar with the basics of password protection. However, refining your strategies can save time and enhance security. Here’s how to optimize your password protection practices effectively without compromising on convenience.

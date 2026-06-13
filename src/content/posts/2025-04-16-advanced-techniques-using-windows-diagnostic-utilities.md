@@ -1,8 +1,10 @@
 ---
 title: "Advanced Techniques Using Windows Diagnostic Utilities"
 date: 2025-04-16
+slug: "advanced-techniques-using-windows-diagnostic-utilities"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Windows diagnostic utilities are crucial for identifying, troubleshooting, and resolving system issues that can affect performance and stability. These tools are especially valuable for advanced users looking to delve deeper into system analysis and maintenance. Below, we explore several Windows diagnostic utilities and their advanced applications.

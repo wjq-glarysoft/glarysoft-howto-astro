@@ -1,8 +1,10 @@
 ---
 title: "monitor Windows backup and restore utilities Like a Pro: Windows 10 Guide"
 date: 2025-05-01
+slug: "monitor-windows-backup-and-restore-utilities-like-a-pro-windows-10-guide"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Introduction to Windows Backup and Restore

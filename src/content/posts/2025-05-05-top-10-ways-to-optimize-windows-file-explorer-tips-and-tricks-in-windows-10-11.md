@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Optimize Windows File Explorer Tips and Tricks in Windows 10 & 11"
 date: 2025-05-05
+slug: "top-10-ways-to-optimize-windows-file-explorer-tips-and-tricks-in-windows-10-11"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Windows File Explorer is an essential tool for managing files and folders on your PC. With a few expert tips and tricks, you can streamline your workflow, enhance productivity, and keep your system organized. Whether you're a beginner or a seasoned pro, these practical suggestions will help you make the most of File Explorer in Windows 10 and 11.

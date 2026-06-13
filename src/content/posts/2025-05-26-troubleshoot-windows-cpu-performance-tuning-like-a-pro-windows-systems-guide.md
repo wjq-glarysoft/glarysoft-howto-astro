@@ -1,8 +1,10 @@
 ---
 title: "troubleshoot Windows CPU performance tuning Like a Pro: Windows Systems Guide"
 date: 2025-05-26
+slug: "troubleshoot-windows-cpu-performance-tuning-like-a-pro-windows-systems-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Is your Windows PC feeling sluggish or bogged down by high CPU usage? Whether you’re a casual user or an IT professional, knowing how to troubleshoot and tune your CPU performance can make a world of difference. This guide breaks down professional strategies, actionable steps, and real-world tips to optimize your CPU and improve your Windows experience—no matter your skill level.

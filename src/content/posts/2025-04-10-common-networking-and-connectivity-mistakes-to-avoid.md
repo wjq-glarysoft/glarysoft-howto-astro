@@ -1,8 +1,10 @@
 ---
 title: "Common Networking and Connectivity Mistakes to Avoid"
 date: 2025-04-10
+slug: "common-networking-and-connectivity-mistakes-to-avoid"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 In today's digital age, maintaining a stable and efficient network is crucial for both personal and professional environments. However, many users encounter connectivity issues due to common mistakes. This article will guide you through these pitfalls and offer practical advice to ensure a smooth networking experience.

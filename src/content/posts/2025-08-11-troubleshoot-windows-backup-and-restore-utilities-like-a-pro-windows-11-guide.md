@@ -1,8 +1,10 @@
 ---
 title: "troubleshoot Windows backup and restore utilities Like a Pro: Windows 11 Guide"
 date: 2025-08-11
+slug: "troubleshoot-windows-backup-and-restore-utilities-like-a-pro-windows-11-guide"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Making regular backups is one of the smartest habits for any Windows 11 user. Microsoft provides built-in tools to help you back up and restore your system, files, and settings. However, backup and restore tools can sometimes be confusing or fail to work as expected. If you’re new to Windows or have never used these features, this guide will walk you through essential troubleshooting steps and best practices. By the end, you’ll feel confident handling common backup and restore issues like a pro.

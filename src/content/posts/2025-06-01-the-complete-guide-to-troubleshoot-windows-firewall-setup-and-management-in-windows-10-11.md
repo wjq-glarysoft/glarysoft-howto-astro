@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Troubleshoot Windows Firewall Setup and Management in Windows 10 & 11"
 date: 2025-06-01
+slug: "the-complete-guide-to-troubleshoot-windows-firewall-setup-and-management-in-windows-10-11"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Windows Firewall is a crucial component in protecting your PC from unwanted network traffic and potential security threats. Yet, its setup and management can be overwhelming, especially if you run into issues. This guide aims to save your time by providing easy-to-follow troubleshooting steps, practical examples, and actionable tips for both beginners and advanced users, all centered around maintaining strong privacy and security.

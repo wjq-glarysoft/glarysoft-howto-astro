@@ -1,8 +1,10 @@
 ---
 title: "maintain system optimization and maintenance Like a Pro: Windows 11 Guide"
 date: 2025-07-27
+slug: "maintain-system-optimization-and-maintenance-like-a-pro-windows-11-guide"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Keeping your Windows 11 PC running smoothly isn’t just for tech experts. Even beginners can keep their systems optimized and well-maintained with the right steps and tools. This guide breaks down system optimization and maintenance into simple, actionable advice, so you can enjoy a faster, more reliable computer without stress.

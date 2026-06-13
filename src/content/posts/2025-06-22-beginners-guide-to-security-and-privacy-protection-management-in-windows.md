@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Security and Privacy Protection Management in Windows"
 date: 2025-06-22
+slug: "beginners-guide-to-security-and-privacy-protection-management-in-windows"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Windows PCs hold a wealth of personal data and sensitive information, making strong security and privacy practices essential. Whether you’re a newcomer or a seasoned user, taking the right steps can protect you from threats like malware, hacking, and data leaks. This guide covers both foundational and advanced techniques, with practical examples and step-by-step instructions to help all users manage security and privacy on Windows.

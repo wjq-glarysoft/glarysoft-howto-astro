@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Backup Windows Firewall Setup and Management in Windows 10 & 11"
 date: 2025-05-11
+slug: "top-10-ways-to-backup-windows-firewall-setup-and-management-in-windows-10-11"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Managing and backing up your Windows Firewall settings is an essential task to ensure your system's privacy and security. By doing so, you can prevent unauthorized access and quickly restore configurations in case of any system issue. Here’s a comprehensive guide to the top 10 ways to back up and manage your Windows Firewall settings efficiently.

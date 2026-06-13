@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure Windows User Account Security in Windows 10"
 date: 2025-06-17
+slug: "the-complete-guide-to-configure-windows-user-account-security-in-windows-10"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Protecting your computer starts with securing your user account. Windows 10 provides several built-in features designed to help you manage privacy and security at the account level. Whether you’re a home user or managing multiple users in a business environment, this guide walks you through the best practices and practical steps to keep your account secure.

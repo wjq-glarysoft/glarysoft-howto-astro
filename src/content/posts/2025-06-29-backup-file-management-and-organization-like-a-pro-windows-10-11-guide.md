@@ -1,8 +1,10 @@
 ---
 title: "backup file management and organization Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-29
+slug: "backup-file-management-and-organization-like-a-pro-windows-10-11-guide"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Are you overwhelmed by scattered files and chaotic folders on your Windows 10 or 11 computer? Good file management not only saves time but also protects your valuable data against accidental loss or system problems. This beginner’s guide will walk you through simple, effective steps to manage and organize your files and backups—just like a pro!

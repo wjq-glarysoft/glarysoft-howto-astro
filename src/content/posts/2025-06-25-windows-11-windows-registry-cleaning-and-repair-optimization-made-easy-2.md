@@ -1,8 +1,10 @@
 ---
 title: "Windows 11 Windows Registry Cleaning and Repair Optimization Made Easy"
 date: 2025-06-25
+slug: "windows-11-windows-registry-cleaning-and-repair-optimization-made-easy-2"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Understanding the Windows Registry and Why It Matters

@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Temporary File Cleanup Techniques for Windows Users"
 date: 2025-05-23
+slug: "essential-windows-temporary-file-cleanup-techniques-for-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Why Do Temporary Files Accumulate and Why Should You Care?

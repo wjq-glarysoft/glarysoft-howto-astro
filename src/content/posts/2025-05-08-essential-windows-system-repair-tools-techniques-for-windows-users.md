@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows System Repair Tools: Techniques for Windows Users"
 date: 2025-05-08
+slug: "essential-windows-system-repair-tools-techniques-for-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Introduction to Windows System Repair

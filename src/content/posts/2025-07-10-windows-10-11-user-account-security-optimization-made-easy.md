@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 User Account Security Optimization Made Easy"
 date: 2025-07-10
+slug: "windows-10-11-user-account-security-optimization-made-easy"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Understanding how to keep your Windows user account secure is vital in today’s digital world. Whether you’re using Windows 10 or Windows 11, following a few simple steps can greatly improve your privacy and security. This article will guide you through easy, expert-backed methods to protect your user account, even if you're new to Windows.

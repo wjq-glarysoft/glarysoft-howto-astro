@@ -1,8 +1,10 @@
 ---
 title: "backup Windows security settings configuration Like a Pro: Windows 10 & 11 Guide"
 date: 2025-07-26
+slug: "backup-windows-security-settings-configuration-like-a-pro-windows-10-11-guide"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 As an advanced Windows user, you already know that safeguarding your system’s privacy and security is an ongoing process. Fine-tuned security settings are the backbone of a well-defended Windows 10 or 11 machine. However, after hours of configuring local security policies, group policy objects, firewall rules, and advanced privacy tweaks, the last thing you want is to lose those carefully crafted configurations to a system crash, bad update, or accidental change.

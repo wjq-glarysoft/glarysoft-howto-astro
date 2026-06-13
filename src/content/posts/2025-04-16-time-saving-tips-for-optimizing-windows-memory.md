@@ -1,8 +1,10 @@
 ---
 title: "Time-Saving Tips for Optimizing Windows Memory"
 date: 2025-04-16
+slug: "time-saving-tips-for-optimizing-windows-memory"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Optimizing your Windows computer's memory can significantly enhance performance, reduce lag, and improve your overall computing experience. This is particularly important if you are a multitasker or rely on resource-heavy applications. Here are some practical, time-saving techniques to optimize memory usage on your Windows machine.

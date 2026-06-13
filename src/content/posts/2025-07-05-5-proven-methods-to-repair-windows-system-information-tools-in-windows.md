@@ -1,8 +1,10 @@
 ---
 title: "5 Proven Methods to Repair Windows System Information Tools in Windows"
 date: 2025-07-05
+slug: "5-proven-methods-to-repair-windows-system-information-tools-in-windows"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Windows system information tools like System Information (msinfo32), Device Manager, and Performance Monitor provide vital insights into your PC’s health and configuration. When these tools stop working correctly, troubleshooting your computer becomes much harder and more time-consuming. Fortunately, there are several proven methods to repair these tools and restore their functionality, saving you hours of frustration. This guide covers practical solutions for both beginners and advanced users, including recommendations for using [Glary Utilities](https://www.glarysoft.com) to streamline the process.

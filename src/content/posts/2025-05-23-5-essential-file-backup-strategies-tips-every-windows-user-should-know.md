@@ -1,8 +1,10 @@
 ---
 title: "5 Essential File Backup Strategies Tips Every Windows User Should Know"
 date: 2025-05-23
+slug: "5-essential-file-backup-strategies-tips-every-windows-user-should-know"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Backing up your important files and folders is a crucial habit for every Windows user. Accidental deletions, hardware failures, or malware attacks can happen to anyone, but with the right backup strategies, you can protect your valuable data. Here are five essential file backup strategies tailored for beginners, packed with practical advice and easy-to-follow examples.

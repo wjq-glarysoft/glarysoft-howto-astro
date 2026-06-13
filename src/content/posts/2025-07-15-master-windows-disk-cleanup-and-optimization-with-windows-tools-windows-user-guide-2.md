@@ -1,8 +1,10 @@
 ---
 title: "Master Windows disk cleanup and optimization with Windows Tools: Windows User Guide"
 date: 2025-07-15
+slug: "master-windows-disk-cleanup-and-optimization-with-windows-tools-windows-user-guide-2"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Are you noticing your Windows PC running slower than usual? Is your hard drive filling up with files you don’t recognize? Keeping your computer clean and optimized is essential for smooth everyday use. This guide will walk you through beginner-friendly, practical steps to clean up and optimize your Windows disk using built-in Windows tools and introduce you to Glary Utilities for a more comprehensive clean-up.

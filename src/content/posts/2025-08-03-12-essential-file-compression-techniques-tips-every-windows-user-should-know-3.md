@@ -1,8 +1,10 @@
 ---
 title: "12 Essential File Compression Techniques Tips Every Windows User Should Know"
 date: 2025-08-03
+slug: "12-essential-file-compression-techniques-tips-every-windows-user-should-know-3"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 How Can You Choose the Right Compression Format for the Job?

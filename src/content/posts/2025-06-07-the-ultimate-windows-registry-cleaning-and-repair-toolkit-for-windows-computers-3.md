@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Windows Registry Cleaning and Repair Toolkit for Windows Computers"
 date: 2025-06-07
+slug: "the-ultimate-windows-registry-cleaning-and-repair-toolkit-for-windows-computers-3"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 What Is the Windows Registry and Why Does It Matter?

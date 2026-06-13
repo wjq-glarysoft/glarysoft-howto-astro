@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Repair Windows Disk Defragmentation in Windows 11"
 date: 2025-08-02
+slug: "top-10-ways-to-repair-windows-disk-defragmentation-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 If your Windows 11 PC feels slow or you notice that programs and files take longer to open, disk fragmentation may be the culprit. Fragmentation occurs when files are split into pieces scattered around the disk, making it harder for your system to access them quickly. Regular disk defragmentation helps organize data efficiently, improving performance and extending the lifespan of your storage.

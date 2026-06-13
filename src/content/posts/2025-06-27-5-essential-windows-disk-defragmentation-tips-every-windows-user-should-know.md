@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows Disk Defragmentation Tips Every Windows User Should Know"
 date: 2025-06-27
+slug: "5-essential-windows-disk-defragmentation-tips-every-windows-user-should-know"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Why Does Disk Defragmentation Matter for Performance?

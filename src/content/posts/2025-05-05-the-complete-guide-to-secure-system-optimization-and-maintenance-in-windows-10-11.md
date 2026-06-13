@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Secure System Optimization and Maintenance in Windows 10 & 11"
 date: 2025-05-05
+slug: "the-complete-guide-to-secure-system-optimization-and-maintenance-in-windows-10-11"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 As an intermediate Windows user, you likely understand the basics of keeping your system running smoothly. However, to truly optimize and maintain your machine securely, it’s essential to dive deeper into system management. This guide offers practical advice and real-world examples to enhance the performance and security of your Windows 10 and 11 systems.

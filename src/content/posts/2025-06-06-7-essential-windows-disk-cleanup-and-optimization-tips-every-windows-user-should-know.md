@@ -1,8 +1,10 @@
 ---
 title: "7 Essential Windows Disk Cleanup and Optimization Tips Every Windows User Should Know"
 date: 2025-06-06
+slug: "7-essential-windows-disk-cleanup-and-optimization-tips-every-windows-user-should-know"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Keeping your Windows PC running smoothly requires regular maintenance, especially when it comes to disk cleanup and optimization. Over time, your computer can accumulate unnecessary files, fragmented data, and other clutter that slows performance. Here are seven essential disk cleanup and optimization tips, complete with practical steps you can follow—regardless of your technical skill level.

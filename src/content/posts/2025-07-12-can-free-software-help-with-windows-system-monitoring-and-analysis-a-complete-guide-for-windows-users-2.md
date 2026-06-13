@@ -1,8 +1,10 @@
 ---
 title: "Can Free Software Help with Windows system monitoring and analysis? A Complete Guide for Windows Users"
 date: 2025-07-12
+slug: "can-free-software-help-with-windows-system-monitoring-and-analysis-a-complete-guide-for-windows-users-2"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Why Should Advanced Users Care About System Monitoring and Analysis?

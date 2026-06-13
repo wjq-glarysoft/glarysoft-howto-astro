@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Network Performance Tuning in Windows?"
 date: 2025-08-07
+slug: "are-you-making-these-common-mistakes-with-windows-network-performance-tuning-in-windows-4"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Windows network performance is often overlooked until slow downloads, laggy video calls, or frustrating file transfers reveal just how important network optimization can be. Tuning Windows for optimal network performance isn’t just about fast hardware or an upgraded router—misconfigurations and skipped maintenance steps can throttle your connection even on the best equipment.

@@ -1,8 +1,10 @@
 ---
 title: "Boost Your Windows CPU Performance: A Step-by-Step Guide"
 date: 2025-04-19
+slug: "boost-your-windows-cpu-performance-a-step-by-step-guide"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Tuning your CPU performance on a Windows PC can significantly enhance your system's responsiveness and speed, especially if you're handling demanding applications or multitasking. Below is a detailed guide on how you can optimize your CPU performance effectively.

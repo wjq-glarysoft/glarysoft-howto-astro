@@ -1,8 +1,10 @@
 ---
 title: "Understanding Windows File Sharing and Permissions: A Beginner's Guide"
 date: 2025-04-17
+slug: "understanding-windows-file-sharing-and-permissions-a-beginners-guide-2"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Windows file sharing is a powerful feature that allows users to share files and folders over a network, making collaboration more convenient and efficient. Understanding how to set up and manage file sharing with the appropriate permissions is essential for anyone looking to safely and effectively collaborate with others. This guide will walk you through the basics of Windows file sharing and permissions, providing practical steps and real-world examples.

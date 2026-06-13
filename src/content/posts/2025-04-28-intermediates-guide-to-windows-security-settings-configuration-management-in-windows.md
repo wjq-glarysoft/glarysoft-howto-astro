@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows Security Settings Configuration Management in Windows"
 date: 2025-04-28
+slug: "intermediates-guide-to-windows-security-settings-configuration-management-in-windows"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows security settings play a crucial role in safeguarding your PC from threats while maintaining your privacy. This guide provides intermediate users with practical and actionable advice on optimizing these settings for maximum protection.

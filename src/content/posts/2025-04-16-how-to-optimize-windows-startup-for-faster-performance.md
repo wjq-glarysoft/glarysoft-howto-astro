@@ -1,8 +1,10 @@
 ---
 title: "How to Optimize Windows Startup for Faster Performance"
 date: 2025-04-16
+slug: "how-to-optimize-windows-startup-for-faster-performance"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Optimizing your Windows startup can significantly improve your PC's boot time, making your computer ready for use more quickly. Here, we will explore several best practices and methods to optimize startup processes, ensuring a smoother user experience.

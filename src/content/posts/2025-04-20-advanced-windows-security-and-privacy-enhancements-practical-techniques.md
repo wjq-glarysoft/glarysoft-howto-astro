@@ -1,8 +1,10 @@
 ---
 title: "Advanced Windows Security and Privacy Enhancements: Practical Techniques"
 date: 2025-04-20
+slug: "advanced-windows-security-and-privacy-enhancements-practical-techniques"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 For Windows users, enhancing security and privacy goes beyond basic settings and requires a strategic approach. This article will explore advanced techniques you can implement to protect your data and maintain your privacy.

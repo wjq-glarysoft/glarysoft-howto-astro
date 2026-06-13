@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Visual Effects Optimization Techniques for Windows Users"
 date: 2025-07-01
+slug: "essential-windows-visual-effects-optimization-techniques-for-windows-users-6"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Are Windows Visual Effects Slowing Down Your PC?

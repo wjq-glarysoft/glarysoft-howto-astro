@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Windows Privacy Enhancements Toolkit for Windows Computers"
 date: 2025-05-25
+slug: "the-ultimate-windows-privacy-enhancements-toolkit-for-windows-computers-7"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Are you concerned about your privacy when using your Windows computer? You’re not alone! Windows offers many features and settings to help keep your data safe and secure, but knowing where to start can be overwhelming. This guide will walk you, as a beginner, through practical steps and easy-to-follow instructions to enhance your privacy and security on Windows.

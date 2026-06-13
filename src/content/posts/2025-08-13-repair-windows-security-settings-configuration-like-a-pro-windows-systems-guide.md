@@ -1,8 +1,10 @@
 ---
 title: "repair Windows security settings configuration Like a Pro: Windows Systems Guide"
 date: 2025-08-13
+slug: "repair-windows-security-settings-configuration-like-a-pro-windows-systems-guide"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Understanding why Windows security settings matter

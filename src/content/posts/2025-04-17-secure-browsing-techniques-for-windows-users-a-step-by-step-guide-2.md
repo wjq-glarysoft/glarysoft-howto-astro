@@ -1,8 +1,10 @@
 ---
 title: "Secure Browsing Techniques for Windows Users: A Step-by-Step Guide"
 date: 2025-04-17
+slug: "secure-browsing-techniques-for-windows-users-a-step-by-step-guide-2"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 In the digital age, ensuring your privacy and security while browsing the internet is essential. Windows users have several tools and techniques at their disposal to enhance their online security. This guide will provide practical steps for improving your browsing experience.

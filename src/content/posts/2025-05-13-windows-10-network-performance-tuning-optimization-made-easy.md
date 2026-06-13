@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 Network Performance Tuning Optimization Made Easy"
 date: 2025-05-13
+slug: "windows-10-network-performance-tuning-optimization-made-easy"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Optimizing network performance in Windows 10 can significantly enhance your overall computing experience, whether you are a casual user or a network administrator. This guide will walk you through expert-recommended tips to optimize your network settings, improve speed, and ensure smoother connectivity. We’ll address both beginners and advanced users with practical advice and step-by-step instructions.

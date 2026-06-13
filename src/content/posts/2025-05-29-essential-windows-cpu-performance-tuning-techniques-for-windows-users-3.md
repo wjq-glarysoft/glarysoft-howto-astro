@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows CPU Performance Tuning Techniques for Windows Users"
 date: 2025-05-29
+slug: "essential-windows-cpu-performance-tuning-techniques-for-windows-users-3"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Are you noticing your computer running slow or programs taking longer to respond? Often, this sluggishness is due to poor CPU performance. The CPU (Central Processing Unit) is the “brain” of your computer, and tuning its performance can make your entire system run smoother and faster. In this guide, we’ll walk through beginner-friendly steps to optimize and improve your Windows computer’s CPU performance. No technical jargon—just simple, actionable steps.

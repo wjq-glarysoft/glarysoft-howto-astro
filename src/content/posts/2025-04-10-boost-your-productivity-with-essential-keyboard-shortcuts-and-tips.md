@@ -1,8 +1,10 @@
 ---
 title: "Boost Your Productivity with Essential Keyboard Shortcuts and Tips"
 date: 2025-04-10
+slug: "boost-your-productivity-with-essential-keyboard-shortcuts-and-tips"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 In the fast-paced world of computing, efficiency is key. Keyboard shortcuts are a cornerstone of productivity, allowing users to execute commands swiftly without the need for a mouse. As a Windows system expert, I've compiled a list of essential keyboard shortcuts and productivity tips that will help you work more efficiently and effectively.

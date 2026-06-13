@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure Windows Command Line Tools in Windows 10"
 date: 2025-06-13
+slug: "the-complete-guide-to-configure-windows-command-line-tools-in-windows-10"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Windows 10 comes equipped with a variety of command line tools that can help you manage, troubleshoot, and optimize your system efficiently. Whether you are a casual user seeking quick fixes or an advanced user automating complex tasks, the command line offers powerful utilities at your fingertips. This guide walks you through configuring, using, and optimizing Windows command line tools, with practical advice and real-world examples tailored to all skill levels.

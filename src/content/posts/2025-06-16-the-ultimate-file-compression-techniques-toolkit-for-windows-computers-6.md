@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate File Compression Techniques Toolkit for Windows Computers"
 date: 2025-06-16
+slug: "the-ultimate-file-compression-techniques-toolkit-for-windows-computers-6"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Introduction

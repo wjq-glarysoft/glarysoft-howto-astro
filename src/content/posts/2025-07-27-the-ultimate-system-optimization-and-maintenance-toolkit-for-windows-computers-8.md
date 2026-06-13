@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate System Optimization and Maintenance Toolkit for Windows Computers"
 date: 2025-07-27
+slug: "the-ultimate-system-optimization-and-maintenance-toolkit-for-windows-computers-8"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Introduction: Why Do Advanced Users Need to Rethink Optimization?

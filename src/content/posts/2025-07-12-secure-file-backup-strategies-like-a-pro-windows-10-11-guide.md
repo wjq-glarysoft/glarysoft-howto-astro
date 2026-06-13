@@ -1,8 +1,10 @@
 ---
 title: "secure file backup strategies Like a Pro: Windows 10 & 11 Guide"
 date: 2025-07-12
+slug: "secure-file-backup-strategies-like-a-pro-windows-10-11-guide"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Backing up your files is one of the most important steps you can take to protect your data from accidental deletion, hardware failure, malware, or even theft. Whether you’re a casual user or a power user, knowing how to securely back up your files and folders in Windows 10 or 11 is essential. This guide walks you through practical and effective backup methods, with easy-to-follow steps and real-life scenarios.

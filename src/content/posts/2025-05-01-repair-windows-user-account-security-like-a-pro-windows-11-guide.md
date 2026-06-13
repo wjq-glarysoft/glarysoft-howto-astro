@@ -1,8 +1,10 @@
 ---
 title: "repair Windows user account security Like a Pro: Windows 11 Guide"
 date: 2025-05-01
+slug: "repair-windows-user-account-security-like-a-pro-windows-11-guide"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Introduction to Windows User Account Security

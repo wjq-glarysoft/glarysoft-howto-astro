@@ -1,8 +1,10 @@
 ---
 title: "backup Windows command line tools Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-11
+slug: "backup-windows-command-line-tools-like-a-pro-windows-10-11-guide"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 For intermediate Windows users, backing up your system using command line tools blends efficiency with flexibility—but only if you know the right utilities and commands. This guide walks you through the best built-in and third-party command line tools for backing up Windows 10 and 11, with practical steps and examples.

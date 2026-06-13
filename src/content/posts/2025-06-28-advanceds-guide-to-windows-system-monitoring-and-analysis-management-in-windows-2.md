@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows System Monitoring and Analysis Management in Windows"
 date: 2025-06-28
+slug: "advanceds-guide-to-windows-system-monitoring-and-analysis-management-in-windows-2"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Introduction

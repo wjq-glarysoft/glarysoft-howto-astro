@@ -1,8 +1,10 @@
 ---
 title: "How to Optimize Windows Performance: Tips for All-Level Windows Users"
 date: 2025-04-28
+slug: "how-to-optimize-windows-performance-tips-for-all-level-windows-users"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Windows performance optimization is crucial for getting the best experience from your PC, whether you're a casual user or a seasoned pro. This guide provides practical advice and real-world examples to help you enhance your computer's speed and efficiency.

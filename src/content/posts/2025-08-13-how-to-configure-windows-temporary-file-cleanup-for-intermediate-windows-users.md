@@ -1,8 +1,10 @@
 ---
 title: "How to Configure Windows Temporary File Cleanup for Intermediate Windows Users?"
 date: 2025-08-13
+slug: "how-to-configure-windows-temporary-file-cleanup-for-intermediate-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Temporary files are an inevitable part of running Windows. These files serve many purposes—speeding up operations, caching data, or providing recovery options—but over time, they can accumulate and slow down your system. Efficiently managing and cleaning up these files is essential for maintaining optimal PC performance. This article guides both beginners and intermediate users through the process of configuring Windows to regularly clean up temporary files, using built-in tools, manual methods, and third-party solutions like Glary Utilities.

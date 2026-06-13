@@ -1,8 +1,10 @@
 ---
 title: "Windows 11 Memory Optimization Made Easy: Avoiding Common Mistakes"
 date: 2025-06-06
+slug: "windows-11-memory-optimization-made-easy-avoiding-common-mistakes"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Windows 11 is designed to handle memory management efficiently, but even the best systems can suffer from slowdowns and sluggish performance if memory isn’t optimized. Many users make simple mistakes that drastically affect how smoothly their PC runs. This article will guide you through practical memory optimization techniques and highlight common pitfalls—all with easy, actionable steps suitable for all levels of Windows users.

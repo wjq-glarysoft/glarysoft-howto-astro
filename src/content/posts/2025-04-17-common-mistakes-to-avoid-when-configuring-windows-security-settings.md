@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid When Configuring Windows Security Settings"
 date: 2025-04-17
+slug: "common-mistakes-to-avoid-when-configuring-windows-security-settings"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 When it comes to securing your Windows PC, configuring the system security settings correctly is crucial. However, many users often overlook or improperly configure these settings, leaving their systems vulnerable to threats. In this article, we'll explore some common mistakes to avoid and provide practical tips to enhance your system's security and privacy.

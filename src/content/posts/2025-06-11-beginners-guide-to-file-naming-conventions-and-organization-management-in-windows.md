@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to File Naming Conventions and Organization Management in Windows"
 date: 2025-06-11
+slug: "beginners-guide-to-file-naming-conventions-and-organization-management-in-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Proper file naming and folder organization are essential skills for any Windows user. Whether you’re dealing with personal documents, professional projects, or large archives of photos and videos, a clear and consistent system will save you time, prevent frustration, and make it easier to find what you need. This guide will cover the basics and provide actionable advice for both beginners and more experienced users seeking to optimize their file and folder management.

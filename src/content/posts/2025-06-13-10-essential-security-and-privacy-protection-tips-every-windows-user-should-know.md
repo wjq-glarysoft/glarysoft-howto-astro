@@ -1,8 +1,10 @@
 ---
 title: "10 Essential Security and Privacy Protection Tips Every Windows User Should Know"
 date: 2025-06-13
+slug: "10-essential-security-and-privacy-protection-tips-every-windows-user-should-know"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 In today’s digital environment, protecting your Windows PC from security threats and ensuring your privacy is more important than ever. While Windows offers built-in tools, a layered approach and smart habits can significantly enhance your defense. Here are 10 essential tips every intermediate Windows user should implement for robust privacy and security.

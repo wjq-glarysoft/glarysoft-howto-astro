@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Maintain Windows User Account Security in Windows Systems"
 date: 2025-07-25
+slug: "top-10-ways-to-maintain-windows-user-account-security-in-windows-systems"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Introduction

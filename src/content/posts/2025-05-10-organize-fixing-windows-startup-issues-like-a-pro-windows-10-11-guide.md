@@ -1,8 +1,10 @@
 ---
 title: "organize fixing Windows startup issues Like a Pro: Windows 10 & 11 Guide"
 date: 2025-05-10
+slug: "organize-fixing-windows-startup-issues-like-a-pro-windows-10-11-guide"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Introduction to Windows Startup Issues

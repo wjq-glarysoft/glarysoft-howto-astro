@@ -1,8 +1,10 @@
 ---
 title: "15 Built-in Features for Better File Naming Conventions and Organization Management"
 date: 2025-05-13
+slug: "15-built-in-features-for-better-file-naming-conventions-and-organization-management"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Are you looking to improve how you name and organize your files on Windows? Proper file naming conventions and organization can save time, reduce stress, and increase productivity. Here are 15 built-in Windows features and tips to help you get started.

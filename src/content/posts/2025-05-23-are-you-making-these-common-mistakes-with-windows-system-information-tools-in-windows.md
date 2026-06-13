@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows System Information Tools in Windows?"
 date: 2025-05-23
+slug: "are-you-making-these-common-mistakes-with-windows-system-information-tools-in-windows"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Windows comes with a variety of built-in system information tools designed to help users monitor and troubleshoot their computers. However, many people—especially beginners—either overlook these tools or misuse them, leading to confusion, unnecessary frustration, or even mistakes that could affect performance. In this guide, we’ll explore the most common mistakes users make with Windows system information tools, show you how to avoid them, and introduce a comprehensive solution for system optimization.

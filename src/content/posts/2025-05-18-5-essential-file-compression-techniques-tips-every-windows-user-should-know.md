@@ -1,8 +1,10 @@
 ---
 title: "5 Essential File Compression Techniques Tips Every Windows User Should Know"
 date: 2025-05-18
+slug: "5-essential-file-compression-techniques-tips-every-windows-user-should-know"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 File compression is an essential skill for Windows users who need to manage storage space, improve file transfer speeds, or simplify backup processes. Whether you're compressing files for email attachments or archiving old documents, knowing the best practices can make a significant difference. Here are five essential file compression tips every intermediate Windows user should know.

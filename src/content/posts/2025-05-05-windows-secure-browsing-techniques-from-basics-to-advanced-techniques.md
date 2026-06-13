@@ -1,8 +1,10 @@
 ---
 title: "Windows Secure Browsing Techniques: From Basics to Advanced Techniques"
 date: 2025-05-05
+slug: "windows-secure-browsing-techniques-from-basics-to-advanced-techniques"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Navigating the digital world securely can be a daunting task, especially for advanced Windows users who require robust solutions. This article provides a comprehensive overview of secure browsing techniques tailored for those who understand the intricacies of Windows systems and want to enhance their online privacy and security.

@@ -1,8 +1,10 @@
 ---
 title: "The 10 Most Effective Windows Network Performance Tuning Strategies for Windows 11"
 date: 2025-05-06
+slug: "the-10-most-effective-windows-network-performance-tuning-strategies-for-windows-11"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Optimizing network performance on your Windows 11 PC can significantly enhance your online experience, whether you're streaming videos, playing games, or conducting video conferences. Here are some practical strategies for beginners to improve network performance on Windows 11.

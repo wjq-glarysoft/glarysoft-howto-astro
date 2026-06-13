@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Power Management Tools with Free Software: Windows User Guide"
 date: 2025-04-25
+slug: "master-windows-power-management-tools-with-free-software-windows-user-guide"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 For many Windows users, understanding the intricacies of power management tools can be the key to optimizing the performance and energy efficiency of their PCs. This guide aims to introduce beginners to these tools and demonstrate how free software solutions can enhance your power management capabilities.

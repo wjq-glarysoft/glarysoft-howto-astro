@@ -1,8 +1,10 @@
 ---
 title: "A Beginner's Guide to File Management and Organization on Windows"
 date: 2025-04-10
+slug: "a-beginners-guide-to-file-management-and-organization-on-windows"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 File management is an essential skill for anyone using a computer. It helps in keeping your system organized, improves productivity, and ensures that important files are easily accessible when needed. For beginners, understanding the basics of file management and organization can seem daunting, but with a few practical steps, you can achieve an orderly digital workspace.

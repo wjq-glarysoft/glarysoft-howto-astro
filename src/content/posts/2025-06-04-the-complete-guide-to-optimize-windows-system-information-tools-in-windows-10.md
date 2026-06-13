@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Optimize Windows System Information Tools in Windows 10"
 date: 2025-06-04
+slug: "the-complete-guide-to-optimize-windows-system-information-tools-in-windows-10"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Gathering and understanding system information is crucial for Windows 10 users who want to keep their PC running smoothly, troubleshoot issues, or make informed upgrade decisions. Windows offers several built-in system information tools that can reveal essential details about your hardware, software, and system health. Learning how to use and optimize these tools can save you hours when diagnosing problems or planning upgrades.

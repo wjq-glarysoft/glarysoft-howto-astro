@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure Windows Task Scheduling Techniques in Windows 10 & 11"
 date: 2025-07-02
+slug: "the-complete-guide-to-configure-windows-task-scheduling-techniques-in-windows-10-11"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Windows Task Scheduler is a powerful built-in tool that allows users to automate routine tasks, optimize system performance, and ensure that necessary maintenance runs without manual intervention. For intermediate Windows users, knowing how to effectively configure and manage scheduled tasks can lead to a smoother, more efficient computing experience. This guide covers best practices, practical examples, and actionable advice for mastering task scheduling in Windows 10 and 11.

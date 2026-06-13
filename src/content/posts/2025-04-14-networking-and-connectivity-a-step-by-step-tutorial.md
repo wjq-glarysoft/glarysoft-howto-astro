@@ -1,8 +1,10 @@
 ---
 title: "Networking and Connectivity: A Step-by-Step Tutorial"
 date: 2025-04-14
+slug: "networking-and-connectivity-a-step-by-step-tutorial"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 In today's digital age, a stable and efficient network connection is vital for both personal and professional tasks. Whether you're setting up a home network or troubleshooting connectivity issues, mastering the basics of networking can save you time and frustration. This guide will walk you through essential networking tasks with practical advice and real-world examples.

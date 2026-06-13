@@ -1,8 +1,10 @@
 ---
 title: "Master Windows security and privacy enhancements with Free Software: Windows User Guide"
 date: 2025-06-02
+slug: "master-windows-security-and-privacy-enhancements-with-free-software-windows-user-guide-2"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 In today’s digital world, safeguarding your Windows PC goes beyond just installing an antivirus. Every Windows user—beginners and experts alike—needs to understand the built-in security tools and how to maximize them, as well as leverage free software solutions to enhance privacy and data protection. This guide offers step-by-step instructions and practical advice, making it easy for anyone to ramp up privacy and security on any Windows machine.

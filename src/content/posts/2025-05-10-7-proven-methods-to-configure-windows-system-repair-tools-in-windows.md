@@ -1,8 +1,10 @@
 ---
 title: "7 Proven Methods to Configure Windows System Repair Tools in Windows"
 date: 2025-05-10
+slug: "7-proven-methods-to-configure-windows-system-repair-tools-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Configuring Windows system repair tools is essential for maintaining a healthy and efficient PC. With the correct setup, you can ensure your system is ready to handle any issues that may arise. Here are seven proven methods to configure Windows system repair tools effectively.

@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows Visual Effects Optimization Management in Windows"
 date: 2025-06-19
+slug: "intermediates-guide-to-windows-visual-effects-optimization-management-in-windows"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Windows offers a visually appealing user interface, but these visual effects can sometimes slow down your computer, especially on systems with modest hardware. Optimizing Windows visual effects is a practical way to boost performance and save time on daily tasks. This guide explores actionable tips and real-world scenarios to help you take control of Windows visual effects for a more responsive PC experience.

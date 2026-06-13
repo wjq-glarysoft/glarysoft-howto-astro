@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Disk Defragmentation in Windows?"
 date: 2025-07-06
+slug: "are-you-making-these-common-mistakes-with-windows-disk-defragmentation-in-windows-5"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Disk defragmentation is an essential maintenance task that can help your Windows computer run more efficiently. However, many beginners unknowingly make mistakes that can reduce the effectiveness of defragmentation or even cause problems. Understanding what to do—and what to avoid—will help keep your system running smoothly.

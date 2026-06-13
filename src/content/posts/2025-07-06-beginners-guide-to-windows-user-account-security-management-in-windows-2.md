@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows User Account Security Management in Windows"
 date: 2025-07-06
+slug: "beginners-guide-to-windows-user-account-security-management-in-windows-2"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 User account security is a cornerstone of protecting your Windows PC from unauthorized access, data breaches, and malware. Even if you’re comfortable navigating Windows, it’s easy to overlook potential security gaps that can leave your system vulnerable. This guide offers practical, professional advice on managing user account security, tailored for intermediate users ready to take their protection up a notch.

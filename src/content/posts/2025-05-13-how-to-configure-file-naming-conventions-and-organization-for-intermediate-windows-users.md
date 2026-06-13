@@ -1,8 +1,10 @@
 ---
 title: "How to Configure File Naming Conventions and Organization for Intermediate Windows Users"
 date: 2025-05-13
+slug: "how-to-configure-file-naming-conventions-and-organization-for-intermediate-windows-users"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 In the digital age, maintaining a well-organized computer is crucial for productivity and efficiency. For intermediate Windows users, mastering file naming conventions and organization can significantly enhance your workflow. This guide will provide you with professional insights and practical, actionable advice.

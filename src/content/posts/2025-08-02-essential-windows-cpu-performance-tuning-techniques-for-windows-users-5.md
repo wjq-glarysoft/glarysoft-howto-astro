@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows CPU performance tuning Techniques for Windows Users"
 date: 2025-08-02
+slug: "essential-windows-cpu-performance-tuning-techniques-for-windows-users-5"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Why Should You Tune Your Windows CPU Performance?

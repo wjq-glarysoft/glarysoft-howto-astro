@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Performance Troubleshooting in Windows?"
 date: 2025-07-25
+slug: "are-you-making-these-common-mistakes-with-windows-performance-troubleshooting-in-windows-5"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Performance issues in Windows can be frustrating, especially when your system slows down, freezes, or behaves unpredictably. Many intermediate users try to troubleshoot these problems, but common mistakes can lead to wasted time or even worsen the situation. Let’s explore frequent pitfalls, and provide actionable steps—especially around Clean Up & Repair—that you can use to get your PC back on track.

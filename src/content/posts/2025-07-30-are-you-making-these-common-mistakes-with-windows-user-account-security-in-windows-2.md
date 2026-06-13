@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows User Account Security in Windows?"
 date: 2025-07-30
+slug: "are-you-making-these-common-mistakes-with-windows-user-account-security-in-windows-2"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows user account security is the foundation of your PC’s privacy and protection. However, many users—regardless of experience level—unintentionally leave their systems wide open to threats. Are you making these common mistakes? Let’s break down the pitfalls and give you step-by-step, actionable advice to strengthen your Windows user account security.

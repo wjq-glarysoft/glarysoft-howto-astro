@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Firewall Setup and Management in Windows?"
 date: 2025-05-29
+slug: "are-you-making-these-common-mistakes-with-windows-firewall-setup-and-management-in-windows-4"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Windows Firewall is the first line of defense for your PC, but many users—even those with some technical experience—overlook key aspects of its proper setup and ongoing management. Missing the basics or misconfiguring settings can leave your system vulnerable or cause connectivity headaches. Let’s examine the most frequent firewall mistakes seen on Windows systems and how you can fix them for optimal privacy and security.

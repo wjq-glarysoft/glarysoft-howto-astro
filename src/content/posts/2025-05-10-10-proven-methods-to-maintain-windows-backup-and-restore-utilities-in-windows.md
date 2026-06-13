@@ -1,8 +1,10 @@
 ---
 title: "10 Proven Methods to Maintain Windows Backup and Restore Utilities in Windows"
 date: 2025-05-10
+slug: "10-proven-methods-to-maintain-windows-backup-and-restore-utilities-in-windows"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 For intermediate Windows users, maintaining the backup and restore utilities is crucial for safeguarding data and ensuring system stability. Here are ten proven methods to keep your Windows backup and restore utilities in top condition.

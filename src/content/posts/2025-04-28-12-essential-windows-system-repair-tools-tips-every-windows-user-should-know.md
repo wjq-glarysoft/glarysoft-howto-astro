@@ -1,8 +1,10 @@
 ---
 title: "12 Essential Windows System Repair Tools Tips Every Windows User Should Know"
 date: 2025-04-28
+slug: "12-essential-windows-system-repair-tools-tips-every-windows-user-should-know"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 As an advanced Windows user, you understand the importance of maintaining a smooth and efficient computer. System repair tools are crucial for troubleshooting and resolving various issues that may arise. Below are 12 practical tips to harness the power of Windows system repair tools and ensure your system runs optimally.

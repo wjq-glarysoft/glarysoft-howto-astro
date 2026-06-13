@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Firewall Setup and Management Techniques for Windows Users"
 date: 2025-05-07
+slug: "essential-windows-firewall-setup-and-management-techniques-for-windows-users-2"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 For intermediate Windows users who understand the basics of system functionality but are looking to strengthen their computer's security, mastering the Windows Firewall is crucial. Windows Firewall acts as a barrier between your PC and potential threats from the internet. Here's how you can ensure it is set up and managed effectively.

@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Improve Windows User Account Security in Windows Systems"
 date: 2025-05-01
+slug: "top-10-ways-to-improve-windows-user-account-security-in-windows-systems"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 As seasoned Windows users, we understand that system security is more than just a basic setup—it's about implementing layers of protection that can safeguard sensitive data from malicious actors. Here, we delve into advanced methods to enhance the security of user accounts on Windows systems.

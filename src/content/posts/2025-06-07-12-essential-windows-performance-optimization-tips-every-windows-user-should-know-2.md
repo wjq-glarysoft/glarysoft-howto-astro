@@ -1,8 +1,10 @@
 ---
 title: "12 Essential Windows Performance Optimization Tips Every Windows User Should Know"
 date: 2025-06-07
+slug: "12-essential-windows-performance-optimization-tips-every-windows-user-should-know-2"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Windows offers a wealth of customization and optimization opportunities for advanced users. However, knowing where to focus your efforts can mean the difference between a sluggish system and a lightning-fast powerhouse. Here are 12 time-saving, actionable performance optimization tips every advanced Windows user should have in their toolkit.

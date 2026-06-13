@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Folder Structure for Enhanced Productivity in Windows"
 date: 2025-04-15
+slug: "optimizing-folder-structure-for-enhanced-productivity-in-windows"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 A well-organized folder structure can significantly boost your productivity by making it easier to find, manage, and back up files. Whether you're a professional dealing with large volumes of data or a casual user wanting to keep things tidy, optimizing your folder structure on Windows can lead to a more efficient workflow.

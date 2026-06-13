@@ -1,8 +1,10 @@
 ---
 title: "Effective Temporary File Cleanup for Windows Users"
 date: 2025-04-19
+slug: "effective-temporary-file-cleanup-for-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 When your Windows PC starts to slow down, one of the most overlooked culprits is the accumulation of temporary files. These files are created by the operating system and various applications to temporarily store data but can grow over time, consuming valuable storage space and potentially affecting performance. Here are the best practices for cleaning up temporary files to ensure your system runs efficiently.

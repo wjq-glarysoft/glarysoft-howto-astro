@@ -1,8 +1,10 @@
 ---
 title: "When Should You Clean Windows File Sharing and Permissions on Your Windows Computer?"
 date: 2025-06-08
+slug: "when-should-you-clean-windows-file-sharing-and-permissions-on-your-windows-computer-2"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Are you sharing files and folders on your Windows computer? File sharing is a convenient way to collaborate, back up data, or access your files from other devices. However, incorrect file sharing settings and mismanaged permissions can put your data at risk or make your computer vulnerable to unauthorized access. Understanding when and how to clean up Windows file sharing and permissions is essential for users at all levels.

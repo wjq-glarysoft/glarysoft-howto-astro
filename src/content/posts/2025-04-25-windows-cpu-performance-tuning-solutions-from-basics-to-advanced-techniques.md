@@ -1,8 +1,10 @@
 ---
 title: "Windows CPU Performance Tuning Solutions: From Basics to Advanced Techniques"
 date: 2025-04-25
+slug: "windows-cpu-performance-tuning-solutions-from-basics-to-advanced-techniques"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 For many Windows users, optimizing CPU performance can seem daunting. However, with a structured approach, anyone with intermediate skills can enhance their system's efficiency. This guide will walk you through practical techniques to boost your CPU's performance, from basic settings to advanced tweaks.

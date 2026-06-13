@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems Windows Disk Cleanup and Optimization Made Easy"
 date: 2025-05-26
+slug: "windows-systems-windows-disk-cleanup-and-optimization-made-easy"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Keeping your Windows PC running smoothly relies heavily on regular disk cleanup and optimization. However, many users—both beginners and experienced—fall into common traps that can lead to poor performance, wasted space, or even system instability. This guide highlights these mistakes and offers practical, actionable advice for anyone looking to maintain a healthy Windows system.

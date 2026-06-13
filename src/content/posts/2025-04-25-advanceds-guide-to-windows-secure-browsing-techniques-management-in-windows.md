@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Secure Browsing Techniques Management in Windows"
 date: 2025-04-25
+slug: "advanceds-guide-to-windows-secure-browsing-techniques-management-in-windows"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 In today's digital age, where cyber threats are ever-evolving, secure browsing on Windows is a fundamental aspect of maintaining your privacy and safeguarding your information. This guide will walk you through advanced steps to enhance your browsing security on Windows, offering practical and actionable advice suited for all levels of Windows users.

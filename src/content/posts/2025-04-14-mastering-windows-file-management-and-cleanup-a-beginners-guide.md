@@ -1,8 +1,10 @@
 ---
 title: "Mastering Windows File Management and Cleanup: A Beginner's Guide"
 date: 2025-04-14
+slug: "mastering-windows-file-management-and-cleanup-a-beginners-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Managing your files efficiently on a Windows PC is crucial for both productivity and system performance. Over time, files and folders can accumulate, causing clutter and potentially slowing down your computer. This guide will provide you with practical, step-by-step advice on how to manage your files effectively and maintain a clean system.

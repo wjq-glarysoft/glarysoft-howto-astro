@@ -1,8 +1,10 @@
 ---
 title: "Windows File Explorer Tips and Tricks: Common Mistakes to Avoid"
 date: 2025-04-18
+slug: "windows-file-explorer-tips-and-tricks-common-mistakes-to-avoid"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Navigating through Windows File Explorer is an everyday task for many users, yet it's easy to overlook some common mistakes that can hinder efficiency and cause unnecessary headaches. By recognizing these pitfalls, you can manage your files and folders more effectively. Here are some tips and tricks to help you avoid costly mistakes and improve your File Explorer experience.

@@ -1,8 +1,10 @@
 ---
 title: "manage Windows security and privacy enhancements Like a Pro: Windows 10 & 11 Guide"
 date: 2025-05-30
+slug: "manage-windows-security-and-privacy-enhancements-like-a-pro-windows-10-11-guide"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Are you concerned about keeping your personal information safe on your Windows computer? Windows 10 and 11 come packed with privacy and security features, but beginners often make simple mistakes that can leave them vulnerable. This guide breaks down common pitfalls and shows you how to manage your privacy and security like a pro, using straightforward steps anyone can follow.

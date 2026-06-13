@@ -1,8 +1,10 @@
 ---
 title: "10 Essential Windows Firewall Setup and Management Tips Every Windows User Should Know"
 date: 2025-07-09
+slug: "10-essential-windows-firewall-setup-and-management-tips-every-windows-user-should-know-3"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Setting up and managing the Windows firewall is a crucial part of keeping your PC secure. However, many users—both beginners and advanced—make unintentional mistakes that can compromise privacy and security. Below, you’ll find practical advice, real-world examples, and step-by-step instructions to help you avoid common pitfalls and keep your Windows firewall working effectively.

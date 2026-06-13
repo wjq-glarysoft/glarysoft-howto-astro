@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows system monitoring tools Management in Windows"
 date: 2025-08-20
+slug: "advanceds-guide-to-windows-system-monitoring-tools-management-in-windows-2"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Monitoring your Windows system may sound like something only IT professionals do, but as a beginner, understanding and using system monitoring tools can greatly improve your computer’s performance, stability, and security. Windows includes built-in tools that provide valuable insights into how your system is working, and with the right practices, you can manage them effectively. Let’s explore these tools and learn how they can be applied with practical, beginner-friendly steps.

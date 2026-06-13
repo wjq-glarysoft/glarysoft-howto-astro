@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Manage File Search and Indexing Techniques in Windows 11"
 date: 2025-05-24
+slug: "top-10-ways-to-manage-file-search-and-indexing-techniques-in-windows-11"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Searching for files and folders efficiently is an essential skill for every Windows 11 user. Windows provides powerful built-in tools for file search and indexing, which can be fine-tuned for better performance and accuracy. Whether you’re a beginner or an advanced user, mastering these techniques will help you locate your files quickly, keep your system organized, and even improve overall PC performance.

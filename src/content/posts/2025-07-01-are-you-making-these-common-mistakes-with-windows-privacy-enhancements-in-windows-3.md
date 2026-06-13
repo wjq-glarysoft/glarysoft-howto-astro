@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Privacy Enhancements in Windows?"
 date: 2025-07-01
+slug: "are-you-making-these-common-mistakes-with-windows-privacy-enhancements-in-windows-3"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows offers a variety of privacy settings and enhancements, but even tech-savvy users often overlook or misconfigure key options, leaving their data exposed. Whether you’re worried about data collection, app permissions, or online tracking, it’s easy to make common mistakes that undermine your privacy efforts. This guide breaks down actionable steps for both beginners and advanced users, highlighting practical examples and pointing out where many go wrong.

@@ -1,8 +1,10 @@
 ---
 title: "configure file search and indexing techniques Like a Pro: Windows 11 Guide"
 date: 2025-07-14
+slug: "configure-file-search-and-indexing-techniques-like-a-pro-windows-11-guide"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Searching for files can be either a quick task or a frustrating hunt, depending on how your Windows 11 system is set up. File indexing and search tools make a big difference in how fast and accurately you find documents, pictures, or any file you need. If you’re a beginner, don’t worry—this guide will teach you how to configure Windows 11’s file search and indexing like a pro, with practical steps and examples to make your daily tasks easier.

@@ -1,8 +1,10 @@
 ---
 title: "Understanding and Performing Disk Defragmentation in Windows: A Beginner's Guide"
 date: 2025-04-16
+slug: "understanding-and-performing-disk-defragmentation-in-windows-a-beginners-guide"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Disk defragmentation is an essential maintenance process for improving the efficiency and speed of your Windows computer. Over time, as you save, modify, and delete files, the data on your hard drive can become fragmented, meaning that pieces of files are scattered across the disk. This fragmentation can slow down your system as the hard drive takes longer to access fragmented files. Here's a beginner-friendly guide to understanding and performing disk defragmentation on Windows.

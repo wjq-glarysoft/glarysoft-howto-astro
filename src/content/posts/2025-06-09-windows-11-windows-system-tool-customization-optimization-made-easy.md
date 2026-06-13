@@ -1,8 +1,10 @@
 ---
 title: "Windows 11 Windows System Tool Customization Optimization Made Easy"
 date: 2025-06-09
+slug: "windows-11-windows-system-tool-customization-optimization-made-easy"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Are you looking to get more out of your Windows 11 PC? Customizing and optimizing system tools is a great way to improve speed, efficiency, and your overall user experience. Whether you’re new to Windows or just haven’t explored these features before, this guide will walk you through the basics and provide actionable steps to help you personalize and refine your system setup.

@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Maintain File Compression Techniques in Windows?"
 date: 2025-05-20
+slug: "whats-the-best-way-to-maintain-file-compression-techniques-in-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 File compression is a valuable technique for Windows users looking to save disk space and make file transfers more efficient. If you're new to this concept, don't worry—this guide will walk you through the basics and help you adopt the best practices for managing compressed files on your Windows PC.

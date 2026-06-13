@@ -1,8 +1,10 @@
 ---
 title: "Secure Browsing Techniques for Windows Users: A Step-by-Step Guide"
 date: 2025-04-16
+slug: "secure-browsing-techniques-for-windows-users-a-step-by-step-guide"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 In today's digital age, secure browsing is critical to maintaining your privacy and protecting your personal information. As a Windows user, there are several techniques you can adopt to ensure a safer browsing experience. This guide will provide you with actionable steps to enhance your online security.

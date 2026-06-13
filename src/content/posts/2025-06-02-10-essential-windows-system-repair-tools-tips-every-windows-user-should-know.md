@@ -1,8 +1,10 @@
 ---
 title: "10 Essential Windows System Repair Tools Tips Every Windows User Should Know"
 date: 2025-06-02
+slug: "10-essential-windows-system-repair-tools-tips-every-windows-user-should-know"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Keeping your Windows PC running smoothly doesn’t have to be a mystery. Whether you’re a novice or a seasoned user, knowing how to use built-in and third-party system repair tools can help you quickly resolve performance issues, crashes, and strange errors. Here are 10 essential tips—all with practical, step-by-step instructions—to help you clean up and repair your Windows system effectively.

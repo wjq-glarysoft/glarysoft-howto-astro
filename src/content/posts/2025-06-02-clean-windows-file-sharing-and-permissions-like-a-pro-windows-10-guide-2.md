@@ -1,8 +1,10 @@
 ---
 title: "clean Windows file sharing and permissions Like a Pro: Windows 10 Guide"
 date: 2025-06-02
+slug: "clean-windows-file-sharing-and-permissions-like-a-pro-windows-10-guide-2"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Sharing files and folders is a powerful way to collaborate and manage data across multiple computers on your home or office network. However, many Windows 10 users find file sharing confusing, especially when it comes to setting permissions and understanding who can access what. This step-by-step guide is designed for beginners and will help you master Windows 10 file sharing and permissions with easy, practical steps.

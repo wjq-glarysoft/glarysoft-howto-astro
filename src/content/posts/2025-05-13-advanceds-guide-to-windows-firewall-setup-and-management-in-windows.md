@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Firewall Setup and Management in Windows"
 date: 2025-05-13
+slug: "advanceds-guide-to-windows-firewall-setup-and-management-in-windows"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Windows Firewall acts as a crucial component in safeguarding your system from unauthorized access and various cyber threats. Setting it up correctly can make a significant difference in the overall security posture of your device. This guide will walk you through common mistakes to avoid while setting up and managing your Windows Firewall, providing actionable advice and real-world examples to enhance your Privacy & Security. We'll divide the guide into sections for beginners and advanced users to cater to different experience levels.

@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid When Customizing and Personalizing Your Windows PC"
 date: 2025-04-14
+slug: "common-mistakes-to-avoid-when-customizing-and-personalizing-your-windows-pc"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Customizing and personalizing your Windows PC can greatly enhance your user experience, making your system not only look better but function more effectively to suit your needs. However, there are common mistakes people often make during this process that can lead to frustration or even system issues. Here’s how you can avoid these pitfalls with practical advice and examples.

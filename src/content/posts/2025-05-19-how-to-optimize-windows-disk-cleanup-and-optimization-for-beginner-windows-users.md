@@ -1,8 +1,10 @@
 ---
 title: "How to Optimize Windows Disk Cleanup and Optimization for Beginner Windows Users?"
 date: 2025-05-19
+slug: "how-to-optimize-windows-disk-cleanup-and-optimization-for-beginner-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 As a Windows user, you may find your computer slowing down over time. This can often be attributed to unnecessary files, cluttered hard drives, and fragmented data. Optimizing your disk cleanup and maintenance can significantly boost your computer's performance. While this may sound intimidating, even beginners can efficiently manage these tasks with the right guidance and tools. Let's explore some actionable tips to keep your Windows PC running smoothly.

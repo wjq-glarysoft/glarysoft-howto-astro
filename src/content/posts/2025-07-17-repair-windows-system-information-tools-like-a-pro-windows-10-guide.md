@@ -1,8 +1,10 @@
 ---
 title: "repair Windows system information tools Like a Pro: Windows 10 Guide"
 date: 2025-07-17
+slug: "repair-windows-system-information-tools-like-a-pro-windows-10-guide"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Understanding System Information Tools in Windows 10

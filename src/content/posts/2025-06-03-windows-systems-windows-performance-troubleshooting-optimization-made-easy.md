@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems Windows Performance Troubleshooting Optimization Made Easy"
 date: 2025-06-03
+slug: "windows-systems-windows-performance-troubleshooting-optimization-made-easy"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Is your Windows PC running slower than usual? Are you seeing delays when launching programs or experiencing random freezes? These are common signs that your system needs maintenance. Troubleshooting and optimizing Windows performance doesn’t have to be complicated. By following some simple cleanup and repair steps, you can breathe new life into your computer. This guide will walk you through practical methods to diagnose and fix performance problems, from beginner-friendly tips to advanced techniques for experienced users.

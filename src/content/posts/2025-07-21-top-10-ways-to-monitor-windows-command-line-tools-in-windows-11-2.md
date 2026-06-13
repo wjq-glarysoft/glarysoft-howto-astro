@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Monitor Windows Command Line Tools in Windows 11"
 date: 2025-07-21
+slug: "top-10-ways-to-monitor-windows-command-line-tools-in-windows-11-2"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 When you start using Windows 11, you may hear about command line tools but feel unsure how to use them, especially for monitoring and maintaining your system. Command line tools are powerful, built-in utilities that let you view, analyze, and manage your PC’s performance, resources, and health. Even if you’re a beginner, these tools can help you keep your computer running smoothly and efficiently. Here’s a beginner-friendly guide to the top 10 ways you can monitor your Windows system using the command line, with clear explanations and examples.

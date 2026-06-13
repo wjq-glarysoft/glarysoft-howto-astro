@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Visual Effects Optimization Techniques for Windows Users"
 date: 2025-04-25
+slug: "essential-windows-visual-effects-optimization-techniques-for-windows-users"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Windows visual effects can significantly impact the performance of your computer, especially if you're using a PC with limited resources. By optimizing these effects, you can enhance both the responsiveness and overall speed of your system. Here are some essential techniques for all Windows users to optimize visual effects without compromising too much on aesthetics.

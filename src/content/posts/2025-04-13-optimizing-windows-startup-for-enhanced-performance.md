@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Startup for Enhanced Performance"
 date: 2025-04-13
+slug: "optimizing-windows-startup-for-enhanced-performance"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 The startup process of your Windows PC plays a critical role in determining how quickly you can begin using your computer after turning it on. An optimized startup sequence not only saves time but also enhances the overall performance of your system. Here are some practical, actionable methods to optimize the startup process on your Windows PC.

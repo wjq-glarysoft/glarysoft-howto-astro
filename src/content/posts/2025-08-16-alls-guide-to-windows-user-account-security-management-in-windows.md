@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows User Account Security Management in Windows"
 date: 2025-08-16
+slug: "alls-guide-to-windows-user-account-security-management-in-windows"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Securing user accounts in Windows is one of the most critical steps you can take to protect your system against unauthorized access, data breaches, and identity theft. While Windows provides a range of built-in tools and features for managing account security, many users don’t fully understand or utilize them effectively. This guide walks through both beginner-friendly methods and advanced techniques for ensuring robust user account security, with practical steps that can be applied on personal computers, small business setups, or enterprise environments.

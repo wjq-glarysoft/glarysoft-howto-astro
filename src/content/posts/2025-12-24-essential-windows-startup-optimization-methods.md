@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows startup optimization methods"
 date: 2025-12-24
+slug: "essential-windows-startup-optimization-methods"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Techniques for Windows Users

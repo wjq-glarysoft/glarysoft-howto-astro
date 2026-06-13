@@ -1,8 +1,10 @@
 ---
 title: "secure Windows registry cleaning and repair Like a Pro: Windows 11 Guide"
 date: 2025-07-20
+slug: "secure-windows-registry-cleaning-and-repair-like-a-pro-windows-11-guide"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 The Windows registry is the central database that controls virtually every aspect of your operating system. Over time, as you install and uninstall programs, tweak settings, and apply system updates, the registry can become cluttered with leftover entries, errors, and broken references. Keeping your registry clean and in good repair is essential for maintaining system performance and stability, especially on Windows 11. This guide explains how to safely clean and repair your registry—using advanced techniques—while ensuring your system remains secure and functional.

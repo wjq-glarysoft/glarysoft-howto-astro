@@ -1,8 +1,10 @@
 ---
 title: "Enhancing Windows Security and Privacy: Best Practices for Everyday Users"
 date: 2025-04-17
+slug: "enhancing-windows-security-and-privacy-best-practices-for-everyday-users-2"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 In today's digital age, the threats to personal privacy and security are growing in complexity and frequency. As a Windows user, ensuring your system's security and protecting your personal information is crucial. This article outlines effective strategies to bolster your Windows security and privacy, providing practical, actionable advice that you can implement immediately.

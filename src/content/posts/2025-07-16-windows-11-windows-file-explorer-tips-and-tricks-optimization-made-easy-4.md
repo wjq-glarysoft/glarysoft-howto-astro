@@ -1,8 +1,10 @@
 ---
 title: "Windows 11 Windows File Explorer Tips and Tricks Optimization Made Easy"
 date: 2025-07-16
+slug: "windows-11-windows-file-explorer-tips-and-tricks-optimization-made-easy-4"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Windows File Explorer is the backbone of file management in Windows 11. While it might look familiar, Windows 11 brings new enhancements and some hidden features that, when combined with best practices, can significantly improve your productivity and system organization. Here’s how intermediate users can master File Explorer and keep their files and folders optimized.

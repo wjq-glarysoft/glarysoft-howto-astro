@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Clean Windows Backup and Restore Utilities in Windows 10 & 11"
 date: 2025-07-25
+slug: "the-complete-guide-to-clean-windows-backup-and-restore-utilities-in-windows-10-11"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Introduction

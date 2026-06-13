@@ -1,8 +1,10 @@
 ---
 title: "The 5 Most Effective File Naming Conventions and Organization Strategies for Windows Systems"
 date: 2025-12-22
+slug: "the-5-most-effective-file-naming-conventions-and-organization-strategies-for-windows-systems"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Keeping your files and folders organized in Windows is essential for saving time and maintaining a clutter-free computer. Many users lose valuable minutes searching for documents, photos, or downloads simply because their files lack a clear structure. With a few simple habits and naming conventions, you can keep your Windows system tidy and efficient. Below are five of the most effective strategies for beginners to manage files and folders with confidence.

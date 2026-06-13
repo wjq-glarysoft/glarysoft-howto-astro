@@ -1,8 +1,10 @@
 ---
 title: "How to Secure Windows Data Encryption Methods for Advanced Windows Users"
 date: 2025-06-21
+slug: "how-to-secure-windows-data-encryption-methods-for-advanced-windows-users"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Why Is Data Encryption Essential for Windows Security?

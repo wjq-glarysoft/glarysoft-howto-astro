@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Configure Windows Firewall Setup and Management in Windows?"
 date: 2025-06-06
+slug: "whats-the-best-way-to-configure-windows-firewall-setup-and-management-in-windows"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Windows Firewall is a vital part of your computer’s security, acting as the first line of defense against unwanted network traffic and potential cyber threats. If you’re a beginner Windows user, learning how to set up and manage your firewall is one of the easiest ways to protect your PC and maintain privacy. This guide walks you step by step through the process, with easy instructions and practical examples.

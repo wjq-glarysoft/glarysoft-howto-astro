@@ -1,8 +1,10 @@
 ---
 title: "Windows Fixing Windows Startup Issues Solutions: From Basics to Advanced Techniques"
 date: 2025-04-22
+slug: "windows-fixing-windows-startup-issues-solutions-from-basics-to-advanced-techniques"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Windows startup issues can be a frustrating experience, but with a structured approach, even beginners can diagnose and solve these problems. This guide will walk you through basic to advanced techniques to get your PC up and running smoothly.

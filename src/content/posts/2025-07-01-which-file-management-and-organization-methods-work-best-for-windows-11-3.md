@@ -1,8 +1,10 @@
 ---
 title: "Which file management and organization Methods Work Best for Windows 11?"
 date: 2025-07-01
+slug: "which-file-management-and-organization-methods-work-best-for-windows-11-3"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Getting Started: Why Organize Files and Folders in Windows 11?

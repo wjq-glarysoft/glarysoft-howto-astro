@@ -1,8 +1,10 @@
 ---
 title: "7 Proven Methods to Organize Windows File Explorer Tips and Tricks in Windows"
 date: 2025-05-02
+slug: "7-proven-methods-to-organize-windows-file-explorer-tips-and-tricks-in-windows"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Windows File Explorer is a powerful tool for managing files and folders, but many users only scratch the surface of its capabilities. By employing some advanced techniques, you can significantly enhance your productivity and organization. Here are seven proven methods to help you master Windows File Explorer.

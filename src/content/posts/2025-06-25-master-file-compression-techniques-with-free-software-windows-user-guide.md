@@ -1,8 +1,10 @@
 ---
 title: "Master file compression techniques with Free Software: Windows User Guide"
 date: 2025-06-25
+slug: "master-file-compression-techniques-with-free-software-windows-user-guide"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 File compression is an essential skill for any Windows user who deals with large files, needs to save storage space, or wants to send multiple files easily over email or cloud services. This guide will help you master file compression using reliable, free software tools, with step-by-step instructions tailored for both beginners and advanced users.

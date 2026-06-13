@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Repair Windows Registry Cleaning and Repair in Windows 11"
 date: 2025-08-06
+slug: "the-complete-guide-to-repair-windows-registry-cleaning-and-repair-in-windows-11"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 The Windows Registry is a crucial component of your PC’s operating system, acting as the central database for configuration settings, preferences, and essential system information. Over time, however, registry entries can become outdated, fragmented, or corrupted, leading to slow performance, system errors, or unexpected crashes. Understanding how to safely clean and repair the registry is essential for maintaining a fast and stable Windows 11 system.

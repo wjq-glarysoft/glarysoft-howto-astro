@@ -1,8 +1,10 @@
 ---
 title: "Free Software Makes Windows Power Management Tools Management Simple in Windows"
 date: 2025-07-02
+slug: "free-software-makes-windows-power-management-tools-management-simple-in-windows-3"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Understanding Windows Power Management

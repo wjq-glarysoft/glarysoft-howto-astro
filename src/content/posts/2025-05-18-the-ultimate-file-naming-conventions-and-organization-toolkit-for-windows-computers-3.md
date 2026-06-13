@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate File Naming Conventions and Organization Toolkit for Windows Computers"
 date: 2025-05-18
+slug: "the-ultimate-file-naming-conventions-and-organization-toolkit-for-windows-computers-3"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Introduction

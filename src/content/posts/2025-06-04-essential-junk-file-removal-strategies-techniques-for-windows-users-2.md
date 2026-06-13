@@ -1,8 +1,10 @@
 ---
 title: "Essential junk file removal strategies: Techniques for Windows Users"
 date: 2025-06-04
+slug: "essential-junk-file-removal-strategies-techniques-for-windows-users-2"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Introduction

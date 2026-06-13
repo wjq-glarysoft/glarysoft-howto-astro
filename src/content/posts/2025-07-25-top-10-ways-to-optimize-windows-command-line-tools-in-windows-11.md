@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Optimize Windows Command Line Tools in Windows 11"
 date: 2025-07-25
+slug: "top-10-ways-to-optimize-windows-command-line-tools-in-windows-11"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 The Windows command line is a powerful environment packed with tools that can help you optimize, troubleshoot, and automate tasks on your PC. As Windows 11 continues to evolve, leveraging these built-in command line utilities can streamline daily workflow, improve PC performance, and enhance system maintenance. Whether you're a beginner or an advanced user, here’s how to get the most out of Windows command line tools for system optimization.

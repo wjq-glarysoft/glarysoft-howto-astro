@@ -1,8 +1,10 @@
 ---
 title: "organize Windows system tool customization Like a Pro: Windows 11 Guide"
 date: 2025-05-19
+slug: "organize-windows-system-tool-customization-like-a-pro-windows-11-guide"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Customizing Windows system tools can drastically enhance your productivity and the overall performance of your PC. Windows 11 comes with a plethora of built-in tools that, when properly organized and customized, can streamline your tasks and improve system efficiency. Whether you're a beginner or an advanced user, this guide will walk you through the process of organizing Windows system tools like a professional.

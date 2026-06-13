@@ -1,8 +1,10 @@
 ---
 title: "Avoiding Common Mistakes in File Compression: Practical Advice for Windows Users"
 date: 2025-04-16
+slug: "avoiding-common-mistakes-in-file-compression-practical-advice-for-windows-users"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 File compression is an essential skill for any Windows user, especially when managing large files or folders that need to be transferred or stored more efficiently. However, there are common pitfalls that one might encounter during the process. This article aims to highlight these mistakes and provide actionable solutions to avoid them.

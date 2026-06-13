@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows CPU Performance Tuning in Windows?"
 date: 2025-05-20
+slug: "are-you-making-these-common-mistakes-with-windows-cpu-performance-tuning-in-windows-2"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Tuning the CPU performance in Windows can give your system the boost it needs to perform smoothly and efficiently. However, common mistakes during this process can lead to reduced performance or even system instability. In this article, we'll explore these pitfalls and offer practical advice to optimize your CPU performance effectively.

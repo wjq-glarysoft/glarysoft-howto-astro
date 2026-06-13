@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Improve Windows Secure Browsing Techniques in Windows 11"
 date: 2025-05-30
+slug: "the-complete-guide-to-improve-windows-secure-browsing-techniques-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Browsing the web can expose your Windows 11 device to various privacy and security threats. Even experienced users can overlook some essential settings and best practices. This guide provides a comprehensive, step-by-step approach to securing your online activity on Windows 11, with practical examples and actionable advice suited for intermediate users.

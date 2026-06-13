@@ -1,8 +1,10 @@
 ---
 title: "Windows Security Settings Configuration Solutions: From Basics to Advanced Techniques"
 date: 2025-07-20
+slug: "windows-security-settings-configuration-solutions-from-basics-to-advanced-techniques-3"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Windows operating systems come equipped with a variety of security settings designed to protect both user data and system integrity. However, navigating these options can be daunting even for experienced users. As Windows continues to evolve, understanding and configuring its security settings is essential—not just for protection, but also for ensuring privacy and optimal performance.

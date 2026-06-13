@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Maintenance Tasks: A Beginner's Guide"
 date: 2025-04-10
+slug: "essential-windows-maintenance-tasks-a-beginners-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Keeping your Windows PC in top shape requires regular maintenance. This beginner's guide will walk you through essential tasks that can help extend the life of your system and improve its performance. With practical examples and tools, you'll learn how to maintain your PC effectively.

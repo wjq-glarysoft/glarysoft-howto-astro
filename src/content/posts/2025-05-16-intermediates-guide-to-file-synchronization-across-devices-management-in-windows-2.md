@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to File Synchronization Across Devices Management in Windows"
 date: 2025-05-16
+slug: "intermediates-guide-to-file-synchronization-across-devices-management-in-windows-2"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Synchronizing files across multiple devices can be a time-consuming task if not handled efficiently. As an intermediate Windows user, you might already be familiar with basic synchronization tools, but this guide will provide you with advanced tips to streamline the process and save time.

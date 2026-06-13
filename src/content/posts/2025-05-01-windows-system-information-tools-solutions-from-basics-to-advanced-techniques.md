@@ -1,8 +1,10 @@
 ---
 title: "Windows System Information Tools Solutions: From Basics to Advanced Techniques"
 date: 2025-05-01
+slug: "windows-system-information-tools-solutions-from-basics-to-advanced-techniques"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Windows operating systems are packed with a variety of tools designed to help you understand and manage your system's performance and health. For intermediate users, knowing how to leverage these system information tools can make a significant difference in maintaining an optimized and efficient PC. This guide will take you through both basic and advanced techniques for using Windows system information tools.

@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Visual Effects for Advanced Users"
 date: 2025-04-20
+slug: "optimizing-windows-visual-effects-for-advanced-users"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Windows visual effects are designed to enhance the user experience by making the interface more visually appealing. However, these effects can sometimes consume valuable system resources, leading to slower performance, especially on older or less powerful machines. Advanced users can optimize these visual effects to strike a balance between aesthetics and performance. This article delves into practical techniques to optimize Windows visual effects for improved system performance.

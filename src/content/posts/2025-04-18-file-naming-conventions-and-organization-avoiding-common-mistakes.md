@@ -1,8 +1,10 @@
 ---
 title: "File Naming Conventions and Organization: Avoiding Common Mistakes"
 date: 2025-04-18
+slug: "file-naming-conventions-and-organization-avoiding-common-mistakes"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Organizing files and folders efficiently on a Windows computer is essential for maintaining productivity and improving file retrieval speeds. Proper file naming conventions play a crucial role in achieving this. However, users often make common mistakes that can lead to confusion and inefficiency. This article will provide practical advice on avoiding these pitfalls and offer actionable steps for better file organization.

@@ -1,8 +1,10 @@
 ---
 title: "Effective system file repair techniques Management for Windows 11 Users"
 date: 2025-07-14
+slug: "effective-system-file-repair-techniques-management-for-windows-11-users"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Why Should You Care About System File Health in Windows 11?

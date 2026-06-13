@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Troubleshoot Windows Network Performance Tuning in Windows 10 & 11"
 date: 2025-08-01
+slug: "the-complete-guide-to-troubleshoot-windows-network-performance-tuning-in-windows-10-11"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Windows network performance can be the difference between smooth productivity and frustrating delays. Whether you are experiencing slow downloads, lag in video calls, or general sluggishness when accessing network resources, this guide offers professional insights and hands-on solutions for optimizing and troubleshooting network performance in Windows 10 and 11.

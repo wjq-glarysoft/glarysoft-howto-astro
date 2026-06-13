@@ -1,8 +1,10 @@
 ---
 title: "7 Windows Tools Features for Better Windows Network Performance Tuning Management"
 date: 2025-07-10
+slug: "7-windows-tools-features-for-better-windows-network-performance-tuning-management"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Are you experiencing slow internet or laggy network connections on your Windows PC? Many beginners don’t realize that Windows offers several built-in tools and features for tuning and managing network performance. By understanding and using these features, you can significantly improve your browsing, downloading, and streaming experience.

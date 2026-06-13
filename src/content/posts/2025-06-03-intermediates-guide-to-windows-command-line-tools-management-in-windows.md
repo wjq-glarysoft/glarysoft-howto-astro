@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows Command Line Tools Management in Windows"
 date: 2025-06-03
+slug: "intermediates-guide-to-windows-command-line-tools-management-in-windows"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 For many Windows users, the graphical interface is the go-to method for managing the system. However, intermediate users can unlock powerful capabilities and streamline their workflow by leveraging Windows command line tools. This guide provides expert recommendations and real-world examples to help you manage and maintain your Windows system effectively using command line utilities.

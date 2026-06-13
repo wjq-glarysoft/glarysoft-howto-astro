@@ -1,8 +1,10 @@
 ---
 title: "How to backup Windows command line tools for All Windows Users?"
 date: 2025-04-30
+slug: "how-to-backup-windows-command-line-tools-for-all-windows-users"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Backing up Windows command line tools is an essential practice for users who rely on these utilities for development, system administration, or personal projects. Command line tools can be highly customized, and losing them due to system failure or updates can be frustrating. This article provides practical, actionable advice for backing up these tools, designed to cater to both beginners and advanced users.

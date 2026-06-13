@@ -1,8 +1,10 @@
 ---
 title: "Windows 11 Performance Optimization Tips: Optimization Made Easy"
 date: 2025-05-25
+slug: "windows-11-performance-optimization-tips-optimization-made-easy"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Optimizing your Windows 11 PC can make a significant difference in speed, responsiveness, and overall system health. Whether you're a beginner looking for quick wins or an advanced user who wants to squeeze every bit of performance out of your machine, this guide will walk you through practical, actionable tips. Let's start with the basics and work our way up.

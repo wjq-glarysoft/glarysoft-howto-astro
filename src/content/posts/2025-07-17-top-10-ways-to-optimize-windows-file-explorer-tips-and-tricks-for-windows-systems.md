@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Optimize Windows File Explorer: Tips and Tricks for Windows Systems"
 date: 2025-07-17
+slug: "top-10-ways-to-optimize-windows-file-explorer-tips-and-tricks-for-windows-systems"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Windows File Explorer is a powerful file management tool, but many users don’t take full advantage of its features. Optimizing the way you use File Explorer can save time, reduce frustration, and make managing your files and folders a breeze. Here are the top 10 tips and tricks to help you get more out of File Explorer on Windows systems.

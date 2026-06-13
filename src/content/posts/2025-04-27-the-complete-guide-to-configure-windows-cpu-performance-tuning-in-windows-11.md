@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure Windows CPU Performance Tuning in Windows 11"
 date: 2025-04-27
+slug: "the-complete-guide-to-configure-windows-cpu-performance-tuning-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Understanding how to tune your CPU performance in Windows 11 can significantly enhance your computer's speed and efficiency. Whether you're a novice or a seasoned user, optimizing your CPU settings can lead to a smoother computing experience. This guide will walk you through simple, actionable steps to maximize your CPU's potential in Windows 11.

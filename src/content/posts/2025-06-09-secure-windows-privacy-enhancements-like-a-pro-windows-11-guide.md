@@ -1,8 +1,10 @@
 ---
 title: "secure Windows privacy enhancements Like a Pro: Windows 11 Guide"
 date: 2025-06-09
+slug: "secure-windows-privacy-enhancements-like-a-pro-windows-11-guide"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Windows 11 has made significant strides in privacy, but for advanced users, the built-in defaults are just the starting point. Enhancing privacy on your system requires a blend of sophisticated configurations, system hardening, and ongoing vigilance. This guide offers actionable methods to go beyond standard settings and achieve a truly privacy-focused Windows 11 environment.

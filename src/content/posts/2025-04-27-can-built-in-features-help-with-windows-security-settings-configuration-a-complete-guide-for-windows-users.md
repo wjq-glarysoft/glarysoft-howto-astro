@@ -1,8 +1,10 @@
 ---
 title: "Can Built-in Features Help with Windows Security Settings Configuration? A Complete Guide for Windows Users"
 date: 2025-04-27
+slug: "can-built-in-features-help-with-windows-security-settings-configuration-a-complete-guide-for-windows-users"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 For beginners stepping into the realm of Windows security, the system's built-in features offer a comprehensive suite of tools to help safeguard your PC. Configuring these settings ensures that your data remains private and your system is protected from various threats. This guide will walk you through essential Windows security settings and offer practical steps to enhance your computer's safety.

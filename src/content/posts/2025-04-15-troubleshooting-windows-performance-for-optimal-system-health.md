@@ -1,8 +1,10 @@
 ---
 title: "Troubleshooting Windows Performance for Optimal System Health"
 date: 2025-04-15
+slug: "troubleshooting-windows-performance-for-optimal-system-health"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 As a Windows user, encountering performance issues can be frustrating. Whether your PC is running slowly, taking too long to boot, or experiencing random freezes, these problems can significantly impact productivity. Fortunately, there are practical and actionable steps you can take to troubleshoot and resolve these issues, ensuring your system runs smoothly and efficiently. This article will guide you through the essential clean-up and repair tasks that can help restore your system's performance.

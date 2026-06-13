@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Firewall Setup and Management with Free Software: Windows User Guide"
 date: 2025-04-22
+slug: "master-windows-firewall-setup-and-management-with-free-software-windows-user-guide"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 As a Windows user, maintaining privacy and security is paramount, and one of the fundamental components in this regard is the Windows Firewall. This built-in feature helps protect your system from unauthorized access and potential threats from the internet. Understanding how to set up and manage the Windows Firewall can significantly enhance your PC's security. This guide provides practical advice and real-world examples to help users of all levels navigate the Windows Firewall effectively.

@@ -1,8 +1,10 @@
 ---
 title: "Getting Started with Windows Security and Privacy Enhancements: A Beginner's Guide"
 date: 2025-04-16
+slug: "getting-started-with-windows-security-and-privacy-enhancements-a-beginners-guide"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 In today's digital era, ensuring the privacy and security of your Windows computer is crucial. This guide provides practical and actionable advice for beginners on how to enhance your Windows security and privacy. By following these steps, you can protect your personal information and maintain a secure computing environment.

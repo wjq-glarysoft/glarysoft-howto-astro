@@ -1,8 +1,10 @@
 ---
 title: "Windows Performance Optimization: A Beginner's Guide"
 date: 2025-04-14
+slug: "windows-performance-optimization-a-beginners-guide-2"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Optimizing the performance of your Windows PC can make a significant difference in speed and efficiency, especially if you have noticed your computer slowing down over time. This guide provides practical, actionable tips to help beginners improve the performance of their Windows systems.

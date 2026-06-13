@@ -1,8 +1,10 @@
 ---
 title: "15 Essential Windows Secure Browsing Techniques Every Windows User Should Know"
 date: 2025-06-04
+slug: "15-essential-windows-secure-browsing-techniques-every-windows-user-should-know"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Staying safe online is a top priority for anyone using a Windows PC. With cyber threats evolving every day, it’s important to practice secure browsing habits to protect your privacy and security. Whether you’re a casual internet user or a seasoned tech enthusiast, these 15 essential secure browsing techniques will help you stay safe while exploring the web on Windows.

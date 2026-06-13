@@ -1,8 +1,10 @@
 ---
 title: "Master Windows file explorer tips and tricks with Free Software: Windows User Guide"
 date: 2025-05-25
+slug: "master-windows-file-explorer-tips-and-tricks-with-free-software-windows-user-guide-2"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Are you looking to get more done in less time while working with files and folders in Windows? File Explorer is your go-to tool for managing documents, photos, and everything else on your PC. However, many users only scratch the surface of what File Explorer can do. This guide explores practical tips, hidden features, and free tools—like Glary Utilities—that can help intermediate Windows users master file management and optimize daily workflows.

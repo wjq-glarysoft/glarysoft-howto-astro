@@ -1,8 +1,10 @@
 ---
 title: "5 Built-in Features for Better Windows Power Management"
 date: 2025-06-09
+slug: "5-built-in-features-for-better-windows-power-management"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Managing your computer's power consumption is crucial, especially if you want to balance performance with energy savings, extend hardware lifespan, or get the most out of your battery life on laptops. Windows includes several built-in power management tools designed to help you fine-tune how your system uses power. This guide will walk you through five essential power management features, with step-by-step instructions and practical examples for both beginners and advanced users.

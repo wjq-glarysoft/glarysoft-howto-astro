@@ -1,8 +1,10 @@
 ---
 title: "How to Monitor and Analyze Your Windows System: A Step-by-Step Guide"
 date: 2025-04-14
+slug: "how-to-monitor-and-analyze-your-windows-system-a-step-by-step-guide-2"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Monitoring and analyzing your Windows system is crucial for maintaining optimal performance and identifying potential issues before they escalate into significant problems. By keeping an eye on system metrics and performance, you can ensure that your computer runs smoothly and efficiently. This guide will walk you through practical steps for monitoring and analyzing a Windows system.

@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows user account security Techniques for Windows Users"
 date: 2025-05-25
+slug: "essential-windows-user-account-security-techniques-for-windows-users-4"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Ensuring the security of your Windows user account is one of the most critical steps you can take to protect your personal information and privacy. A compromised account can lead to loss of data, unauthorized access, and even total control of your system by attackers. This guide walks you through essential Windows user account security techniques, offering clear instructions for both beginners and advanced users.

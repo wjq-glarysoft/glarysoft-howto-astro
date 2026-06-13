@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Backup Security and Privacy Protection in Windows 11"
 date: 2025-08-09
+slug: "top-10-ways-to-backup-security-and-privacy-protection-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows 11 offers a robust foundation for security and privacy, but advanced users know that relying solely on default settings isn’t enough. Whether you’re handling sensitive data, managing multiple user accounts, or running critical systems, it’s essential to proactively backup your security and privacy configuration. Here are ten advanced and actionable strategies to secure your Windows 11 system and ensure your settings are backed up and recoverable.

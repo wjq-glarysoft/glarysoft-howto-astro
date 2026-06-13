@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows security and privacy enhancements Techniques for Windows Users"
 date: 2025-08-21
+slug: "essential-windows-security-and-privacy-enhancements-techniques-for-windows-users-2"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows has become the cornerstone of both personal and professional computing, but with its wide use comes increased exposure to threats. For intermediate users, enhancing security and privacy is less about simple antivirus installations and more about adopting layered practices that reinforce the system. Understanding and applying these techniques can protect sensitive information, reduce vulnerabilities, and preserve system performance.

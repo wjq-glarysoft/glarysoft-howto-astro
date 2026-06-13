@@ -1,8 +1,10 @@
 ---
 title: "Glary Utilities Makes File Backup Strategies Management Simple in Windows"
 date: 2025-06-14
+slug: "glary-utilities-makes-file-backup-strategies-management-simple-in-windows"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Introduction

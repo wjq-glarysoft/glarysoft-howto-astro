@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Improve Essential Windows Maintenance Tasks and Tools in Windows 10"
 date: 2025-04-24
+slug: "the-complete-guide-to-improve-essential-windows-maintenance-tasks-and-tools-in-windows-10"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Windows 10 provides a robust set of tools that can help users maintain system performance and ensure long-term reliability. This guide delves into essential maintenance tasks, providing both beginners and advanced users with actionable advice and practical examples to enhance their system upkeep.

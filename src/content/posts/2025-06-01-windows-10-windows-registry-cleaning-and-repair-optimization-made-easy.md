@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 Windows Registry Cleaning and Repair Optimization Made Easy"
 date: 2025-06-01
+slug: "windows-10-windows-registry-cleaning-and-repair-optimization-made-easy"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 What Is the Windows Registry and Why Does It Need Cleaning?

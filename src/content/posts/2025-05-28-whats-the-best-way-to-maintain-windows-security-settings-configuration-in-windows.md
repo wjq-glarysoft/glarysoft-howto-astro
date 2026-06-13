@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Maintain Windows Security Settings Configuration in Windows?"
 date: 2025-05-28
+slug: "whats-the-best-way-to-maintain-windows-security-settings-configuration-in-windows"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Understanding how to maintain your Windows security settings is one of the most important steps you can take to protect your personal information and keep your PC safe from threats. If you’re new to Windows or just want to make sure your computer is secure, this guide offers practical, easy-to-follow advice designed for beginners.

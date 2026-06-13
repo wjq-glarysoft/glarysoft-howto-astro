@@ -1,8 +1,10 @@
 ---
 title: "Guide to Software Installation and Updates for Beginners"
 date: 2025-04-11
+slug: "guide-to-software-installation-and-updates-for-beginners"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 In today's digital age, installing and updating software is a fundamental skill for any computer user. Whether you're setting up new programs or keeping existing ones up to date, doing so efficiently can enhance your computer's performance and security. This guide will walk you through the basics of installing and updating software on a Windows PC, offering practical advice along the way.

@@ -1,8 +1,10 @@
 ---
 title: "Essential System Optimization and Maintenance Techniques for Windows Users"
 date: 2025-05-03
+slug: "essential-system-optimization-and-maintenance-techniques-for-windows-users"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Maintaining and optimizing your Windows computer can seem daunting, especially for beginners. However, with the right techniques and tools, you can significantly enhance your system's performance and longevity. This guide will walk you through the essential steps to ensure your Windows PC runs smoothly and efficiently.

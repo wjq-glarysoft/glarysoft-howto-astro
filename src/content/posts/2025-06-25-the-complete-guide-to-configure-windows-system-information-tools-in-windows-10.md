@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure Windows System Information Tools in Windows 10"
 date: 2025-06-25
+slug: "the-complete-guide-to-configure-windows-system-information-tools-in-windows-10"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Understanding your Windows 10 system’s hardware and software details is crucial for troubleshooting, optimizing performance, and making informed upgrade decisions. Windows includes several built-in system information tools, and third-party utilities like Glary Utilities can provide even deeper insights. This comprehensive guide will walk you through the most useful methods to access, configure, and make the most of Windows system information tools, from basic built-in options to advanced utilities.

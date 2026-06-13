@@ -1,8 +1,10 @@
 ---
 title: "Windows Disk Cleanup and Optimization Solutions: From Basics to Advanced Techniques"
 date: 2025-05-13
+slug: "windows-disk-cleanup-and-optimization-solutions-from-basics-to-advanced-techniques-2"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Keeping your Windows PC running smoothly requires regular maintenance, especially when it comes to disk cleanup and optimization. Whether you're a beginner or an advanced user, learning how to effectively manage your system's storage can enhance performance significantly. This guide will walk you through basic to advanced techniques for cleaning and optimizing your Windows disk.

@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Secure Browsing Techniques for Windows Users"
 date: 2025-05-11
+slug: "essential-windows-secure-browsing-techniques-for-windows-users"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 In the digital age, secure browsing is paramount for privacy and protecting sensitive information. Windows users must implement effective strategies to safeguard their online activities. This guide offers practical advice for both beginners and advanced users to enhance their browsing security on Windows systems.

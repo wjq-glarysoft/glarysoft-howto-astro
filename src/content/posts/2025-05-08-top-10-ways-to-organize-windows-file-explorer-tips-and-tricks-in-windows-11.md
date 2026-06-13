@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Organize Windows File Explorer Tips and Tricks in Windows 11"
 date: 2025-05-08
+slug: "top-10-ways-to-organize-windows-file-explorer-tips-and-tricks-in-windows-11"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Organizing your files and folders in Windows 11 can significantly improve your productivity by making it easier to find and manage your data. Here are ten tips and tricks to help you make the most out of Windows File Explorer.

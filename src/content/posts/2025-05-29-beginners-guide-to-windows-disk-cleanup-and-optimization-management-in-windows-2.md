@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Disk Cleanup and Optimization Management in Windows"
 date: 2025-05-29
+slug: "beginners-guide-to-windows-disk-cleanup-and-optimization-management-in-windows-2"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Why is Disk Cleanup and Optimization Important for Advanced Users?

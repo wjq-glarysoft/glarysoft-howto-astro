@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Maintenance Tasks and Tools: A Step-by-Step Tutorial"
 date: 2025-04-13
+slug: "essential-windows-maintenance-tasks-and-tools-a-step-by-step-tutorial"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Maintaining your Windows PC is crucial for ensuring its longevity and optimal performance. Regular maintenance can prevent a multitude of issues, ranging from slow performance to critical system errors. Here’s a step-by-step guide to essential Windows maintenance tasks and tools that you can use to keep your system in top shape.

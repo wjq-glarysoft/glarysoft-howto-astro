@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 Windows File Sharing and Permissions Optimization Made Easy"
 date: 2025-04-22
+slug: "windows-10-11-windows-file-sharing-and-permissions-optimization-made-easy"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Sharing files and folders between computers on a network can significantly enhance collaboration and productivity. However, managing permissions and optimizing this process can sometimes be daunting. This guide provides step-by-step instructions to simplify file sharing and permissions management on Windows 10 & 11, catering to both beginners and advanced users.

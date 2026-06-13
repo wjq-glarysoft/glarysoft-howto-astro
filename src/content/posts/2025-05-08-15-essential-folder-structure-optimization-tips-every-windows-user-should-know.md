@@ -1,8 +1,10 @@
 ---
 title: "15 Essential Folder Structure Optimization Tips Every Windows User Should Know"
 date: 2025-05-08
+slug: "15-essential-folder-structure-optimization-tips-every-windows-user-should-know"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Creating an optimized folder structure on your Windows PC can vastly improve your workflow and make file retrieval a breeze. Whether you're a beginner or a seasoned user, these tips will help you organize your digital workspace efficiently.

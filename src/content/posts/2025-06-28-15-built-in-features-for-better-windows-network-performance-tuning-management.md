@@ -1,8 +1,10 @@
 ---
 title: "15 Built-in Features for Better Windows Network Performance Tuning Management"
 date: 2025-06-28
+slug: "15-built-in-features-for-better-windows-network-performance-tuning-management"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Are you struggling with slow internet speeds, lag during online gaming, or unreliable connections on your Windows PC? Network performance is key to a smooth and enjoyable computing experience. Fortunately, Windows offers several built-in features that can help you optimize and manage your network for better speed and stability. This beginner’s guide will introduce you to 15 practical features and settings you can use right now, with step-by-step instructions and real-world examples.

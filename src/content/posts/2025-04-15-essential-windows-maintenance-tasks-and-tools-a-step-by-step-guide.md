@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Maintenance Tasks and Tools: A Step-by-Step Guide"
 date: 2025-04-15
+slug: "essential-windows-maintenance-tasks-and-tools-a-step-by-step-guide"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Keeping your Windows PC in top shape requires regular maintenance. By performing essential maintenance tasks, you can ensure your computer runs smoothly and efficiently. This guide will walk you through some of the most crucial tasks using built-in Windows system tools and introduce you to Glary Utilities, a comprehensive solution for optimizing your PC.

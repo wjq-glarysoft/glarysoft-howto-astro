@@ -1,8 +1,10 @@
 ---
 title: "configure file naming conventions and organization Like a Pro: Windows Systems Guide"
 date: 2025-06-18
+slug: "configure-file-naming-conventions-and-organization-like-a-pro-windows-systems-guide"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Why Do File Naming Conventions Matter for Advanced Windows Users?

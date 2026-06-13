@@ -1,8 +1,10 @@
 ---
 title: "Can Free Software Help with Windows password protection strategies? A Complete Guide for Windows Users"
 date: 2025-06-19
+slug: "can-free-software-help-with-windows-password-protection-strategies-a-complete-guide-for-windows-users"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Is it Possible to Make Your Windows Password More Secure Without Paying for Expensive Tools?

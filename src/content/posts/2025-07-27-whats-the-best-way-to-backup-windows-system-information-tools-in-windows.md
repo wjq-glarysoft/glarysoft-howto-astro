@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Backup Windows System Information Tools in Windows?"
 date: 2025-07-27
+slug: "whats-the-best-way-to-backup-windows-system-information-tools-in-windows"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Windows comes equipped with several built-in system information tools that provide essential insights into your PC’s hardware, software, and configuration. Tools such as System Information (msinfo32), Device Manager, and System Configuration help users troubleshoot issues and keep track of important system details. Backing up this information is crucial—whether you’re upgrading hardware, reinstalling Windows, or troubleshooting problems.

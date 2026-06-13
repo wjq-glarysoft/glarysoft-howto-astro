@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Privacy Enhancements in Windows?"
 date: 2025-05-03
+slug: "are-you-making-these-common-mistakes-with-windows-privacy-enhancements-in-windows"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 In the quest for privacy in the modern world, your Windows PC can be both a powerful tool and a vulnerability. Windows, especially Windows 10 and 11, comes with several built-in privacy features, but enhancing your privacy requires more than just enabling these features; it requires avoiding common mistakes. This article will help you navigate these privacy enhancements effectively, with sections for both beginners and advanced users.

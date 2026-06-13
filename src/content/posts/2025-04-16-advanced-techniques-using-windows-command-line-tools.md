@@ -1,8 +1,10 @@
 ---
 title: "Advanced Techniques Using Windows Command Line Tools"
 date: 2025-04-16
+slug: "advanced-techniques-using-windows-command-line-tools"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 The Windows Command Line, often referred to as CMD or Command Prompt, is a powerful tool that offers advanced techniques for managing and optimizing your system. While it may seem daunting at first, mastering some command line tools can significantly enhance your productivity and system management capabilities. Below, we'll explore a few practical command line tools and techniques, supplemented with real-world examples.

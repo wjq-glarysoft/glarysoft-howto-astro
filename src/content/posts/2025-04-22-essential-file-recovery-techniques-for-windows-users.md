@@ -1,8 +1,10 @@
 ---
 title: "Essential File Recovery Techniques for Windows Users"
 date: 2025-04-22
+slug: "essential-file-recovery-techniques-for-windows-users"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Accidentally deleting important files or encountering unexpected data loss can be a daunting experience for Windows users. Fortunately, there are several effective methods for recovering these lost files. This article will explore essential file recovery techniques, offering practical advice suitable for all levels of Windows users.

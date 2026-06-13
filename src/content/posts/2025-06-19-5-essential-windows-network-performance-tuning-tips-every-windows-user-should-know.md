@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows Network Performance Tuning Tips Every Windows User Should Know"
 date: 2025-06-19
+slug: "5-essential-windows-network-performance-tuning-tips-every-windows-user-should-know"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Network performance can make or break your Windows computing experience—especially for demanding workflows, remote work, and gaming. While there’s a wealth of advice available, many users inadvertently hamper their network performance by making common mistakes. Here are five essential network performance tuning tips, focusing on pitfalls to avoid and actionable steps for advanced Windows users seeking real-world improvements.

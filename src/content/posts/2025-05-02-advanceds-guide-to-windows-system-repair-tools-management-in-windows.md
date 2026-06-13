@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows System Repair Tools Management in Windows"
 date: 2025-05-02
+slug: "advanceds-guide-to-windows-system-repair-tools-management-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Introduction to System Repair Tools in Windows

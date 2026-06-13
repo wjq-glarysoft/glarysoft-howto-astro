@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid When Using Windows System Information Tools"
 date: 2025-04-16
+slug: "common-mistakes-to-avoid-when-using-windows-system-information-tools"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Windows system information tools can be immensely useful for diagnosing and troubleshooting your PC’s performance issues. However, many users make common mistakes when utilizing these tools, which can lead to incorrect diagnostics or even system problems. Here are some practical tips and real-world examples to help you avoid such pitfalls.

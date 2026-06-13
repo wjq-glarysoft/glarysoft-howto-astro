@@ -1,8 +1,10 @@
 ---
 title: "Free Software Makes Windows File Explorer Management Simple in Windows"
 date: 2025-07-08
+slug: "free-software-makes-windows-file-explorer-management-simple-in-windows"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Windows File Explorer is the central tool for managing files and folders on your computer. Whether you’re organizing family photos or creating folders for work documents, mastering even the basics can help you work faster and keep your computer tidy. This article shares practical tips and tricks for beginners that make file management simple, and introduces free software that can make these tasks even easier.

@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Optimizing Windows Performance"
 date: 2025-04-17
+slug: "beginners-guide-to-optimizing-windows-performance"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 If you're new to computers or just new to optimizing them, improving your Windows PC's performance can seem daunting. However, with a few straightforward strategies, you can make your computer run faster and more efficiently. Here’s a practical guide for beginners to optimize and improve Windows performance.

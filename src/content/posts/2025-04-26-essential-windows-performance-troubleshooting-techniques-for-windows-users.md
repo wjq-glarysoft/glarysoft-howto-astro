@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Performance Troubleshooting Techniques for Windows Users"
 date: 2025-04-26
+slug: "essential-windows-performance-troubleshooting-techniques-for-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 As an intermediate Windows user, you've likely encountered performance hiccups at some point. Whether your computer is sluggish at startup or applications take an eternity to load, these issues can disrupt your workflow. This guide will walk you through essential troubleshooting techniques to help you clean up and repair your Windows system, ensuring it runs smoothly and efficiently.

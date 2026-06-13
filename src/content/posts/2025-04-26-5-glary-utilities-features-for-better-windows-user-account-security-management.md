@@ -1,8 +1,10 @@
 ---
 title: "5 Glary Utilities Features for Better Windows User Account Security Management"
 date: 2025-04-26
+slug: "5-glary-utilities-features-for-better-windows-user-account-security-management"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows user account security is a crucial aspect of maintaining privacy and protecting sensitive information on your computer. Managing these settings efficiently can often seem daunting. Fortunately, [Glary Utilities](https://www.glarysoft.com) offers several features that can simplify this process and enhance your system’s security, saving you time and effort.

@@ -1,8 +1,10 @@
 ---
 title: "Can Glary Utilities Help with Windows File Sharing and Permissions? A Complete Guide for Windows Users"
 date: 2025-07-19
+slug: "can-glary-utilities-help-with-windows-file-sharing-and-permissions-a-complete-guide-for-windows-users-4"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Understanding Windows File Sharing and Permissions

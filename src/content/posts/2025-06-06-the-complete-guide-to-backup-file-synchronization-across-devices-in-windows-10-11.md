@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Backup File Synchronization Across Devices in Windows 10 & 11"
 date: 2025-06-06
+slug: "the-complete-guide-to-backup-file-synchronization-across-devices-in-windows-10-11"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Synchronizing files and folders ensures you have the latest version of your important data on all your devices. File synchronization is essential for backup, collaboration, and peace of mind—whether you’re working from a desktop, a laptop, or even a tablet. In this guide, you’ll learn practical steps for synchronizing files across devices in Windows 10 and 11, from simple built-in options to advanced tools.

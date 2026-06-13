@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Manage Windows Diagnostic Utilities in Windows Systems"
 date: 2025-06-06
+slug: "top-10-ways-to-manage-windows-diagnostic-utilities-in-windows-systems"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Windows offers a variety of diagnostic tools designed to help users identify, troubleshoot, and resolve system problems. From built-in utilities to comprehensive third-party solutions like Glary Utilities, knowing how to properly manage these diagnostics can save time and prevent headaches. This article guides you through the top 10 ways to manage Windows diagnostic utilities, with practical, step-by-step instructions for both beginners and advanced users.

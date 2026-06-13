@@ -1,8 +1,10 @@
 ---
 title: "improve Windows user account security Like a Pro: Windows 11 Guide"
 date: 2025-06-18
+slug: "improve-windows-user-account-security-like-a-pro-windows-11-guide"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Securing your Windows user account is the first line of defense against unauthorized access and data breaches. With Windows 11 introducing new tools and settings, now is the perfect time to review your account security practices. Whether you are a beginner or an experienced power user, this guide provides actionable steps and real-world examples to keep your account and personal information safe.

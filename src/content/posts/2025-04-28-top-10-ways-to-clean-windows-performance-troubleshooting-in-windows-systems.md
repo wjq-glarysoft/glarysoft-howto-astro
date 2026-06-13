@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Clean Windows Performance Troubleshooting in Windows Systems"
 date: 2025-04-28
+slug: "top-10-ways-to-clean-windows-performance-troubleshooting-in-windows-systems"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Windows performance issues can be frustrating, but often they can be resolved with some straightforward maintenance and cleanup. Whether you're a beginner or an advanced user, this guide offers practical solutions to help you optimize your computer. Let's dive into the top 10 ways to troubleshoot and enhance your Windows system's performance.

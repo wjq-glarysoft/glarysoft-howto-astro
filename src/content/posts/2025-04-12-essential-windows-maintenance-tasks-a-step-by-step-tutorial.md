@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Maintenance Tasks: A Step-by-Step Tutorial"
 date: 2025-04-12
+slug: "essential-windows-maintenance-tasks-a-step-by-step-tutorial"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Maintaining your Windows PC is crucial for ensuring optimal performance and longevity. Regular maintenance helps prevent issues such as system slowdowns, crashes, and data loss. In this tutorial, we'll cover essential Windows maintenance tasks and introduce Glary Utilities as a comprehensive tool to streamline these processes.

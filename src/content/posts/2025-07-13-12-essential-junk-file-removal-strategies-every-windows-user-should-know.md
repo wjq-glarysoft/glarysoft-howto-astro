@@ -1,8 +1,10 @@
 ---
 title: "12 Essential Junk File Removal Strategies Every Windows User Should Know"
 date: 2025-07-13
+slug: "12-essential-junk-file-removal-strategies-every-windows-user-should-know"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Is Manual File Deletion Really Enough?

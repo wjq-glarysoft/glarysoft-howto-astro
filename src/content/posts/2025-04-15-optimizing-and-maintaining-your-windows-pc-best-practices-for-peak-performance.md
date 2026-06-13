@@ -1,8 +1,10 @@
 ---
 title: "Optimizing and Maintaining Your Windows PC: Best Practices for Peak Performance"
 date: 2025-04-15
+slug: "optimizing-and-maintaining-your-windows-pc-best-practices-for-peak-performance"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Maintaining and optimizing your Windows PC is essential to ensure it runs smoothly and efficiently. Over time, computers can become sluggish due to a variety of factors such as software bloat, cluttered files, or outdated drivers. By following best practices for system optimization and maintenance, you can keep your PC performing at its best. Here are some practical steps to optimize and maintain your Windows computer effectively.

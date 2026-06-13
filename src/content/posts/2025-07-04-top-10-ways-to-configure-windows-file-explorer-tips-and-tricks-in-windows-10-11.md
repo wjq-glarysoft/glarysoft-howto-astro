@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Configure Windows File Explorer: Tips and Tricks in Windows 10 & 11"
 date: 2025-07-04
+slug: "top-10-ways-to-configure-windows-file-explorer-tips-and-tricks-in-windows-10-11"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Windows File Explorer is the backbone of file management on your PC. While many use it daily, its full potential often goes untapped. This guide presents ten advanced tips and tricks to configure and master File Explorer in Windows 10 and 11. Each tip comes with practical steps and real-world use cases, suitable for both beginners and advanced users.

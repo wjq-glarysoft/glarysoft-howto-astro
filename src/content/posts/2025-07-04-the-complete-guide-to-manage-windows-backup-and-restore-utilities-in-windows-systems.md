@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Manage Windows Backup and Restore Utilities in Windows Systems"
 date: 2025-07-04
+slug: "the-complete-guide-to-manage-windows-backup-and-restore-utilities-in-windows-systems"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Backing up your files and restoring your system are tasks every Windows user should understand. Windows offers built-in Backup and Restore utilities that help protect your data and system settings. However, common mistakes can lead to data loss or unsuccessful recovery when you need it most. This guide will help you avoid these pitfalls and make the most out of Windows system tools, with simple, actionable steps for beginners.

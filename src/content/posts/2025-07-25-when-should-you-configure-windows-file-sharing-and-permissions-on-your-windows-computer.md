@@ -1,8 +1,10 @@
 ---
 title: "When Should You Configure Windows File Sharing and Permissions on Your Windows Computer?"
 date: 2025-07-25
+slug: "when-should-you-configure-windows-file-sharing-and-permissions-on-your-windows-computer"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Windows file sharing and permissions are essential features that allow you to control how files and folders are accessed on your computer and across your network. Knowing when to configure these settings can save you time, prevent data loss, and enhance collaboration. Let’s explore practical scenarios and actionable advice to help you decide when and how to set up file sharing and manage permissions effectively.

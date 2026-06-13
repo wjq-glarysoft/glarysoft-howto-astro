@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Windows File Explorer Tips and Tricks Toolkit for Windows Computers"
 date: 2025-05-01
+slug: "the-ultimate-windows-file-explorer-tips-and-tricks-toolkit-for-windows-computers-3"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Windows File Explorer is an essential tool for managing files and folders on your computer. Even if you're familiar with the basics, there's always more to learn. This guide provides intermediate Windows users with advanced tips and tricks to enhance their File Explorer experience.

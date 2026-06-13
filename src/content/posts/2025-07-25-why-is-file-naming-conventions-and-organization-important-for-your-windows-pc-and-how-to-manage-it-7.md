@@ -1,8 +1,10 @@
 ---
 title: "Why is File Naming Conventions and Organization Important for Your Windows PC and How to Manage It?"
 date: 2025-07-25
+slug: "why-is-file-naming-conventions-and-organization-important-for-your-windows-pc-and-how-to-manage-it-7"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Why Do File Naming Conventions Matter for Advanced Users?

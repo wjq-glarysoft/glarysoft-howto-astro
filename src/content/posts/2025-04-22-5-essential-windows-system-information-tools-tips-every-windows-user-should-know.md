@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows System Information Tools Tips Every Windows User Should Know"
 date: 2025-04-22
+slug: "5-essential-windows-system-information-tools-tips-every-windows-user-should-know"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Understanding your Windows system's specifications and performance statistics is crucial for both maintenance and optimization. Whether you are a beginner just getting started or an advanced user looking to optimize your settings, there's always something new to learn. Let's explore five essential tips for effectively using Windows system information tools.

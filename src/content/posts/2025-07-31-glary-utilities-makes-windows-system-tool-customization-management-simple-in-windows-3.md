@@ -1,8 +1,10 @@
 ---
 title: "Glary Utilities Makes Windows System Tool Customization Management Simple in Windows"
 date: 2025-07-31
+slug: "glary-utilities-makes-windows-system-tool-customization-management-simple-in-windows-3"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Why Customize Windows System Tools?

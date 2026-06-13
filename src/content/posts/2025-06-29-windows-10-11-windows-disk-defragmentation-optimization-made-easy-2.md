@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 Windows Disk Defragmentation Optimization Made Easy"
 date: 2025-06-29
+slug: "windows-10-11-windows-disk-defragmentation-optimization-made-easy-2"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Why Is Disk Defragmentation Important for Windows 10 & 11?

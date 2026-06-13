@@ -1,8 +1,10 @@
 ---
 title: "Windows Software Management Best Practices: A Step-by-Step Tutorial"
 date: 2025-04-15
+slug: "windows-software-management-best-practices-a-step-by-step-tutorial"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Managing software on a Windows PC can be daunting, but with the right approach and tools, you can streamline the process, improve system performance, and keep your applications up-to-date and secure. Below are best practices and practical steps to effectively manage software on your Windows computer.

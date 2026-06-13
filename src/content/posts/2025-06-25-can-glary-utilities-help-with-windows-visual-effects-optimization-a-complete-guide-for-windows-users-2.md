@@ -1,8 +1,10 @@
 ---
 title: "Can Glary Utilities Help with Windows Visual Effects Optimization? A Complete Guide for Windows Users"
 date: 2025-06-25
+slug: "can-glary-utilities-help-with-windows-visual-effects-optimization-a-complete-guide-for-windows-users-2"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Why Should You Optimize Windows Visual Effects?

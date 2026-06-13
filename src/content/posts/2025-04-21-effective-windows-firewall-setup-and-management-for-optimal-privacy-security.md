@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Firewall Setup and Management for Optimal Privacy & Security"
 date: 2025-04-21
+slug: "effective-windows-firewall-setup-and-management-for-optimal-privacy-security"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 In today's digital age, ensuring the privacy and security of your Windows system is paramount. One essential component of a robust security strategy is the Windows Firewall. This built-in security feature helps protect your computer from unauthorized access and various online threats. In this article, we will explore expert recommendations for setting up and managing your Windows Firewall to enhance your system's privacy and security.

@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Privacy Enhancement Techniques for Windows Users"
 date: 2025-05-12
+slug: "essential-windows-privacy-enhancement-techniques-for-windows-users-3"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 In today's digital age, maintaining privacy on your Windows PC is crucial. Beginners often find the security settings on Windows overwhelming. This guide will provide you with simple, yet effective techniques to enhance your privacy and secure your personal information.

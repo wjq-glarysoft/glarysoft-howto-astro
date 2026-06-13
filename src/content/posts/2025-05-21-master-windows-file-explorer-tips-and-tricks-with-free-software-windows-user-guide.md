@@ -1,8 +1,10 @@
 ---
 title: "Master Windows File Explorer Tips and Tricks with Free Software: Windows User Guide"
 date: 2025-05-21
+slug: "master-windows-file-explorer-tips-and-tricks-with-free-software-windows-user-guide"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Windows File Explorer is an essential tool for navigating, organizing, and managing files on your PC. Whether you're a beginner or an advanced user, mastering its features can significantly enhance your productivity. This guide will walk you through practical tips and tricks to optimize your experience with Windows File Explorer. We'll also introduce Glary Utilities, a free software that can further streamline your file management tasks.

@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Your Folder Structure: A Beginner's Guide"
 date: 2025-04-20
+slug: "optimizing-your-folder-structure-a-beginners-guide"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Organizing your files and folders effectively is crucial for maintaining productivity and ensuring that your important documents are always at your fingertips. A well-thought-out folder structure on your Windows PC can save you time and reduce frustration. This guide will provide you with actionable steps and tips to optimize your folder structure, making file management a breeze even for beginners.

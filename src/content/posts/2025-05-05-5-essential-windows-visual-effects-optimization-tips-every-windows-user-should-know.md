@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows Visual Effects Optimization Tips Every Windows User Should Know"
 date: 2025-05-05
+slug: "5-essential-windows-visual-effects-optimization-tips-every-windows-user-should-know"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Optimizing your Windows system's visual effects can significantly enhance your computer's performance, especially if you're looking for ways to save time and reduce frustration. Here are five essential tips that every intermediate Windows user should consider when aiming to optimize visual effects for a smoother, faster experience.

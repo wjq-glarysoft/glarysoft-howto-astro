@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Task Scheduling Techniques with Built-in Features: Windows User Guide"
 date: 2025-04-30
+slug: "master-windows-task-scheduling-techniques-with-built-in-features-windows-user-guide"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Windows Task Scheduler is a powerful tool that allows you to automate tasks on your computer, making it possible to run programs, send emails, and even perform system maintenance without manual intervention. Whether you're a beginner or an advanced user, understanding how to leverage this tool can significantly enhance your productivity. This guide will walk you through various task scheduling techniques using Windows' built-in features.

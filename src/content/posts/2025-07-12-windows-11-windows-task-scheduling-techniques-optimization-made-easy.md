@@ -1,8 +1,10 @@
 ---
 title: "Windows 11 Windows Task Scheduling Techniques Optimization Made Easy"
 date: 2025-07-12
+slug: "windows-11-windows-task-scheduling-techniques-optimization-made-easy"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 What is Windows Task Scheduling and Why Does It Matter?

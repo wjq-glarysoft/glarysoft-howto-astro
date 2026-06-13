@@ -1,8 +1,10 @@
 ---
 title: "Which Windows security and privacy enhancements Methods Work Best for Windows 11?"
 date: 2025-06-22
+slug: "which-windows-security-and-privacy-enhancements-methods-work-best-for-windows-11"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Windows 11 offers many new features to help protect your data and keep your information private. As a beginner, it can feel overwhelming to know which settings are important and what steps you should take. This guide will walk you through simple and effective ways to enhance your security and privacy on a Windows 11 PC.

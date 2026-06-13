@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems file synchronization across devices Optimization Made Easy"
 date: 2025-05-13
+slug: "windows-systems-file-synchronization-across-devices-optimization-made-easy-2"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 How Can You Start with File Synchronization in Windows?

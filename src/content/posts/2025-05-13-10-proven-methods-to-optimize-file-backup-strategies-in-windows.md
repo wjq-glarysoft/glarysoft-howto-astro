@@ -1,8 +1,10 @@
 ---
 title: "10 Proven Methods to Optimize File Backup Strategies in Windows"
 date: 2025-05-13
+slug: "10-proven-methods-to-optimize-file-backup-strategies-in-windows"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Backing up your files is crucial to ensure you don't lose important data due to unexpected events like hardware failure or accidental deletion. Here are 10 proven methods to optimize your file backup strategies in Windows, aimed at beginners who want to secure their files effectively.

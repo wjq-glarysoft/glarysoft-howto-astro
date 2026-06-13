@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Secure Browsing Techniques Management for Windows 10 & 11 Users"
 date: 2025-06-01
+slug: "effective-windows-secure-browsing-techniques-management-for-windows-10-11-users"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 How Can You Strengthen Browser Security on Windows?

@@ -1,8 +1,10 @@
 ---
 title: "Built-in Features Make Windows Data Encryption Methods Management Simple in Windows"
 date: 2025-06-18
+slug: "built-in-features-make-windows-data-encryption-methods-management-simple-in-windows"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 When it comes to protecting your files and sensitive data on Windows, encryption is one of your most powerful tools. Windows offers several built-in features to keep your information safe from unauthorized access. However, beginners often make some common mistakes when setting up and managing data encryption. Avoiding these pitfalls can ensure your files stay private and accessible only to you.

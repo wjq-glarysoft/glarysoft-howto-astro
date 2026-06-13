@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid in Windows Memory Optimization"
 date: 2025-04-18
+slug: "common-mistakes-to-avoid-in-windows-memory-optimization"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Optimizing memory can significantly enhance your Windows PC’s performance. However, users often fall into common traps that can lead to suboptimal results or even degrade system performance. Here, we will explore these mistakes and provide practical advice on how to effectively manage memory on your Windows computer.

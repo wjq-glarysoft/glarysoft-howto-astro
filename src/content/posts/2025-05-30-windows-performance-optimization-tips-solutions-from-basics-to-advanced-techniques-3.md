@@ -1,8 +1,10 @@
 ---
 title: "Windows Performance Optimization Tips Solutions: From Basics to Advanced Techniques"
 date: 2025-05-30
+slug: "windows-performance-optimization-tips-solutions-from-basics-to-advanced-techniques-3"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Is Your PC Slowing Down? Why Optimizing Windows Matters

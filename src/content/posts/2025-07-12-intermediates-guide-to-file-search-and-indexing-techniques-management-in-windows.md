@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to File Search and Indexing Techniques Management in Windows"
 date: 2025-07-12
+slug: "intermediates-guide-to-file-search-and-indexing-techniques-management-in-windows"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Searching for files and managing how your Windows computer indexes them can save you time, boost your productivity, and keep your system running smoothly. Whether you’re a casual user trying to locate documents or an advanced user optimizing search performance, understanding these features is essential.

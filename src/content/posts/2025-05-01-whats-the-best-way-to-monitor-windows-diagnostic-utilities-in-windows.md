@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Monitor Windows Diagnostic Utilities in Windows?"
 date: 2025-05-01
+slug: "whats-the-best-way-to-monitor-windows-diagnostic-utilities-in-windows"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Monitoring Windows diagnostic utilities allows you to keep an eye on your system’s health and performance, which is vital for maintaining an efficient computing environment. Let’s delve into some advanced techniques and practical advice on how to effectively use these utilities to monitor your Windows system.

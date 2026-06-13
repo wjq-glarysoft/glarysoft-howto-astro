@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows Secure Browsing Techniques Management in Windows"
 date: 2025-05-26
+slug: "intermediates-guide-to-windows-secure-browsing-techniques-management-in-windows"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Are you looking to boost your privacy and security while browsing on Windows, without spending hours on complex configurations? For all levels of users, understanding and applying practical secure browsing techniques can make your online activities safer and more efficient. This guide presents actionable steps and time-saving tips you can apply right away to improve your browsing security on any Windows system.

@@ -1,8 +1,10 @@
 ---
 title: "Avoiding Common Mistakes in Windows File Management and Cleanup"
 date: 2025-04-14
+slug: "avoiding-common-mistakes-in-windows-file-management-and-cleanup"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Proper file management and cleanup are crucial for maintaining an efficient and organized Windows system. However, users often make mistakes that can lead to cluttered directories, lost files, or even system slowdowns. This article will help you understand these common pitfalls and offer actionable advice to enhance your file management skills.

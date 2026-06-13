@@ -1,8 +1,10 @@
 ---
 title: "Advanced Techniques for Tuning Windows Network Performance"
 date: 2025-04-19
+slug: "advanced-techniques-for-tuning-windows-network-performance"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Optimizing network performance on a Windows machine can significantly enhance your internet speed, reduce latency, and improve overall connectivity. This guide will delve into advanced techniques for tuning network performance, providing practical advice and real-world examples to help you achieve a smoother online experience.

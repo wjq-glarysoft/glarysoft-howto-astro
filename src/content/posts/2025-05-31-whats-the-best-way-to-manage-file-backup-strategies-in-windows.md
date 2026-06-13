@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Manage File Backup Strategies in Windows?"
 date: 2025-05-31
+slug: "whats-the-best-way-to-manage-file-backup-strategies-in-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Why Are File Backups Important for Windows Users?

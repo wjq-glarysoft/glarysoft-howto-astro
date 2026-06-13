@@ -1,8 +1,10 @@
 ---
 title: "secure Windows performance optimization tips Like a Pro: Windows 10 & 11 Guide"
 date: 2025-08-05
+slug: "secure-windows-performance-optimization-tips-like-a-pro-windows-10-11-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Are you frustrated by sluggish performance on your Windows 10 or 11 PC? Many users dive into optimization, but common mistakes can actually do more harm than good. Let's explore how to optimize your Windows system like a pro by focusing on what to avoid, paired with proven strategies and real-world examples.

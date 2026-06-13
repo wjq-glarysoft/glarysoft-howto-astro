@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Configure Windows Performance Optimization Tips in Windows?"
 date: 2025-05-08
+slug: "whats-the-best-way-to-configure-windows-performance-optimization-tips-in-windows"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 For beginners looking to enhance the performance of their Windows PC, understanding the basics of system optimization can make a significant difference in speed and efficiency. Here are some practical, time-saving tips to help you optimize and improve your Windows experience.

@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems Backup and Restore Utilities Optimization Made Easy"
 date: 2025-05-10
+slug: "windows-systems-backup-and-restore-utilities-optimization-made-easy"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 For many Windows users, the idea of backing up and restoring data can seem daunting. However, understanding and utilizing Windows backup and restore utilities can save you from data loss mishaps and ensure your system runs smoothly. This guide will take you through the basics of using these tools effectively, with step-by-step instructions tailored for beginners.

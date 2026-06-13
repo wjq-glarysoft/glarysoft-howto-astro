@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to File Management and Organization in Windows"
 date: 2025-04-28
+slug: "advanceds-guide-to-file-management-and-organization-in-windows"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 File management and organization are crucial skills for maintaining an efficient and effective workflow on Windows. For advanced users, optimizing file systems goes beyond simple folder creation and file naming. It involves strategic planning, the use of specialized tools, and the implementation of consistent practices.

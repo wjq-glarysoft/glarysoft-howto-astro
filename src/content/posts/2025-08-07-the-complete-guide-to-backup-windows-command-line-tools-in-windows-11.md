@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Backup Windows Command Line Tools in Windows 11"
 date: 2025-08-07
+slug: "the-complete-guide-to-backup-windows-command-line-tools-in-windows-11"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Windows 11 comes with a robust set of command line tools that are invaluable for system administration, troubleshooting, and automation. Ensuring that you can back up your work, settings, and even tool configurations from the command line is an essential skill for users at all levels. This guide provides practical, actionable strategies for backing up your Windows command line tools and related data, with real-world examples and step-by-step instructions.

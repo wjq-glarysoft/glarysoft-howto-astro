@@ -1,8 +1,10 @@
 ---
 title: "Master Windows security settings configuration with Built-in Features: Windows User Guide"
 date: 2025-04-26
+slug: "master-windows-security-settings-configuration-with-built-in-features-windows-user-guide"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 As a Windows user, ensuring the security and privacy of your PC is crucial. This beginner's guide will walk you through configuring essential Windows security settings using built-in features. By following these expert recommendations, you can bolster your system's defenses and protect your personal information.

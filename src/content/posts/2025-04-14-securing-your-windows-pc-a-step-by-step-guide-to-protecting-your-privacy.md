@@ -1,8 +1,10 @@
 ---
 title: "Securing Your Windows PC: A Step-by-Step Guide to Protecting Your Privacy"
 date: 2025-04-14
+slug: "securing-your-windows-pc-a-step-by-step-guide-to-protecting-your-privacy"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 In the digital age, protecting your personal information and ensuring your system's security are more crucial than ever. Windows PCs offer various built-in tools to help safeguard your privacy, but third-party software like Glary Utilities can enhance protection significantly. This guide will walk you through steps to enhance your PC security and privacy.

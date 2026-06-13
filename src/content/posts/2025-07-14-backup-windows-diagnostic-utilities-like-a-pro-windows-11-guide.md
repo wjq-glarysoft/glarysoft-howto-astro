@@ -1,8 +1,10 @@
 ---
 title: "backup Windows diagnostic utilities Like a Pro: Windows 11 Guide"
 date: 2025-07-14
+slug: "backup-windows-diagnostic-utilities-like-a-pro-windows-11-guide"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Windows 11 offers a range of built-in diagnostic utilities that help users detect, troubleshoot, and resolve system issues. Backing up these tools and understanding how to use them effectively is essential for maintaining system health and ensuring quick recovery in case of problems. This guide walks you through practical steps to back up and make the most of Windows diagnostic utilities, with actionable advice for both beginners and advanced users.

@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Repair File Naming Conventions and Organization in Windows 10 & 11"
 date: 2025-05-09
+slug: "top-10-ways-to-repair-file-naming-conventions-and-organization-in-windows-10-11"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Having a well-organized file system is essential for ensuring efficiency and productivity, whether you're a beginner trying to keep track of school projects or an advanced user managing complex work documents. In this article, we'll explore the top 10 ways to repair and improve file naming conventions and organization in Windows 10 and 11.

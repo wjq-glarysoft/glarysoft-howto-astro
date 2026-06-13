@@ -1,8 +1,10 @@
 ---
 title: "Common Security and Privacy Mistakes to Avoid and How to Fix Them"
 date: 2025-04-10
+slug: "common-security-and-privacy-mistakes-to-avoid-and-how-to-fix-them"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 In today's digital age, protecting your security and privacy is more critical than ever. Cybercriminals are constantly devising new ways to exploit vulnerabilities, and even a single mistake can lead to severe consequences. Here are some common security and privacy mistakes people make and how you can avoid them.

@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Maintain Windows System Optimization with Glary Utilities in Windows 11"
 date: 2025-05-30
+slug: "the-complete-guide-to-maintain-windows-system-optimization-with-glary-utilities-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Are you looking for a simple yet powerful way to keep your Windows 11 PC running at its best? Glary Utilities is a comprehensive all-in-one tool that helps users maintain, clean, and optimize their Windows systems with minimal effort. Whether you’re new to PC maintenance or an advanced user seeking more control, this guide will walk you through using Glary Utilities for system optimization.

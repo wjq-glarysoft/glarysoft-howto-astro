@@ -1,8 +1,10 @@
 ---
 title: "Mastering Advanced File Naming Conventions and Organization Techniques in Windows"
 date: 2025-04-18
+slug: "mastering-advanced-file-naming-conventions-and-organization-techniques-in-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 In the digital age, managing files and folders efficiently is essential for productivity and stress-free computing. As a Windows user, adopting advanced techniques for file naming and organization can significantly enhance your workflow. This article delves into practical methods and real-world examples to help you keep your digital life tidy and efficient.

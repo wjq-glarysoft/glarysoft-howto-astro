@@ -1,8 +1,10 @@
 ---
 title: "Master file backup strategies with Glary Utilities: Windows User Guide"
 date: 2025-06-08
+slug: "master-file-backup-strategies-with-glary-utilities-windows-user-guide-2"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Why Should You Back Up Your Files on Windows?

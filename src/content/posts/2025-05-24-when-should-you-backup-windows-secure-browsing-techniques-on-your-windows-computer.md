@@ -1,8 +1,10 @@
 ---
 title: "When Should You Backup Windows Secure Browsing Techniques on Your Windows Computer?"
 date: 2025-05-24
+slug: "when-should-you-backup-windows-secure-browsing-techniques-on-your-windows-computer"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Are you new to Windows and wondering how to keep your browsing safe? Understanding and backing up your secure browsing techniques can help protect your privacy and prevent online threats. This guide explains when and how to save your browsing security settings, why it’s important, and how to restore them if needed. Let’s get started with beginner-friendly steps and real-world examples.

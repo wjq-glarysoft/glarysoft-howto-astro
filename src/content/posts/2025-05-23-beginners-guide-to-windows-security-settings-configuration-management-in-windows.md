@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Security Settings Configuration Management in Windows"
 date: 2025-05-23
+slug: "beginners-guide-to-windows-security-settings-configuration-management-in-windows"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Windows security is vital for keeping your personal data safe and protecting your computer from malware, viruses, and unauthorized access. For beginners, navigating the many security options can be overwhelming, but with the right steps, you can easily secure your PC. This guide provides practical, step-by-step advice—using real examples—to help you configure essential Windows security settings with confidence.

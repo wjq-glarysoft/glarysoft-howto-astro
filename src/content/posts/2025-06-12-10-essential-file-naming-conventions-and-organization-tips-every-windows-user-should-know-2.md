@@ -1,8 +1,10 @@
 ---
 title: "10 Essential File Naming Conventions and Organization Tips Every Windows User Should Know"
 date: 2025-06-12
+slug: "10-essential-file-naming-conventions-and-organization-tips-every-windows-user-should-know-2"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Introduction

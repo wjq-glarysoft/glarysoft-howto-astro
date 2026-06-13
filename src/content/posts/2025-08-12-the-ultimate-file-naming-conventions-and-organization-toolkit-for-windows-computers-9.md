@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate File Naming Conventions and Organization Toolkit for Windows Computers"
 date: 2025-08-12
+slug: "the-ultimate-file-naming-conventions-and-organization-toolkit-for-windows-computers-9"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Organizing files and folders might seem like a small detail, but it can dramatically improve your productivity and peace of mind. Whether you're a student, a busy professional, or a power user juggling multiple projects, following expert file naming conventions and organization strategies will help you find what you need, avoid duplication, and keep your Windows computer running smoothly.

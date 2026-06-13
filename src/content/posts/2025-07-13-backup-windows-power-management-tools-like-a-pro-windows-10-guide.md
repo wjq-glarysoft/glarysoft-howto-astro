@@ -1,8 +1,10 @@
 ---
 title: "backup Windows power management tools Like a Pro: Windows 10 Guide"
 date: 2025-07-13
+slug: "backup-windows-power-management-tools-like-a-pro-windows-10-guide"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Are you new to managing your computer’s power settings? Power management tools in Windows 10 can help you save energy, prolong your device’s battery life, and keep your PC performing at its best. In this beginner’s guide, we’ll walk you through the basics of Windows power management tools, show you how to use them, and cover how to back up and restore your settings for peace of mind.

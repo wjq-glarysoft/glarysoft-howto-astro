@@ -1,8 +1,10 @@
 ---
 title: "Windows Performance Troubleshooting: Expert Recommendations for Clean Up & Repair"
 date: 2025-04-18
+slug: "windows-performance-troubleshooting-expert-recommendations-for-clean-up-repair"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 When your Windows computer is not performing at its peak, it can be a source of frustration. However, improving system performance doesn't have to be overly technical or complicated. Here's a guide to troubleshooting and optimizing your Windows PC with practical steps and expert recommendations, focusing on clean up and repair.

@@ -1,8 +1,10 @@
 ---
 title: "Master Windows system monitoring and analysis with Free Software: Windows User Guide"
 date: 2025-07-27
+slug: "master-windows-system-monitoring-and-analysis-with-free-software-windows-user-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Why is System Monitoring and Analysis Essential for Windows Users?

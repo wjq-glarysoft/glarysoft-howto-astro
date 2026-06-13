@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Improve Security and Privacy Protection in Windows 11"
 date: 2025-05-05
+slug: "the-complete-guide-to-improve-security-and-privacy-protection-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Safeguarding your privacy and security is paramount when using Windows 11. As an intermediate user, you're likely familiar with basic security practices, but there's always more you can do to ensure your data remains protected. This guide will walk you through advanced steps to enhance the security and privacy of your PC.

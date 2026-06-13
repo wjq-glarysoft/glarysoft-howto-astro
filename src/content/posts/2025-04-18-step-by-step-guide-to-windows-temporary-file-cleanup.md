@@ -1,8 +1,10 @@
 ---
 title: "Step-by-Step Guide to Windows Temporary File Cleanup"
 date: 2025-04-18
+slug: "step-by-step-guide-to-windows-temporary-file-cleanup"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Temporary files can accumulate on your Windows system over time, taking up valuable space and potentially slowing down your computer. Cleaning up these files is an essential maintenance task to keep your PC running smoothly. Here’s a detailed step-by-step guide to help you clean up temporary files on Windows.

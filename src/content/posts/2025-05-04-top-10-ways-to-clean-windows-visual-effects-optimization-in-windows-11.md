@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Clean Windows Visual Effects Optimization in Windows 11"
 date: 2025-05-04
+slug: "top-10-ways-to-clean-windows-visual-effects-optimization-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Windows 11 comes with a range of visual effects that make it look sleek and modern. However, these effects can sometimes slow down your system, especially if you're running an older machine. For beginners, optimizing these visual effects can significantly enhance performance without sacrificing too much on aesthetics. Here are the top 10 ways to clean and optimize Windows visual effects.

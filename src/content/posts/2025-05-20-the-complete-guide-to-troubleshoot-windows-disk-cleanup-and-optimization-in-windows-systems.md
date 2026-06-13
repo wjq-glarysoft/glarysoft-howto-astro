@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Troubleshoot Windows Disk Cleanup and Optimization in Windows Systems"
 date: 2025-05-20
+slug: "the-complete-guide-to-troubleshoot-windows-disk-cleanup-and-optimization-in-windows-systems"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Managing disk space and optimizing your Windows system is crucial for maintaining performance and reliability. Whether you're a novice or an experienced user, understanding how to efficiently clean up and optimize your system can make a significant difference in how your computer operates. This guide will help you troubleshoot common issues and provide actionable advice for all levels of Windows users.

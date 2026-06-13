@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows File Sharing and Permissions Techniques for Windows Users"
 date: 2025-05-25
+slug: "essential-windows-file-sharing-and-permissions-techniques-for-windows-users-2"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Introduction

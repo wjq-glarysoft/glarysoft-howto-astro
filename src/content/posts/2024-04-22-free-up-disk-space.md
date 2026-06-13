@@ -1,12 +1,10 @@
 ---
 title: "How to Free Up Disk Space"
 date: 2024-04-22
+slug: "free-up-disk-space"
 categories: 
   - "optimize-improve"
-tags: 
-  - "free-disk-space-analyzer"
-  - "free-up-disk-space"
-  - "windows-disk-space-cleanup"
+author: "antonia"
 ---
 
 Is your Windows PC struggling with cluttered disk space due to junk files and the lack of disk space analysis? Fear not, as [](https://www.glarysoft.com/)[Glary Utilities](https://www.glarysoft.com/) offers a comprehensive solution for efficiently cleaning up Windows disk space, and its free disk space analyzer can provide insightful disk analysis, ensuring optimal performance for your PC.

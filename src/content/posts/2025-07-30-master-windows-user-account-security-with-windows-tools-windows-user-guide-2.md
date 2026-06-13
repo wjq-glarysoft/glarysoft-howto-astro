@@ -1,8 +1,10 @@
 ---
 title: "Master Windows user account security with Windows Tools: Windows User Guide"
 date: 2025-07-30
+slug: "master-windows-user-account-security-with-windows-tools-windows-user-guide-2"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Windows user account security is a cornerstone of protecting your personal information and ensuring the health of your PC. Whether you’re a new Windows user or a seasoned pro, understanding and applying best practices for managing user accounts is essential for both privacy and security. In this guide, we'll walk through actionable steps and practical examples to help you master user account security using built-in Windows tools and supplementary solutions.

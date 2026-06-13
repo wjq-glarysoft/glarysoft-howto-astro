@@ -1,8 +1,10 @@
 ---
 title: "organize Windows privacy enhancements Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-23
+slug: "organize-windows-privacy-enhancements-like-a-pro-windows-10-11-guide"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Protecting your privacy on Windows 10 and 11 is more important than ever. From system telemetry to app permissions, Windows often collects and shares information that many users would prefer to keep private. Whether you’re a beginner or an advanced user, this guide provides practical, easy-to-follow steps to improve your privacy and security on your PC.

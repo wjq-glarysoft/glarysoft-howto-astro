@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Folder Structure Optimization in Windows?"
 date: 2025-05-26
+slug: "are-you-making-these-common-mistakes-with-folder-structure-optimization-in-windows"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Optimizing your folder structure in Windows isn’t just about keeping things tidy—it’s a major time-saver, especially for advanced users handling complex data and projects. Yet, even experienced Windows users often fall into subtle traps that hinder efficiency. Let’s break down the most common mistakes and explore advanced strategies to supercharge your workflow.

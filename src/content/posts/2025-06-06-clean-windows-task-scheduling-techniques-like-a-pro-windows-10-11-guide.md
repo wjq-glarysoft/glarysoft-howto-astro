@@ -1,8 +1,10 @@
 ---
 title: "clean Windows task scheduling techniques Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-06
+slug: "clean-windows-task-scheduling-techniques-like-a-pro-windows-10-11-guide"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Understanding Task Scheduling in Windows

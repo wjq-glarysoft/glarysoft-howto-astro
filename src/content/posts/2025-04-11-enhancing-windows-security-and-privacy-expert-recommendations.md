@@ -1,8 +1,10 @@
 ---
 title: "Enhancing Windows Security and Privacy: Expert Recommendations"
 date: 2025-04-11
+slug: "enhancing-windows-security-and-privacy-expert-recommendations"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 In today's digital landscape, maintaining security and privacy on your Windows PC is not just a preference; it's a necessity. The operating system is a frequent target for cyber threats due to its widespread use. This article provides actionable advice and real-world examples to help you enhance the security and privacy of your Windows system.

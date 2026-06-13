@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Backup Windows Secure Browsing Techniques in Windows 11"
 date: 2025-07-11
+slug: "the-complete-guide-to-backup-windows-secure-browsing-techniques-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 In today’s digital landscape, secure browsing is essential for protecting your privacy, sensitive data, and your PC from increasingly sophisticated threats. Windows 11 introduces advanced security features, but safe browsing habits and the right tools remain crucial. This guide outlines reliable Windows secure browsing techniques, combining professional insights with actionable steps for both beginners and advanced users.

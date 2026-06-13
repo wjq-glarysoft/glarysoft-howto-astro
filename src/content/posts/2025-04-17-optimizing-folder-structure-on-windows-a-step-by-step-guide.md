@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Folder Structure on Windows: A Step-by-Step Guide"
 date: 2025-04-17
+slug: "optimizing-folder-structure-on-windows-a-step-by-step-guide"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 An organized folder structure can significantly enhance your efficiency and productivity while using your Windows PC. By optimizing your folders, you can easily locate, manage, and back up files. This guide provides a step-by-step approach to organizing your folders effectively, ensuring your digital workspace is as efficient as possible.

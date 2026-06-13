@@ -1,8 +1,10 @@
 ---
 title: "Windows 11 Windows Security Settings Configuration Optimization Made Easy"
 date: 2025-04-30
+slug: "windows-11-windows-security-settings-configuration-optimization-made-easy"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 In today's digital age, securing your Windows 11 PC is more important than ever. The operating system includes various built-in security features designed to protect your data and privacy. This article will guide you through optimizing these settings to ensure your PC remains secure. Whether you're a beginner or an advanced user, follow along with actionable steps to enhance your system's security.

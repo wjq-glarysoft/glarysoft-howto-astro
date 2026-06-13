@@ -1,8 +1,10 @@
 ---
 title: "configure Windows user account security Like a Pro: Windows 11 Guide"
 date: 2025-07-31
+slug: "configure-windows-user-account-security-like-a-pro-windows-11-guide"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Ensuring strong user account security on your Windows 11 system is critical for protecting your personal data, work information, and overall system integrity. Whether you’re a casual user, a business professional, or somewhere in between, understanding the best practices for user account security will help you stay protected against common threats. Here’s a step-by-step guide to configuring Windows user account security, complete with professional tips and practical examples.

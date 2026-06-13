@@ -1,8 +1,10 @@
 ---
 title: "Master Windows File Sharing and Permissions with Built-in Features: Windows User Guide"
 date: 2025-07-27
+slug: "master-windows-file-sharing-and-permissions-with-built-in-features-windows-user-guide-2"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Sharing files and folders between devices on a Windows network can streamline collaboration and backup, but overlooking key settings often leads to frustration or security risks. Intermediate Windows users should go beyond basic sharing by understanding permissions, network profiles, and common pitfalls. This guide will help you master Windows file sharing using built-in tools, avoid common mistakes, and maintain a secure and organized environment.

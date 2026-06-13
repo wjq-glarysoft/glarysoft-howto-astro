@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Clean Windows Temporary File Cleanup in Windows Systems"
 date: 2025-04-23
+slug: "the-complete-guide-to-clean-windows-temporary-file-cleanup-in-windows-systems"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Keeping your Windows system free from unnecessary temporary files is a crucial step in maintaining its efficiency and speed. As an intermediate user, you likely already understand the basics of file management, so let's dive deeper into the best practices for cleaning up temporary files on a Windows system.

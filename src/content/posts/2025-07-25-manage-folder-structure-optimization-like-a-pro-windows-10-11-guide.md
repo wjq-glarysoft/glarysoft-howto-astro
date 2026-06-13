@@ -1,8 +1,10 @@
 ---
 title: "manage folder structure optimization Like a Pro: Windows 10 & 11 Guide"
 date: 2025-07-25
+slug: "manage-folder-structure-optimization-like-a-pro-windows-10-11-guide"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Why Optimize Your Folder Structure in Windows?

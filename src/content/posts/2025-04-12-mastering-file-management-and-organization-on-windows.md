@@ -1,8 +1,10 @@
 ---
 title: "Mastering File Management and Organization on Windows"
 date: 2025-04-12
+slug: "mastering-file-management-and-organization-on-windows"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Effective file management and organization can significantly enhance your productivity, making it easier to find documents, manage data, and maintain a clutter-free digital workspace. This guide will walk you through a step-by-step approach to organizing your files on a Windows PC, leveraging both built-in tools and third-party applications like Glary Utilities.

@@ -1,8 +1,10 @@
 ---
 title: "Avoiding Common Mistakes in Windows Performance Troubleshooting"
 date: 2025-04-15
+slug: "avoiding-common-mistakes-in-windows-performance-troubleshooting"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 When your Windows PC starts to lag, stutter, or freeze, it's tempting to dive into troubleshooting with gusto. However, making hasty decisions can sometimes exacerbate the problem. Here’s a guide on what to avoid when trying to enhance your Windows performance, along with practical tips to ensure a smooth and efficient cleanup and repair process.

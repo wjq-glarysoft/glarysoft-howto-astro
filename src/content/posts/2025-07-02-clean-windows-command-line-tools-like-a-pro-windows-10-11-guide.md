@@ -1,8 +1,10 @@
 ---
 title: "clean Windows command line tools Like a Pro: Windows 10 & 11 Guide"
 date: 2025-07-02
+slug: "clean-windows-command-line-tools-like-a-pro-windows-10-11-guide"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 When it comes to keeping your Windows PC running at peak performance, command line tools are some of the most powerful resources at your disposal. Windows 10 and Windows 11 both come equipped with a suite of command line utilities that can diagnose issues, clear out clutter, and optimize various aspects of your system. Whether you’re a beginner just starting with the Command Prompt, or an advanced user looking to automate complex workflows, this guide will help you harness these tools like a pro.

@@ -1,8 +1,10 @@
 ---
 title: "Master Windows visual effects optimization with Windows Tools: Windows User Guide"
 date: 2025-06-16
+slug: "master-windows-visual-effects-optimization-with-windows-tools-windows-user-guide-2"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 How do Windows visual effects impact performance?

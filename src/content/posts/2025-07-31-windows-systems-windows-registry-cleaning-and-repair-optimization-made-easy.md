@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems Windows Registry Cleaning and Repair Optimization Made Easy"
 date: 2025-07-31
+slug: "windows-systems-windows-registry-cleaning-and-repair-optimization-made-easy"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Why Should Advanced Users Care About Windows Registry Cleaning?

@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows File Sharing and Permissions Management in Windows"
 date: 2025-07-24
+slug: "alls-guide-to-windows-file-sharing-and-permissions-management-in-windows-4"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 File sharing and permissions are at the heart of collaborative work and system management in Windows. Knowing how to share files securely and assign the right permissions is crucial for both personal use and business environments. This guide provides step-by-step instructions for managing file sharing and permissions, with practical examples suitable for beginners and advanced users.

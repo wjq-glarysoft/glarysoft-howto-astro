@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure Windows Backup and Restore Utilities in Windows 10 & 11"
 date: 2025-05-30
+slug: "the-complete-guide-to-configure-windows-backup-and-restore-utilities-in-windows-10-11"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Backing up your important files and being able to restore them quickly is crucial for every Windows user. Windows 10 and 11 both include built-in backup and restore tools designed to help you safeguard your data and system settings. Using these utilities effectively can save you hours of frustration and keep your digital life running smoothly. This guide will walk you through setting up, using, and optimizing Windows backup and restore functions with practical, time-saving tips for all user levels.

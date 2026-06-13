@@ -1,8 +1,10 @@
 ---
 title: "troubleshoot Windows temporary file cleanup Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-13
+slug: "troubleshoot-windows-temporary-file-cleanup-like-a-pro-windows-10-11-guide"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 If your Windows PC is running sluggishly or suffering from storage issues, temporary files may be part of the problem. Windows accumulates a surprising amount of temporary files over time through everyday use, software installations, browsing, and updates. While Windows provides built-in tools, advanced users often require more control and thoroughness. This guide covers both basic and advanced techniques for cleaning up Windows temporary files, with actionable advice for Windows 10 and 11 users.

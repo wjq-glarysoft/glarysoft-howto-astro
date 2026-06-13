@@ -1,8 +1,10 @@
 ---
 title: "12 Essential Windows system tool customization Tips Every Windows User Should Know"
 date: 2025-08-14
+slug: "12-essential-windows-system-tool-customization-tips-every-windows-user-should-know"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Windows is packed with powerful system tools that are more capable than most users realize. With a few targeted customizations, these tools can surface the right data faster, automate routine maintenance, and reduce troubleshooting time. The following 12 tips focus on practical, intermediate-level adjustments used by professionals to keep systems responsive and predictable.

@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows security settings configuration Techniques for Windows Users"
 date: 2025-07-05
+slug: "essential-windows-security-settings-configuration-techniques-for-windows-users-7"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Securing your Windows computer may seem complicated, but with the right approach, you can significantly improve your privacy and safety. Many users unknowingly make mistakes when configuring their settings, which can leave personal data exposed. In this article, we’ll cover common missteps and provide simple, step-by-step solutions for beginner Windows users.

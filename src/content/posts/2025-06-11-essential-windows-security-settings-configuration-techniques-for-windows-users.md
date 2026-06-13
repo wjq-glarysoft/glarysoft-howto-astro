@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows security settings configuration Techniques for Windows Users"
 date: 2025-06-11
+slug: "essential-windows-security-settings-configuration-techniques-for-windows-users"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Keeping your Windows PC secure is vital to protect your personal data, avoid malware infections, and ensure your device runs smoothly. If you’re new to Windows or not familiar with security settings, don’t worry—this guide will walk you through essential configuration techniques, using clear steps and real-world examples. You’ll also learn how tools like Glary Utilities can simplify and automate some protection tasks.

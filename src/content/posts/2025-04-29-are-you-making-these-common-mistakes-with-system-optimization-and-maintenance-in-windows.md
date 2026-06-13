@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with System Optimization and Maintenance in Windows?"
 date: 2025-04-29
+slug: "are-you-making-these-common-mistakes-with-system-optimization-and-maintenance-in-windows"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 System optimization and maintenance are critical for ensuring that your Windows PC runs smoothly and efficiently. Yet, many users unknowingly make mistakes that can lead to poor performance and other issues. In this article, we'll explore some of these common pitfalls and provide practical, actionable advice to optimize and improve your system.

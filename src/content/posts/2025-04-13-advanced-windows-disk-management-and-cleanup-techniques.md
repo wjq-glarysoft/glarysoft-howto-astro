@@ -1,8 +1,10 @@
 ---
 title: "Advanced Windows Disk Management and Cleanup Techniques"
 date: 2025-04-13
+slug: "advanced-windows-disk-management-and-cleanup-techniques"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Managing and cleaning up your Windows disk is essential for maintaining optimal performance and ensuring that your system runs smoothly. While basic disk cleanup tasks can free up space and improve performance, advanced techniques can help you achieve even better results. This article will explore advanced methods for disk management and cleanup, along with practical examples and tips.

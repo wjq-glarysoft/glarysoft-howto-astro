@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid with Windows Data Encryption"
 date: 2025-04-21
+slug: "common-mistakes-to-avoid-with-windows-data-encryption"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 In today's digital age, protecting your data from unauthorized access is more crucial than ever. Windows offers several ways to encrypt your data, but even the best encryption methods can be undermined by common mistakes. This article will guide you through avoiding these pitfalls to ensure your data remains secure.

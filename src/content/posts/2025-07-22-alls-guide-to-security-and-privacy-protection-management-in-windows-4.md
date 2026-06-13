@@ -1,8 +1,10 @@
 ---
 title: "All’s Guide to Security and Privacy Protection Management in Windows"
 date: 2025-07-22
+slug: "alls-guide-to-security-and-privacy-protection-management-in-windows-4"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Protecting your privacy and security on Windows isn’t just about installing antivirus software. It involves understanding the built-in tools, making smart choices, and using specialized utilities for deeper control. This guide will walk you through best practices, real-world examples, and practical steps for both beginners and advanced users.

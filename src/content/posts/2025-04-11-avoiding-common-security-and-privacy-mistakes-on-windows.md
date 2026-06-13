@@ -1,8 +1,10 @@
 ---
 title: "Avoiding Common Security and Privacy Mistakes on Windows"
 date: 2025-04-11
+slug: "avoiding-common-security-and-privacy-mistakes-on-windows"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 In today's digital age, ensuring the security and privacy of your Windows PC is more crucial than ever. Cyber threats continually evolve, and many users inadvertently leave themselves vulnerable due to common mistakes. This article will provide practical advice and real-world examples to help you avoid these pitfalls.

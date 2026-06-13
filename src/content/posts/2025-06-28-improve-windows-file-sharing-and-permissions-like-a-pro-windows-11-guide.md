@@ -1,8 +1,10 @@
 ---
 title: "improve Windows file sharing and permissions Like a Pro: Windows 11 Guide"
 date: 2025-06-28
+slug: "improve-windows-file-sharing-and-permissions-like-a-pro-windows-11-guide"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Windows 11 offers robust file sharing and permission controls, making it easy to collaborate at home, in small offices, or across professional networks. However, to truly optimize your experience and keep your files safe, it’s essential to understand how to configure file sharing and permissions effectively. This guide provides practical, step-by-step advice for both beginners and advanced users, ensuring your files and folders are accessible only to the right people while maintaining top-notch security.

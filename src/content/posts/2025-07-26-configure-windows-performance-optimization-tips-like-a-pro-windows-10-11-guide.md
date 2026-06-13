@@ -1,8 +1,10 @@
 ---
 title: "configure Windows performance optimization tips Like a Pro: Windows 10 & 11 Guide"
 date: 2025-07-26
+slug: "configure-windows-performance-optimization-tips-like-a-pro-windows-10-11-guide"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Are you new to Windows 10 or 11 and curious about making your computer run faster and smoother? While some performance tips may sound complicated, many of the best techniques are easy to follow once you know where to look. This guide will walk you through straightforward yet advanced optimization steps, all designed with beginners in mind. Whether you’re using your PC for work, gaming, or browsing, you’ll discover simple ways to get professional-level results.

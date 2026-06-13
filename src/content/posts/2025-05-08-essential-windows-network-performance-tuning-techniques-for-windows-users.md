@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Network Performance Tuning Techniques for Windows Users"
 date: 2025-05-08
+slug: "essential-windows-network-performance-tuning-techniques-for-windows-users"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Network performance can have a significant impact on your overall computing experience. For advanced Windows users, fine-tuning network settings can lead to improved speed, reduced latency, and a more reliable connection. Below, you'll find essential techniques to optimize and improve network performance on Windows systems.

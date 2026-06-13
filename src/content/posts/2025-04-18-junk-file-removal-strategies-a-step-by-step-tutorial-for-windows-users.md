@@ -1,8 +1,10 @@
 ---
 title: "Junk File Removal Strategies: A Step-by-Step Tutorial for Windows Users"
 date: 2025-04-18
+slug: "junk-file-removal-strategies-a-step-by-step-tutorial-for-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 In the digital age, our computers serve as the cornerstone of our daily activities, from work to entertainment. However, over time, Windows systems accumulate a significant amount of junk files, which can lead to decreased performance. This guide provides you with practical, actionable advice on how to efficiently remove these unwanted files and optimize your system's performance.

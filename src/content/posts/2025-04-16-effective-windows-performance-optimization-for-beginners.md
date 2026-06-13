@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Performance Optimization for Beginners"
 date: 2025-04-16
+slug: "effective-windows-performance-optimization-for-beginners"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 If you're new to the world of Windows PCs, the idea of optimizing your computer for better performance might seem daunting. However, with a few simple steps, you can significantly enhance the speed and efficiency of your system. Let's explore some actionable tips that will help improve your Windows performance without requiring advanced technical skills.

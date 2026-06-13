@@ -1,8 +1,10 @@
 ---
 title: "Avoiding Common Mistakes with Keyboard Shortcuts: Productivity Tips for Windows Users"
 date: 2025-04-12
+slug: "avoiding-common-mistakes-with-keyboard-shortcuts-productivity-tips-for-windows-users"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Keyboard shortcuts are powerful tools that can significantly increase your productivity when using a Windows PC. However, many users fall into common pitfalls when trying to incorporate shortcuts into their workflow. This article provides practical advice on how to use keyboard shortcuts effectively while avoiding common mistakes.

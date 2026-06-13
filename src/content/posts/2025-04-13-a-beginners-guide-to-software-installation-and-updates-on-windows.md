@@ -1,8 +1,10 @@
 ---
 title: "A Beginner's Guide to Software Installation and Updates on Windows"
 date: 2025-04-13
+slug: "a-beginners-guide-to-software-installation-and-updates-on-windows"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 If you're new to using a Windows PC, installing software and keeping it updated can seem a bit daunting at first. However, these tasks are crucial for ensuring your computer runs smoothly and securely. This guide will walk you through the simple steps of installing software and managing updates, complete with practical advice and real-world examples.

@@ -1,8 +1,10 @@
 ---
 title: "15 Proven Methods to Secure Windows Diagnostic Utilities in Windows"
 date: 2025-04-24
+slug: "15-proven-methods-to-secure-windows-diagnostic-utilities-in-windows"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Ensuring the security of Windows diagnostic utilities is crucial for maintaining system integrity and functionality. Intermediate Windows users can benefit from these 15 proven methods to keep these essential tools secure while saving time in the process.

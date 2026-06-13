@@ -1,8 +1,10 @@
 ---
 title: "clean Windows power management tools Like a Pro: Windows 11 Guide"
 date: 2025-07-08
+slug: "clean-windows-power-management-tools-like-a-pro-windows-11-guide"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Understanding the Importance of Power Management in Windows 11

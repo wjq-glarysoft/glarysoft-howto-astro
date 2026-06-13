@@ -1,8 +1,10 @@
 ---
 title: "Windows Memory Optimization: Best Practices to Enhance System Performance"
 date: 2025-04-20
+slug: "windows-memory-optimization-best-practices-to-enhance-system-performance"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Optimizing memory in a Windows environment is crucial for maintaining a responsive and efficient system. Whether you're using an older machine or a powerful new setup, enhancing how your PC utilizes RAM can lead to noticeable improvements in performance. Here are some best practices and techniques for Windows memory optimization.

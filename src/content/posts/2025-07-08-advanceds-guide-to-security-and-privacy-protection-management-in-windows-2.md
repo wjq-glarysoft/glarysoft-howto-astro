@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Security and Privacy Protection Management in Windows"
 date: 2025-07-08
+slug: "advanceds-guide-to-security-and-privacy-protection-management-in-windows-2"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Why Does Efficient Security and Privacy Management Matter?

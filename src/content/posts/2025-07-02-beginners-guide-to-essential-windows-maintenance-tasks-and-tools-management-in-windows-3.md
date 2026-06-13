@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Essential Windows Maintenance Tasks and Tools Management in Windows"
 date: 2025-07-02
+slug: "beginners-guide-to-essential-windows-maintenance-tasks-and-tools-management-in-windows-3"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Keeping your Windows computer running smoothly can seem intimidating if you’re a beginner. However, some simple maintenance tasks and the right tools can make a big difference in your PC’s performance and stability. This guide will walk you through essential Windows maintenance practices, explain key system tools, and recommend practical steps so you can keep your computer healthy with confidence.

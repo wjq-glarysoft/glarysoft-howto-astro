@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Memory Optimization Techniques in Windows?"
 date: 2025-05-01
+slug: "are-you-making-these-common-mistakes-with-windows-memory-optimization-techniques-in-windows"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Memory optimization on a Windows PC can greatly enhance system performance, responsiveness, and overall user experience. However, many users fall into common pitfalls when attempting to optimize their PC's memory. This guide will help you recognize these mistakes and provide practical advice on how to avoid them. We'll cover basics for beginners and delve into more advanced techniques for experienced users.

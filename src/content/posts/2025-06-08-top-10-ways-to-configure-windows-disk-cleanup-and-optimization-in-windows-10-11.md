@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Configure Windows Disk Cleanup and Optimization in Windows 10 & 11"
 date: 2025-06-08
+slug: "top-10-ways-to-configure-windows-disk-cleanup-and-optimization-in-windows-10-11"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Disk cleanup and optimization are essential tasks for keeping your Windows 10 or 11 PC running smoothly. If you want to free up storage, boost performance, and save time, it pays to know the best methods for disk cleanup and optimization. Below are ten practical, time-saving strategies, with sections designed for both beginners and advanced users. Whether you’re looking to quickly clear clutter or dive into advanced system tune-ups, these tips will help you master Windows disk management.

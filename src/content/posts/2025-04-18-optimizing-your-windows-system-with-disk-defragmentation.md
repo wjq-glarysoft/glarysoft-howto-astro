@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Your Windows System with Disk Defragmentation"
 date: 2025-04-18
+slug: "optimizing-your-windows-system-with-disk-defragmentation"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Disk defragmentation is a critical maintenance task for anyone looking to optimize and improve the performance of their Windows computer. Over time, as files are created, modified, and deleted, they can become fragmented across the disk. This fragmentation can slow down system performance, as the hard drive needs to work harder to access scattered file pieces. Here, we will discuss the importance of disk defragmentation and guide you through the process using both built-in Windows tools and third-party solutions like Glary Utilities.

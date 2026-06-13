@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows file sharing and permissions Techniques for Windows Users"
 date: 2025-08-18
+slug: "essential-windows-file-sharing-and-permissions-techniques-for-windows-users-5"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Sharing files and setting permissions in Windows are essential skills that make it easier to collaborate, secure sensitive data, and organize access on personal or shared computers. Whether you are working at home, in a small office, or simply sharing folders between devices, understanding how to set up file sharing and permissions ensures your files remain both accessible and protected.

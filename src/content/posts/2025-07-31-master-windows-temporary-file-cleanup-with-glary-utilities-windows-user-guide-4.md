@@ -1,8 +1,10 @@
 ---
 title: "Master Windows temporary file cleanup with Glary Utilities: Windows User Guide"
 date: 2025-07-31
+slug: "master-windows-temporary-file-cleanup-with-glary-utilities-windows-user-guide-4"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Why Are Temporary Files a Problem on Windows?

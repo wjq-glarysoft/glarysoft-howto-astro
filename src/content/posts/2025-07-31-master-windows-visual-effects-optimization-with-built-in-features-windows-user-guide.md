@@ -1,8 +1,10 @@
 ---
 title: "Master Windows visual effects optimization with Built-in Features: Windows User Guide"
 date: 2025-07-31
+slug: "master-windows-visual-effects-optimization-with-built-in-features-windows-user-guide"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Introduction: Why Optimize Windows Visual Effects?

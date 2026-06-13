@@ -1,8 +1,10 @@
 ---
 title: "Common Mistakes to Avoid in File Management and Organization on Windows"
 date: 2025-04-17
+slug: "common-mistakes-to-avoid-in-file-management-and-organization-on-windows"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Effective file management and organization are crucial for maintaining a streamlined and efficient computer system. However, many Windows users unknowingly make common mistakes that lead to cluttered desktops and hard-to-locate files. By avoiding these pitfalls, you can enhance productivity and keep your digital workspace tidy. Here is a guide to some of the most frequent file management mistakes and practical advice on how to avoid them.

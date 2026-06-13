@@ -1,8 +1,10 @@
 ---
 title: "Can Glary Utilities Help with File Synchronization Across Devices? A Complete Guide for Windows Users"
 date: 2025-06-05
+slug: "can-glary-utilities-help-with-file-synchronization-across-devices-a-complete-guide-for-windows-users-2"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Introduction

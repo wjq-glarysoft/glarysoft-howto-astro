@@ -1,8 +1,10 @@
 ---
 title: "12 Essential File Search and Indexing Techniques Tips Every Windows User Should Know"
 date: 2025-04-25
+slug: "12-essential-file-search-and-indexing-techniques-tips-every-windows-user-should-know"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Finding files quickly on your Windows PC can significantly improve your workflow and productivity. With the vast amounts of data we handle daily, mastering file search and indexing on Windows is crucial. Here are 12 tips every intermediate Windows user should know:

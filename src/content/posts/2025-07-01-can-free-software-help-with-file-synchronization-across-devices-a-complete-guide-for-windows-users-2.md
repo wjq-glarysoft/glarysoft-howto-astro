@@ -1,8 +1,10 @@
 ---
 title: "Can Free Software Help with File Synchronization Across Devices? A Complete Guide for Windows Users"
 date: 2025-07-01
+slug: "can-free-software-help-with-file-synchronization-across-devices-a-complete-guide-for-windows-users-2"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 What Is File Synchronization and Why Does It Matter?

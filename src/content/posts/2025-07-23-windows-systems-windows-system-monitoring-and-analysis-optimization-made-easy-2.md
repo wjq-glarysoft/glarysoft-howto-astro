@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems Windows system monitoring and analysis Optimization Made Easy"
 date: 2025-07-23
+slug: "windows-systems-windows-system-monitoring-and-analysis-optimization-made-easy-2"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Why Is System Monitoring and Analysis Important in Windows?

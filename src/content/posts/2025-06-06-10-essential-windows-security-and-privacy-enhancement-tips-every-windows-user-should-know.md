@@ -1,8 +1,10 @@
 ---
 title: "10 Essential Windows Security and Privacy Enhancement Tips Every Windows User Should Know"
 date: 2025-06-06
+slug: "10-essential-windows-security-and-privacy-enhancement-tips-every-windows-user-should-know"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Windows computers are a popular target for hackers, malware, and unwanted snooping. Thankfully, with a few simple steps, you can greatly improve your system’s security and protect your personal information. Whether you’re new to Windows or just want a quick security refresher, these ten essential tips are easy to follow and offer immediate benefits.

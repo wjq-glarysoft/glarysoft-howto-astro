@@ -1,8 +1,10 @@
 ---
 title: "Master system optimization and maintenance with Free Software: Windows User Guide"
 date: 2025-08-02
+slug: "master-system-optimization-and-maintenance-with-free-software-windows-user-guide-3"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Why is System Optimization Important for Every Windows User?

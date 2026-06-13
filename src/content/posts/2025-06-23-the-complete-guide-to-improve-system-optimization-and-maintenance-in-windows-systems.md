@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Improve System Optimization and Maintenance in Windows Systems"
 date: 2025-06-23
+slug: "the-complete-guide-to-improve-system-optimization-and-maintenance-in-windows-systems"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Why Should You Care About System Optimization and Maintenance?

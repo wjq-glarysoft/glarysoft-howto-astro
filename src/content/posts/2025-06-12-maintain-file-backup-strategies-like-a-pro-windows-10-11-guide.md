@@ -1,8 +1,10 @@
 ---
 title: "maintain file backup strategies Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-12
+slug: "maintain-file-backup-strategies-like-a-pro-windows-10-11-guide"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Keeping your files and folders safe from accidental deletion, theft, or hardware failure is an essential part of Windows PC maintenance. With Windows 10 and 11, a range of backup options exist, from built-in tools to advanced third-party solutions. This guide will help you maintain robust file backup strategies, ensuring your documents, photos, and projects are always protected.

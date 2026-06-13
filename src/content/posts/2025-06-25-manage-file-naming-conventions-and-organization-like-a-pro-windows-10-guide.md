@@ -1,8 +1,10 @@
 ---
 title: "manage file naming conventions and organization Like a Pro: Windows 10 Guide"
 date: 2025-06-25
+slug: "manage-file-naming-conventions-and-organization-like-a-pro-windows-10-guide"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Why Does File Naming and Organization Matter?

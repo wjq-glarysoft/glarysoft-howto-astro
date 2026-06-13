@@ -1,8 +1,10 @@
 ---
 title: "Which Windows performance optimization tips Methods Work Best for Windows 11?"
 date: 2025-05-20
+slug: "which-windows-performance-optimization-tips-methods-work-best-for-windows-11"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Windows 11 is designed to be smooth and efficient, but like any operating system, it can benefit from a tune-up now and then. If you're a beginner looking to keep your system running fast and efficiently, you've come to the right place. Here are some beginner-friendly tips and methods to optimize your Windows 11 performance.

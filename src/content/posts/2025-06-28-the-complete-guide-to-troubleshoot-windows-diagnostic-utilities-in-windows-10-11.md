@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Troubleshoot Windows Diagnostic Utilities in Windows 10 & 11"
 date: 2025-06-28
+slug: "the-complete-guide-to-troubleshoot-windows-diagnostic-utilities-in-windows-10-11"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Windows 10 and 11 come packed with a comprehensive set of built-in diagnostic utilities designed to help advanced users identify, troubleshoot, and resolve system issues. As a professional, leveraging these tools efficiently can dramatically reduce downtime, speed up troubleshooting, and enhance system reliability. This guide delves deep into the most critical Windows diagnostic utilities, offers actionable advice, and provides real-world examples for effective system analysis and repair.

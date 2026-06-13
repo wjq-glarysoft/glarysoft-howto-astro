@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Monitor Windows Privacy Enhancements in Windows Systems"
 date: 2025-06-10
+slug: "the-complete-guide-to-monitor-windows-privacy-enhancements-in-windows-systems"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows operating systems continue to evolve with new privacy enhancements, but effectively monitoring and controlling your privacy settings remains crucial. Whether you are a beginner exploring basic settings or an advanced user seeking granular control, understanding and keeping tabs on Windows privacy improvements can help you safeguard your personal data and maintain control over your system.

@@ -1,8 +1,10 @@
 ---
 title: "Time-Saving Tips Using Windows Command Line Tools"
 date: 2025-04-17
+slug: "time-saving-tips-using-windows-command-line-tools"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 The Windows command line, often underappreciated, is a powerful tool for speeding up various system tasks. For users looking to optimize their workflow, understanding some of these command line utilities can save a significant amount of time. This article will guide you through practical applications of these tools and demonstrate their real-world usage.

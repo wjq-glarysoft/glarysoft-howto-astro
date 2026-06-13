@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Organize Windows Diagnostic Utilities in Windows Systems"
 date: 2025-07-18
+slug: "the-complete-guide-to-organize-windows-diagnostic-utilities-in-windows-systems"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Windows operating systems come with a variety of diagnostic utilities designed to help users monitor, troubleshoot, and maintain their PCs. For beginners, knowing which tools to use and how to access them can feel overwhelming. This guide will walk you through organizing and using these diagnostic utilities, making it simple to keep your Windows system running smoothly.

@@ -1,8 +1,10 @@
 ---
 title: "backup security and privacy protection Like a Pro: Windows 11 Guide"
 date: 2025-07-08
+slug: "backup-security-and-privacy-protection-like-a-pro-windows-11-guide"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 In an era where digital threats are evolving and data breaches are common, securing your backups and protecting your privacy on Windows 11 is more crucial than ever. Whether you’re a home user storing family photos or a professional managing sensitive business documents, understanding how to safeguard your information is key. This guide walks you through actionable steps, advanced techniques, and practical examples to ensure your backups are both secure and private on Windows 11.

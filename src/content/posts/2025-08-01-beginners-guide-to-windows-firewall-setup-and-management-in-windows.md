@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Firewall Setup and Management in Windows"
 date: 2025-08-01
+slug: "beginners-guide-to-windows-firewall-setup-and-management-in-windows"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Protecting your PC from unauthorized access and security threats is essential. The built-in Windows Firewall plays a crucial role in safeguarding your system by controlling incoming and outgoing network traffic. Setting it up properly and managing it effectively are fundamental steps to maintaining your privacy and security on Windows.

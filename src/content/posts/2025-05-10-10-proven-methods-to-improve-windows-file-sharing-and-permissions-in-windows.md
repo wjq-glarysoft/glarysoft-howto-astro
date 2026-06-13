@@ -1,8 +1,10 @@
 ---
 title: "10 Proven Methods to Improve Windows File Sharing and Permissions in Windows"
 date: 2025-05-10
+slug: "10-proven-methods-to-improve-windows-file-sharing-and-permissions-in-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 File sharing and permissions in Windows are crucial for both home and business environments, allowing seamless access to files and protection against unauthorized access. Optimizing these settings can enhance performance and security. Here are ten proven methods to improve your Windows file sharing and permissions.

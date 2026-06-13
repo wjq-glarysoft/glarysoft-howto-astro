@@ -1,8 +1,10 @@
 ---
 title: "Improve Windows User Account Security Like a Pro: Windows 10 & 11 Guide"
 date: 2025-05-12
+slug: "improve-windows-user-account-security-like-a-pro-windows-10-11-guide"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 For many Windows 10 and 11 users, security can seem like a daunting task. However, securing your user account is crucial to protecting your personal information and ensuring a safe computing experience. Here, we will explore some beginner-friendly practices to help you secure your Windows user account effectively.

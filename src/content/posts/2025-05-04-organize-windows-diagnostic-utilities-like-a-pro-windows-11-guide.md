@@ -1,8 +1,10 @@
 ---
 title: "organize Windows diagnostic utilities Like a Pro: Windows 11 Guide"
 date: 2025-05-04
+slug: "organize-windows-diagnostic-utilities-like-a-pro-windows-11-guide"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Windows 11 offers an array of diagnostic utilities that can significantly enhance your ability to troubleshoot and optimize your system. Whether you're a beginner looking to get started or an advanced user seeking to fine-tune your processes, this guide will walk you through organizing and using these tools effectively.

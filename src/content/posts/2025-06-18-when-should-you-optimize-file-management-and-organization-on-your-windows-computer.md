@@ -1,8 +1,10 @@
 ---
 title: "When Should You Optimize File Management and Organization on Your Windows Computer?"
 date: 2025-06-18
+slug: "when-should-you-optimize-file-management-and-organization-on-your-windows-computer"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Why Is File Management Important for Windows Users?

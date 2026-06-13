@@ -1,8 +1,10 @@
 ---
 title: "backup Windows task scheduling techniques Like a Pro: Windows 11 Guide"
 date: 2025-06-22
+slug: "backup-windows-task-scheduling-techniques-like-a-pro-windows-11-guide"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Keeping your Windows 11 PC running smoothly often means automating repetitive tasks and making the most of built-in scheduling features. Effective use of Windows task scheduling can save you hours each week and ensure that important maintenance jobs, such as system backups and disk cleanup, never fall through the cracks. This guide covers practical, time-saving techniques to automate key system tasks using Windows tools and highlights how Glary Utilities can further streamline your workflow.

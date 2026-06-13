@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows Disk Defragmentation Management in Windows"
 date: 2025-06-17
+slug: "intermediates-guide-to-windows-disk-defragmentation-management-in-windows"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Keeping your Windows PC running smoothly involves more than just deleting old files or running antivirus scans. One often overlooked but crucial task is disk defragmentation—especially for users with traditional HDDs (hard disk drives). This guide will walk you through the essentials and advanced techniques for managing disk defragmentation, helping you optimize system performance and extend the life of your drive.

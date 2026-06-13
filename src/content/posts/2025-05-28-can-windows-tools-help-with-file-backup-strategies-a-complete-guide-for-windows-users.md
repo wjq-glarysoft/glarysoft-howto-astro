@@ -1,8 +1,10 @@
 ---
 title: "Can Windows Tools Help with File Backup Strategies? A Complete Guide for Windows Users"
 date: 2025-05-28
+slug: "can-windows-tools-help-with-file-backup-strategies-a-complete-guide-for-windows-users"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Why is File Backup Important for Windows Users?

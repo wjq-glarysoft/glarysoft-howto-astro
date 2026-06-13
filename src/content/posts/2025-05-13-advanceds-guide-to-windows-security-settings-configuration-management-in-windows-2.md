@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Security Settings Configuration Management in Windows"
 date: 2025-05-13
+slug: "advanceds-guide-to-windows-security-settings-configuration-management-in-windows-2"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 When managing Windows security settings, even advanced users can make errors that might compromise system integrity or leave sensitive information exposed. This guide focuses on common mistakes to avoid, ensuring your system remains secure while providing practical tips and solutions for both beginners and advanced users.

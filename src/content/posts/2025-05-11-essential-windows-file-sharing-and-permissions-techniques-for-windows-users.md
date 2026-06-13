@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows file sharing and permissions Techniques for Windows Users"
 date: 2025-05-11
+slug: "essential-windows-file-sharing-and-permissions-techniques-for-windows-users"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Understanding Windows file sharing and permissions is crucial for managing and securing data effectively across networks. Advanced users can leverage these features to ensure that files and folders are accessible only to the intended audience, maintaining both functionality and security.

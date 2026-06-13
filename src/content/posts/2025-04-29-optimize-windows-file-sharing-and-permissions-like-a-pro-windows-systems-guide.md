@@ -1,8 +1,10 @@
 ---
 title: "optimize Windows file sharing and permissions Like a Pro: Windows Systems Guide"
 date: 2025-04-29
+slug: "optimize-windows-file-sharing-and-permissions-like-a-pro-windows-systems-guide"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 In today's interconnected world, efficient management of file sharing and permissions is crucial for both personal and professional Windows environments. Whether you're a novice or an experienced user, optimizing these features can enhance your system's security and performance. This guide provides practical advice on how to manage file sharing and permissions effectively.

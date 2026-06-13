@@ -1,8 +1,10 @@
 ---
 title: "10 Essential Windows Disk Defragmentation Tips Every Windows User Should Know"
 date: 2025-07-21
+slug: "10-essential-windows-disk-defragmentation-tips-every-windows-user-should-know"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Are you noticing your Windows PC running slower than usual? Over time, files on your hard drive can become fragmented, causing your system to work harder and respond slower. Defragmentation reorganizes these files, improving performance. However, many beginners make common mistakes when trying to optimize their disks. Let’s look at essential tips and pitfalls to avoid so you can get the best results from disk defragmentation.

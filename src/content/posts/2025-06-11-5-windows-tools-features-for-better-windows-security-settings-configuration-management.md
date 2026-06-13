@@ -1,8 +1,10 @@
 ---
 title: "5 Windows Tools Features for Better Windows Security Settings Configuration Management"
 date: 2025-06-11
+slug: "5-windows-tools-features-for-better-windows-security-settings-configuration-management"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Windows operating systems come equipped with several built-in tools designed to help users manage, monitor, and improve their system’s security. For beginner Windows users, understanding how to use these security features is key to keeping your PC safe from threats and protecting your privacy. This article breaks down five essential Windows tools, explaining their purpose and offering practical steps for effective configuration.

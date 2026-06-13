@@ -1,8 +1,10 @@
 ---
 title: "Maximizing Windows User Account Security: Best Practices for Privacy and Protection"
 date: 2025-04-17
+slug: "maximizing-windows-user-account-security-best-practices-for-privacy-and-protection"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 In today's digital age, securing your Windows user account is more crucial than ever. Cyber threats are constantly evolving, and it's essential to stay ahead by implementing robust security measures. Below, you'll find practical and actionable advice to enhance your Windows account security, ensuring your data remains private and protected.

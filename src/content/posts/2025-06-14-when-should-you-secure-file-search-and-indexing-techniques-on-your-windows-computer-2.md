@@ -1,8 +1,10 @@
 ---
 title: "When Should You Secure File Search and Indexing Techniques on Your Windows Computer?"
 date: 2025-06-14
+slug: "when-should-you-secure-file-search-and-indexing-techniques-on-your-windows-computer-2"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Searching for files and folders on your Windows computer is a daily task that most users perform, but not everyone is aware of the privacy and security implications involved. Why does it matter? Whenever you search or index files, Windows creates records that can expose personal or sensitive information if not managed properly. Understanding when and how to secure your file search and indexing techniques is essential for protecting your data and maintaining computer performance. This article provides beginner-friendly advice on best practices for securing your file search and indexing activities in Windows.

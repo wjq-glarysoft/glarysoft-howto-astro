@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows Visual Effects Optimization Management in Windows"
 date: 2025-05-10
+slug: "alls-guide-to-windows-visual-effects-optimization-management-in-windows"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Introduction

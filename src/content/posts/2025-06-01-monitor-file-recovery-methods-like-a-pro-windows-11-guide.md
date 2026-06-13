@@ -1,8 +1,10 @@
 ---
 title: "monitor file recovery methods Like a Pro: Windows 11 Guide"
 date: 2025-06-01
+slug: "monitor-file-recovery-methods-like-a-pro-windows-11-guide"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Losing important files can be a stressful experience, whether it’s due to accidental deletion, software errors, or hardware malfunctions. Fortunately, Windows 11 offers several strategies for recovering lost files and folders. This guide breaks down professional file recovery methods, highlights practical examples, and shares tips suitable for both beginners and advanced users.

@@ -1,8 +1,10 @@
 ---
 title: "How to Repair Windows Registry: Cleaning and Repair for Beginner Windows Users"
 date: 2025-05-29
+slug: "how-to-repair-windows-registry-cleaning-and-repair-for-beginner-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 If your Windows PC feels sluggish, crashes unexpectedly, or displays strange error messages, your registry might be part of the problem. The Windows registry is a central database where your system and installed applications store their settings. Over time, outdated, leftover, or corrupt entries can accumulate, potentially causing issues. Cleaning and repairing the registry is one way to help restore smooth performance. Here’s a beginner-friendly guide to understanding and safely cleaning your Windows registry.

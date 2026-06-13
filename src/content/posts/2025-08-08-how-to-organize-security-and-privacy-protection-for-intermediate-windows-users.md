@@ -1,8 +1,10 @@
 ---
 title: "How to Organize Security and Privacy Protection for Intermediate Windows Users?"
 date: 2025-08-08
+slug: "how-to-organize-security-and-privacy-protection-for-intermediate-windows-users"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Introduction

@@ -1,8 +1,10 @@
 ---
 title: "Essential junk file removal strategies"
 date: 2025-06-11
+slug: "essential-junk-file-removal-strategies"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Techniques for Windows Users

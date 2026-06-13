@@ -1,8 +1,10 @@
 ---
 title: "backup file naming conventions and organization Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-30
+slug: "backup-file-naming-conventions-and-organization-like-a-pro-windows-10-11-guide-2"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Why Are File Naming Conventions Critical for Advanced Windows Users?

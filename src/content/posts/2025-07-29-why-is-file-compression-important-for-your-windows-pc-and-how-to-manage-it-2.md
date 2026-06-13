@@ -1,8 +1,10 @@
 ---
 title: "Why is File Compression Important for Your Windows PC and How to Manage It?"
 date: 2025-07-29
+slug: "why-is-file-compression-important-for-your-windows-pc-and-how-to-manage-it-2"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 What is File Compression and Why Should You Care?

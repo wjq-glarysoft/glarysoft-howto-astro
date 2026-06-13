@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows File Sharing and Permissions Management for Windows 11 Users"
 date: 2025-06-21
+slug: "effective-windows-file-sharing-and-permissions-management-for-windows-11-users-2"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 File sharing is a key feature in Windows 11, allowing collaboration and efficient access to resources across a network or even among multiple users on the same PC. Managing file permissions is equally crucial to maintain security and control over sensitive data. For intermediate users looking to save time and streamline their workflow, understanding the best practices and practical steps for managing file sharing and permissions is essential. Here’s how you can do it effectively.

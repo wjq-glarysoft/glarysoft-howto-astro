@@ -1,8 +1,10 @@
 ---
 title: "troubleshoot Windows registry cleaning and repair Like a Pro: Windows Systems Guide"
 date: 2025-06-08
+slug: "troubleshoot-windows-registry-cleaning-and-repair-like-a-pro-windows-systems-guide"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Understanding Windows Registry Issues: Why Cleaning and Repair Matters

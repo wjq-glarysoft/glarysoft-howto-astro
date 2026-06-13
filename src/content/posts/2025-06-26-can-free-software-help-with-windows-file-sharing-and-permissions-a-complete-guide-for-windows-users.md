@@ -1,8 +1,10 @@
 ---
 title: "Can Free Software Help with Windows File Sharing and Permissions? A Complete Guide for Windows Users"
 date: 2025-06-26
+slug: "can-free-software-help-with-windows-file-sharing-and-permissions-a-complete-guide-for-windows-users"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Understanding Windows File Sharing and Permissions

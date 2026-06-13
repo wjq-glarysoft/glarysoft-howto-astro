@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Manage Windows Backup and Restore Utilities in Windows Systems"
 date: 2025-04-22
+slug: "top-10-ways-to-manage-windows-backup-and-restore-utilities-in-windows-systems"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Managing backup and restore utilities in Windows is crucial for ensuring that your data is secure and can be recovered in case of an unexpected failure. For intermediate Windows users, understanding the available tools and how to effectively use them is key to maintaining a robust backup strategy. Below are the top 10 ways to manage these utilities.

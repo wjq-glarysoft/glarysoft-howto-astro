@@ -1,8 +1,10 @@
 ---
 title: "Memory Optimization Techniques for Windows: Best Practices"
 date: 2025-04-20
+slug: "memory-optimization-techniques-for-windows-best-practices"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Optimizing your Windows PC's memory can significantly enhance its performance and speed. Effective memory management allows your system to handle more applications and tasks without slowing down. Here, we will explore some practical memory optimization techniques that can help improve your Windows experience.

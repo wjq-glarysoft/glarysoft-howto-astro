@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 file management and organization Optimization Made Easy"
 date: 2025-05-11
+slug: "windows-10-11-file-management-and-organization-optimization-made-easy"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Managing files and folders effectively on Windows 10 and 11 can significantly enhance productivity and system performance. However, it's easy to fall into common pitfalls that can hinder your workflow. This guide aims to help you avoid these mistakes and optimize your file management strategies for both beginners and advanced users.

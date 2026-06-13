@@ -1,8 +1,10 @@
 ---
 title: "Master Windows system repair tools with Free Software: Windows User Guide"
 date: 2025-06-17
+slug: "master-windows-system-repair-tools-with-free-software-windows-user-guide"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Why Should You Care About Windows System Repair?

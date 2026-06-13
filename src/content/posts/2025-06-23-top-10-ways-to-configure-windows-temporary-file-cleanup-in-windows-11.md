@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Configure Windows Temporary File Cleanup in Windows 11"
 date: 2025-06-23
+slug: "top-10-ways-to-configure-windows-temporary-file-cleanup-in-windows-11"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Temporary files can accumulate quickly on your Windows 11 system, taking up valuable storage space and, over time, slowing down your PC. Regularly cleaning up these files is essential for maintaining optimal performance and freeing up storage. This guide introduces the top 10 ways to configure and perform temporary file cleanup in Windows 11, with practical steps for both beginners and advanced users. For those seeking an all-in-one solution, Glary Utilities is recommended for its comprehensive cleanup capabilities.

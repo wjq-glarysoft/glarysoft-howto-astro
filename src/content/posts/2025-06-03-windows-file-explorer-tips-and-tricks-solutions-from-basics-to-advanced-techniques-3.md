@@ -1,8 +1,10 @@
 ---
 title: "Windows File Explorer Tips and Tricks Solutions: From Basics to Advanced Techniques"
 date: 2025-06-03
+slug: "windows-file-explorer-tips-and-tricks-solutions-from-basics-to-advanced-techniques-3"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Windows File Explorer is every user’s gateway to files and folders, but many people—beginners and advanced users alike—make common mistakes or miss out on powerful features. This guide provides actionable advice for optimizing your file management workflow, avoiding pitfalls, and harnessing both basic and advanced Explorer tricks.

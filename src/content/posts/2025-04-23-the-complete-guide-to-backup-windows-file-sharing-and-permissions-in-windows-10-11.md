@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Backup Windows File Sharing and Permissions in Windows 10 & 11"
 date: 2025-04-23
+slug: "the-complete-guide-to-backup-windows-file-sharing-and-permissions-in-windows-10-11"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 File sharing in Windows 10 and 11 is a powerful feature that allows users to effortlessly share files and folders with other users on the same network. However, it's crucial to properly manage permissions to ensure data security and accessibility. This guide will help intermediate Windows users understand common mistakes to avoid and provide practical advice on managing file sharing and permissions effectively.

@@ -1,8 +1,10 @@
 ---
 title: "When Should You Secure Windows Network Performance Tuning on Your Windows Computer?"
 date: 2025-08-11
+slug: "when-should-you-secure-windows-network-performance-tuning-on-your-windows-computer"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Windows computers rely on stable and efficient network performance for everything from browsing the web to transferring files and streaming media. If you’ve ever noticed slow downloads, lag in games, or interruptions during video calls, you have likely experienced problems that network performance tuning can address. But how do you know when it’s time to secure and optimize your Windows network settings—and what steps should you actually take?

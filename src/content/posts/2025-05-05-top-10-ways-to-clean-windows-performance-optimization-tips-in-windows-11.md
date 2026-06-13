@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Clean Windows: Performance Optimization Tips in Windows 11"
 date: 2025-05-05
+slug: "top-10-ways-to-clean-windows-performance-optimization-tips-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 As Windows 11 becomes more popular, many users are looking for ways to optimize their system for the best performance. However, there are common mistakes that beginners often make which can hinder rather than help. Here, we provide practical tips to enhance your Windows 11 performance and highlight pitfalls to avoid.

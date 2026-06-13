@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Backup and Restore Utilities Techniques for Windows Users"
 date: 2025-05-01
+slug: "essential-windows-backup-and-restore-utilities-techniques-for-windows-users"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Backing up and restoring your Windows system is a critical task that ensures data safety and system integrity. Intermediate Windows users can save time and avoid potential data loss by using built-in utilities and third-party tools effectively. Here’s a guide to mastering these essential techniques.

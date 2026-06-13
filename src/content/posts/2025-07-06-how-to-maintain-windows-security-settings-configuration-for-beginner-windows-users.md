@@ -1,8 +1,10 @@
 ---
 title: "How to Maintain Windows Security Settings Configuration for Beginner Windows Users?"
 date: 2025-07-06
+slug: "how-to-maintain-windows-security-settings-configuration-for-beginner-windows-users"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Keeping your Windows PC secure is essential for protecting your personal data and maintaining your computer’s performance. While advanced security techniques can seem intimidating, there are several straightforward steps anyone can follow to enhance privacy and security settings in Windows. This guide will walk you through practical, actionable steps—complete with real-world examples—to help you keep your system safe.

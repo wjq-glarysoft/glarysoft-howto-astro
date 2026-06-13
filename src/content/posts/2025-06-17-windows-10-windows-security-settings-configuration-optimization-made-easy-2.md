@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 Windows Security Settings Configuration Optimization Made Easy"
 date: 2025-06-17
+slug: "windows-10-windows-security-settings-configuration-optimization-made-easy-2"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Windows 10 offers a robust set of security features designed to keep your personal data safe and your PC running smoothly. However, many users overlook the importance of configuring these settings for optimal privacy and security. This guide walks you through the essential steps to optimize your Windows 10 security settings, with easy instructions for beginners and advanced tweaks for experienced users.

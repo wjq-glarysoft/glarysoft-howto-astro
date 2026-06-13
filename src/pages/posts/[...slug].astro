@@ -4,21 +4,31 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
-  console.log(posts[0].data.title);
   return posts.map((post) => ({    
-    params: { slug: post.data.title },
+    params: { slug: post.data.slug }, // 假设 slug 是唯一标识符
     props: { post },
   }));
 }
 
 const { post } = Astro.props;
+const formattedDate = post.data.date.toLocaleDateString('en-US', {
+  month: 'short',  // 短月份名: Jun
+  day: 'numeric',  // 数字日: 10
+  year: 'numeric'  // 完整年份: 2026
+});
 const { Content } = await render(post);
 ---
 
 <BaseLayout title={post.data.title}>
-  <article>
-    <h1>{post.data.title}</h1>
-    <time>{post.data.date.toLocaleDateString('zh-CN')}</time>
-    <Content />
-  </article>
+  <div class="container">
+    <article>
+      <div class="post-header">
+        <h1 class="x-large-font-size">{post.data.title}</h1>
+        <div class="post-meta">
+          <span>{formattedDate}</span> — by <a href={`/author/${post.data.author?.toLowerCase().replace(/\s+/g, '-')}/`}>{post.data.author}</a> in <a href={`/categories/${post.data.categories}`}>{post.data.categories?.join(', ') || ''}</a>
+        </div>        
+      </div>      
+      <Content />
+    </article>
+  </div>  
 </BaseLayout>

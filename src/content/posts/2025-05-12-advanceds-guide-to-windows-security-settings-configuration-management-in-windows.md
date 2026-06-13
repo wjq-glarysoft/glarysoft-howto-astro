@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Security Settings Configuration Management in Windows"
 date: 2025-05-12
+slug: "advanceds-guide-to-windows-security-settings-configuration-management-in-windows"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 In today's digital landscape, ensuring your Windows system is secure is more important than ever. This guide walks you through advanced techniques for managing and configuring Windows security settings. Whether you're a beginner or an advanced user, these steps will help bolster your system's defenses.

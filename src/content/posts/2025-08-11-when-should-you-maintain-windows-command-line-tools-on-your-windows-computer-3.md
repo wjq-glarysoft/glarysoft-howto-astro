@@ -1,8 +1,10 @@
 ---
 title: "When Should You Maintain Windows Command Line Tools on Your Windows Computer?"
 date: 2025-08-11
+slug: "when-should-you-maintain-windows-command-line-tools-on-your-windows-computer-3"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Why Do Windows Command Line Tools Need Maintenance?

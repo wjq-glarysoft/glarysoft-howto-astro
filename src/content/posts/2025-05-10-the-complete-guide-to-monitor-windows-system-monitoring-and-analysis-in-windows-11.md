@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Monitor Windows System Monitoring and Analysis in Windows 11"
 date: 2025-05-10
+slug: "the-complete-guide-to-monitor-windows-system-monitoring-and-analysis-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Monitoring and analyzing your Windows 11 system is crucial for maintaining optimal performance, troubleshooting issues, and ensuring overall system health. As an intermediate Windows user, you can leverage several built-in tools and third-party applications to gain insights into your system's performance. This guide will walk you through practical steps and tools you can use to monitor and analyze your Windows 11 system effectively.

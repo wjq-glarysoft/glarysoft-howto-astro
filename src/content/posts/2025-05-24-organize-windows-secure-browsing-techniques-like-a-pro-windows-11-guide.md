@@ -1,8 +1,10 @@
 ---
 title: "organize Windows secure browsing techniques Like a Pro: Windows 11 Guide"
 date: 2025-05-24
+slug: "organize-windows-secure-browsing-techniques-like-a-pro-windows-11-guide"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 When browsing the web on Windows 11, privacy and security aren’t just buzzwords—they’re essential for protecting your data and staying safe online. But maintaining good security shouldn’t take up all your time. This guide will help you organize and implement secure browsing techniques efficiently, so you can surf confidently without spending hours tweaking your system.

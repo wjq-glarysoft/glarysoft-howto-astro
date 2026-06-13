@@ -1,8 +1,10 @@
 ---
 title: "How to Troubleshoot Windows User Account Security for Beginner Windows Users"
 date: 2025-07-01
+slug: "how-to-troubleshoot-windows-user-account-security-for-beginner-windows-users"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Understanding and managing user account security is essential for keeping your Windows PC safe from unauthorized access and privacy threats. As a beginner, you might wonder where to start and what to look for. This guide will walk you through the basics of Windows user account security with straightforward steps and practical tips, so you can protect your computer confidently.

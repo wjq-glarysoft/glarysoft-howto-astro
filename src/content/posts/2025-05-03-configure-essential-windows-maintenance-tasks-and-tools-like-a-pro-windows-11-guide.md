@@ -1,8 +1,10 @@
 ---
 title: "configure essential Windows maintenance tasks and tools Like a Pro: Windows 11 Guide"
 date: 2025-05-03
+slug: "configure-essential-windows-maintenance-tasks-and-tools-like-a-pro-windows-11-guide"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Maintaining your Windows 11 PC in optimal condition requires a structured approach to system maintenance. As an intermediate PC user, you have the foundational knowledge needed to dive deeper into Windows 11's system tools. This guide will equip you with the skills to configure and utilize essential maintenance tasks and tools effectively.

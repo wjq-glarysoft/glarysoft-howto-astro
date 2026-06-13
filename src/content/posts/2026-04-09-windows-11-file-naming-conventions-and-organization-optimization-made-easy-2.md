@@ -1,8 +1,10 @@
 ---
 title: "Windows 11 File Naming Conventions and Organization Optimization Made Easy"
 date: 2026-04-09
+slug: "windows-11-file-naming-conventions-and-organization-optimization-made-easy-2"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Keeping your files and folders organized on Windows 11 is essential for maintaining productivity and system efficiency. With structured file naming conventions and proper folder organization, you can locate documents instantly, avoid duplicate files, and improve your overall workflow. This guide provides step-by-step instructions for both beginners and advanced users to create an optimal file management system.

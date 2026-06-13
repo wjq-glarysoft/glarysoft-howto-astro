@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Privacy Enhancements with Free Software: Windows User Guide"
 date: 2025-05-15
+slug: "master-windows-privacy-enhancements-with-free-software-windows-user-guide"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Introduction to Windows Privacy Enhancements

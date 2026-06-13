@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Visual Effects Optimization Management in Windows"
 date: 2025-07-26
+slug: "advanceds-guide-to-windows-visual-effects-optimization-management-in-windows-5"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Introduction

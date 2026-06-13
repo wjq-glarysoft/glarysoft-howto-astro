@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Maintenance Tasks and Tools Techniques for Windows Users"
 date: 2025-04-28
+slug: "essential-windows-maintenance-tasks-and-tools-techniques-for-windows-users"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Keeping your Windows PC running smoothly requires regular maintenance and the right set of tools. This article will guide you through essential Windows maintenance tasks and introduce you to effective system tools that cater to both beginners and advanced users.

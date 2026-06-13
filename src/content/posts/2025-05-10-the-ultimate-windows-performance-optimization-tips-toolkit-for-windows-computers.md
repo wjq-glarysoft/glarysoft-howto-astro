@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Windows Performance Optimization Tips Toolkit for Windows Computers"
 date: 2025-05-10
+slug: "the-ultimate-windows-performance-optimization-tips-toolkit-for-windows-computers"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Optimizing the performance of your Windows computer doesn't have to be a time-consuming process. With the right toolkit and approach, you can achieve noticeable improvements efficiently. This article is geared towards intermediate Windows users looking to streamline their performance optimization tasks.

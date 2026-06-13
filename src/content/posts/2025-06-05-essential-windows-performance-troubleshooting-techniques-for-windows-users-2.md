@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Performance Troubleshooting Techniques for Windows Users"
 date: 2025-06-05
+slug: "essential-windows-performance-troubleshooting-techniques-for-windows-users-2"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Windows computers are powerful and versatile, but over time, even the best systems can slow down, freeze, or behave unpredictably. Performance issues can stem from a variety of causes—cluttered files, outdated drivers, misconfigured settings, or even hidden malware. Knowing how to troubleshoot and optimize Windows performance is essential for keeping your PC running smoothly.

@@ -1,8 +1,10 @@
 ---
 title: "Windows file compression techniques Solutions: From Basics to Advanced Techniques"
 date: 2025-05-07
+slug: "windows-file-compression-techniques-solutions-from-basics-to-advanced-techniques"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 File compression is an essential technique for reducing file size, saving disk space, and optimizing data transfer. In Windows, there are various ways to compress files and folders, ranging from basic built-in tools to advanced third-party applications. Here, we'll explore these techniques, ensuring you understand their applications and how to use them effectively.

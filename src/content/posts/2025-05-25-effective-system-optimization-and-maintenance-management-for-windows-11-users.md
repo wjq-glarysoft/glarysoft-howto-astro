@@ -1,8 +1,10 @@
 ---
 title: "Effective system optimization and maintenance management for Windows 11 users"
 date: 2025-05-25
+slug: "effective-system-optimization-and-maintenance-management-for-windows-11-users"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Why is system optimization and maintenance essential for Windows 11?

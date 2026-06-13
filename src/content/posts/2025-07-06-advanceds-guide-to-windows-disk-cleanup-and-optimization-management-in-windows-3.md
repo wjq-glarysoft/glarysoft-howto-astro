@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Disk Cleanup and Optimization Management in Windows"
 date: 2025-07-06
+slug: "advanceds-guide-to-windows-disk-cleanup-and-optimization-management-in-windows-3"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Keeping your Windows system running smoothly involves more than just deleting a few old files. Proper disk cleanup and optimization can free up valuable space, improve performance, and extend the lifespan of your PC. This guide walks you through essential and advanced cleanup and repair techniques in Windows, with practical steps for beginners and advanced users alike.

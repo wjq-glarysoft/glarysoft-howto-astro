@@ -1,8 +1,10 @@
 ---
 title: "Recovering Lost Files: Step-by-Step Guide for Windows Users"
 date: 2025-04-20
+slug: "recovering-lost-files-step-by-step-guide-for-windows-users"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Losing important files can be a frustrating experience, but fortunately, there are several methods to recover them on a Windows system. Whether the deletion was accidental or due to a system malfunction, this guide will provide you with practical steps to retrieve your files.

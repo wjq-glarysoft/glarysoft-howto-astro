@@ -1,8 +1,10 @@
 ---
 title: "configure Windows backup and restore utilities Like a Pro: Windows Systems Guide"
 date: 2025-04-24
+slug: "configure-windows-backup-and-restore-utilities-like-a-pro-windows-systems-guide"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Backup and restore utilities are integral components of Windows systems, providing users with the flexibility to safeguard their data and recover it in case of system failures or accidental deletions. Whether you're a beginner or an advanced user, understanding how to configure these utilities can save you time and stress. This guide offers step-by-step instructions tailored to different skill levels to help you become proficient in using Windows backup and restore tools.

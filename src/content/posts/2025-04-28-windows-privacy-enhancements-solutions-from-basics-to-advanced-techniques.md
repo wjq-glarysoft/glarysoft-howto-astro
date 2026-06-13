@@ -1,8 +1,10 @@
 ---
 title: "Windows Privacy Enhancements Solutions: From Basics to Advanced Techniques"
 date: 2025-04-28
+slug: "windows-privacy-enhancements-solutions-from-basics-to-advanced-techniques"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 In today's digital age, privacy is a paramount concern for Windows users. With increasing threats from cyber-attacks and data breaches, it's crucial to implement robust privacy measures to safeguard your personal information. This guide aims to provide intermediate Windows users with actionable steps and real-world examples to enhance their system's privacy settings.

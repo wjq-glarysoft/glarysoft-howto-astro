@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate file naming conventions and organization Toolkit for Windows Computers"
 date: 2025-08-14
+slug: "the-ultimate-file-naming-conventions-and-organization-toolkit-for-windows-computers-10"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Introduction Most messy Windows folders don’t start out that way. They become cluttered through small, repeated mistakes: inconsistent names, vague versions, deep folders, and duplicates. This toolkit focuses on the mistakes to avoid when naming and organizing files on Windows, paired with practical steps, real-world examples, and fixes for both beginners and advanced users.

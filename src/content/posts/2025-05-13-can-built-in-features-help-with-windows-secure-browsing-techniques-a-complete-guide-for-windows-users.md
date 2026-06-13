@@ -1,8 +1,10 @@
 ---
 title: "Can Built-in Features Help with Windows Secure Browsing Techniques? A Complete Guide for Windows Users"
 date: 2025-05-13
+slug: "can-built-in-features-help-with-windows-secure-browsing-techniques-a-complete-guide-for-windows-users"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 As an advanced Windows user, ensuring secure browsing is paramount to protect sensitive data and maintain privacy. Windows offers several built-in features that come together to create a robust environment for safer web interaction. This guide explores how these features can be leveraged for secure browsing, alongside best practices that you can implement today.

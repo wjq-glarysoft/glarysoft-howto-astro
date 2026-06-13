@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Disk Defragmentation Management for Windows 10 & 11 Users"
 date: 2025-08-02
+slug: "effective-windows-disk-defragmentation-management-for-windows-10-11-users-2"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Is Disk Defragmentation Still Relevant for Advanced Windows Users?

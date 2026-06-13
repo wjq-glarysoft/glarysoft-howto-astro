@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows Disk Management and Cleanup"
 date: 2025-04-12
+slug: "beginners-guide-to-windows-disk-management-and-cleanup"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Keeping your Windows PC running smoothly requires some routine maintenance, and one of the key areas to focus on is disk management and cleanup. This guide will walk you through essential steps to keep your computer's storage organized and free from clutter, ensuring optimal performance.

@@ -1,8 +1,10 @@
 ---
 title: "Time-Saving Tips for File Compression on Windows"
 date: 2025-04-18
+slug: "time-saving-tips-for-file-compression-on-windows"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 In today's fast-paced digital world, managing files efficiently is crucial for optimizing both time and storage space on your Windows PC. File compression is an effective technique to achieve this. It reduces the size of files, making them easier to store and transfer. Here, we delve into practical file compression tips that will save you time and enhance your productivity.

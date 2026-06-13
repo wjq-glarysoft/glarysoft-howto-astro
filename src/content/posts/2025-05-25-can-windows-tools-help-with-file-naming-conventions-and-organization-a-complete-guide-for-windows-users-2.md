@@ -1,8 +1,10 @@
 ---
 title: "Can Windows Tools Help with file naming conventions and organization? A Complete Guide for Windows Users"
 date: 2025-05-25
+slug: "can-windows-tools-help-with-file-naming-conventions-and-organization-a-complete-guide-for-windows-users-2"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Why Are File Naming Conventions Important for Advanced Windows Users?

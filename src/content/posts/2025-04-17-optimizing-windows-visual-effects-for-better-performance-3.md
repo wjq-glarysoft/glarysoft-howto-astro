@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Visual Effects for Better Performance"
 date: 2025-04-17
+slug: "optimizing-windows-visual-effects-for-better-performance-3"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 When it comes to personalizing your Windows experience, visual effects play a significant role in enhancing the aesthetic appeal. However, these effects can also consume system resources, affecting overall performance—especially on older or lower-spec devices. Optimizing these visual effects can lead to a noticeable improvement in system responsiveness and speed.

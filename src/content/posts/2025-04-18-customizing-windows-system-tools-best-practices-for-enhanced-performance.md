@@ -1,8 +1,10 @@
 ---
 title: "Customizing Windows System Tools: Best Practices for Enhanced Performance"
 date: 2025-04-18
+slug: "customizing-windows-system-tools-best-practices-for-enhanced-performance"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Customizing Windows system tools can significantly improve the performance and usability of your PC. By understanding and personalizing these built-in utilities, you can fine-tune your system to better suit your needs. This guide provides best practice tips and practical advice for optimizing these tools effectively.

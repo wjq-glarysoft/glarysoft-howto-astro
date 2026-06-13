@@ -1,8 +1,10 @@
 ---
 title: "7 Proven Methods to Manage Windows File Explorer Tips and Tricks in Windows"
 date: 2025-05-11
+slug: "7-proven-methods-to-manage-windows-file-explorer-tips-and-tricks-in-windows"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Windows File Explorer is an essential tool for managing files and folders on any Windows computer. Although many users are familiar with its basic functions, there are numerous tips and tricks that can enhance your productivity and streamline your file management process. This article will explore seven proven methods to effectively manage Windows File Explorer, providing insights suitable for both beginners and advanced users.

@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Configure Windows Performance Optimization Tips in Windows 10 & 11"
 date: 2025-07-20
+slug: "the-complete-guide-to-configure-windows-performance-optimization-tips-in-windows-10-11"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Windows 10 and 11 are powerful and versatile, but over time, even the best PCs can start to feel sluggish. Whether you’re a casual user or a power user, optimizing your system’s performance can dramatically improve your experience. This guide offers actionable advice for users of all skill levels, from beginners to advanced, using professional insights and real-world examples. Throughout, we’ll highlight how a tool like Glary Utilities can make these tasks easier and safer.

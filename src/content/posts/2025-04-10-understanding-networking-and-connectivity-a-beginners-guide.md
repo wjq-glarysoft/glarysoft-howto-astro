@@ -1,8 +1,10 @@
 ---
 title: "Understanding Networking and Connectivity: A Beginner's Guide"
 date: 2025-04-10
+slug: "understanding-networking-and-connectivity-a-beginners-guide"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Networking and connectivity are integral components of the modern digital landscape. Whether you're setting up a home Wi-Fi network or managing a small office connection, understanding the basics can significantly improve your ability to stay connected and solve problems when they arise. This beginner's guide aims to demystify networking and offer practical, actionable advice to help you get started.

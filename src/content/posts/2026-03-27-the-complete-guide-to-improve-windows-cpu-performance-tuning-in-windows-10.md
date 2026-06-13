@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Improve Windows CPU Performance Tuning in Windows 10"
 date: 2026-03-27
+slug: "the-complete-guide-to-improve-windows-cpu-performance-tuning-in-windows-10"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Improving CPU performance in Windows 10 is one of the most effective ways to make your system faster, more responsive, and capable of handling demanding tasks. Whether you use your PC for gaming, video editing, or general productivity, fine-tuning your CPU settings and system configuration can yield noticeable improvements. This guide provides a complete, step-by-step walkthrough suitable for both beginners and advanced users.

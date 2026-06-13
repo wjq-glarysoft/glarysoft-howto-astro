@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Memory Optimization Techniques Management for Windows 10 & 11 Users"
 date: 2025-08-09
+slug: "effective-windows-memory-optimization-techniques-management-for-windows-10-11-users-4"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Introduction

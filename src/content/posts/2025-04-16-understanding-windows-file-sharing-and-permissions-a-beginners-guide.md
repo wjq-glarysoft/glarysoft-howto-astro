@@ -1,8 +1,10 @@
 ---
 title: "Understanding Windows File Sharing and Permissions: A Beginner's Guide"
 date: 2025-04-16
+slug: "understanding-windows-file-sharing-and-permissions-a-beginners-guide"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 In today's connected world, sharing files between computers is a common necessity. Whether you need to share documents with family members, collaborate on projects with colleagues, or transfer files between your own devices, Windows file sharing and permissions play a crucial role in ensuring that your data is accessible yet secure. In this guide, we will explore the basics of Windows file sharing and permissions, providing practical advice and real-world examples to help you manage your files and folders effectively.

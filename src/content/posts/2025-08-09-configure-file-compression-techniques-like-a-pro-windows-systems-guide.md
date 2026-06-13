@@ -1,8 +1,10 @@
 ---
 title: "configure file compression techniques Like a Pro: Windows Systems Guide"
 date: 2025-08-09
+slug: "configure-file-compression-techniques-like-a-pro-windows-systems-guide"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Are you running out of storage space or need to transfer large files quickly on your Windows PC? File compression is a powerful tool that helps free up space and makes sharing files much easier. For beginners, understanding the basics and learning how to use Windows’ built-in options and a few helpful tools can save you lots of time and hassle. Let’s dive into the essentials and get you compressing files like a pro!

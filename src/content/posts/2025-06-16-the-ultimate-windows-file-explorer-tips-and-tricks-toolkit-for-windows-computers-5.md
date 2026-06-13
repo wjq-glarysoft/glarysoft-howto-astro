@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Windows File Explorer Tips and Tricks Toolkit for Windows Computers"
 date: 2025-06-16
+slug: "the-ultimate-windows-file-explorer-tips-and-tricks-toolkit-for-windows-computers-5"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Are you new to Windows and want to master the File Explorer? Many beginners make simple mistakes that can lead to lost files, cluttered folders, or even security risks. This guide offers practical tips and highlights common mistakes to avoid, so you can confidently manage your files and folders.

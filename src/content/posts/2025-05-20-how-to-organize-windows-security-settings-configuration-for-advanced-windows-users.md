@@ -1,8 +1,10 @@
 ---
 title: "How to Organize Windows Security Settings Configuration for Advanced Windows Users?"
 date: 2025-05-20
+slug: "how-to-organize-windows-security-settings-configuration-for-advanced-windows-users"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Windows security settings are essential for maintaining the privacy and integrity of your system. As an advanced user, you have the capability to fine-tune these settings to ensure maximum protection against threats while maintaining optimal performance. Let's walk through some advanced techniques for configuring Windows security settings effectively.

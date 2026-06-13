@@ -1,8 +1,10 @@
 ---
 title: "Mastering File Search and Indexing Techniques for Efficient File Management on Windows"
 date: 2025-04-18
+slug: "mastering-file-search-and-indexing-techniques-for-efficient-file-management-on-windows"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 In the fast-paced digital world, being able to quickly locate files on your Windows computer is essential for productivity. While Windows provides several built-in tools for file search and indexing, understanding how to leverage these effectively can save you significant time. This article will walk you through practical tips and techniques to enhance your file search experience.

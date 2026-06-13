@@ -1,8 +1,10 @@
 ---
 title: "Glary Utilities Makes Windows System Monitoring Tools Management Simple in Windows"
 date: 2025-06-21
+slug: "glary-utilities-makes-windows-system-monitoring-tools-management-simple-in-windows"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Why Is System Monitoring Crucial for Windows Users?

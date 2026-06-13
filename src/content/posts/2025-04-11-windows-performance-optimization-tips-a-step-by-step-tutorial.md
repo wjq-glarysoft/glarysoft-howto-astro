@@ -1,8 +1,10 @@
 ---
 title: "Windows Performance Optimization Tips: A Step-by-Step Tutorial"
 date: 2025-04-11
+slug: "windows-performance-optimization-tips-a-step-by-step-tutorial"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 When it comes to optimizing the performance of your Windows PC, a strategic approach can make a significant difference. Whether you're dealing with sluggish performance or simply want to maintain a snappy system, these step-by-step tips can help you achieve a well-optimized Windows experience.

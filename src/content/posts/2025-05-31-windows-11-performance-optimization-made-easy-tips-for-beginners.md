@@ -1,8 +1,10 @@
 ---
 title: "Windows 11 Performance Optimization Made Easy: Tips for Beginners"
 date: 2025-05-31
+slug: "windows-11-performance-optimization-made-easy-tips-for-beginners"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 Are you noticing your Windows 11 PC running a bit slower than it used to? Optimizing your computer doesn’t need to be complicated or risky. With a few beginner-friendly steps and the right tools, you can make your system faster and more reliable without any technical headaches. Here are some straightforward performance optimization tips, complete with real-world examples and step-by-step instructions.

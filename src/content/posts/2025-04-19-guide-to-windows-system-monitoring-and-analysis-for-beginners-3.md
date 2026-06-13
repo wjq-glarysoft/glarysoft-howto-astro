@@ -1,8 +1,10 @@
 ---
 title: "Guide to Windows System Monitoring and Analysis for Beginners"
 date: 2025-04-19
+slug: "guide-to-windows-system-monitoring-and-analysis-for-beginners-3"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Monitoring and analyzing your Windows system is crucial for maintaining its health, improving performance, and preventing issues before they escalate into major problems. As a beginner, you might find this process daunting, but with the right tools and guidance, it becomes manageable and beneficial. This guide will provide you with practical steps and tips to effectively monitor and analyze your Windows system.

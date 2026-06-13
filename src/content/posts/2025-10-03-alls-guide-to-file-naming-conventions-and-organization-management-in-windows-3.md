@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to File Naming Conventions and Organization Management in Windows"
 date: 2025-10-03
+slug: "alls-guide-to-file-naming-conventions-and-organization-management-in-windows-3"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Managing files and folders in Windows effectively is often the difference between wasting minutes searching for a document and instantly accessing what you need. A structured naming convention and smart folder organization save valuable time, reduce clutter, and eliminate confusion. Whether you are a beginner looking to tidy up your personal files or an advanced user managing complex projects, adopting consistent methods can dramatically improve efficiency.

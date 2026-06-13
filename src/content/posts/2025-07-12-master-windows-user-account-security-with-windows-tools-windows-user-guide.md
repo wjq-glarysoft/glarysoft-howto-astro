@@ -1,8 +1,10 @@
 ---
 title: "Master Windows user account security with Windows Tools: Windows User Guide"
 date: 2025-07-12
+slug: "master-windows-user-account-security-with-windows-tools-windows-user-guide"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Understanding user account security is a crucial part of keeping your Windows PC private and safe. Whether you use your computer at home or in a shared environment, following best practices for user account security can help prevent unauthorized access to your data. In this guide, you’ll learn how to secure your Windows user accounts using built-in tools, practical tips, and easy-to-follow steps that are perfect for beginners.

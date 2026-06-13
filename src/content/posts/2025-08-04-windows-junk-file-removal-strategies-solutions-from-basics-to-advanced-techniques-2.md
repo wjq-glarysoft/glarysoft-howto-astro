@@ -1,8 +1,10 @@
 ---
 title: "Windows Junk File Removal Strategies Solutions: From Basics to Advanced Techniques"
 date: 2025-08-04
+slug: "windows-junk-file-removal-strategies-solutions-from-basics-to-advanced-techniques-2"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Why Are Junk Files a Problem on Windows?

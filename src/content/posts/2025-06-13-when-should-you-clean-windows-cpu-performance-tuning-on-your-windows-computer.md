@@ -1,8 +1,10 @@
 ---
 title: "When Should You Clean Windows CPU Performance Tuning on Your Windows Computer?"
 date: 2025-06-13
+slug: "when-should-you-clean-windows-cpu-performance-tuning-on-your-windows-computer"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Windows CPU performance tuning goes beyond basic PC cleaning—it involves refining system settings and resource distribution to ensure your computer operates at its peak efficiency. For advanced users, knowing when and how to tune CPU performance can make the difference between a sluggish system and a responsive powerhouse.

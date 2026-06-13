@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Secure Windows Browsing Techniques in Windows 11"
 date: 2025-08-18
+slug: "the-complete-guide-to-secure-windows-browsing-techniques-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Browsing the internet on Windows 11 can be safe and private when you take the right precautions. Many beginners use the web daily without realizing that small habits, settings, and tools can make a big difference in protecting personal information. This guide explains simple but effective techniques to ensure secure browsing on Windows 11, with clear steps and examples any beginner can follow.

@@ -1,8 +1,10 @@
 ---
 title: "How to Repair Windows Update Issues: A Step-by-Step Guide"
 date: 2025-04-20
+slug: "how-to-repair-windows-update-issues-a-step-by-step-guide"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Windows Update is a crucial component of your operating system, ensuring that your PC stays secure and up-to-date with the latest features. However, sometimes updates can fail, leaving your system vulnerable or lacking new enhancements. This guide will walk you through several Windows update repair techniques to resolve common issues and ensure your updates run smoothly.

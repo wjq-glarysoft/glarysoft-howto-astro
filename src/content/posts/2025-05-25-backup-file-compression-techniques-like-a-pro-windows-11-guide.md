@@ -1,8 +1,10 @@
 ---
 title: "backup file compression techniques Like a Pro: Windows 11 Guide"
 date: 2025-05-25
+slug: "backup-file-compression-techniques-like-a-pro-windows-11-guide"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Have you ever struggled with running out of storage space or waiting forever for files to upload or transfer? Mastering file compression can save time, reduce storage needs, and make file backups a breeze on Windows 11. This guide breaks down practical, easy-to-follow techniques for effective file compression, tailored for everyday users and those looking to optimize their workflow.

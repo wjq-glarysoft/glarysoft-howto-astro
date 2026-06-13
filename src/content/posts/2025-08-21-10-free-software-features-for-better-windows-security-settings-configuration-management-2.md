@@ -1,8 +1,10 @@
 ---
 title: "10 Free Software Features for Better Windows Security Settings Configuration Management"
 date: 2025-08-21
+slug: "10-free-software-features-for-better-windows-security-settings-configuration-management-2"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Windows security settings often determine how safe your PC remains against malware, online threats, and unauthorized access. Managing these settings effectively can feel overwhelming, but using the right free software features simplifies the process. Below are ten powerful features, with clear explanations of how they help strengthen security. Each section provides beginner-friendly steps and advanced configurations for experienced users.

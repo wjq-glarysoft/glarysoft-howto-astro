@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows Task Scheduling Techniques Management in Windows"
 date: 2025-08-06
+slug: "alls-guide-to-windows-task-scheduling-techniques-management-in-windows-5"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Understanding Task Scheduling in Windows

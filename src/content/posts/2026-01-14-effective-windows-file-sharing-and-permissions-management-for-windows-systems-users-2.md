@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows File Sharing and Permissions Management for Windows Systems Users"
 date: 2026-01-14
+slug: "effective-windows-file-sharing-and-permissions-management-for-windows-systems-users-2"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 Managing file sharing and permissions in Windows is a critical skill for both home and business users. Whether you are setting up a shared folder for your family or managing access control across a corporate network, understanding how to properly configure file sharing and permissions ensures data security and smooth collaboration.

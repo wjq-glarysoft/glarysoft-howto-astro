@@ -1,8 +1,10 @@
 ---
 title: "Fixing Windows Startup Issues: Best Practices for Clean Up & Repair"
 date: 2025-04-21
+slug: "fixing-windows-startup-issues-best-practices-for-clean-up-repair"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Windows startup issues can be frustrating, causing delays and sometimes preventing you from using your computer altogether. Fortunately, there are several effective methods for diagnosing and resolving these problems. In this article, we will explore best practices for fixing Windows startup issues, focusing on practical and actionable advice.

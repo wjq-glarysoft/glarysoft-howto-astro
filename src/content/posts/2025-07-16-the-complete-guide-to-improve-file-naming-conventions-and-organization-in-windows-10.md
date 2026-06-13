@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Improve File Naming Conventions and Organization in Windows 10"
 date: 2025-07-16
+slug: "the-complete-guide-to-improve-file-naming-conventions-and-organization-in-windows-10"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Introduction

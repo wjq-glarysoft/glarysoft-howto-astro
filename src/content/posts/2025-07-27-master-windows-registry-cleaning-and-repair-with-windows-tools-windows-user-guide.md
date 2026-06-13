@@ -1,8 +1,10 @@
 ---
 title: "Master Windows registry cleaning and repair with Windows Tools: Windows User Guide"
 date: 2025-07-27
+slug: "master-windows-registry-cleaning-and-repair-with-windows-tools-windows-user-guide"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 The Windows registry is a critical component of your operating system. It stores configuration settings and options for both Windows and installed applications. Over time, the registry can accumulate obsolete, corrupted, or duplicate entries that may slow down your PC, cause errors, or even lead to system instability. Knowing how to safely clean and repair your registry using the right tools and techniques can help maintain your computer’s performance and reliability.

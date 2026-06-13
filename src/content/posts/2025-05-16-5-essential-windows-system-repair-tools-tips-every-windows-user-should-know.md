@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows System Repair Tools Tips Every Windows User Should Know"
 date: 2025-05-16
+slug: "5-essential-windows-system-repair-tools-tips-every-windows-user-should-know"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Windows operating systems, like any other, require regular maintenance to keep them running smoothly. Whether you're a beginner or a seasoned tech enthusiast, understanding how to repair and optimize your system can save you from future headaches. Here are five essential tips on system repair tools that every Windows user should know, with practical advice for both beginners and advanced users.

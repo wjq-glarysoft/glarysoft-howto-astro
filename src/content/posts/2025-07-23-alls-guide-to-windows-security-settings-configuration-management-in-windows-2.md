@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows Security Settings Configuration Management in Windows"
 date: 2025-07-23
+slug: "alls-guide-to-windows-security-settings-configuration-management-in-windows-2"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Understanding and managing Windows security settings is essential for protecting your computer, personal data, and online privacy. As an intermediate Windows user, you should go beyond the basics to ensure your system is safe from threats while maintaining usability. This guide walks you through practical steps to configure and manage Windows security settings effectively, with real-world tips and tools you can use daily.

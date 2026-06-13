@@ -1,8 +1,10 @@
 ---
 title: "configure file synchronization across devices Like a Pro: Windows 10 Guide"
 date: 2025-08-02
+slug: "configure-file-synchronization-across-devices-like-a-pro-windows-10-guide"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Why Synchronize Files Across Devices?

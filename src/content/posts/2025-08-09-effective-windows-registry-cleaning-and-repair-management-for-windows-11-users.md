@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Registry Cleaning and Repair Management for Windows 11 Users"
 date: 2025-08-09
+slug: "effective-windows-registry-cleaning-and-repair-management-for-windows-11-users"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Why Is Advanced Registry Management Important in Windows 11?

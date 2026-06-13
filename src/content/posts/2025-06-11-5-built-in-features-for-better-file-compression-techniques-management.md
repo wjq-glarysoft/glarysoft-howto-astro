@@ -1,8 +1,10 @@
 ---
 title: "5 Built-in Features for Better File Compression Techniques Management"
 date: 2025-06-11
+slug: "5-built-in-features-for-better-file-compression-techniques-management"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 File compression is a crucial skill for Windows users who want to manage storage, transfer large files, or backup important data efficiently. While many rely on third-party tools, Windows itself provides several built-in features that can streamline and optimize file compression tasks. Here’s an expert guide for intermediate users looking to leverage these capabilities for better files and folders management.

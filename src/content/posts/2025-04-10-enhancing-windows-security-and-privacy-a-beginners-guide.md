@@ -1,8 +1,10 @@
 ---
 title: "Enhancing Windows Security and Privacy: A Beginner's Guide"
 date: 2025-04-10
+slug: "enhancing-windows-security-and-privacy-a-beginners-guide"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 As technology advances, the need for robust security and privacy measures becomes increasingly crucial. Windows users, particularly beginners, might feel overwhelmed by the variety of options available to secure their systems. This guide aims to provide practical, actionable advice on enhancing your Windows security and privacy, while introducing tools like Glary Utilities to simplify the process.

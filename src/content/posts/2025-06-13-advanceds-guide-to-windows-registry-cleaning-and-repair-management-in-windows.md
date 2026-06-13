@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Registry Cleaning and Repair Management in Windows"
 date: 2025-06-13
+slug: "advanceds-guide-to-windows-registry-cleaning-and-repair-management-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 What Is the Windows Registry and Why Does It Matter?

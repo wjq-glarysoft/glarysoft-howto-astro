@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Visual Effects for Enhanced Performance: A Beginner's Guide"
 date: 2025-04-16
+slug: "optimizing-windows-visual-effects-for-enhanced-performance-a-beginners-guide"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Windows operating systems come equipped with a plethora of visual effects designed to enhance the user experience. These effects include animations, shadows, and other visual enhancements that make the interface more aesthetically pleasing. However, these visual effects can consume system resources and affect performance, particularly on older PCs or systems with limited resources. This guide will walk you through the process of optimizing these visual effects to improve your PC's performance.

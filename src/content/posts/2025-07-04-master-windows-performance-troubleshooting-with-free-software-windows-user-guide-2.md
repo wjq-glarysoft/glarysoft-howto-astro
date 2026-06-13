@@ -1,8 +1,10 @@
 ---
 title: "Master Windows performance troubleshooting with Free Software: Windows User Guide"
 date: 2025-07-04
+slug: "master-windows-performance-troubleshooting-with-free-software-windows-user-guide-2"
 categories: 
   - "clean-up-repair"
+author: "Skher"
 ---
 
 Are you noticing your Windows PC running slower than usual? Does your computer take ages to start up or open programs? For many beginners, figuring out what's wrong can seem overwhelming. Fortunately, there are free and easy-to-use tools that can help you clean up and repair your Windows system for better performance. In this guide, you’ll learn how to troubleshoot common performance problems step by step, with real-world examples and practical advice.

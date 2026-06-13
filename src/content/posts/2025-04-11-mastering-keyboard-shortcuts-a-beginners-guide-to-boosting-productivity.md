@@ -1,8 +1,10 @@
 ---
 title: "Mastering Keyboard Shortcuts: A Beginner's Guide to Boosting Productivity"
 date: 2025-04-11
+slug: "mastering-keyboard-shortcuts-a-beginners-guide-to-boosting-productivity"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 For beginners looking to improve their efficiency on Windows, mastering keyboard shortcuts can be a game-changer. These shortcuts allow you to perform tasks quickly without relying on a mouse, streamlining your workflow and saving time. This guide will introduce you to some essential keyboard shortcuts and productivity tips to enhance your computing experience.

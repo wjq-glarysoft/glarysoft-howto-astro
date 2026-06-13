@@ -1,8 +1,10 @@
 ---
 title: "Folder Structure Optimization: A Beginner's Guide for Windows Users"
 date: 2025-04-19
+slug: "folder-structure-optimization-a-beginners-guide-for-windows-users"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Creating and maintaining an efficient folder structure is essential for optimal file management on a Windows PC. A well-organized system can enhance productivity, reduce the time spent searching for files, and minimize the risk of losing important documents. This guide will walk you through practical steps to optimize your folder structure, making your digital life more manageable.

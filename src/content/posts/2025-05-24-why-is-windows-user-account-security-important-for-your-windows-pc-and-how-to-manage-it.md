@@ -1,8 +1,10 @@
 ---
 title: "Why is Windows User Account Security Important for Your Windows PC and How to Manage It?"
 date: 2025-05-24
+slug: "why-is-windows-user-account-security-important-for-your-windows-pc-and-how-to-manage-it"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Windows user account security is a crucial aspect of protecting your data, maintaining privacy, and preventing unauthorized access to your PC. For intermediate users who have moved beyond basic familiarity with Windows, understanding user account security helps safeguard not just personal files, but also system integrity and online identity.

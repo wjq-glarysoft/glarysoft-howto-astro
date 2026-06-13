@@ -1,8 +1,10 @@
 ---
 title: "Time-Saving Tips for Essential Windows Maintenance Tasks"
 date: 2025-04-13
+slug: "time-saving-tips-for-essential-windows-maintenance-tasks"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Maintaining your Windows PC in optimal condition doesn't have to be a time-consuming chore. With the right approach and tools, you can keep your system running smoothly without investing hours every week. Here are some essential Windows maintenance tasks, along with practical, time-saving tips to help streamline your routine.

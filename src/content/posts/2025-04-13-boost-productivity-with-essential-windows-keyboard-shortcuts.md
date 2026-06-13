@@ -1,8 +1,10 @@
 ---
 title: "Boost Productivity with Essential Windows Keyboard Shortcuts"
 date: 2025-04-13
+slug: "boost-productivity-with-essential-windows-keyboard-shortcuts"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 If you're looking to increase your efficiency and productivity on a Windows PC, mastering keyboard shortcuts is a great place to start. Keyboard shortcuts allow you to perform tasks quickly without relying on your mouse, which can significantly speed up your workflow. Here's a step-by-step guide to some of the most essential Windows keyboard shortcuts, along with practical examples of how they can be used.

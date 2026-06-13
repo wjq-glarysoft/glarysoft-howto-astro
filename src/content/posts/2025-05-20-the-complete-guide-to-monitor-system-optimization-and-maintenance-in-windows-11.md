@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Monitor System Optimization and Maintenance in Windows 11"
 date: 2025-05-20
+slug: "the-complete-guide-to-monitor-system-optimization-and-maintenance-in-windows-11"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Windows 11 offers a sleek interface and numerous features, but like any operating system, it requires regular optimization and maintenance to perform at its best. However, even seasoned users can make common mistakes that can lead to sluggish performance or other issues. This guide covers essential tips and pitfalls to avoid to ensure your Windows 11 system runs smoothly.

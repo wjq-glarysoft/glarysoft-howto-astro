@@ -1,8 +1,10 @@
 ---
 title: "Advanced File Compression Techniques for Windows Users"
 date: 2025-04-17
+slug: "advanced-file-compression-techniques-for-windows-users"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 File compression is a crucial aspect of managing files and folders efficiently on Windows systems. It reduces storage space and enhances file transfer speeds. While most users are familiar with basic compression techniques, such as using ZIP files, advanced users can benefit from more sophisticated methods to further optimize their storage and workflow.

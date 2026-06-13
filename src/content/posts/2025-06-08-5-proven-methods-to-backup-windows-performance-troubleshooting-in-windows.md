@@ -1,8 +1,10 @@
 ---
 title: "5 Proven Methods to Backup Windows Performance Troubleshooting in Windows"
 date: 2025-06-08
+slug: "5-proven-methods-to-backup-windows-performance-troubleshooting-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Finn"
 ---
 
 Windows computers can start to slow down, crash, or behave unexpectedly for a variety of reasons. Before diving into troubleshooting and system optimization, it’s important to back up your data and settings. This ensures that you can easily restore your system to its previous state if any issues occur during the repair process. In this article, you’ll discover five practical methods to back up your Windows system before addressing performance problems. Each method includes easy-to-follow steps for beginners, with additional tips for advanced users.

@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Security and Privacy Protection Management in Windows"
 date: 2025-07-26
+slug: "advanceds-guide-to-security-and-privacy-protection-management-in-windows-3"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Windows PCs come packed with tools and options to help you protect your security and privacy, but knowing where to start—and how to go beyond the basics—can be tricky. Whether you're a beginner looking for simple steps or an advanced user ready to tweak system policies, this guide will walk you through practical, real-world methods to safeguard your Windows environment.

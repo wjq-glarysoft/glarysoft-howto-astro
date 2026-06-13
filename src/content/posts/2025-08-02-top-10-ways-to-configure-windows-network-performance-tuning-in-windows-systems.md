@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Configure Windows Network Performance Tuning in Windows Systems"
 date: 2025-08-02
+slug: "top-10-ways-to-configure-windows-network-performance-tuning-in-windows-systems"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Optimizing network performance on Windows systems can dramatically boost productivity, reduce lag, and enhance the overall user experience, whether you’re streaming, gaming, or managing business operations. This article explores ten actionable ways to fine-tune your Windows network for maximum efficiency, with tips for both beginners and advanced users.

@@ -1,8 +1,10 @@
 ---
 title: "15 Built-in Features for Better File Search and Indexing Management"
 date: 2025-06-06
+slug: "15-built-in-features-for-better-file-search-and-indexing-management"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 If you’ve ever struggled to find an important document or wondered why searching for files on your Windows PC feels slow, you’re not alone. Windows offers a range of built-in features for file search and indexing that can make file management much easier—if you know how to use them. In this article, we’ll break down 15 features and practical steps you can take to improve your file search and indexing, even if you’re a beginner.

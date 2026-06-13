@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Security and Privacy Protection in Windows?"
 date: 2025-05-06
+slug: "are-you-making-these-common-mistakes-with-security-and-privacy-protection-in-windows"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 When it comes to security and privacy protection in Windows, many users, especially beginners, may unknowingly make mistakes that leave their systems vulnerable. Understanding these common pitfalls and how to overcome them is crucial for maintaining a secure environment. Below are some of the frequent mistakes and how you can avoid them with practical steps.

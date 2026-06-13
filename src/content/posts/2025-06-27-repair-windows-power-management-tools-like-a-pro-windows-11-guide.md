@@ -1,8 +1,10 @@
 ---
 title: "repair Windows power management tools Like a Pro: Windows 11 Guide"
 date: 2025-06-27
+slug: "repair-windows-power-management-tools-like-a-pro-windows-11-guide"
 categories: 
   - "system-tools"
+author: "Skher"
 ---
 
 Are you struggling with your Windows 11 laptop not staying asleep, draining battery too quickly, or refusing to turn off the screen? Power management issues can be frustrating, but with the right guidance, you can repair Windows power management tools like a pro—even if you’re a beginner. This guide will walk you through the essential steps and highlight how system tools like Glary Utilities can make the process smoother.

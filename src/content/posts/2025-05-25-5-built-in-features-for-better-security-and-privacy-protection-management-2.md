@@ -1,8 +1,10 @@
 ---
 title: "5 Built-in Features for Better Security and Privacy Protection Management"
 date: 2025-05-25
+slug: "5-built-in-features-for-better-security-and-privacy-protection-management-2"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows operating systems come packed with powerful built-in features designed to help you maintain security and privacy. Understanding and properly configuring these features is essential to protect your data and your PC from threats. This article provides a step-by-step tutorial for five essential Windows security and privacy features, broken down for both beginners and advanced users.

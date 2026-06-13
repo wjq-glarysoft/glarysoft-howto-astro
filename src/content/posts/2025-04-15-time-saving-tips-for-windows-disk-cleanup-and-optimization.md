@@ -1,8 +1,10 @@
 ---
 title: "Time-Saving Tips for Windows Disk Cleanup and Optimization"
 date: 2025-04-15
+slug: "time-saving-tips-for-windows-disk-cleanup-and-optimization"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Keeping your Windows PC running smoothly is key to maintaining productivity and enjoying a hassle-free computing experience. Disk cleanup and optimization are essential parts of system maintenance, yet they can be time-consuming if not approached efficiently. This article will provide practical, time-saving tips for cleaning up and optimizing your Windows system.

@@ -1,8 +1,10 @@
 ---
 title: "Essential Tips and Tricks for Mastering Your Windows Computer"
 date: 2025-04-10
+slug: "essential-tips-and-tricks-for-mastering-your-windows-computer"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 Windows computers, known for their versatility and user-friendly interface, offer a plethora of features designed to enhance productivity and streamline tasks. Whether you're a novice or a seasoned user, there are always new tips and tricks to learn that can help you get the most out of your Windows PC. Here are some essential tips to enhance your Windows experience.

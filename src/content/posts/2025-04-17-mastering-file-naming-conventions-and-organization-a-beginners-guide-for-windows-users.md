@@ -1,8 +1,10 @@
 ---
 title: "Mastering File Naming Conventions and Organization: A Beginner's Guide for Windows Users"
 date: 2025-04-17
+slug: "mastering-file-naming-conventions-and-organization-a-beginners-guide-for-windows-users"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 For many Windows users, the desktop and various folders can quickly become cluttered with a labyrinth of files, making it difficult to locate important documents when needed. A clean and organized file system not only helps improve productivity but also reduces stress. This guide will introduce you to effective file naming conventions and organization techniques, offering practical, actionable advice to transform your digital workspace.

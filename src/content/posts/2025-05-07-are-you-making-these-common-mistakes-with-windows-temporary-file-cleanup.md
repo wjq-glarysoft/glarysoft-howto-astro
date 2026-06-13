@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Windows Temporary File Cleanup?"
 date: 2025-05-07
+slug: "are-you-making-these-common-mistakes-with-windows-temporary-file-cleanup"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Temporary files can accumulate over time and take up significant space on your Windows computer, potentially slowing down your system. As a beginner, it's crucial to learn how to clean up these files effectively. Many users make common mistakes when attempting to clean up temporary files. This guide will help you avoid these pitfalls by providing practical advice and easy-to-follow instructions.

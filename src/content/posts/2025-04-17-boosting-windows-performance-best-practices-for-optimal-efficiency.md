@@ -1,8 +1,10 @@
 ---
 title: "Boosting Windows Performance: Best Practices for Optimal Efficiency"
 date: 2025-04-17
+slug: "boosting-windows-performance-best-practices-for-optimal-efficiency"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Keeping your Windows system running smoothly and efficiently can greatly enhance your productivity and user experience. Here are some best practices to optimize and improve your Windows performance, complete with practical examples and step-by-step guidance.

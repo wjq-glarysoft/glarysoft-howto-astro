@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 Performance Optimization Made Easy"
 date: 2025-06-28
+slug: "windows-10-performance-optimization-made-easy"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Optimizing the performance of your Windows 10 PC is not just about making it faster—it’s also about improving its reliability, responsiveness, and lifespan. As a Windows system expert, I’ve compiled proven, professional insights to help both beginners and advanced users get the most from their machines. Read on for step-by-step tips and real-world examples to keep your Windows 10 PC running at its best.

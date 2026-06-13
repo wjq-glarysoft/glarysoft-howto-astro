@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows Firewall Setup and Management Tips Every Windows User Should Know"
 date: 2025-05-28
+slug: "5-essential-windows-firewall-setup-and-management-tips-every-windows-user-should-know"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Setting up and managing the Windows Firewall is one of the simplest ways to improve your PC’s privacy and security. For beginners, the process can seem daunting at first, but with the right guidance and a few time-saving tips, you can make sure your computer is well-protected without spending hours in the settings. Here are five essential tips every Windows user should know to get the most out of Windows Firewall.

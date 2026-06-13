@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows Security and Privacy Enhancements Management in Windows"
 date: 2025-05-31
+slug: "alls-guide-to-windows-security-and-privacy-enhancements-management-in-windows"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Windows PCs are powerful and versatile, but their popularity also makes them common targets for security threats and privacy intrusions. As a beginner, you might feel overwhelmed by terms like "firewall," "antivirus," or "data tracking." The good news is that you can take simple steps to greatly improve your privacy and security on Windows. This guide will walk you through practical changes you can make today, using real-world examples and easy instructions.

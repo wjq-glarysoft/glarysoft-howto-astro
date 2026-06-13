@@ -1,8 +1,10 @@
 ---
 title: "The 7 Most Effective Windows Privacy Enhancement Strategies for Windows 10 & 11"
 date: 2025-04-25
+slug: "the-7-most-effective-windows-privacy-enhancement-strategies-for-windows-10-11"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 In today's digital age, safeguarding your privacy on your Windows 10 or 11 computer is more important than ever. As a beginner, you might find the settings overwhelming, but don't worry. This guide will take you through seven effective strategies to enhance your privacy step-by-step.

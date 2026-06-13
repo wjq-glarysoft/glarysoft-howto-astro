@@ -1,8 +1,10 @@
 ---
 title: "Master Windows secure browsing techniques with Built-in Features: Windows User Guide"
 date: 2025-05-15
+slug: "master-windows-secure-browsing-techniques-with-built-in-features-windows-user-guide-2"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 In today’s digital age, secure browsing is more crucial than ever. Windows offers several built-in features designed to enhance your online privacy and security. This guide will explore these features, providing practical and actionable advice for both beginners and advanced users.

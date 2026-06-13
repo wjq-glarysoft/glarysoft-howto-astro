@@ -1,8 +1,10 @@
 ---
 title: "Glary Utilities Makes Windows File Sharing and Permissions Management Simple in Windows"
 date: 2025-05-27
+slug: "glary-utilities-makes-windows-file-sharing-and-permissions-management-simple-in-windows"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Windows file sharing is an essential feature for home and office networks, allowing users to exchange documents, photos, and other files between computers. However, the process can quickly become confusing, especially when dealing with folder permissions and access rights. Glary Utilities, a powerful optimization tool, streamlines these tasks, making file sharing and permissions management straightforward—even for beginners.

@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Startup: A Beginner's Guide"
 date: 2025-04-16
+slug: "optimizing-windows-startup-a-beginners-guide-2"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Starting up your Windows computer shouldn't feel like waiting for paint to dry. A slow startup can often be attributed to unnecessary programs and services launching when your system boots. Optimizing your startup process not only saves time but also enhances the overall performance of your PC. This guide will walk you through beginner-friendly methods to streamline your Windows startup.

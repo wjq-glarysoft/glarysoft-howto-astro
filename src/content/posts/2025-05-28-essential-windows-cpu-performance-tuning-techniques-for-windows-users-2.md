@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows CPU Performance Tuning Techniques for Windows Users"
 date: 2025-05-28
+slug: "essential-windows-cpu-performance-tuning-techniques-for-windows-users-2"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 Introduction

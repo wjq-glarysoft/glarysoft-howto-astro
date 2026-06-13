@@ -1,8 +1,10 @@
 ---
 title: "backup file management and organization Like a Pro: Windows 10 Guide"
 date: 2025-06-16
+slug: "backup-file-management-and-organization-like-a-pro-windows-10-guide"
 categories: 
   - "files-folders"
+author: "Finn"
 ---
 
 Why Is File Backup and Organization Important?

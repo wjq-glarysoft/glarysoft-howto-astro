@@ -1,8 +1,10 @@
 ---
 title: "Windows File Sharing and Permissions Solutions: From Basics to Advanced Techniques"
 date: 2025-06-05
+slug: "windows-file-sharing-and-permissions-solutions-from-basics-to-advanced-techniques-2"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 File sharing in Windows is essential for collaborating within home and office networks. However, it’s not just about making folders available to others; it’s about doing so securely, efficiently, and with proper control over who can access or modify your files. This article covers the essentials and advanced techniques in Windows file sharing and permissions, focusing on best practices for intermediate users.

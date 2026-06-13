@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Monitor File Naming Conventions and Organization in Windows?"
 date: 2025-05-27
+slug: "whats-the-best-way-to-monitor-file-naming-conventions-and-organization-in-windows"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Why Are File Naming Conventions Vital for Advanced Windows Users?

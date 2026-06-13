@@ -1,8 +1,10 @@
 ---
 title: "5 Essential Windows File Explorer Tips Every Windows User Should Know"
 date: 2025-04-27
+slug: "5-essential-windows-file-explorer-tips-every-windows-user-should-know"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Navigating through the Windows File Explorer efficiently can significantly enhance your productivity whether you are a beginner or an advanced user. Here are five essential tips and tricks that every Windows user should know to manage files and folders effectively.

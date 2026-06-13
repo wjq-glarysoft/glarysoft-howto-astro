@@ -1,8 +1,10 @@
 ---
 title: "Time-Saving Tips for Enhancing Security and Privacy on Windows"
 date: 2025-04-19
+slug: "time-saving-tips-for-enhancing-security-and-privacy-on-windows-2"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 In today's digital age, maintaining privacy and security on your Windows PC is paramount. While enhancing these aspects might seem time-consuming, there are several efficient strategies you can employ to safeguard your system without sacrificing your schedule. Here are some practical, actionable tips to bolster your Windows security and privacy.

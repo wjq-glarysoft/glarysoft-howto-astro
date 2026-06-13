@@ -1,8 +1,10 @@
 ---
 title: "Understanding Windows Data Encryption Methods: A Beginner's Guide"
 date: 2025-04-18
+slug: "understanding-windows-data-encryption-methods-a-beginners-guide"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 In today's digital age, protecting your data from unauthorized access is of utmost importance. Windows offers various encryption methods that cater to different levels of security needs. This guide will walk you through several encryption options available on Windows, providing practical advice and real-world examples to enhance your privacy and security.

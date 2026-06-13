@@ -1,8 +1,10 @@
 ---
 title: "Windows Systems Windows system optimization with Glary Utilities Optimization Made Easy"
 date: 2025-05-30
+slug: "windows-systems-windows-system-optimization-with-glary-utilities-optimization-made-easy"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 Why Should You Optimize Your Windows System?

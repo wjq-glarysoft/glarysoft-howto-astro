@@ -1,8 +1,10 @@
 ---
 title: "Are You Making These Common Mistakes with Security and Privacy Protection in Windows?"
 date: 2025-07-21
+slug: "are-you-making-these-common-mistakes-with-security-and-privacy-protection-in-windows-7"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Windows is a powerful and flexible operating system, but its widespread use also makes it a target for privacy breaches and security risks. Even experienced users often overlook simple mistakes that can leave systems vulnerable. If you’re an intermediate Windows user, it’s essential to move beyond the basics and adopt advanced habits to strengthen your privacy and security. Let’s explore the common pitfalls and look at practical steps you can take to protect your data and your PC.

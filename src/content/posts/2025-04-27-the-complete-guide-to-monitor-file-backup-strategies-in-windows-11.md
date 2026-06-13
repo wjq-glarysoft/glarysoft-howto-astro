@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Monitor File Backup Strategies in Windows 11"
 date: 2025-04-27
+slug: "the-complete-guide-to-monitor-file-backup-strategies-in-windows-11"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 In today's digital age, safeguarding your files and folders on Windows 11 is paramount. With the risk of hardware failure, accidental deletion, or cyber threats, having a robust file backup strategy ensures your data's security. This guide presents professional insights into effective file backup strategies tailored for Windows 11 users of all levels.

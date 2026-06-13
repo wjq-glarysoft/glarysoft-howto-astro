@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Maintain Windows Security and Privacy Enhancements in Windows 11"
 date: 2025-06-18
+slug: "the-complete-guide-to-maintain-windows-security-and-privacy-enhancements-in-windows-11"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Windows 11 brings a wealth of security and privacy improvements, but taking full advantage of them requires proactive management and avoiding common mistakes. Many users unintentionally leave their systems vulnerable or compromise their privacy by overlooking best practices. This guide will help you navigate Windows 11’s security and privacy features, highlighting common pitfalls and offering step-by-step solutions for both beginners and advanced users.

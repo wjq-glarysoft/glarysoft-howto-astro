@@ -1,8 +1,10 @@
 ---
 title: "When Should You Secure Windows Security Settings Configuration on Your Windows Computer?"
 date: 2025-07-04
+slug: "when-should-you-secure-windows-security-settings-configuration-on-your-windows-computer"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Securing your Windows computer is not a one-time task—it’s an ongoing process that needs attention at critical moments. Whether you're setting up a new device, installing major updates, or noticing suspicious activity, configuring Windows security settings is essential to protect your privacy and data. In this article, you’ll discover when and how to secure your system, with step-by-step instructions tailored for both beginners and advanced users. Let’s dive in.

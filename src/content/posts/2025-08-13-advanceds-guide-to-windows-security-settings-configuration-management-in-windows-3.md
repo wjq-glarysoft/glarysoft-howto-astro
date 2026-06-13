@@ -1,8 +1,10 @@
 ---
 title: "Advanced's Guide to Windows Security Settings Configuration Management in Windows"
 date: 2025-08-13
+slug: "advanceds-guide-to-windows-security-settings-configuration-management-in-windows-3"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Windows security is a critical aspect of maintaining your PC’s privacy and integrity. The built-in security settings in Windows are powerful, but knowing how to configure them properly can make all the difference. This guide provides a thorough exploration of Windows security configuration, with actionable recommendations for both beginners and advanced users, ensuring your system remains locked down against modern threats.

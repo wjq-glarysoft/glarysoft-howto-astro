@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Clean Windows Temporary File Cleanup in Windows?"
 date: 2025-06-23
+slug: "whats-the-best-way-to-clean-windows-temporary-file-cleanup-in-windows"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Temporary files are created by Windows and various programs to help processes run smoothly. Over time, these files can accumulate and take up valuable disk space, potentially slowing down your PC. Cleaning up temporary files regularly is an essential part of Windows maintenance. This guide will walk you through the best ways to clean Windows temporary files, with clear instructions for both beginners and more advanced users.

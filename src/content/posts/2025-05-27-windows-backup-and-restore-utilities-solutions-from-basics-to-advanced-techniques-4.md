@@ -1,8 +1,10 @@
 ---
 title: "Windows Backup and Restore Utilities Solutions: From Basics to Advanced Techniques"
 date: 2025-05-27
+slug: "windows-backup-and-restore-utilities-solutions-from-basics-to-advanced-techniques-4"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Why Is Backup and Restore Essential for Windows Users?

@@ -1,8 +1,10 @@
 ---
 title: "When Should You Backup Windows Data Encryption Methods on Your Windows Computer?"
 date: 2025-04-23
+slug: "when-should-you-backup-windows-data-encryption-methods-on-your-windows-computer"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Data encryption is a crucial aspect of maintaining privacy and security on your Windows computer. It is important to understand when and why you should back up your encryption methods to ensure your data remains secure and accessible.

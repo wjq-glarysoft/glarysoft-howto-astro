@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Secure Windows Security Settings Configuration in Windows 10"
 date: 2025-06-26
+slug: "top-10-ways-to-secure-windows-security-settings-configuration-in-windows-10"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Windows 10 offers many built-in tools and settings to help keep your computer safe from online threats and privacy risks. If you’re a beginner, navigating these options can feel overwhelming. This step-by-step guide will walk you through the top 10 ways to secure your Windows 10 security settings. Each step includes practical advice and real-world examples so you can confidently protect your personal information.

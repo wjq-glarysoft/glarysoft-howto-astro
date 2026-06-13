@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Windows File Sharing and Permissions Management in Windows"
 date: 2025-06-05
+slug: "beginners-guide-to-windows-file-sharing-and-permissions-management-in-windows"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Sharing files and folders in Windows is a practical way to collaborate, back up data, and make your workflow more efficient. However, if not set up correctly, it can become a hassle, leading to wasted time or even security risks. This guide will walk you through the essentials of Windows file sharing and permissions management, highlighting time-saving tips and real-world examples to help you handle files and folders with confidence.

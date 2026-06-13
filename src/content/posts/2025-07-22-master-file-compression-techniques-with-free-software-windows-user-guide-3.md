@@ -1,8 +1,10 @@
 ---
 title: "Master file compression techniques with Free Software: Windows User Guide"
 date: 2025-07-22
+slug: "master-file-compression-techniques-with-free-software-windows-user-guide-3"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Why Is File Compression Important for Windows Users?

@@ -1,8 +1,10 @@
 ---
 title: "manage Windows file explorer tips and tricks Like a Pro: Windows Systems Guide"
 date: 2025-08-06
+slug: "manage-windows-file-explorer-tips-and-tricks-like-a-pro-windows-systems-guide"
 categories: 
   - "files-folders"
+author: "Skher"
 ---
 
 Windows File Explorer is the backbone of how we interact with files and folders. Whether you’re a beginner looking to avoid common pitfalls or an advanced user hoping to unlock hidden efficiencies, mastering File Explorer can save time, prevent data loss, and improve your overall experience. This guide highlights common mistakes and provides actionable advice to help you use Windows File Explorer like a pro.

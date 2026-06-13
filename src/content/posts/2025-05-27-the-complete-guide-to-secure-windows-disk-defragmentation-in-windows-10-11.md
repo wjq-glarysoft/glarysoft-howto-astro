@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Secure Windows Disk Defragmentation in Windows 10 & 11"
 date: 2025-05-27
+slug: "the-complete-guide-to-secure-windows-disk-defragmentation-in-windows-10-11"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 What Is Disk Defragmentation and Why Is It Necessary?

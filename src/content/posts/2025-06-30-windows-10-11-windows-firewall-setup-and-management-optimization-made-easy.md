@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 Windows Firewall Setup and Management Optimization Made Easy"
 date: 2025-06-30
+slug: "windows-10-11-windows-firewall-setup-and-management-optimization-made-easy"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 Windows 10 and 11 come equipped with a built-in firewall—an essential barrier that protects your computer from unauthorized access and malicious software. But while the Windows Firewall is robust, setting it up and managing it efficiently can save you time and keep your data secure. This article covers easy, actionable steps for users of all levels, with time-saving tips, practical examples, and recommendations for enhancing privacy and security.

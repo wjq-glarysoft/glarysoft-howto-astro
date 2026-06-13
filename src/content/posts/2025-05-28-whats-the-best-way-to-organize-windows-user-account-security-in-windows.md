@@ -1,8 +1,10 @@
 ---
 title: "What's the Best Way to Organize Windows User Account Security in Windows?"
 date: 2025-05-28
+slug: "whats-the-best-way-to-organize-windows-user-account-security-in-windows"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 Organizing and securing user accounts in Windows is foundational for ensuring privacy and protecting sensitive data. For advanced users, this means going beyond default setups and implementing layered, policy-driven security controls. This guide covers the best practices and actionable steps to structure robust user account security, with a focus on practical configurations and useful tools.

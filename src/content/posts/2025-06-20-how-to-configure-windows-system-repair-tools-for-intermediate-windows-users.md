@@ -1,8 +1,10 @@
 ---
 title: "How to Configure Windows System Repair Tools for Intermediate Windows Users"
 date: 2025-06-20
+slug: "how-to-configure-windows-system-repair-tools-for-intermediate-windows-users"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Windows is a robust operating system, but even so, issues like slow performance, corrupted files, and unexpected errors can arise. Properly configuring system repair tools is key to keeping your computer healthy and running smoothly. This article offers professional insights and actionable steps tailored to intermediate Windows users, with extra notes for both beginners and advanced users. We’ll explore built-in Windows solutions and recommend Glary Utilities as a powerful third-party option for comprehensive clean up and repair.

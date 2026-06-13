@@ -1,8 +1,10 @@
 ---
 title: "Time-Saving Windows Maintenance Tasks and Tools"
 date: 2025-04-21
+slug: "time-saving-windows-maintenance-tasks-and-tools"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Maintaining a Windows PC in top condition can seem daunting with the plethora of tasks and tools at your disposal. However, by focusing on essential maintenance tasks and utilizing time-saving tools, you can ensure your system runs efficiently with minimal effort. This article will guide you through practical, actionable tasks and tools that will save you time while keeping your PC in optimal condition.

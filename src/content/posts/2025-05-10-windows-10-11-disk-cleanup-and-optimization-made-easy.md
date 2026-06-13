@@ -1,8 +1,10 @@
 ---
 title: "Windows 10 & 11 Disk Cleanup and Optimization Made Easy"
 date: 2025-05-10
+slug: "windows-10-11-disk-cleanup-and-optimization-made-easy"
 categories: 
   - "clean-up-repair"
+author: "Nova"
 ---
 
 Keeping your Windows 10 or 11 PC running smoothly requires regular maintenance, including disk cleanup and optimization. This guide will walk you through the essential steps to clean and optimize your system, making it faster and more efficient.

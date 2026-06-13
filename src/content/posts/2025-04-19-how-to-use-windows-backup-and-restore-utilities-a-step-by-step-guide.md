@@ -1,8 +1,10 @@
 ---
 title: "How to Use Windows Backup and Restore Utilities: A Step-by-Step Guide"
 date: 2025-04-19
+slug: "how-to-use-windows-backup-and-restore-utilities-a-step-by-step-guide"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Backing up your data is crucial to safeguarding against data loss due to system failures, accidental deletions, or malicious attacks. Windows offers built-in utilities for backup and restore tasks, which can be pivotal for maintaining your system's integrity. This guide will walk you through setting up and utilizing these tools effectively.

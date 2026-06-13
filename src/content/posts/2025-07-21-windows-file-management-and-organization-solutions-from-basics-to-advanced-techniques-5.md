@@ -1,8 +1,10 @@
 ---
 title: "Windows file management and organization Solutions: From Basics to Advanced Techniques"
 date: 2025-07-21
+slug: "windows-file-management-and-organization-solutions-from-basics-to-advanced-techniques-5"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Why Is Effective File Management Important for Windows Users?

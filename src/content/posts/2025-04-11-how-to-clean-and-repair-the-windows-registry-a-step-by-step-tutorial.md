@@ -1,8 +1,10 @@
 ---
 title: "How to Clean and Repair the Windows Registry: A Step-by-Step Tutorial"
 date: 2025-04-11
+slug: "how-to-clean-and-repair-the-windows-registry-a-step-by-step-tutorial"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 The Windows Registry is a crucial component of your operating system, responsible for storing configuration settings and options. Over time, as you install and uninstall applications, the registry can become cluttered with obsolete entries. These outdated entries can slow down your computer and even cause system errors. In this tutorial, we'll explore how to clean and repair the Windows Registry effectively.

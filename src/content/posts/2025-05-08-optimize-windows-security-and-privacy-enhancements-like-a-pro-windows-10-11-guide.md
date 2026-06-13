@@ -1,8 +1,10 @@
 ---
 title: "optimize Windows security and privacy enhancements Like a Pro: Windows 10 & 11 Guide"
 date: 2025-05-08
+slug: "optimize-windows-security-and-privacy-enhancements-like-a-pro-windows-10-11-guide"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 In today’s digital age, securing your data and enhancing privacy on your Windows device is of utmost importance. Whether you are using Windows 10 or Windows 11, there are numerous strategies to ensure your system is both secure and private. This guide will provide practical, actionable advice to help both beginners and advanced users optimize their Windows security and privacy settings.

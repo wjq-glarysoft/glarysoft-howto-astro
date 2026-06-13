@@ -1,8 +1,10 @@
 ---
 title: "Effective Windows Network Performance Tuning Management for Windows 10 & 11 Users"
 date: 2025-05-10
+slug: "effective-windows-network-performance-tuning-management-for-windows-10-11-users"
 categories: 
   - "optimize-improve"
+author: "Nova"
 ---
 
 As Windows 10 and 11 continue to evolve, so does the complexity of network management. Optimizing network performance can significantly improve your experience, whether it's for gaming, streaming, or work-related tasks. This guide will provide intermediate Windows users with actionable techniques to enhance network performance effectively.

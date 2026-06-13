@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Organize File Synchronization Across Devices in Windows 10 & 11"
 date: 2025-04-22
+slug: "the-complete-guide-to-organize-file-synchronization-across-devices-in-windows-10-11"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Synchronizing files across multiple devices is essential for maintaining productivity and ensuring that you always have access to your most important documents, regardless of the device you use. For Windows 10 and 11 users, there are several ways to achieve seamless file synchronization, and this guide will walk you through practical steps and tools to get it done efficiently.

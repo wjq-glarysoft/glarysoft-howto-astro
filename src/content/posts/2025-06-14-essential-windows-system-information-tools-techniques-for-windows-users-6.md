@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows system information tools Techniques for Windows Users"
 date: 2025-06-14
+slug: "essential-windows-system-information-tools-techniques-for-windows-users-6"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Why Should Advanced Users Rely on System Information Tools?

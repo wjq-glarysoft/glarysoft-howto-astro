@@ -1,8 +1,10 @@
 ---
 title: "The Ultimate Windows Security Settings Configuration Toolkit for Windows Computers"
 date: 2025-05-06
+slug: "the-ultimate-windows-security-settings-configuration-toolkit-for-windows-computers"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 In an era where digital threats are becoming increasingly sophisticated, ensuring your Windows computer is secure is more critical than ever. This article serves as a comprehensive guide to configuring your Windows security settings to bolster both privacy and security, providing practical steps suitable for users of all experience levels.

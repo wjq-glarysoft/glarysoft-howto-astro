@@ -1,8 +1,10 @@
 ---
 title: "maintain Windows system tool customization Like a Pro: Windows 11 Guide"
 date: 2025-05-29
+slug: "maintain-windows-system-tool-customization-like-a-pro-windows-11-guide"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Are you new to Windows 11 and looking to personalize and optimize your computer using built-in system tools? Customizing these tools not only makes your PC more efficient but also easier to use. This step-by-step guide will show you how to maintain and customize Windows system tools, with simple instructions and practical tips that any beginner can follow.

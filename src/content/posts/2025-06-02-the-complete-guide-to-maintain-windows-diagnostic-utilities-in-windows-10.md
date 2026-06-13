@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Maintain Windows Diagnostic Utilities in Windows 10"
 date: 2025-06-02
+slug: "the-complete-guide-to-maintain-windows-diagnostic-utilities-in-windows-10"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Windows 10 comes packed with a range of diagnostic utilities designed to monitor, troubleshoot, and optimize your PC's performance. Learning how to maintain and effectively use these tools ensures your system remains healthy, efficient, and responsive. This guide will walk you through essential built-in diagnostics, practical maintenance routines, and third-party recommendations to keep your system tools running smoothly. Both beginners and advanced users will find valuable tips and step-by-step instructions tailored to their experience level.

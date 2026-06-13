@@ -1,8 +1,10 @@
 ---
 title: "Master file management and organization with Built-in Features: Windows User Guide"
 date: 2025-07-08
+slug: "master-file-management-and-organization-with-built-in-features-windows-user-guide"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Why is advanced file management critical for Windows users?

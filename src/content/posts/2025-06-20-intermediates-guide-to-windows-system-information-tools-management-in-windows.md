@@ -1,8 +1,10 @@
 ---
 title: "Intermediate's Guide to Windows System Information Tools Management in Windows"
 date: 2025-06-20
+slug: "intermediates-guide-to-windows-system-information-tools-management-in-windows"
 categories: 
   - "system-tools"
+author: "Nova"
 ---
 
 Understanding the inner workings of your Windows PC is essential for advanced users aiming to manage, troubleshoot, and optimize their systems. System information tools give you deep insights into hardware, software, and resource usage, enabling proactive maintenance and informed upgrades. This guide explores advanced techniques for managing Windows system information tools, blending built-in utilities, third-party solutions, and automation for efficient workflow.

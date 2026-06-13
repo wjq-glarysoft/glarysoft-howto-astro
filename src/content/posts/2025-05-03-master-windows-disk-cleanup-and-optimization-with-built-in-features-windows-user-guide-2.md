@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Disk Cleanup and Optimization with Built-in Features: Windows User Guide"
 date: 2025-05-03
+slug: "master-windows-disk-cleanup-and-optimization-with-built-in-features-windows-user-guide-2"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Windows computers, like any other operating system, can accumulate unnecessary files and experience performance issues over time. Regular disk cleanup and optimization are essential to maintain your system's efficiency. This guide will walk you through using Windows' built-in features to clean up and optimize your disk, catering to both beginners and advanced users. By the end of this guide, you'll be equipped with practical tools to keep your system running smoothly.

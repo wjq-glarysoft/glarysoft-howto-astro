@@ -1,8 +1,10 @@
 ---
 title: "Top 10 Ways to Configure Windows Temporary File Cleanup in Windows 10"
 date: 2025-06-25
+slug: "top-10-ways-to-configure-windows-temporary-file-cleanup-in-windows-10"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 Temporary files accumulate rapidly on Windows 10 systems—taking up space, slowing down performance, and sometimes causing unexpected behavior in applications. Cleaning them up is critical for optimal system health, but simply running Disk Cleanup isn’t always enough. This guide will walk you through ten advanced methods you can use to configure and automate temporary file cleanup, making your Windows 10 maintenance more effective.

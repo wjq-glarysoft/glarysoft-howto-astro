@@ -1,8 +1,10 @@
 ---
 title: "Beginner's Guide to Security and Privacy Protection on Windows"
 date: 2025-04-14
+slug: "beginners-guide-to-security-and-privacy-protection-on-windows"
 categories: 
   - "optimize-improve"
+author: "Finn"
 ---
 
 In today's digital world, protecting your security and privacy on your Windows PC is essential. With cyber threats evolving, it's crucial to stay informed and adopt practical measures to safeguard your personal information. This beginner's guide will provide actionable advice to enhance your security and privacy on a Windows system.

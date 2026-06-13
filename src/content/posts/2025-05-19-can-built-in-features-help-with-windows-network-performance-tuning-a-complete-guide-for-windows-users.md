@@ -1,8 +1,10 @@
 ---
 title: "Can Built-in Features Help with Windows network performance tuning? A Complete Guide for Windows Users"
 date: 2025-05-19
+slug: "can-built-in-features-help-with-windows-network-performance-tuning-a-complete-guide-for-windows-users"
 categories: 
   - "optimize-improve"
+author: "Skher"
 ---
 
 In the ever-evolving digital world, network performance can make or break your computing experience. Whether you're a beginner looking to optimize your home network or an advanced user seeking every possible speed advantage, Windows offers built-in features that can help improve network performance. This guide will walk you through practical steps to enhance your network efficiency, tailored for both novice and seasoned users.

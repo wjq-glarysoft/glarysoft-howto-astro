@@ -1,8 +1,10 @@
 ---
 title: "Optimizing Windows Performance: Best Practices for Registry Cleaning and Repair"
 date: 2025-04-19
+slug: "optimizing-windows-performance-best-practices-for-registry-cleaning-and-repair"
 categories: 
   - "clean-up-repair"
+author: "Riley"
 ---
 
 The Windows registry is the backbone of your operating system, a vast database that stores configuration settings and options. Over time, as you install and uninstall software, the registry can become cluttered with outdated entries and errors that may slow down your PC and cause instability. This article provides actionable advice on cleaning and repairing the Windows registry to ensure optimal system performance.

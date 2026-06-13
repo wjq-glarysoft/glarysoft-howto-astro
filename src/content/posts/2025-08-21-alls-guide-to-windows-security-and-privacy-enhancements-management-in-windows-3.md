@@ -1,8 +1,10 @@
 ---
 title: "All's Guide to Windows Security and Privacy Enhancements Management in Windows"
 date: 2025-08-21
+slug: "alls-guide-to-windows-security-and-privacy-enhancements-management-in-windows-3"
 categories: 
   - "privacy-security"
+author: "Riley"
 ---
 
 Keeping your Windows PC secure while maintaining your privacy is essential in today’s digital world. Windows offers a wide range of built-in tools and settings that can protect your data and prevent unauthorized access. This guide walks you through practical ways to enhance security and privacy, whether you’re a beginner or an advanced user. Each section is designed with real-world examples and step-by-step instructions.

@@ -1,8 +1,10 @@
 ---
 title: "Master Windows Registry Cleaning and Repair with Built-in Features: Windows User Guide"
 date: 2025-07-16
+slug: "master-windows-registry-cleaning-and-repair-with-built-in-features-windows-user-guide-4"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Why Should You Care About the Windows Registry?

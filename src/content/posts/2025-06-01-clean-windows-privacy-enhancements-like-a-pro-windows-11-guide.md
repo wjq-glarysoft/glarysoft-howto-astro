@@ -1,8 +1,10 @@
 ---
 title: "clean Windows privacy enhancements Like a Pro: Windows 11 Guide"
 date: 2025-06-01
+slug: "clean-windows-privacy-enhancements-like-a-pro-windows-11-guide"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 Are you concerned about your digital privacy on Windows 11? Microsoft’s latest operating system offers many privacy and security options, but some settings need a hands-on approach for true control. This guide explores actionable and advanced techniques for intermediate Windows users who want to enhance privacy without sacrificing system functionality.

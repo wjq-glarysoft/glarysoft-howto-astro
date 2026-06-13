@@ -1,8 +1,10 @@
 ---
 title: "Essential Windows Firewall Setup and Management Techniques for Windows Users"
 date: 2025-04-26
+slug: "essential-windows-firewall-setup-and-management-techniques-for-windows-users"
 categories: 
   - "privacy-security"
+author: "Jarx"
 ---
 
 The Windows Firewall is a fundamental component of your PC's security infrastructure, acting as a barrier against unauthorized access to your system. Understanding how to set it up and manage it effectively can significantly enhance your privacy and security. This article provides practical, actionable advice on configuring and maintaining your Windows Firewall, catering to both beginners and advanced users.

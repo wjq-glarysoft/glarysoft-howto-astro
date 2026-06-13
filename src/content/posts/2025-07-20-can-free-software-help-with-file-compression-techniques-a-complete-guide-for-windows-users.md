@@ -1,8 +1,10 @@
 ---
 title: "Can Free Software Help with File Compression Techniques? A Complete Guide for Windows Users"
 date: 2025-07-20
+slug: "can-free-software-help-with-file-compression-techniques-a-complete-guide-for-windows-users"
 categories: 
   - "files-folders"
+author: "Jarx"
 ---
 
 What Is File Compression and Why Should You Care?

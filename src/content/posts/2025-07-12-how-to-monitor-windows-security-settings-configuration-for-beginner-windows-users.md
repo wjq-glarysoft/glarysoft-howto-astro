@@ -1,8 +1,10 @@
 ---
 title: "How to Monitor Windows Security Settings Configuration for Beginner Windows Users?"
 date: 2025-07-12
+slug: "how-to-monitor-windows-security-settings-configuration-for-beginner-windows-users"
 categories: 
   - "privacy-security"
+author: "Finn"
 ---
 
 If you’re new to Windows or just starting to explore your computer’s privacy and security features, it’s natural to feel overwhelmed by the many settings and options available. However, understanding and monitoring your Windows security configuration is an essential step to protect your personal information and keep your PC running smoothly. This guide will walk you through practical steps and real-world examples to help you confidently monitor and maintain your Windows security settings.

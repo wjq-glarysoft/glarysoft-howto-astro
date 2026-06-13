@@ -1,8 +1,10 @@
 ---
 title: "secure Windows performance troubleshooting Like a Pro: Windows 10 & 11 Guide"
 date: 2025-07-10
+slug: "secure-windows-performance-troubleshooting-like-a-pro-windows-10-11-guide"
 categories: 
   - "clean-up-repair"
+author: "Jarx"
 ---
 
 Is your Windows 10 or 11 system running slower than expected, freezing, or showing frequent errors? Even advanced users sometimes encounter performance hiccups, but with a systematic, pro-level approach, you can quickly identify and fix most issues. This guide dives deep into proven, actionable troubleshooting and clean-up techniques specifically tailored for experienced Windows users aiming for peak performance and robust system health.

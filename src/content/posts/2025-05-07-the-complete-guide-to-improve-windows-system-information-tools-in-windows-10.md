@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to improve Windows system information tools in Windows 10"
 date: 2025-05-07
+slug: "the-complete-guide-to-improve-windows-system-information-tools-in-windows-10"
 categories: 
   - "system-tools"
+author: "Finn"
 ---
 
 Understanding and effectively using Windows system information tools can significantly enhance your experience and performance when managing a Windows 10 PC. This guide will present common mistakes to avoid and provide practical advice for optimizing these tools for both beginner and advanced users.

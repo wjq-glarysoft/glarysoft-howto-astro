@@ -1,8 +1,10 @@
 ---
 title: "12 Built-in Features for Better Windows Network Performance Tuning Management"
 date: 2025-05-11
+slug: "12-built-in-features-for-better-windows-network-performance-tuning-management"
 categories: 
   - "optimize-improve"
+author: "Riley"
 ---
 
 Optimizing network performance is crucial for advanced Windows users who demand the most from their systems. Whether you’re managing a home network or a larger setup, Windows provides several built-in features that can significantly enhance network performance. Here’s how you can harness these features to optimize and improve your network efficiency efficiently.

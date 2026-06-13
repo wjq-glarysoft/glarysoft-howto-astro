@@ -1,8 +1,10 @@
 ---
 title: "A Beginner's Guide to Networking and Connectivity"
 date: 2025-04-10
+slug: "a-beginners-guide-to-networking-and-connectivity"
 categories: 
   - "optimize-improve"
+author: "Jarx"
 ---
 
 In today's digital age, networking and connectivity have become cornerstones for both personal and professional growth. Whether you're setting up a home office, trying to enhance your social circle, or looking to expand your business reach, understanding the basics of networking is crucial. This guide provides practical, actionable advice for beginners eager to navigate the world of networking and connectivity effectively.

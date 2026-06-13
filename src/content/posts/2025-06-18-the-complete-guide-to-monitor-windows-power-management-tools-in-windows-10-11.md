@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Monitor Windows Power Management Tools in Windows 10 & 11"
 date: 2025-06-18
+slug: "the-complete-guide-to-monitor-windows-power-management-tools-in-windows-10-11"
 categories: 
   - "system-tools"
+author: "Riley"
 ---
 
 Introduction

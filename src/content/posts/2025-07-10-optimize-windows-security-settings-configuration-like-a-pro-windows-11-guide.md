@@ -1,8 +1,10 @@
 ---
 title: "optimize Windows security settings configuration Like a Pro: Windows 11 Guide"
 date: 2025-07-10
+slug: "optimize-windows-security-settings-configuration-like-a-pro-windows-11-guide"
 categories: 
   - "privacy-security"
+author: "Nova"
 ---
 
 Getting the most out of Windows 11 means not only enjoying its sleek interface and new features but also ensuring your privacy and security are well-protected. With cyber threats evolving, proper configuration of Windows security settings is essential. Whether you’re a beginner or an experienced user, this guide will walk you step by step through optimizing your security settings in Windows 11, using both built-in tools and trusted third-party solutions like [Glary Utilities](https://www.glarysoft.com).

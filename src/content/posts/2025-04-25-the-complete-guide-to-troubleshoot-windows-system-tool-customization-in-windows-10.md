@@ -1,8 +1,10 @@
 ---
 title: "The Complete Guide to Troubleshoot Windows System Tool Customization in Windows 10"
 date: 2025-04-25
+slug: "the-complete-guide-to-troubleshoot-windows-system-tool-customization-in-windows-10"
 categories: 
   - "system-tools"
+author: "Jarx"
 ---
 
 Windows 10 comes equipped with a variety of system tools designed to help users maintain, optimize, and troubleshoot their PCs. Customizing these tools can enhance their functionality and tailor them to specific needs. This guide will walk you through troubleshooting common issues that arise when customizing Windows system tools, offering practical advice suitable for users of all levels.

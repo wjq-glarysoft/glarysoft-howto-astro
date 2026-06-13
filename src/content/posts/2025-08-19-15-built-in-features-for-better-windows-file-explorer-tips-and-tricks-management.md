@@ -1,8 +1,10 @@
 ---
 title: "15 Built-in Features for Better Windows File Explorer Tips and Tricks Management"
 date: 2025-08-19
+slug: "15-built-in-features-for-better-windows-file-explorer-tips-and-tricks-management"
 categories: 
   - "files-folders"
+author: "Nova"
 ---
 
 Windows File Explorer is one of the most frequently used tools on any PC, yet many users only scratch the surface of what it can do. From quick navigation to advanced file operations, File Explorer has a wealth of built-in features that can save time and improve overall productivity. Below are 15 practical ways to master File Explorer, separated into tips for beginners and advanced users.

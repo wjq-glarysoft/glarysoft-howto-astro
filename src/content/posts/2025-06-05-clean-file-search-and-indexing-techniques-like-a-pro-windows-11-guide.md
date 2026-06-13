@@ -1,8 +1,10 @@
 ---
 title: "clean file search and indexing techniques Like a Pro: Windows 11 Guide"
 date: 2025-06-05
+slug: "clean-file-search-and-indexing-techniques-like-a-pro-windows-11-guide"
 categories: 
   - "files-folders"
+author: "Riley"
 ---
 
 Windows 11 offers powerful ways to find, organize, and manage your files and folders. As you use your PC more, efficient file search and indexing can save you a lot of time and improve productivity. This guide explains practical techniques to keep your file searches fast and accurate, all while keeping your system tidy and responsive.

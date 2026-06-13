@@ -1,8 +1,10 @@
 ---
 title: "How to Enhance Security and Privacy on Your Windows PC: A Step-by-Step Guide"
 date: 2025-04-16
+slug: "how-to-enhance-security-and-privacy-on-your-windows-pc-a-step-by-step-guide"
 categories: 
   - "privacy-security"
+author: "Skher"
 ---
 
 In today's digital world, protecting your privacy and securing your PC is more important than ever. Windows provides several built-in features to help safeguard your data, and there are additional tools you can leverage to bolster these defenses. This guide will walk you through practical steps to enhance security and privacy on your Windows computer.
