@@ -43,7 +43,7 @@ export async function getStaticPaths() {
       
       paths.push({
         params: {
-          author: author,
+          author: author.toLowerCase().replace(/\s+/g, '-'),
           page: String(pageNum)
         },
         props: {
@@ -55,7 +55,6 @@ export async function getStaticPaths() {
       });
     }
   }
-  console.log(paths);
   return paths;
 }
 
@@ -72,7 +71,7 @@ function formatDate(date: Date) {
 }
 ---
 
-<BaseLayout title={`${authorName} - Glarysoft How-to Articles`}>
+<BaseLayout title={`${authorName} - Page ${pageNum} - Glarysoft How-to Articles`}>
     <div class="container" style="margin-top: 1.2rem;">
         <div>
             <p class="block-spacer-50"></p>
@@ -103,6 +102,6 @@ function formatDate(date: Date) {
                 </li>
             ))}            
         </ul>
-        <Pagination currentPage={pageNum} totalPages={totalPages} baseUrl={`/author/${authorName}`} />
+        <Pagination currentPage={pageNum} totalPages={totalPages} baseUrl={`/author/${authorName?.toLowerCase().replace(/\s+/g, '-')}/`} />
     </div>
 </BaseLayout>

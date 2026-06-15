@@ -620,7 +620,6 @@ jq(function () {
     if (e.target == e.currentTarget) {
       jq("#store-wrap").css("background", "none");
       jq("#store").css("visibility", "visible");
-      console.log(lottie);
       lottie.stop("store");
       lottie.play("store");
     }

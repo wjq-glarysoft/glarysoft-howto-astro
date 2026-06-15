@@ -86,6 +86,6 @@ function formatDate(date: Date) {
                 </li>
             ))}            
         </ul>
-        <Pagination currentPage={currentPage} totalPages={totalPages}  baseUrl={`/author/${authorName}`} />
+        <Pagination currentPage={currentPage} totalPages={totalPages}  baseUrl={`/author/${authorName?.toLowerCase().replace(/\s+/g, '-')}/`} />
     </div>
 </BaseLayout>
