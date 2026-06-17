@@ -536,8 +536,9 @@ a.removeCkBtn {
 
 /* ========== Google Translate ========== */
 
-/* Remove the down arrow */
-/* when dropdown open */
+div#google_translate_element div.goog-te-gadget-simple span a span:hover{
+  color: #fff;
+}
 div#google_translate_element div.goog-te-gadget-simple span a span[style="border-left: 1px solid rgb(187, 187, 187);"]{
   display: none;
 }
