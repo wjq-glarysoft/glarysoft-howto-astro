@@ -69,7 +69,6 @@ li {
 
 img {
   border: none;
-  display: block;
   max-width: 100%;
   height: auto;
 }
@@ -539,7 +538,9 @@ a.removeCkBtn {
 
 /* Remove the down arrow */
 /* when dropdown open */
-
+div#google_translate_element div.goog-te-gadget-simple span a span[style="border-left: 1px solid rgb(187, 187, 187);"]{
+  display: none;
+}
 div#google_translate_element
   div.goog-te-gadget-simple
   span
@@ -612,11 +613,11 @@ div#google_translate_element div.goog-te-gadget-simple > span {
 }
 
 /* 隐藏不同状态的箭头 */
-div#google_translate_element div.goog-te-gadget-simple span a span[style*="color: rgb(213, 213, 213)"],
+/* div#google_translate_element div.goog-te-gadget-simple span a span[style*="color: rgb(213, 213, 213)"],
 div#google_translate_element div.goog-te-gadget-simple span a span[style*="color: rgb(118, 118, 118)"],
 div#google_translate_element div.goog-te-gadget-simple span a span[style*="color: rgb(155, 155, 155)"] {
   display: none;
-}
+} */
 
 /* 移除左边框分隔线 */
 div#google_translate_element div.goog-te-gadget-simple span a span[style*="border-left"],
