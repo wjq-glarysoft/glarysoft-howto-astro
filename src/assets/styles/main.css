@@ -514,7 +514,38 @@ a.removeCkBtn {
   background: #0a69c7;
   box-sizing: content-box;
 }
-
+.gather {
+  width: 48px;
+  position: fixed;
+  right: 10px;
+  bottom: 180px;
+  z-index: 10000;
+}
+.gatherwrap {
+  width: 48px;
+  height: 106px;
+}
+.sharethis-inline-share-buttons.st-inline-share-buttons .st-total {
+  color: #233060 !important;
+  background-position: center 18px;
+  padding: 0 0 8px !important;
+  width: 48px;
+}
+#st-1 .st-btn[data-network="sharethis"] {
+  background-color: #fe6d4c !important;
+}
+.sharethis-inline-share-buttons.st-inline-share-buttons .st-btn {
+  border-radius: 24px !important;
+  display: block !important;
+  margin-bottom: 10px;
+}
+#myLauncher {
+  height: 48px;
+  width: 48px;
+  margin-top: 10px;
+  background: url(../images/suggest.png) center center no-repeat;
+  cursor: pointer;
+}
 
 
 /* ========== Google 翻译 ========== */
@@ -536,9 +567,6 @@ a.removeCkBtn {
 
 /* ========== Google Translate ========== */
 
-div#google_translate_element div.goog-te-gadget-simple span a span:hover{
-  color: #fff;
-}
 div#google_translate_element div.goog-te-gadget-simple span a span[style="border-left: 1px solid rgb(187, 187, 187);"]{
   display: none;
 }
@@ -599,9 +627,6 @@ div#google_translate_element div.goog-te-gadget-simple span a span {
   transition: color var(--transition-speed) ease;
 }
 
-div#google_translate_element div.goog-te-gadget-simple span a:hover span {
-  color: var(--color-link-hover);
-}
 
 /* 隐藏翻译图标 */
 .goog-te-gadget-icon {
