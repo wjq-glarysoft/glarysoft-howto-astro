@@ -519,6 +519,7 @@ a.removeCkBtn {
 
 
 /* ========== Google 翻译 ========== */
+
 #google_translate_element {
   height: 30px;
   width: var(--translate-width);
@@ -534,8 +535,51 @@ a.removeCkBtn {
   font-family: var(--font-family);
 }
 
-/* ========== Google Translate 样式覆盖 ========== */
-/* 主体样式 */
+/* ========== Google Translate ========== */
+
+/* Remove the down arrow */
+/* when dropdown open */
+
+div#google_translate_element
+  div.goog-te-gadget-simple
+  span
+  a
+  span[style="color: rgb(213, 213, 213);"] {
+  display: none;
+  background: url(/img/triangle.png) 0 center no-repeat;
+  text-indent: -999em;
+  width: 12px;
+  margin-right: 5px;
+  display: inline-block;
+}
+
+/* after clicked/touched */
+div#google_translate_element
+  div.goog-te-gadget-simple
+  span
+  a
+  span[style="color: rgb(118, 118, 118);"] {
+  display: none;
+  background: url(/img/triangle.png) 0 center no-repeat;
+  text-indent: -999em;
+  width: 12px;
+  margin-right: 5px;
+  display: inline-block;
+}
+/* on page load (not yet touched or clicked) */
+div#google_translate_element
+  div.goog-te-gadget-simple
+  span
+  a
+  span[style="color: rgb(155, 155, 155);"] {
+  display: none;
+  background: url(/img/triangle.png) 0 center no-repeat;
+  text-indent: -999em;
+  width: 12px;
+  margin-right: 5px;
+  display: inline-block;
+}
+
 div#google_translate_element div.goog-te-gadget-simple {
   border: none;
   border-radius: 0;
