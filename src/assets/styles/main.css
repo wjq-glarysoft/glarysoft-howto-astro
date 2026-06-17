@@ -543,7 +543,7 @@ a.removeCkBtn {
   height: 48px;
   width: 48px;
   margin-top: 10px;
-  background: url(../images/suggest.png) center center no-repeat;
+  background: url(/img/suggest.png) center center no-repeat;
   cursor: pointer;
 }
 
