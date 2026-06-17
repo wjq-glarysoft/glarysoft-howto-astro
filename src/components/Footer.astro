@@ -1,22 +1,298 @@
-<!-- 可以在这里添加 footer 的内容 -->
+---
+// 在组件脚本中获取当前年份
+const currentYear = new Date().getFullYear();
+---
 <footer>
-  <!-- <div id="google_translate_element"></div> -->
-  
-  <!-- 你可以根据需要添加更多 footer 内容 -->
-  <div class="footer-content">
-    <p>&copy; {new Date().getFullYear()} Your Company. All rights reserved.</p>
+    <div class="container is-layout-grid is-layout-grid-5">
+      <div class="foopart">
+        <p class="footitle">Products</p>
+        <ul>
+          <li>
+            <a href="https://www.glarysoft.com/glary-utilities/" title="" class="notranslate">Glary Utilities</a>
+          </li>
+          <li>
+            <a href="https://www.glarysoft.com/malware-hunter/" title="" class="notranslate">Malware Hunter</a>
+          </li>
+          <li>
+            <a href="https://www.glarysoft.com/file-recovery-free/" title="" class="notranslate">File Recovery</a>
+          </li>
+          <li>
+            <a href="https://www.glarysoft.com/software-update-free/" title="" class="notranslate">Software Update</a>
+          </li>
+          <li>
+            <a href="https://www.glarysoft.com/downloads/?p=free-page" title="" class="notranslate">Free Tools</a>
+          </li>
+        </ul>
+      </div>
+      <div class="foopart">
+        <p class="footitle">Library</p>
+        <ul>
+          <li><a href="https://www.glarysoft.com/startups/" title="">Startup Applications</a></li>
+          <li><a href="https://www.glarysoft.com/processes/" title="">Processes</a></li>
+          <li><a href="https://www.filepuma.com/" title="">Software</a></li>
+          <li>
+            <a href="https://www.glarysoft.com/kb/" title="">Knowledge Base</a>
+          </li>
+          <li>
+            <a href="https://www.glarysoft.com/how-to/" title="">How-Tos</a>
+          </li>
+        </ul>
+      </div>
+      <div class="foopart">
+        <p class="footitle">Support</p>
+        <ul>
+          <li>
+            <a href="https://www.glarysoft.com/support/lost-license/" title="">Lost License</a>
+          </li>
+          <li><a href="https://www.glarysoft.com/kb/faqs/" title="">FAQs</a></li>
+          <li>
+            <a href="https://www.glarysoft.com/support/online-feedback/" title="">Online Feedback</a>
+          </li>
+          <li><a href="https://my.glarysoft.com/" title="">My Account</a></li>
+        </ul>
+      </div>
+      <div class="foopart">
+        <p class="footitle">Company</p>
+        <ul>
+          <li><a href="https://www.glarysoft.com/company/about-us/" title="">About Us</a></li>
+          <li><a href="https://www.glarysoft.com/company/press-release/" title="">Press Center</a></li>
+          <li><a href="https://www.glarysoft.com/company/partners/" title="">Reseller</a></li>
+          <li><a href="https://www.glarysoft.com/company/affiliate/" title="">Affiliate</a></li>
+          <li><a href="https://www.glarysoft.com/company/contact-us/" title="">Contact Us</a></li>
+        </ul>
+      </div>
+      <div class="foopart">
+        <p class="footitle">Connect with Us</p>
+        <ul class="utility">
+          <li><a href="https://facebook.com/Glarysoft" class="fb"></a></li>
+          <li><a href="https://twitter.com/Glarysoft" class="bird"></a></li>
+          <li>
+            <a href="https://www.youtube.com/user/Glarysoft" class="tube"></a>
+          </li>
+        </ul>
+        <div style="text-align: left">
+          <p class="footitle">Email Newsletter</p>
+          <input type="text" id="subscribe_email" placeholder="Your email">
+          <input value="Subscribe" type="submit" id="subscribe">
+          <p id="subscribe_tip">
+            Thank you! Please check your email and confirm your subscription!
+          </p>
+        </div>
+      </div>
+    </div>
+    <hr class="footer_hr">
+    <div class="container">
+      <ul class="copyright clearfix">
+        <li class="copyright_left">
+          <p>
+            Copyright © <span id="copyyear">{currentYear}</span> Glarysoft. All
+            rights reserved.
+          </p>
+        </li>
+        <li class="copyright_right">
+          <a href="/">Home</a><span>|</span><a href="https://www.glarysoft.com/inf/eula/">EULA</a><span>|</span><a href="https://www.glarysoft.com/inf/privacy-policy/">Privacy Policy</a><span>|</span><a href="https://www.glarysoft.com/inf/refund-policy/">Refund Policy</a><span>|</span><a href="https://www.glarysoft.com/inf/termsofuse/">Terms of Use</a>
+        </li>
+      </ul>
+      <img class="goal" src="/img/footer-bottom.png" alt="">
+    </div>
+  <div class="gather">
+    <div class="gatherwrap" style="margin: 0px auto">
+      <!-- ShareThis BEGIN -->
+      <div class="sharethis-inline-share-buttons"></div>
+      <!-- ShareThis END -->
+      <a href="javascript:void(0);" title="Feedback &amp; Support"><div id="myLauncher" onclick="openWidget()"></div></a>
+    </div>
   </div>
+  <div class="cookiesTip">
+    <div class="container">
+      <div class="ckTipCon">
+        <p class="ckTipText">
+          Glarysoft uses cookies to improve content and ensure you get the best
+          experience on our website. By continuing to use this website, you agree
+          to our
+          <a class="privacyPolicy" href="https://www.glarysoft.com/inf/privacy-policy/">privacy policy</a>.
+        </p>
+        <p class="ckTipBtn">
+          <a class="removeCkBtn" id="removeCkBtn" href="javascript:;">Got it</a>
+        </p>
+      </div>
+    </div>
+  </div>
+  <!-- Start of glarysoft Zendesk Widget script -->
+  <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=5c22b3d4-2e69-4448-a5b6-abf543ae294f"></script>
+  <!-- End of glarysoft Zendesk Widget script -->
+  <script type="text/javascript">		
+    jQuery(window).resize(function(){	
+      var widgetW = jQuery("#webWidget").outerWidth(true);
+      var widgetH = jQuery("#webWidget").outerHeight(true);
+      if(widgetW>0){
+        zE('webWidget', 'updateSettings', {
+          webWidget: {
+            offset: {
+              horizontal: (jQuery(window).width() - widgetW) / 2,
+              vertical: jQuery(window).height()>=widgetH?(jQuery(window).height() - widgetH) / 2:0
+            }
+          }
+        })
+      }        
+    })  
+    zE("webWidget", "hide");
+    function openWidget() {
+      zE("webWidget", "show");
+      zE("webWidget", "open");        
+    }
+    zE("webWidget:on", "close", function () {
+      zE("webWidget", "hide");
+    });    
+    zE('webWidget:on', 'open', function() {  
+      if(!isMobile()){  
+        if(jQuery("#webWidget").outerWidth(true) == null){  
+          var s = setInterval(function(){
+            if(jQuery("#webWidget").outerWidth(true)>0){            
+              clearInterval(s);
+              jQuery("#webWidget").addClass("widget-pc");
+              var widgetW = jQuery("#webWidget").outerWidth(true);
+              var widgetH = jQuery("#webWidget").outerHeight(true);
+              zE('webWidget', 'updateSettings', {
+                webWidget: {
+                  offset: {
+                    horizontal: (jQuery(window).width() - widgetW) / 2,
+                    vertical: jQuery(window).height()>=widgetH?(jQuery(window).height() - widgetH) / 2:0
+                  }
+                }
+              })
+            }          
+          },50)        
+        } 
+        else{
+          jQuery("#webWidget").addClass("widget-pc");
+          var widgetW = jQuery("#webWidget").outerWidth(true);
+          var widgetH = jQuery("#webWidget").outerHeight(true);
+          zE('webWidget', 'updateSettings', {
+            webWidget: {
+              offset: {
+                horizontal: (jQuery(window).width() - widgetW) / 2,
+                vertical: jQuery(window).height()>=widgetH?(jQuery(window).height() - widgetH) / 2:0
+              }
+            }
+          })
+        }   
+      }              
+    });   
+    </script>
 </footer>
 
-<style>
-  footer {
-    margin-top: auto;
-    padding: 20px;
-    text-align: center;
-    background-color: #f5f5f5;
-  }
-  
-  #google_translate_element {
-    margin-bottom: 15px;
-  }
-</style>
+<script is:inline>
+  document.addEventListener('DOMContentLoaded', () => {
+    const cookiesTip = document.querySelector('.cookiesTip');
+    if (!cookiesTip) return;
+    
+    const hasAccepted = (() => {
+      if (window.localStorage) {
+        return !!window.localStorage.getItem('ckTip');
+      }
+      return document.cookie.split('; ').some(row => row.startsWith('ckTip='));
+    })();
+
+    
+    if (!hasAccepted) {
+      cookiesTip.style.display = 'block';
+    }
+    
+    const acceptBtn = document.getElementById('removeCkBtn');
+    if (acceptBtn) {
+      acceptBtn.addEventListener('click', () => {
+        if (window.localStorage) {
+          window.localStorage.setItem('ckTip', 'true');
+        }
+        document.cookie = 'ckTip=true; max-age=31536000; path=/';
+        cookiesTip.style.display = 'none';
+      });
+    }
+
+
+    const subscribeBtn = document.getElementById('subscribe');
+    const subscribeEmail = document.getElementById('subscribe_email');
+    const subscribeTip = document.getElementById('subscribe_tip');
+    
+    if (!subscribeBtn || !subscribeEmail || !subscribeTip) return;
+
+    let subscribeTimer = null;
+
+    function showTip(message, className = '') {
+      
+      if (subscribeTimer) {
+        clearTimeout(subscribeTimer);
+        subscribeTimer = null;
+      }
+
+      subscribeTip.className = className;
+      subscribeTip.textContent = message;
+      subscribeTip.style.display = 'block';
+
+      subscribeTimer = setTimeout(() => {
+        subscribeTip.style.display = 'none';
+        subscribeTimer = null;
+      }, 30000);
+    }
+
+    function handleSubscribe(e) {
+      e.preventDefault();
+
+      
+      if (subscribeTimer) {
+        clearTimeout(subscribeTimer);
+        subscribeTimer = null;
+      }
+
+      subscribeTip.style.display = 'none';
+
+      const subEmail = subscribeEmail.value.trim();
+
+      // 验证邮箱
+      const emailRegex = /^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$/;
+      if (subEmail.length === 0 || !emailRegex.test(subEmail)) {
+        showTip('Enter valid e-mail', 'fail');
+        return;
+      }
+
+      // 发送 AJAX 请求
+      const xhr = new XMLHttpRequest();
+      xhr.open('POST', '/subscribe/verify.php', true);
+      xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+      
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4) {
+          if (xhr.status === 200) {
+            const msg = xhr.responseText.trim();
+            
+            if (msg === '1') {
+              showTip('Thank you! Please check your email and confirm your subscription!', '');
+            } else if (msg === '2' || msg === '4') {
+              showTip('Failed, please try again', 'fail');
+            } else {
+              showTip('Frequent operation, you can try again after half an hour', 'info');
+            }
+          } else {
+            showTip('Network error, please try again', 'fail');
+          }
+        }
+      };
+
+      xhr.onerror = () => showTip('Network error, please try again', 'fail');
+      xhr.send('useremail=' + encodeURIComponent(subEmail));
+    }
+
+    // 绑定事件
+    subscribeBtn.addEventListener('click', handleSubscribe);
+    
+    // 回车提交
+    subscribeEmail.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        handleSubscribe(e);
+      }
+    });
+  });
+</script>
+

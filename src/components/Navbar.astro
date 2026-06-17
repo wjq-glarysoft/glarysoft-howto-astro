@@ -1,5 +1,5 @@
 ---
-
+import lottie from "../../public/js/lottie"
 ---
 <div class="header-wrap">
 	<div class="header">
@@ -7,7 +7,7 @@
             <div class="logo">
                 <a href="/"><img src="/img/logo.png" alt="glarysoft" /></a>
             </div>
-            <div class="header-r">
+            <div class="header-r" role="navigation">
                 <div class="translate-nor"><div id="google_translate_element"></div></div>
                 <ul class="nav">
                     <li id="products"><button class="arrow">Products</button>            	
@@ -32,9 +32,6 @@
                     </li>
                     <li id="shop">                  
                     <a href="/store/" target="_self">
-                        <!-- <p class="anni" href="">
-                            <span class="store-icon"><span class="strap"></span><span class="deco-line"></span></span>
-                        </p> -->
                         <p id="store-wrap"><span id="store"></span></p>
                     Store</a>
                     </li>
@@ -61,7 +58,193 @@
                     </li>
                 </ul> 
             </div>
-            <div class="navshortcut"></div>
+            <div class="navshortcut" role="button" tabindex="0"></div>
         </div>
     </div>
 </div> 
+
+<script is:inline>
+  document.addEventListener('DOMContentLoaded', () => {
+    
+    // ==================== Google Translate ====================
+    let translateInterval = null;
+    
+    function fixTranslateDisplay() {
+      const translateElement = document.querySelector('.goog-te-gadget-simple');
+      if (!translateElement) return false;
+
+      const firstSpan = translateElement.querySelector('span a span:first-child');
+      if (firstSpan) {
+        const currentText = firstSpan.textContent || firstSpan.innerHTML;
+        if (currentText === 'Select Language' || currentText.trim() === '') {
+          firstSpan.textContent = 'English';
+        }
+      }
+
+      const translateContainer = document.getElementById('google_translate_element');
+      if (translateContainer) {
+        translateContainer.style.visibility = 'visible';
+      }
+
+      if (translateInterval) {
+        clearInterval(translateInterval);
+        translateInterval = null;
+      }
+
+      return true;
+    }
+
+    function initTranslate() {
+      if (fixTranslateDisplay()) return;
+      
+      translateInterval = setInterval(() => {
+        if (fixTranslateDisplay()) {
+          clearInterval(translateInterval);
+          translateInterval = null;
+        }
+      }, 50);
+    }
+
+    // ==================== 汉堡菜单 ====================
+    function initHamburgerMenu() {
+      const shortcut = document.querySelector('.navshortcut');
+      const headerR = document.querySelector('.header-r');
+      
+      if (!shortcut || !headerR) return;
+
+      const toggleMenu = (e) => {
+        if (e) e.stopPropagation();
+        headerR.classList.toggle('active');
+        shortcut.setAttribute('aria-expanded', headerR.classList.contains('active'));
+      };
+
+      shortcut.addEventListener('click', toggleMenu);
+      
+      shortcut.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          toggleMenu(e);
+        }
+      });
+
+      document.addEventListener('click', (e) => {
+        if (!e.target.closest('.header-r') && !e.target.closest('.navshortcut')) {
+          headerR.classList.remove('active');
+          shortcut.setAttribute('aria-expanded', 'false');
+        }
+      });
+    }
+
+    // ==================== 导航菜单 ====================
+    function initNavigation() {
+      const isAndroid = navigator.userAgent.toLowerCase().includes('android');
+      const navItems = document.querySelectorAll('.nav > li');
+
+      navItems.forEach((li) => {
+        const subnavPart = li.querySelector('.subnavpart');
+        if (!subnavPart) return;
+
+        const trigger = li.querySelector('a, button');
+        const arrow = li.querySelector('.arrow');
+
+        if (isAndroid && trigger) {
+          trigger.addEventListener('click', function(e) {
+            e.preventDefault();
+            this.classList.toggle('active');
+            subnavPart.style.display = this.classList.contains('active') ? 'block' : 'none';
+          });
+        } else if (!isAndroid) {
+          li.addEventListener('mouseenter', () => {
+            if (arrow) arrow.classList.add('active');
+            subnavPart.style.display = 'block';
+          });
+          
+          li.addEventListener('mouseleave', () => {
+            if (arrow) arrow.classList.remove('active');
+            subnavPart.style.display = 'none';
+          });
+        }
+      });
+    }
+
+    // ==================== Store 功能 ====================
+    function initStore() {
+      // Store 动画
+      function storeIcon() {
+        const container = document.getElementById('store');
+        if (!container || typeof lottie === 'undefined') return;
+
+        try {
+          const anim = lottie.loadAnimation({
+            container: container,
+            renderer: 'svg',
+            loop: false,
+            autoplay: true,
+            path: '/js/buy.json',
+            name: 'store',
+          });
+          
+          anim.addEventListener('enterFrame', function(e) {
+            if (e.currentTime === 15) {
+              const storeWrap = document.getElementById('store-wrap');
+              if (storeWrap) storeWrap.style.visibility = 'visible';
+              anim.removeEventListener('enterFrame');
+            }
+          });
+        } catch (e) {
+          console.warn('Store animation error:', e);
+        }
+      }
+
+      // Store hover
+      function initStoreHover() {
+        const shopLink = document.querySelector('.nav > li#shop > a');
+        if (!shopLink) return;
+
+        shopLink.addEventListener('mouseover', function(e) {
+          if (e.target === e.currentTarget) {
+            const storeWrap = document.getElementById('store-wrap');
+            const store = document.getElementById('store');
+            
+            if (storeWrap) storeWrap.style.background = 'none';
+            if (store) store.style.visibility = 'visible';
+            
+            if (typeof lottie !== 'undefined') {
+              try {
+                lottie.stop('store');
+                lottie.play('store');
+              } catch (e) {}
+            }
+          }
+        });
+      }
+
+      storeIcon();
+      initStoreHover();
+    }
+
+    // ==================== 启动所有功能 ====================
+    function initAll() {
+      // 清理旧的定时器
+      if (translateInterval) {
+        clearInterval(translateInterval);
+        translateInterval = null;
+      }
+      
+      initTranslate();
+      initHamburgerMenu();
+      initNavigation();
+      initStore();
+    }
+
+    // 页面加载完成后初始化
+    if (document.readyState === 'complete') {
+      initAll();
+    } else {
+      window.addEventListener('load', initAll);
+    }
+
+    // Astro View Transitions 支持
+    document.addEventListener('astro:page-load', initAll);
+  });
+</script>

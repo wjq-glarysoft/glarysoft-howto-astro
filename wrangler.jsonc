@@ -1,5 +1,4 @@
 {
-  "$schema": "https://raw.githubusercontent.com/cloudflare/workers-sdk/main/packages/wrangler/config-schema.json",
   "name": "glarysoft-howto-astro",
   "main": "dist/_worker.js/index.js",
   "compatibility_date": "2026-01-01",
