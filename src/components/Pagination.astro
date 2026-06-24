@@ -73,7 +73,6 @@ function generatePagination(currentPage: number, totalPages: number): (number | 
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 1rem;
     margin-top: 3rem;
     padding: 2rem 0;
   }
@@ -96,23 +95,48 @@ function generatePagination(currentPage: number, totalPages: number): (number | 
     background-color: #0070f3;
     border-color: #0070f3;
     color: white;
-  }
-  
+  }  
   .page-numbers {
     display: flex;
-    gap: 0.5rem;
     align-items: center;
-  }
-  
+  }  
   .page-numbers .dots {
     padding: 0.5rem;
     color: #666;
-  }
-  
+  }  
   .prev, .next {
     font-weight: 500;
   }
   
+  
+  .pagination > * {
+      margin-right: 1rem;
+  }
+  .pagination > :last-child {
+      margin-right: 0;
+  }  
+  .page-numbers > * {
+      margin-right: 0.5rem;
+  }
+  .page-numbers > :last-child {
+      margin-right: 0;
+  }  
+  @supports (backdrop-filter: blur(1px)) {
+      .pagination {
+          gap: 1rem;
+      }
+      .pagination > * {
+          margin-right: unset; 
+      }
+
+      .page-numbers {
+          gap: 0.5rem;
+      }
+      .page-numbers > * {
+          margin-right: unset;
+      }
+  }
+
   @media (max-width: 768px) {
     .pagination {
       flex-wrap: wrap;

@@ -92,21 +92,17 @@ input {
   font-family: inherit !important;
 }
 h1, h2, h3, h4, h5, h6{
-    color: var(--color--contrast);
-    font-weight: 400;
-    line-height: 1.2;
+  color: var(--color--contrast);
+  font-weight: 400;
+  line-height: 1.2;
 }
 h1{
-    font-size: var(--font-size-xx-large);
-    line-height: 1.15; 
+  font-size: 52px;  
+  line-height: 1.15; 
 }
 h3{
     font-size: var(--font-size-medium);
 }
-/* h3{font-size: var(--size--large);}
-h4{font-size: clamp(1.1rem, 1.1rem + ((1vw - 0.2rem) * 0.767), 1.5rem);}
-h5{font-size: var(--font-size--medium);}
-h6{font-size: var(--font-size--small);} */
 
 /* ========== 辅助类 ========== */
 .clearfix::after {
@@ -276,7 +272,7 @@ main {
 }
 .page-header{
   text-align: center;
-  padding: 1.2rem 0 0.5rem;
+  /* padding: 1.2rem 0 0.5rem; */
 }
 .page-header.archive-header{
   text-align: left;
@@ -319,7 +315,7 @@ main {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 .page-header-wrap{
-  padding: var(--preset-spacing-50) 0 var(--preset-spacing-30) 0;
+  padding: 104px 0 40px 0;
 }
 .post-header{
     margin-bottom: var(--preset-spacing-40);
@@ -333,23 +329,34 @@ main {
   margin-top: 1.2rem;
 }
 .x-large-font-size{
-    font-size: var(--font-size-x-large) !important;                   
+    font-size: 40px;                   
 }
 .post-meta{
     margin-top: 1.2rem;
 }
 .content{
-  margin-bottom: var(--preset-spacing-50);
-  /* word-wrap: break-word; */
+  margin-bottom: 104px;
+  word-wrap: break-word;
 }
-.content p{
+.content p {
   margin-bottom: 0.8rem;
 }
+@supports (backdrop-filter: blur(1px)) {
+  .page-header-wrap{
+    padding: var(--preset-spacing-50) 0 var(--preset-spacing-30) 0;
+  }
+  .content{
+    margin-bottom: var(--preset-spacing-50);
+  }
+  h1{
+    font-size: var(--font-size-xx-large);
+  }
+  .x-large-font-size{
+    font-size: var(--font-size-x-large) !important;                   
+  }
+}
 
-
-
-
-/* ========== Footer 区域 ========== */
+/* ========== Footer ========== */
 footer{
   background: #eeeff3;
 }
@@ -513,7 +520,6 @@ footer{
   right: 0;
   width: 100%;
   z-index: 9999;
-  border-radius: 5px;
   opacity: 0.9;
 }
 .ckTipText {
