@@ -1,34 +1,34 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { formatDate } from '../../utils/formatDate';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
   return posts.map((post) => ({    
-    params: { slug: post.data.slug }, // 假设 slug 是唯一标识符
+    params: { slug: post.data.slug },
     props: { post },
   }));
 }
 
 const { post } = Astro.props;
-const formattedDate = post.data.date.toLocaleDateString('en-US', {
-  month: 'short',  // 短月份名: Jun
-  day: 'numeric',  // 数字日: 10
-  year: 'numeric'  // 完整年份: 2026
-});
+
 const { Content } = await render(post);
+
 ---
 
 <BaseLayout title={post.data.title}>
   <div class="container">
     <article>
-      <div class="post-header">
-        <h1 class="x-large-font-size">{post.data.title}</h1>
-        <div class="post-meta">
-          <span>{formattedDate}</span> — by <a href={`/author/${post.data.author?.toLowerCase().replace(/\s+/g, '-')}/`}>{post.data.author}</a> in <a href={`/categories/${post.data.categories}`}>{post.data.categories?.join(', ') || ''}</a>
-        </div>        
+      <div class="page-header-wrap">
+          <h1 class="page-header archive-header x-large-font-size">{post.data.title}</h1>
+          <div class="post-meta">
+            <span>{formatDate( post.data.date)}</span> — by <a href={`/author/${post.data.author?.toLowerCase().replace(/\s+/g, '-')}/`}>{post.data.author}</a> in <a href={`/categories/${post.data.categories}/`}>{post.data.categories?.join(', ') || ''}</a>
+          </div> 
+      </div>         
+      <div class="content">
+        <Content />
       </div>      
-      <Content />
     </article>
   </div>  
 </BaseLayout>

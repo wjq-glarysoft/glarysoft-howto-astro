@@ -1,11 +1,11 @@
 ---
-import lottie from "../../public/js/lottie"
+
 ---
-<div class="header-wrap">
+<header>
 	<div class="header">
         <div class="headcon clearfix">
             <div class="logo">
-                <a href="/"><img src="/img/logo.png" alt="glarysoft" /></a>
+                <a href="/"><img src="/img/logo.png" alt="logo" loading="eager" fetchpriority="high"/></a>
             </div>
             <div class="header-r" role="navigation">
                 <div class="translate-nor"><div id="google_translate_element"></div></div>
@@ -61,12 +61,13 @@ import lottie from "../../public/js/lottie"
             <div class="navshortcut" role="button" tabindex="0"></div>
         </div>
     </div>
-</div> 
-
+</header> 
+<script is:inline src="/js/lottie.js"></script>
 <script is:inline>
-  document.addEventListener('DOMContentLoaded', () => {
-    
+  document.addEventListener('DOMContentLoaded', () => { 
+
     // ==================== Google Translate ====================
+
     let translateInterval = null;
     
     function fixTranslateDisplay() {
@@ -106,6 +107,7 @@ import lottie from "../../public/js/lottie"
     }
 
     // ==================== 汉堡菜单 ====================
+
     function initHamburgerMenu() {
       const shortcut = document.querySelector('.navshortcut');
       const headerR = document.querySelector('.header-r');
@@ -136,6 +138,7 @@ import lottie from "../../public/js/lottie"
     }
 
     // ==================== 导航菜单 ====================
+
     function initNavigation() {
       const isAndroid = navigator.userAgent.toLowerCase().includes('android');
       const navItems = document.querySelectorAll('.nav > li');
@@ -168,8 +171,8 @@ import lottie from "../../public/js/lottie"
     }
 
     // ==================== Store 功能 ====================
+
     function initStore() {
-      // Store 动画
       function storeIcon() {
         const container = document.getElementById('store');
         if (!container || typeof lottie === 'undefined') return;
@@ -199,16 +202,17 @@ import lottie from "../../public/js/lottie"
       // Store hover
       function initStoreHover() {
         const shopLink = document.querySelector('.nav > li#shop > a');
+        
         if (!shopLink) return;
 
-        shopLink.addEventListener('mouseover', function(e) {
+        shopLink.addEventListener('mouseover', function(e) {          
           if (e.target === e.currentTarget) {
             const storeWrap = document.getElementById('store-wrap');
             const store = document.getElementById('store');
             
             if (storeWrap) storeWrap.style.background = 'none';
             if (store) store.style.visibility = 'visible';
-            
+           
             if (typeof lottie !== 'undefined') {
               try {
                 lottie.stop('store');
@@ -223,9 +227,10 @@ import lottie from "../../public/js/lottie"
       initStoreHover();
     }
 
-    // ==================== 启动所有功能 ====================
+    // ==================== Activate all functions ====================
+    
     function initAll() {
-      // 清理旧的定时器
+      
       if (translateInterval) {
         clearInterval(translateInterval);
         translateInterval = null;
@@ -237,14 +242,14 @@ import lottie from "../../public/js/lottie"
       initStore();
     }
 
-    // 页面加载完成后初始化
+  
     if (document.readyState === 'complete') {
       initAll();
     } else {
       window.addEventListener('load', initAll);
     }
 
-    // Astro View Transitions 支持
+    // Astro View Transitions support
     document.addEventListener('astro:page-load', initAll);
   });
 </script>

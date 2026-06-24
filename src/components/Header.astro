@@ -11,15 +11,14 @@ const { title, description } = Astro.props;
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width">
   <title>{title}</title>
-  {description && <meta name="description" content={description}>}
-  
+  {description && <meta name="description" content={description} />}
   {/* 引入google字体 */}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   
   
-  <script is:inline src='https://platform-api.sharethis.com/js/sharethis.js#property=5ddf37c8ec66350011363b99&product=inline-share-buttons' async='async'></script> 
+  {/* <script is:inline src='https://platform-api.sharethis.com/js/sharethis.js#property=5ddf37c8ec66350011363b99&product=inline-share-buttons' async='async'></script> 
   <script is:inline>
     function googleTranslateElementInit() {
       new google.translate.TranslateElement({
@@ -29,5 +28,5 @@ const { title, description } = Astro.props;
       }, 'google_translate_element');
     }
   </script>
-  <script is:inline src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
+  <script is:inline src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  */}
 </head>

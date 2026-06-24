@@ -100,8 +100,8 @@ h1{
     font-size: var(--font-size-xx-large);
     line-height: 1.15; 
 }
-h2{
-    font-size: var(--font-size-text-medium);
+h3{
+    font-size: var(--font-size-medium);
 }
 /* h3{font-size: var(--size--large);}
 h4{font-size: clamp(1.1rem, 1.1rem + ((1vw - 0.2rem) * 0.767), 1.5rem);}
@@ -137,7 +137,7 @@ body {
 }
 
 /* ========== 头部布局 ========== */
-.header-wrap {
+header{
   width: 100%;
   background: var(--color-navbar);
 }
@@ -271,38 +271,55 @@ main {
   flex: 1;
 }
 .container{
-    width: 1000px;
-    margin:0 auto;
+  width: 1000px;
+  margin:0 auto;
 }
-.block-spacer-50{
+.page-header{
+  text-align: center;
+  padding: 1.2rem 0 0.5rem;
+}
+.page-header.archive-header{
+  text-align: left;
+}
+/* .block-spacer-50{
     height:var(--preset-spacing-50);
 }
 .block-spacer-30{
     height:var(--preset-spacing-30);
+} */
+.post-grid{
+  display:grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin-top: 1.2rem;
+  word-break: break-word;
 }
-.is-layout-grid{
-    display:grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 1.25rem;
+.post-grid li{  
+  margin-bottom: 1.65rem;
 }
-.is-layout-grid.is-layout-grid-3{
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 3rem;
-}
-.is-layout-grid.is-layout-grid-5{
-    grid-template-columns: repeat(5, minmax(0, 1fr));
-    gap: 0;
-}
-.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){
-    max-width: var(--con-max-width);
-    margin-left: auto !important;
-    margin-right: auto !important;
+.footer-grid{
+  display:grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 0;
+  margin-top: 1.2rem;
+  word-break: break-word;
 }
 .post-excerpt{
-    margin-top: 1.2rem;
+  margin-top: 1.2rem;
 }
 .post-card{
-    margin-bottom: var(--preset-spacing-20);
+  padding: 1.5rem 1.5rem 0;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  height: 100%;
+}
+.post-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+.page-header-wrap{
+  padding: var(--preset-spacing-50) 0 var(--preset-spacing-30) 0;
 }
 .post-header{
     margin-bottom: var(--preset-spacing-40);
@@ -312,12 +329,26 @@ main {
     flex-direction: column;
     align-items: stretch;
 }
+.read-more{
+  margin-top: 1.2rem;
+}
 .x-large-font-size{
     font-size: var(--font-size-x-large) !important;                   
 }
 .post-meta{
     margin-top: 1.2rem;
 }
+.content{
+  margin-bottom: var(--preset-spacing-50);
+  /* word-wrap: break-word; */
+}
+.content p{
+  margin-bottom: 0.8rem;
+}
+
+
+
+
 /* ========== Footer 区域 ========== */
 footer{
   background: #eeeff3;
@@ -546,6 +577,45 @@ a.removeCkBtn {
   background: url(/img/suggest.png) center center no-repeat;
   cursor: pointer;
 }
+/* ========== Zendesk ========== */
+iframe#launcher {
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+  top: -9999px !important;
+}
+
+iframe#webWidget,
+iframe[title="Zendesk Widget window"] {
+  bottom: auto !important;
+  left: 50% !important;
+  margin: 0 !important;
+  max-height: calc(100vh - 48px) !important;
+  position: fixed !important;
+  right: auto !important;
+  top: 50% !important;
+  transform: translate(-50%, -50%) !important;
+  width: 500px !important;
+  z-index: 1000000 !important;
+}
+/* Zendesk */
+.webwidget-launcher,
+#webWidget {
+  position: fixed !important;
+  top: 50% !important;
+  left: 50% !important;
+  transform: translate(-50%, -50%) !important;
+  bottom: auto !important;
+  right: auto !important;
+  margin: 0 !important;
+}
+
+#webWidget iframe {
+  position: relative !important;
+  top: 0 !important;
+  left: 0 !important;
+  transform: none !important;
+}
 
 
 /* ========== Google 翻译 ========== */
@@ -674,6 +744,9 @@ body {
   .container{
     width:var(--con-max-width);
   }
+  .post-grid{
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
 }
 @media (max-width: 1041px) {
   .container{
@@ -688,15 +761,18 @@ body {
     margin-top: 10px;
     float: none;
     width: 96%;
-  }
-  
+  }  
   .nav {
     float: left;
   }
-  
+  .footer-grid{
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
 }
-@media (max-width: 1024px) {
-  
+@media (max-width: 1060px) {
+  .post-grid{
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 @media screen and (max-width: 997px) {
   .logo {
@@ -786,6 +862,32 @@ body {
   }
   .header-r.active {
     display: block;
+  }
+  .post-grid{
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+  .copyright_left {
+    height: auto;
+    float: none;
+  }
+  .copyright_left p{
+    text-align: center;
+  }
+  .copyright_right {
+    line-height: 1.8;
+    text-align: center;
+    float: none;
+    padding: 0;
+  }
+}
+@media(max-width:680px){
+  .footer-grid{
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media(max-width:480px){
+  .footer-grid{
+    grid-template-columns: repeat(1, minmax(0, 1fr));
   }
 }
 /* ========== 暗色主题支持（可选） ========== */

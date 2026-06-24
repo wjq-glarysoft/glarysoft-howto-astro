@@ -1,62 +1,52 @@
 ---
-import { getCollection } from 'astro:content';
+import { getAllPosts, getPaginatedPosts } from '../utils/posts';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getExcerpt } from '../utils/truncate';
 import Pagination from '../components/Pagination.astro';
+import { SITE_CONFIG } from '../config/constants'
 
-// 首页直接显示第一页的内容
-const POSTS_PER_PAGE = 80;
+export const prerender = true;
+
+const allPosts = await getAllPosts();
+
 const currentPage = 1;
-
-// 获取所有文章并排序
-const allPosts = (await getCollection('posts'))
-  .map(post => ({
-    ...post
-  })).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
-
-// 计算总页数
-const totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE);
-
-// 获取第一页的文章
-const startIndex = 0;
-const currentPosts = allPosts.slice(startIndex, startIndex + POSTS_PER_PAGE);
+const { posts: currentPosts, totalPages } = getPaginatedPosts(
+  allPosts, 
+  currentPage, 
+  SITE_CONFIG.postsPerPage
+);
 
 ---
 
-<BaseLayout title="Glarysoft How-to Articles">
-  <div class="container" style="margin-top: 1.2rem;">
-    <div>
-      <p class="block-spacer-50"></p>
-      <h1 style="text-align: center; margin-top: 1.2rem;">How to Articles</h1>
-      <p class="block-spacer-30"></p>
-    </div>
-    
-    <div style="margin-top: 1.2rem;">
-      <ul class="is-layout-grid">
+<BaseLayout title={ SITE_CONFIG.homePageTitle }>
+  <div class="container">
+    <div class="page-header-wrap">
+      <h1 class="page-header">How to Articles</h1>
+    </div>    
+    <section class="posts-section">
+      <ul class="post-grid" role="list">
         {currentPosts.map((post) => (
           <li>
-            <div class="post-card">
-              <h2>
-                <a href={`/posts/${post.data.slug}`}>
+            <article class="post-card">
+              <h3 class="post-title">
+                <a class="post-link" href={`/posts/${post.data.slug}`}>
                   {post.data.title || 'Untitled'}
                 </a>
-              </h2>
-              <div>
+              </h3>
+              <div class="post-content">
                 <p class="post-excerpt">
-                  {getExcerpt(post.body ?? "", 55)}
+                  {getExcerpt(post.body ?? "", SITE_CONFIG.excerptLength)}
                 </p>
-                <p style="margin-top: 1.2rem;">
-                  <a href={`/posts/${post.data.slug}`}>read more</a>
+                <p class="read-more">
+                  <a class="read-more-link" href={`/posts/${post.data.slug}`}>read more →</a>
                 </p>
               </div>
-            </div>
+            </article>
           </li>
         ))}
-      </ul>
-      
-      <!-- 分页导航组件 -->
+      </ul> 
       <Pagination currentPage={currentPage} totalPages={totalPages} />
-    </div>
+    </section>
   </div>
 </BaseLayout>
 
