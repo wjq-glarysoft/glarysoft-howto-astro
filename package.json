@@ -13,9 +13,18 @@
   },
   "dependencies": {
     "@astrojs/mdx": "^6.0.2",
-    "astro": "^6.4.4"
+    "astro": "^6.4.4",
+    "normalize.css": "^8.0.1"
   },
   "devDependencies": {
+    "@types/node": "^26.0.0",
+    "autoprefixer": "^10.5.1",
+    "postcss": "^8.5.15",
     "wrangler": "^4.101.0"
-  }
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 1%",
+    "not dead"
+  ]
 }
