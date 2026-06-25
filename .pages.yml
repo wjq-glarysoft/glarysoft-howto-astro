@@ -12,46 +12,33 @@ content:
         label: 文章标题
         type: string
         required: true
-        description: 文章的显示标题
       
       - name: slug
         label: URL标识
         type: string
         required: true
         pattern: ['^[a-z0-9-]+$', '只能包含小写字母、数字和连字符']
-        description: 用于生成URL的标识符，例如 "free-up-disk-space"
       
       - name: date
         label: 发布日期
         type: date
         required: true
-        description: 文章发布的时间
       
       - name: categories
         label: 分类
         type: list
-        fields:
-          - name: category
-            label: 分类名称
-            type: select
-            options:
-              - optimize-improve
-              - files-folders
-              - system-tools
-              - clean-up-repair
-              - privacy-security
+        field: 
+          type: string
       
       - name: author
         label: 作者
         type: string
         required: true
-        description: 文章作者的用户名或显示名称
       
       - name: body
         label: 正文内容
         type: rich-text
-        description: 文章的Markdown正文
-        
+
 settings:
   defaultBranch: main
   commitMessage: 'chore: update content via Pages CMS [skip ci]'
