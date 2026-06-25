@@ -1,80 +1,30 @@
 media:
-  -input: src/assets/images
-  output: /assets/images
-
+  input: public/img
+  output: /img
 content:
   - name: posts
     label: Posts
     type: collection
-    path: content/posts
-    fields:
-      - name: title
-        type: string
-      - name: body
-        type: rich-text
-    actions:
-      - name: rebuild-posts
-        label: Rebuild posts
-        scope: collection
-        workflow: pages-cms-collection-action.yml
-
-      - name: preview-post
-        label: Preview
-        scope: entry
-        workflow: pages-cms-entry-action.yml
-
-
-media:
-  - input: src/assets/images
-    output: /assets/images
-
-content:
-  - name: posts
-    label: 博客文章
-    type: collection
     path: src/content/posts
+    view:
+      fields: [ title, draft, date ]
     fields:
-      - name: title
-        label: 文章标题
-        type: string
-        required: true
-        description: 文章的完整标题
-
-      - name: slug
-        label: URL标识
-        type: string
-        required: true
-        pattern: ['^[a-z0-9-]+$', '只能包含小写字母、数字和连字符']
-        description: 用于生成文章URL，例如: free-up-disk-space
-
-      - name: date
-        label: 发布日期
-        type: date
-        required: true
-        description: 文章发布的日期
-
-      - name: categories
-        label: 分类
-        type: list
-        required: true
-        description: 文章所属的分类
-        fields:
-          - name: category
-            label: 分类名称
-            type: string
-            options:
-              - optimize-improve
-              - tutorial
-              - news
-
-      - name: author
-        label: 作者
-        type: string
-        required: true
-        description: 文章作者的用户名
-
-      - name: body
-        label: 正文内容
-        type: rich-text
-        required: true
-        description: 文章的主要内容
+      - { name: author, label: Author, type: string }
+      - { name: pubDatetime, label: Date, type: date }
+      - { name: modDatetime, label: Date, type: date }
+      - { name: title, label: Title, type: string, required: true }
+      - { name: ogImage, label: Title, type: string }
+      - { name: slug, label: Slug, type: string }
+      - { name: featured, label: Featured, type: boolean }
+      - { name: draft, label: Draft, type: boolean }
+      - { name: tags, label: Tags, type: string, list: true }
+      - { name: description, label: Description, type: string }
+      - { name: body, label: Body, type: rich-text }
+  - name: about
+    label: About page
+    type: file
+    path: src/pages/about.md
+    fields:
+      - { name: layout, type: string, hidden: true, default: "../layouts/AboutLayout.astro" }
+      - { name: title, label: Title, type: string }
+      - { name: body, label: Body, type: rich-text, options: { input: public/assets, output: /assets } }
