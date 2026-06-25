@@ -1,5 +1,13 @@
 media:
   input: public/img
-  output: /img
-    
- 
+  output: /img    
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    path: src/content/posts
+    view:
+      fields: [ title, date, categories ]
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+          
