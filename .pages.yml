@@ -1,17 +1,12 @@
 media:
-  input: public/img          # 不需处理的媒体文件存放路径
-  output: /img               # 访问URL前缀
-
-# 配置需要处理的图片（如压缩、优化）
-media:
-  - input: src/assets/images
-    output: /assets/images
+  input: media
+  output: /media
 
 content:
-  - name: posts
-    label: 博客文章
-    type: collection
-    path: src/content/posts
+- name: posts
+  label: 博客文章
+  type: collection
+  path: src/content/posts
     fields:
       - name: title
         label: 文章标题
@@ -24,7 +19,7 @@ content:
         type: string
         required: true
         pattern: ['^[a-z0-9-]+$', '只能包含小写字母、数字和连字符']
-        description: 用于生成文章URL，例如：free-up-disk-space
+        description: 用于生成文章URL，例如: free-up-disk-space
 
       - name: date
         label: 发布日期
@@ -41,17 +36,16 @@ content:
           - name: category
             label: 分类名称
             type: string
-            # 可以添加预设选项，根据你的实际分类调整
             options:
-               - optimize-improve
-               - tutorial
-               - news
+              - optimize-improve
+              - tutorial
+              - news
 
       - name: author
         label: 作者
         type: string
         required: true
-        description: 文章作者的用户名或显示名称
+        description: 文章作者的用户名
 
       - name: body
         label: 正文内容
