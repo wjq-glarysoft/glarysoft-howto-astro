@@ -1,6 +1,4 @@
-media:
-  input: public/img
-  output: /img
+
 
 content:
   - name: posts
