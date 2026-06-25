@@ -3,14 +3,14 @@ media:
   output: /assets/images
 
 content:
-  - name: posts
-    type: collection
-    path: content/posts
-    fields:
-      - name: title
-        type: string
-      - name: body
-        type: rich-text
+  -name: posts
+   type: collection
+   path: content/posts
+   fields:
+     -name: title
+      type: string
+     -name: body
+      type: rich-text
 
 
 media:
