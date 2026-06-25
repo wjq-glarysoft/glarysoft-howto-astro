@@ -16,9 +16,8 @@ content:
       - { name: author, label: Author, type: string }
       - { name: body, label: Body, type: rich-text, options:
           input: src/assets/images
-          output: /assets/images }    
-      
-      
+          output: /assets/images }
+          
   - name: about
     label: About page
     type: file
