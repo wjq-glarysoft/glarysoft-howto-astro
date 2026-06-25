@@ -16,6 +16,7 @@ content:
       - { name: author, label: Author, type: string }
       - { name: body, label: Body, type: rich-text }
       
+      
       - { name: modDatetime, label: Date, type: date }
       
       - { name: ogImage, label: Title, type: string }
