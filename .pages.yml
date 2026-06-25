@@ -51,26 +51,7 @@ content:
         label: 正文内容
         type: rich-text
         description: 文章的Markdown正文
-
-  # 可选：如果你需要管理作者信息
-  - name: authors
-    label: 作者信息
-    type: collection
-    path: src/content/authors
-    fields:
-      - name: name
-        label: 作者名称
-        type: string
-        required: true
-      - name: avatar
-        label: 头像
-        type: image
-        description: 作者头像图片
-      - name: bio
-        label: 简介
-        type: text
-        description: 作者的个人简介
-
+        
 settings:
   defaultBranch: main
   commitMessage: 'chore: update content via Pages CMS [skip ci]'
