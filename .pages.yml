@@ -15,6 +15,7 @@ content:
       - { name: categories, label: Categories, type: string, list: true }      
       - { name: author, label: Author, type: string }
       
+      
       - { name: modDatetime, label: Date, type: date }
       
       - { name: ogImage, label: Title, type: string }
