@@ -1,6 +1,11 @@
 media:
-  input: public/img
-  output: /img
+  input: public/img          # 不需处理的媒体文件存放路径
+  output: /img               # 访问URL前缀
+
+# 配置需要处理的图片（如压缩、优化）
+media:
+  - input: src/assets/images
+    output: /assets/images
 
 content:
   - name: posts
@@ -12,33 +17,44 @@ content:
         label: 文章标题
         type: string
         required: true
-      
+        description: 文章的完整标题
+
       - name: slug
         label: URL标识
         type: string
         required: true
         pattern: ['^[a-z0-9-]+$', '只能包含小写字母、数字和连字符']
-      
+        description: 用于生成文章URL，例如：free-up-disk-space
+
       - name: date
         label: 发布日期
         type: date
         required: true
-      
+        description: 文章发布的日期
+
       - name: categories
         label: 分类
         type: list
-        field: 
-          type: string
-      
+        required: true
+        description: 文章所属的分类
+        fields:
+          - name: category
+            label: 分类名称
+            type: string
+            # 可以添加预设选项，根据你的实际分类调整
+            options:
+               - optimize-improve
+               - tutorial
+               - news
+
       - name: author
         label: 作者
         type: string
         required: true
-      
+        description: 文章作者的用户名或显示名称
+
       - name: body
         label: 正文内容
         type: rich-text
-
-settings:
-  defaultBranch: main
-  commitMessage: 'chore: update content via Pages CMS [skip ci]'
+        required: true
+        description: 文章的主要内容
