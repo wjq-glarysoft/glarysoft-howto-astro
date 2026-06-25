@@ -1,30 +1,76 @@
 media:
-  input: public
-  output: /
+  input: public/img
+  output: /img
+
 content:
   - name: posts
-    label: Posts
+    label: 博客文章
     type: collection
-    path: src/content/blog
-    view:
-      fields: [ title, draft, date ]
+    path: src/content/posts
     fields:
-      - { name: author, label: Author, type: string }
-      - { name: pubDatetime, label: Date, type: date }
-      - { name: modDatetime, label: Date, type: date }
-      - { name: title, label: Title, type: string, required: true }
-      - { name: ogImage, label: Title, type: string }
-      - { name: slug, label: Slug, type: string }
-      - { name: featured, label: Featured, type: boolean }
-      - { name: draft, label: Draft, type: boolean }
-      - { name: tags, label: Tags, type: string, list: true }
-      - { name: description, label: Description, type: string }
-      - { name: body, label: Body, type: rich-text }
-  - name: about
-    label: About page
-    type: file
-    path: src/pages/about.md
+      - name: title
+        label: 文章标题
+        type: string
+        required: true
+        description: 文章的显示标题
+      
+      - name: slug
+        label: URL标识
+        type: string
+        required: true
+        pattern: ['^[a-z0-9-]+$', '只能包含小写字母、数字和连字符']
+        description: 用于生成URL的标识符，例如 "free-up-disk-space"
+      
+      - name: date
+        label: 发布日期
+        type: date
+        required: true
+        description: 文章发布的时间
+      
+      - name: categories
+        label: 分类
+        type: list
+        fields:
+          - name: category
+            label: 分类名称
+            type: select
+            options:
+              - optimize-improve
+              - files-folders
+              - system-tools
+              - clean-up-repair
+              - privacy-security
+      
+      - name: author
+        label: 作者
+        type: string
+        required: true
+        description: 文章作者的用户名或显示名称
+      
+      - name: body
+        label: 正文内容
+        type: rich-text
+        description: 文章的Markdown正文
+
+  # 可选：如果你需要管理作者信息
+  - name: authors
+    label: 作者信息
+    type: collection
+    path: src/content/authors
     fields:
-      - { name: layout, type: string, hidden: true, default: "../layouts/AboutLayout.astro" }
-      - { name: title, label: Title, type: string }
-      - { name: body, label: Body, type: rich-text, options: { input: public/assets, output: /assets } }
+      - name: name
+        label: 作者名称
+        type: string
+        required: true
+      - name: avatar
+        label: 头像
+        type: image
+        description: 作者头像图片
+      - name: bio
+        label: 简介
+        type: text
+        description: 作者的个人简介
+
+settings:
+  defaultBranch: main
+  commitMessage: 'chore: update content via Pages CMS [skip ci]'
