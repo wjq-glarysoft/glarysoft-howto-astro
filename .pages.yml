@@ -1,17 +1,23 @@
 media:
-  input: src/assets/images
-  output: /assets/images
+  input: public/img
+  output: /img
 content:
   - name: posts
     label: Posts
     type: collection
-    path: src/content/posts
+    path: src/content/blog
     view:
-      fields: [title, date, categories]
+      fields: [ title, categories, date ]
     fields:
-      - { name: title, label: Title, type: string, required: true }
-      - { name: date, label: Date, type: date }
-      - { name: slug, label: Slug, type: string }
-      - { name: categories, label: Categories, type: string, list: true }
       - { name: author, label: Author, type: string }
+      - { name: pubDatetime, label: Date, type: date }
+      - { name: modDatetime, label: Date, type: date }
+      - { name: title, label: Title, type: string, required: true }
+      - { name: ogImage, label: Title, type: string }
+      - { name: slug, label: Slug, type: string }
+      - { name: featured, label: Featured, type: boolean }
+      - { name: draft, label: Draft, type: boolean }
+      - { name: tags, label: Tags, type: string, list: true }
+      - { name: description, label: Description, type: string }
       - { name: body, label: Body, type: rich-text }
+  
