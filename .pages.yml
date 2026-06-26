@@ -6,6 +6,7 @@ content:
     label: Posts
     type: collection
     path: src/content/posts
+    filename: "{{year}}-{{month}}-{{day}}-{{slug}}"
     view:
       fields: [title, date, categories]
     fields:
