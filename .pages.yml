@@ -14,4 +14,4 @@ content:
       - { name: slug, label: Slug, type: string }
       - { name: categories, label: Categories, type: string, list: true }
       - { name: author, label: Author, type: string }
-      - { name: body, label: Body, type: text }
+      - { name: body, label: Body, type: markdown }
