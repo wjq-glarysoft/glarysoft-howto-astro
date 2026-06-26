@@ -1,23 +1,42 @@
 media:
-  input: public/img
-  output: /img
+  - name: uploads
+    input: public/img
+    output: /img
+    categories: [image]
+
 content:
   - name: posts
     label: Posts
     type: collection
     path: src/content/blog
+    
+    # 分页配置
+    pagination:
+      pageSize: 20
+    
+    # 过滤草稿
+    filter:
+      field: draft
+      value: false
+    
+    # 视图配置
     view:
-      fields: [ title, categories, date ]
+      layout: table
+      primary: title
+      fields: [title, pubDatetime, tags, draft]
+      sort:
+        - field: pubDatetime
+          direction: desc
+    
     fields:
       - { name: author, label: Author, type: string }
-      - { name: pubDatetime, label: Date, type: date }
-      - { name: modDatetime, label: Date, type: date }
+      - { name: pubDatetime, label: Publish Date, type: date, required: true, options: { time: true, format: "YYYY-MM-DD HH:mm" } }
+      - { name: modDatetime, label: Modified Date, type: date, options: { time: true, format: "YYYY-MM-DD HH:mm" } }
       - { name: title, label: Title, type: string, required: true }
-      - { name: ogImage, label: Title, type: string }
-      - { name: slug, label: Slug, type: string }
+      - { name: ogImage, label: OG Image, type: image, options: { media: uploads } }
+      - { name: slug, label: Slug, type: string, description: "URL-friendly name (e.g., my-awesome-post)" }
       - { name: featured, label: Featured, type: boolean }
-      - { name: draft, label: Draft, type: boolean }
+      - { name: draft, label: Draft, type: boolean, description: "Enable to hide from production" }
       - { name: tags, label: Tags, type: string, list: true }
-      - { name: description, label: Description, type: string }
-      - { name: body, label: Body, type: rich-text }
-  
+      - { name: description, label: Description, type: string, widget: textarea }
+      - { name: body, label: Body, type: rich-text, options: { buttons: [bold, italic, link, heading, code] } }
