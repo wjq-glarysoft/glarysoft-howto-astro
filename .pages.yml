@@ -6,8 +6,6 @@ content:
     label: Posts
     type: collection
     path: src/content/blog
-    include:
-      - '2026-*.md'
     view:
       fields: [ title, categories, date ]
     fields:
