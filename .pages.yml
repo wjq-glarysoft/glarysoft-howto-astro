@@ -20,4 +20,3 @@ content:
       - { name: tags, label: Tags, type: string, list: true }
       - { name: description, label: Description, type: string }
       - { name: body, label: Body, type: rich-text }
-  
