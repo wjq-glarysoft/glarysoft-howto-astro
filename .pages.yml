@@ -1,18 +1,16 @@
 media:
-  input: src/assets/images
-  output: /assets/images
+  input: public/img
+  output: /img
+
 content:
   - name: posts
     label: Posts
     type: collection
     path: src/content/posts
-    filename: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    view:
-      fields: [title, date, categories]
     fields:
-      - { name: title, label: Title, type: string, required: true }
-      - { name: date, label: Date, type: date }
-      - { name: slug, label: Slug, type: string }
-      - { name: categories, label: Categories, type: string, list: true }
-      - { name: author, label: Author, type: string }
-      - { name: body, label: Body, type: rich-text }
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
